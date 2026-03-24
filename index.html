@@ -1,0 +1,2098 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Library Mind Map</title>
+    <style>
+        /* ============================================================
+           CSS RESET & GLOBAL STYLES
+           ============================================================ */
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg-primary: #0a0e17;
+            --bg-secondary: #111827;
+            --bg-card: #1a2236;
+            --bg-hover: #243049;
+            --text-primary: #e5e7eb;
+            --text-secondary: #9ca3af;
+            --text-muted: #6b7280;
+            --accent: #3b82f6;
+            --accent-glow: rgba(59, 130, 246, 0.3);
+            --border: #1f2937;
+            --border-light: #374151;
+            --radius: 12px;
+            --shadow: 0 4px 24px rgba(0,0,0,0.4);
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            overflow: hidden;
+            height: 100vh;
+        }
+
+        /* ============================================================
+           LAYOUT
+           ============================================================ */
+        .app {
+            display: grid;
+            grid-template-rows: 60px 1fr;
+            grid-template-columns: 280px 1fr 340px;
+            height: 100vh;
+            gap: 0;
+        }
+
+        /* Header */
+        .header {
+            grid-column: 1 / -1;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            z-index: 100;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+            background: linear-gradient(135deg, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -0.3px;
+        }
+
+        .header-stats {
+            display: flex;
+            gap: 20px;
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        .header-stats span {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .header-stats .num {
+            font-weight: 700;
+            color: var(--accent);
+        }
+
+        /* Search bar */
+        .search-container {
+            position: relative;
+            width: 320px;
+        }
+
+        .search-container input {
+            width: 100%;
+            padding: 8px 16px 8px 36px;
+            border: 1px solid var(--border-light);
+            border-radius: 20px;
+            background: var(--bg-card);
+            color: var(--text-primary);
+            font-size: 13px;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .search-container input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-glow);
+        }
+
+        .search-container::before {
+            content: "🔍";
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 14px;
+        }
+
+        /* View mode buttons */
+        .view-modes {
+            display: flex;
+            gap: 4px;
+            background: var(--bg-card);
+            padding: 3px;
+            border-radius: 8px;
+        }
+
+        .view-btn {
+            padding: 6px 14px;
+            border: none;
+            border-radius: 6px;
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .view-btn:hover {
+            color: var(--text-primary);
+            background: var(--bg-hover);
+        }
+
+        .view-btn.active {
+            background: var(--accent);
+            color: white;
+        }
+
+        /* ============================================================
+           SIDEBAR (LEFT)
+           ============================================================ */
+        .sidebar {
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            overflow-y: auto;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar h3 {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
+
+        .category-filter {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            margin-bottom: 24px;
+        }
+
+        .category-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 8px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s;
+            font-size: 12px;
+        }
+
+        .category-item:hover {
+            background: var(--bg-hover);
+        }
+
+        .category-item.active {
+            background: var(--bg-card);
+        }
+
+        .cat-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
+        .cat-label {
+            flex: 1;
+            color: var(--text-primary);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .cat-count {
+            font-size: 11px;
+            color: var(--text-muted);
+            font-weight: 600;
+            min-width: 24px;
+            text-align: right;
+        }
+
+        .category-item.dimmed .cat-label { color: var(--text-muted); }
+        .category-item.dimmed .cat-dot { opacity: 0.3; }
+
+        /* Year range slider */
+        .year-filter {
+            margin-bottom: 24px;
+        }
+
+        .year-range {
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        .range-slider {
+            position: relative;
+            height: 24px;
+            width: 100%;
+        }
+
+        .range-slider input[type="range"] {
+            position: absolute;
+            width: 100%;
+            -webkit-appearance: none;
+            height: 4px;
+            background: transparent;
+            border-radius: 2px;
+            outline: none;
+            pointer-events: none;
+            top: 10px;
+        }
+
+        .range-slider input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+            pointer-events: all;
+            position: relative;
+            z-index: 2;
+        }
+
+        .range-track {
+            position: absolute;
+            top: 10px;
+            height: 4px;
+            width: 100%;
+            background: var(--border-light);
+            border-radius: 2px;
+        }
+
+        .range-highlight {
+            position: absolute;
+            top: 10px;
+            height: 4px;
+            background: var(--accent);
+            border-radius: 2px;
+        }
+
+        /* ============================================================
+           MAIN VISUALIZATION AREA
+           ============================================================ */
+        .main-view {
+            position: relative;
+            overflow: auto;
+            background: var(--bg-primary);
+        }
+
+        .main-view svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Tree view */
+        .tree-container {
+            width: 100%;
+            min-height: 100%;
+            overflow: visible;
+        }
+
+        .tree-node circle {
+            cursor: pointer;
+            stroke-width: 2;
+            transition: all 0.2s;
+        }
+
+        .tree-node circle:hover {
+            stroke-width: 3;
+            filter: brightness(1.3);
+        }
+
+        .tree-node text {
+            font-size: 11px;
+            fill: var(--text-secondary);
+            cursor: pointer;
+        }
+
+        .tree-node text:hover {
+            fill: var(--text-primary);
+        }
+
+        .tree-link {
+            fill: none;
+            stroke: var(--border-light);
+            stroke-width: 1;
+            opacity: 0.6;
+        }
+
+        /* Network graph */
+        .node-circle {
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .node-circle:hover {
+            filter: brightness(1.4);
+        }
+
+        .link-line {
+            stroke: var(--border);
+            stroke-opacity: 0.3;
+        }
+
+        .node-label {
+            font-size: 9px;
+            fill: var(--text-muted);
+            pointer-events: none;
+            text-anchor: middle;
+        }
+
+        /* Timeline */
+        .timeline-bar {
+            cursor: pointer;
+            transition: opacity 0.15s;
+        }
+
+        .timeline-bar:hover {
+            opacity: 0.8;
+        }
+
+        .timeline-axis text {
+            fill: var(--text-muted);
+            font-size: 11px;
+        }
+
+        .timeline-axis line, .timeline-axis path {
+            stroke: var(--border-light);
+        }
+
+        /* ============================================================
+           DETAIL PANEL (RIGHT)
+           ============================================================ */
+        .detail-panel {
+            background: var(--bg-secondary);
+            border-left: 1px solid var(--border);
+            overflow-y: auto;
+            padding: 20px;
+        }
+
+        .detail-panel.empty {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .detail-empty {
+            text-align: center;
+            color: var(--text-muted);
+        }
+
+        .detail-empty .icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+            opacity: 0.3;
+        }
+
+        .detail-empty p {
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        /* Paper detail card */
+        .paper-detail h2 {
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 12px;
+            color: var(--text-primary);
+        }
+
+        .paper-meta {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+
+        .meta-row {
+            display: flex;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .meta-label {
+            color: var(--text-muted);
+            min-width: 70px;
+            font-weight: 500;
+        }
+
+        .meta-value {
+            color: var(--text-secondary);
+        }
+
+        .category-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            color: white;
+        }
+
+        .annotation-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 600;
+            background: rgba(34, 197, 94, 0.2);
+            color: #22c55e;
+            border: 1px solid rgba(34, 197, 94, 0.3);
+        }
+
+        /* Related papers list */
+        .related-section {
+            margin-top: 20px;
+        }
+
+        .related-section h3 {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-muted);
+            margin-bottom: 10px;
+        }
+
+        .related-item {
+            padding: 8px 10px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            color: var(--text-secondary);
+            transition: all 0.15s;
+            border-left: 3px solid transparent;
+            margin-bottom: 4px;
+        }
+
+        .related-item:hover {
+            background: var(--bg-hover);
+            color: var(--text-primary);
+        }
+
+        .related-year {
+            color: var(--text-muted);
+            font-size: 11px;
+        }
+
+        /* Category detail */
+        .category-detail h2 {
+            font-size: 18px;
+            margin-bottom: 8px;
+        }
+
+        .category-detail .description {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: 16px;
+        }
+
+        .category-detail .paper-count {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--accent);
+        }
+
+        /* ============================================================
+           SEARCH RESULTS OVERLAY
+           ============================================================ */
+        .search-results {
+            position: absolute;
+            top: 60px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 500px;
+            max-height: 400px;
+            overflow-y: auto;
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            z-index: 200;
+            display: none;
+        }
+
+        .search-results.visible {
+            display: block;
+        }
+
+        .search-result-item {
+            padding: 10px 16px;
+            cursor: pointer;
+            border-bottom: 1px solid var(--border);
+            transition: background 0.15s;
+        }
+
+        .search-result-item:hover {
+            background: var(--bg-hover);
+        }
+
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+
+        .search-result-title {
+            font-size: 13px;
+            color: var(--text-primary);
+            margin-bottom: 2px;
+        }
+
+        .search-result-meta {
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        mark {
+            background: rgba(59, 130, 246, 0.3);
+            color: var(--text-primary);
+            padding: 0 2px;
+            border-radius: 2px;
+        }
+
+        /* ============================================================
+           TOOLTIP
+           ============================================================ */
+        .tooltip {
+            position: absolute;
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 8px;
+            padding: 10px 14px;
+            font-size: 12px;
+            color: var(--text-primary);
+            box-shadow: var(--shadow);
+            pointer-events: none;
+            z-index: 300;
+            max-width: 300px;
+            display: none;
+        }
+
+        .tooltip.visible {
+            display: block;
+        }
+
+        .tooltip .tt-title {
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .tooltip .tt-meta {
+            color: var(--text-muted);
+            font-size: 11px;
+        }
+
+        /* ============================================================
+           LOADING & ANIMATION
+           ============================================================ */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .fade-in {
+            animation: fadeIn 0.3s ease-out;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-light);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+        /* Tag filter */
+        .tag-filter {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            margin-bottom: 20px;
+            max-height: 180px;
+            overflow-y: auto;
+        }
+
+        .tag-pill {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 10px;
+            cursor: pointer;
+            background: var(--bg-card);
+            color: var(--text-muted);
+            border: 1px solid var(--border);
+            transition: all 0.15s;
+        }
+
+        .tag-pill:hover {
+            border-color: var(--accent);
+            color: var(--text-secondary);
+        }
+
+        .tag-pill.active {
+            background: var(--accent);
+            color: white;
+            border-color: var(--accent);
+        }
+
+        .tag-count {
+            font-size: 9px;
+            opacity: 0.6;
+            margin-left: 2px;
+        }
+
+        /* Drop zone */
+        .drop-overlay {
+            display: none;
+            position: absolute;
+            inset: 0;
+            background: rgba(59, 130, 246, 0.08);
+            border: 2px dashed var(--accent);
+            border-radius: var(--radius);
+            z-index: 100;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            gap: 8px;
+            pointer-events: none;
+        }
+
+        .drop-overlay.visible {
+            display: flex;
+        }
+
+        .drop-overlay .drop-icon {
+            font-size: 36px;
+            opacity: 0.5;
+        }
+
+        .drop-overlay .drop-text {
+            font-size: 14px;
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .drop-overlay .drop-sub {
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        /* Add paper toast notification */
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: var(--bg-card);
+            border: 1px solid var(--accent);
+            border-radius: 8px;
+            padding: 12px 18px;
+            font-size: 12px;
+            color: var(--text-primary);
+            box-shadow: var(--shadow);
+            z-index: 400;
+            animation: slideUp 0.3s ease-out;
+        }
+
+        .toast .toast-title {
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .toast .toast-meta {
+            color: var(--text-muted);
+            font-size: 11px;
+        }
+
+        .toast .toast-enriching {
+            color: var(--accent);
+            font-size: 10px;
+            margin-top: 4px;
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .app {
+                grid-template-columns: 240px 1fr 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <div class="header">
+            <h1>Research Library Mind Map</h1>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search papers, authors, years...">
+            </div>
+            <div class="header-stats" id="headerStats"></div>
+            <div class="view-modes">
+                <button class="view-btn active" data-view="tree">Tree</button>
+                <button class="view-btn" data-view="network">Network</button>
+                <button class="view-btn" data-view="authors">Authors</button>
+                <button class="view-btn" data-view="timeline">Timeline</button>
+            </div>
+        </div>
+
+        <!-- Left Sidebar -->
+        <div class="sidebar">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;">
+                <h3 style="margin:0">Categories</h3>
+                <span id="catToggle" onclick="toggleAllCategories()" style="font-size:9px;color:var(--text-muted);cursor:pointer;letter-spacing:0.3px;opacity:0.7;">clear all</span>
+            </div>
+            <div class="category-filter" id="categoryFilter"></div>
+
+            <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+                <h3 style="margin:0">Tags</h3>
+                <input type="text" id="tagSearch" placeholder="Search..." style="flex:1;padding:3px 8px;border:1px solid var(--border-light);border-radius:6px;background:var(--bg-card);color:var(--text-primary);font-size:10px;outline:none;">
+            </div>
+            <div class="tag-filter" id="tagFilter"></div>
+
+            <h3>Year Range</h3>
+            <div class="year-filter">
+                <div class="range-slider">
+                    <div class="range-track"></div>
+                    <div class="range-highlight" id="rangeHighlight"></div>
+                    <input type="range" id="yearMin">
+                    <input type="range" id="yearMax">
+                </div>
+                <div class="year-range">
+                    <span id="yearMinLabel"></span>
+                    <span id="yearMaxLabel"></span>
+                </div>
+            </div>
+
+            <div style="margin-top:auto;padding-top:20px;border-top:1px solid var(--border);font-size:11px;color:#6b7280;letter-spacing:0.3px;">
+                Developed by <a href="https://www.linkedin.com/in/vasileios-bellos/" target="_blank" style="color:#9ca3af;font-weight:500;letter-spacing:0.5px;text-decoration:none;border-bottom:1px dotted #4b5563;">Vasileios Bellos</a>
+            </div>
+        </div>
+
+        <!-- Main View -->
+        <div class="main-view" id="mainView" style="position:relative;">
+            <div class="drop-overlay" id="dropOverlay" style="display:none;">
+                <div class="drop-icon">+</div>
+                <div class="drop-text">Drop PDF to add to library</div>
+                <div class="drop-sub">Instantly classified, tagged, and added to the map</div>
+            </div>
+        </div>
+
+        <!-- Right Detail Panel -->
+        <div class="detail-panel empty" id="detailPanel">
+            <div class="detail-empty">
+                <div class="icon">📚</div>
+                <p>Select a paper or category<br>to view details</p>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Search Results Overlay -->
+    <div class="search-results" id="searchResults"></div>
+
+    <!-- Tooltip -->
+    <div class="tooltip" id="tooltip"></div>
+
+    <!-- D3.js (inline minimal version for force + tree) -->
+    <script src="d3.v7.min.js"></script>
+    <script src="data.js"></script>
+    <script>
+    // ============================================================
+    // APP STATE
+    // ============================================================
+    const state = {
+        currentView: 'tree',
+        selectedCategories: new Set(LIBRARY_DATA.categories.map(c => c.id)),
+        yearMin: LIBRARY_DATA.stats.yearRange[0],
+        yearMax: LIBRARY_DATA.stats.yearRange[1],
+        yearRange: [LIBRARY_DATA.stats.yearRange[0], LIBRARY_DATA.stats.yearRange[1]],
+        selectedTags: new Set(),
+        selectedPaper: null,
+        searchQuery: '',
+        simulation: null,
+    };
+
+    // ============================================================
+    // INITIALIZATION
+    // ============================================================
+    function updateRangeHighlight() {
+        const min = parseInt(document.getElementById('yearMin').value);
+        const max = parseInt(document.getElementById('yearMax').value);
+        const yr = LIBRARY_DATA.stats.yearRange;
+        const span = yr[1] - yr[0] || 1;
+        const pct0 = ((min - yr[0]) / span) * 100;
+        const pct1 = ((max - yr[0]) / span) * 100;
+        const hl = document.getElementById('rangeHighlight');
+        hl.style.left = pct0 + '%';
+        hl.style.width = (pct1 - pct0) + '%';
+    }
+
+    function init() {
+        // Set slider range from data
+        const yr = LIBRARY_DATA.stats.yearRange;
+        const minEl = document.getElementById('yearMin');
+        const maxEl = document.getElementById('yearMax');
+        minEl.min = yr[0]; minEl.max = yr[1]; minEl.value = yr[0];
+        maxEl.min = yr[0]; maxEl.max = yr[1]; maxEl.value = yr[1];
+        document.getElementById('yearMinLabel').textContent = yr[0];
+        document.getElementById('yearMaxLabel').textContent = yr[1];
+
+        renderStats();
+        renderCategoryFilter();
+        renderTagFilter();
+        setupDropZone();
+        setupEventListeners();
+        updateRangeHighlight();
+    }
+
+    function renderStats() {
+        const s = LIBRARY_DATA.stats;
+        document.getElementById('headerStats').innerHTML = `
+            <span><span class="num">${s.totalPapers}</span> papers</span>
+            <span><span class="num">${s.totalCategories}</span> topics</span>
+            <span><span class="num">${s.totalAuthors}</span> authors</span>
+            <span><span class="num">${s.totalTags || 0}</span> tags</span>
+        `;
+    }
+
+    function renderCategoryFilter() {
+        const container = document.getElementById('categoryFilter');
+        container.innerHTML = LIBRARY_DATA.categories.map(cat => `
+            <div class="category-item active" data-cat="${cat.id}" onclick="toggleCategory('${cat.id}')">
+                <div class="cat-dot" style="background:${cat.color}"></div>
+                <span class="cat-label">${cat.label}</span>
+                <span class="cat-count">${cat.count}</span>
+            </div>
+        `).join('');
+    }
+
+    function renderTagFilter(filter = '') {
+        const container = document.getElementById('tagFilter');
+        const tags = LIBRARY_DATA.tags || [];
+        const filtered = filter
+            ? tags.filter(t => t.name.includes(filter.toLowerCase()))
+            : tags.slice(0, 40);
+        container.innerHTML = filtered.map(t => `
+            <span class="tag-pill${state.selectedTags.has(t.name) ? ' active' : ''}" data-tag="${t.name}" onclick="toggleTag('${t.name}')">${t.name}<span class="tag-count">${t.count}</span></span>
+        `).join('') || '<span style="font-size:11px;color:var(--text-muted)">No matching tags</span>';
+    }
+
+    function toggleTag(tag) {
+        const el = document.querySelector(`.tag-pill[data-tag="${tag}"]`);
+        if (state.selectedTags.has(tag)) {
+            state.selectedTags.delete(tag);
+            el.classList.remove('active');
+        } else {
+            state.selectedTags.add(tag);
+            el.classList.add('active');
+        }
+        renderView(state.currentView);
+    }
+
+    // ============================================================
+    // EVENT LISTENERS
+    // ============================================================
+    function setupEventListeners() {
+        // View mode buttons
+        document.querySelectorAll('.view-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                renderView(btn.dataset.view);
+            });
+        });
+
+        // Search
+        const searchInput = document.getElementById('searchInput');
+        let searchTimeout;
+        searchInput.addEventListener('input', (e) => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => handleSearch(e.target.value), 200);
+        });
+
+        searchInput.addEventListener('focus', () => {
+            if (searchInput.value.length >= 2) handleSearch(searchInput.value);
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-container') && !e.target.closest('.search-results')) {
+                document.getElementById('searchResults').classList.remove('visible');
+            }
+        });
+
+        // Tag search
+        document.getElementById('tagSearch').addEventListener('input', (e) => {
+            renderTagFilter(e.target.value);
+        });
+
+        // Year range — updateRangeHighlight is defined at top level below
+
+        document.getElementById('yearMin').addEventListener('input', (e) => {
+            const val = parseInt(e.target.value);
+            if (val > state.yearRange[1]) { e.target.value = state.yearRange[1]; return; }
+            state.yearRange[0] = val;
+            document.getElementById('yearMinLabel').textContent = val;
+            updateRangeHighlight();
+            renderView(state.currentView);
+        });
+
+        document.getElementById('yearMax').addEventListener('input', (e) => {
+            const val = parseInt(e.target.value);
+            if (val < state.yearRange[0]) { e.target.value = state.yearRange[0]; return; }
+            state.yearRange[1] = val;
+            document.getElementById('yearMaxLabel').textContent = val;
+            updateRangeHighlight();
+            renderView(state.currentView);
+        });
+    }
+
+    // ============================================================
+    // FILTERING
+    // ============================================================
+    function toggleCategory(catId) {
+        const el = document.querySelector(`.category-item[data-cat="${catId}"]`);
+        if (state.selectedCategories.has(catId)) {
+            state.selectedCategories.delete(catId);
+            el.classList.remove('active');
+            el.classList.add('dimmed');
+        } else {
+            state.selectedCategories.add(catId);
+            el.classList.add('active');
+            el.classList.remove('dimmed');
+        }
+        renderView(state.currentView);
+        const allIds = LIBRARY_DATA.categories.map(c => c.id);
+        document.getElementById('catToggle').textContent = state.selectedCategories.size === allIds.length ? 'clear all' : 'select all';
+    }
+
+    function toggleAllCategories() {
+        const allIds = LIBRARY_DATA.categories.map(c => c.id);
+        const allSelected = state.selectedCategories.size === allIds.length;
+
+        if (allSelected) {
+            state.selectedCategories.clear();
+            document.querySelectorAll('.category-item').forEach(el => {
+                el.classList.remove('active');
+                el.classList.add('dimmed');
+            });
+        } else {
+            allIds.forEach(id => state.selectedCategories.add(id));
+            document.querySelectorAll('.category-item').forEach(el => {
+                el.classList.add('active');
+                el.classList.remove('dimmed');
+            });
+        }
+        document.getElementById('catToggle').textContent = state.selectedCategories.size === allIds.length ? 'clear all' : 'select all';
+        renderView(state.currentView);
+    }
+
+    function getFilteredPapers() {
+        return LIBRARY_DATA.papers.filter(p => {
+            if (!state.selectedCategories.has(p.category)) return false;
+            if (p.year < state.yearRange[0] || p.year > state.yearRange[1]) return false;
+            // If tags are selected, paper must have ALL selected tags
+            if (state.selectedTags.size > 0) {
+                const paperTags = new Set(p.tags || []);
+                for (const tag of state.selectedTags) {
+                    if (!paperTags.has(tag)) return false;
+                }
+            }
+            return true;
+        });
+    }
+
+    // ============================================================
+    // SEARCH
+    // ============================================================
+    function handleSearch(query) {
+        state.searchQuery = query.toLowerCase().trim();
+        const resultsEl = document.getElementById('searchResults');
+
+        if (state.searchQuery.length < 2) {
+            resultsEl.classList.remove('visible');
+            return;
+        }
+
+        const matches = LIBRARY_DATA.papers.filter(p => {
+            const text = `${p.author} ${p.year} ${p.title} ${p.categoryShort}`.toLowerCase();
+            return text.includes(state.searchQuery);
+        }).slice(0, 20);
+
+        if (matches.length === 0) {
+            resultsEl.innerHTML = '<div class="search-result-item"><span class="search-result-meta">No results found</span></div>';
+        } else {
+            resultsEl.innerHTML = matches.map(p => {
+                const title = highlightMatch(p.title || p.filename, state.searchQuery);
+                const author = highlightMatch(p.author, state.searchQuery);
+                return `
+                    <div class="search-result-item" onclick="selectPaper(${p.id})">
+                        <div class="search-result-title">${title}</div>
+                        <div class="search-result-meta">${author} (${p.year}) · ${p.categoryShort}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        resultsEl.classList.add('visible');
+    }
+
+    function highlightMatch(text, query) {
+        if (!text || !query) return text || '';
+        const idx = text.toLowerCase().indexOf(query);
+        if (idx === -1) return text;
+        return text.slice(0, idx) + '<mark>' + text.slice(idx, idx + query.length) + '</mark>' + text.slice(idx + query.length);
+    }
+
+    // ============================================================
+    // PAPER SELECTION & DETAIL PANEL
+    // ============================================================
+    function selectPaper(paperId) {
+        const paper = LIBRARY_DATA.papers.find(p => p.id === paperId);
+        if (!paper) return;
+
+        state.selectedPaper = paper;
+        document.getElementById('searchResults').classList.remove('visible');
+
+        const panel = document.getElementById('detailPanel');
+        panel.classList.remove('empty');
+
+        // Find related papers (same category, same author, similar year)
+        const related = LIBRARY_DATA.papers
+            .filter(p => p.id !== paper.id && (
+                p.category === paper.category ||
+                (p.author && paper.author && p.author.split(/[,&]/)[0].trim() === paper.author.split(/[,&]/)[0].trim())
+            ))
+            .sort((a, b) => {
+                const sameCategory = (a.category === paper.category ? 1 : 0) - (b.category === paper.category ? 1 : 0);
+                if (sameCategory !== 0) return -sameCategory;
+                return Math.abs(a.year - paper.year) - Math.abs(b.year - paper.year);
+            })
+            .slice(0, 15);
+
+        const catMeta = LIBRARY_DATA.categories.find(c => c.id === paper.category) || {};
+
+        panel.innerHTML = `
+            <div class="paper-detail fade-in">
+                <h2>${paper.title || paper.filename}</h2>
+                <div class="paper-meta">
+                    <div class="meta-row">
+                        <span class="meta-label">Author(s)</span>
+                        <span class="meta-value">${paper.author || 'Unknown'}</span>
+                    </div>
+                    <div class="meta-row">
+                        <span class="meta-label">Year</span>
+                        <span class="meta-value">${paper.year || 'Unknown'}</span>
+                    </div>
+                    <div class="meta-row">
+                        <span class="meta-label">Category</span>
+                        <span class="meta-value">
+                            <span class="category-badge" style="background:${paper.color}">${paper.categoryShort}</span>
+                        </span>
+                    </div>
+                    ${paper.hasAnnotation ? `
+                    <div class="meta-row">
+                        <span class="meta-label">Status</span>
+                        <span class="meta-value"><span class="annotation-badge">Annotated</span></span>
+                    </div>` : ''}
+                    ${(paper.tags && paper.tags.length) ? `
+                    <div class="meta-row">
+                        <span class="meta-label">Tags</span>
+                        <span class="meta-value" style="display:flex;flex-wrap:wrap;gap:3px">${paper.tags.map(t => `<span class="tag-pill" onclick="toggleTag('${t}')" style="font-size:9px;padding:1px 6px">${t}</span>`).join('')}</span>
+                    </div>` : ''}
+                    ${paper.doi ? `
+                    <div class="meta-row">
+                        <span class="meta-label">DOI</span>
+                        <span class="meta-value"><a href="https://doi.org/${paper.doi}" target="_blank" style="color:var(--accent);font-size:11px;text-decoration:none;border-bottom:1px dotted var(--accent);">${paper.doi}</a></span>
+                    </div>` : ''}
+                    ${paper.journal ? `
+                    <div class="meta-row">
+                        <span class="meta-label">Journal</span>
+                        <span class="meta-value" style="font-size:11px;font-style:italic">${paper.journal}</span>
+                    </div>` : ''}
+                    <div class="meta-row">
+                        <span class="meta-label">File</span>
+                        <span class="meta-value" style="font-size:11px;word-break:break-all">${paper.filename}</span>
+                    </div>
+                </div>
+
+                <div class="related-section">
+                    <h3>Related Papers (${related.length})</h3>
+                    ${related.map(r => `
+                        <div class="related-item" style="border-left-color:${r.color}" onclick="selectPaper(${r.id})">
+                            ${r.author ? r.author.split(/[,&]/)[0].trim() : 'Unknown'}
+                            <span class="related-year">(${r.year})</span>
+                            <br><small style="color:var(--text-muted)">${(r.title || r.filename).slice(0, 80)}${(r.title || r.filename).length > 80 ? '...' : ''}</small>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    function selectCategory(catId) {
+        const cat = LIBRARY_DATA.categories.find(c => c.id === catId);
+        if (!cat) return;
+
+        const panel = document.getElementById('detailPanel');
+        panel.classList.remove('empty');
+
+        const catPapers = LIBRARY_DATA.papers
+            .filter(p => p.category === catId)
+            .sort((a, b) => b.year - a.year);
+
+        panel.innerHTML = `
+            <div class="category-detail fade-in">
+                <h2 style="color:${cat.color}">${cat.label}</h2>
+                <div class="paper-count">${cat.count} papers</div>
+                <p class="description">${cat.description}</p>
+
+                <div class="related-section">
+                    <h3>Papers in this category</h3>
+                    ${catPapers.map(p => `
+                        <div class="related-item" style="border-left-color:${p.color}" onclick="selectPaper(${p.id})">
+                            ${p.author ? p.author.split(/[,&]/)[0].trim() : 'Unknown'}
+                            <span class="related-year">(${p.year})</span>
+                            <br><small style="color:var(--text-muted)">${(p.title || p.filename).slice(0, 80)}${(p.title || p.filename).length > 80 ? '...' : ''}</small>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    // ============================================================
+    // VIEW RENDERERS
+    // ============================================================
+    function renderView(view) {
+        state.currentView = view;
+        const container = document.getElementById('mainView');
+        const overlay = document.getElementById('dropOverlay');
+        container.innerHTML = '';
+        if (overlay) container.appendChild(overlay);
+
+        if (state.simulation) {
+            state.simulation.stop();
+            state.simulation = null;
+        }
+
+        switch (view) {
+            case 'tree': renderTreeView(container); break;
+            case 'network': renderNetworkView(container); break;
+            case 'authors': renderAuthorView(container); break;
+            case 'timeline': renderTimelineView(container); break;
+        }
+    }
+
+    // ---- TREE VIEW ----
+    function renderTreeView(container) {
+        const filteredTree = JSON.parse(JSON.stringify(LIBRARY_DATA.tree));
+        filteredTree.children = filteredTree.children.filter(c => state.selectedCategories.has(c.id));
+
+        // Recursively filter by year and tags
+        function filterNode(node) {
+            if (!node.children) return node;
+            node.children = node.children.map(filterNode).filter(child => {
+                // If it has children, keep it if any children remain
+                if (child.children && child.children.length > 0) return true;
+                // If it's a leaf (paper), check year and tags
+                if (child.filename) {
+                    const yearOk = !child.year || (child.year >= state.yearRange[0] && child.year <= state.yearRange[1]);
+                    if (!yearOk) return false;
+                    if (state.selectedTags.size > 0) {
+                        const paperTags = new Set(child.tags || []);
+                        for (const tag of state.selectedTags) {
+                            if (!paperTags.has(tag)) return false;
+                        }
+                    }
+                    return true;
+                }
+                return child.children && child.children.length > 0;
+            });
+            return node;
+        }
+        filterNode(filteredTree);
+        filteredTree.children = filteredTree.children.filter(c => c.children && c.children.length > 0);
+
+        const visibleNodes = filteredTree.children.length + 1;
+        const width = container.clientWidth || 800;
+        const cH = container.clientHeight || 600;
+        const height = Math.max(cH, visibleNodes * 40 + 60);
+
+        const treeDiv = d3.select(container)
+            .append('div')
+            .attr('class', 'tree-container');
+
+        const svg = treeDiv.append('svg')
+            .attr('width', width)
+            .attr('height', height);
+
+        const g = svg.append('g').attr('transform', 'translate(150, 30)');
+
+        const treeLayout = d3.tree().size([height - 60, width - 400]);
+        const root = d3.hierarchy(filteredTree);
+
+        // Collapse initially to category level
+        root.children?.forEach(child => {
+            child._children = child.children;
+            child.children = null;
+        });
+
+        treeLayout(root);
+
+        function update(source) {
+            const treeData = treeLayout(root);
+            const nodes = treeData.descendants();
+            const links = treeData.links();
+
+            // Links
+            g.selectAll('.tree-link').remove();
+            g.selectAll('.tree-link')
+                .data(links)
+                .enter()
+                .append('path')
+                .attr('class', 'tree-link')
+                .attr('d', d3.linkHorizontal()
+                    .x(d => d.y)
+                    .y(d => d.x)
+                );
+
+            // Nodes
+            g.selectAll('.tree-node').remove();
+            const node = g.selectAll('.tree-node')
+                .data(nodes)
+                .enter()
+                .append('g')
+                .attr('class', 'tree-node')
+                .attr('transform', d => `translate(${d.y},${d.x})`);
+
+            node.append('circle')
+                .attr('r', d => d.depth === 0 ? 12 : (d._children || d.children) ? 7 : 4)
+                .attr('fill', d => d.data.color || (d.depth === 0 ? '#3b82f6' : '#6b7280'))
+                .attr('stroke', d => d.data.color || '#3b82f6')
+                .attr('stroke-opacity', 0.5)
+                .on('click', (event, d) => {
+                    // Any node with children can expand/collapse
+                    if (d._children || (d.children && d.children.length > 0 && d.depth >= 1)) {
+                        if (d.children) {
+                            d._children = d.children;
+                            d.children = null;
+                        } else {
+                            d.children = d._children;
+                            d._children = null;
+                        }
+                        const totalNodes2 = root.descendants().length;
+                        const newHeight = Math.max(container.clientHeight, totalNodes2 * 20 + 60);
+                        svg.attr('height', newHeight);
+                        treeDiv.style('height', newHeight + 'px');
+                        treeLayout.size([newHeight - 60, width - 400]);
+                        update(d);
+
+                        // Scroll so the clicked node is centered
+                        const nodeY = d.x + 30; // d.x is vertical position in tree layout
+                        const viewH = container.clientHeight;
+                        container.scrollTop = Math.max(0, nodeY - viewH / 2);
+                    }
+                    // Show details
+                    if (d.data.id && d.depth === 1) {
+                        selectCategory(d.data.id);
+                    } else if (d.data.filename) {
+                        const paper = LIBRARY_DATA.papers.find(p =>
+                            p.filename === d.data.filename || p.title === d.data.title
+                        );
+                        if (paper) selectPaper(paper.id);
+                    }
+                });
+
+            node.append('text')
+                .attr('x', d => d.children || d._children ? -14 : 10)
+                .attr('dy', '0.35em')
+                .attr('text-anchor', d => d.children || d._children ? 'end' : 'start')
+                .text(d => {
+                    const name = d.data.name;
+                    if (d.depth === 1) {
+                        const count = (d.children || d._children || []).length;
+                        return `${name} (${count})`;
+                    }
+                    return name.length > 60 ? name.slice(0, 57) + '...' : name;
+                })
+                .style('font-size', d => d.depth <= 1 ? '13px' : '10px')
+                .style('font-weight', d => d.depth <= 1 ? '600' : '400')
+                .style('fill', d => d.depth <= 1 ? '#e5e7eb' : '#9ca3af');
+        }
+
+        update(root);
+    }
+
+    // ---- NETWORK VIEW ----
+    function renderNetworkView(container) {
+        const papers = getFilteredPapers();
+        const width = container.clientWidth;
+        const height = container.clientHeight;
+
+        // Build category centers — biggest in the middle, rest in a circle
+        const catCenters = {};
+        const sortedCats = [...LIBRARY_DATA.categories]
+            .filter(c => state.selectedCategories.has(c.id))
+            .sort((a, b) => b.count - a.count);
+
+        const simSize = 800; // work in a fixed coordinate space
+        const cx = simSize / 2, cy = simSize / 2;
+
+        if (sortedCats.length > 0) {
+            catCenters[sortedCats[0].id] = { x: cx, y: cy };
+            const radius = simSize * 0.3;
+            for (let i = 1; i < sortedCats.length; i++) {
+                const angle = (2 * Math.PI * (i - 1)) / (sortedCats.length - 1);
+                catCenters[sortedCats[i].id] = {
+                    x: cx + Math.cos(angle) * radius,
+                    y: cy + Math.sin(angle) * radius
+                };
+            }
+        }
+
+        // Calculate viewBox from category centers so viewport is fixed
+        const allCxs = Object.values(catCenters).map(c => c.x);
+        const allCys = Object.values(catCenters).map(c => c.y);
+        const pad = 220;
+        const vbX = Math.min(...allCxs) - pad;
+        const vbY = Math.min(...allCys) - pad;
+        const vbW = (Math.max(...allCxs) - Math.min(...allCxs)) + pad * 2 || simSize;
+        const vbH = (Math.max(...allCys) - Math.min(...allCys)) + pad * 2 || simSize;
+
+        const svg = d3.select(container)
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height)
+            .attr('viewBox', `${vbX} ${vbY} ${vbW} ${vbH}`)
+            .attr('preserveAspectRatio', 'xMidYMid meet');
+
+        const g = svg.append('g');
+
+        // Zoom (manual only, no auto-zoom)
+        svg.call(d3.zoom()
+            .scaleExtent([0.2, 5])
+            .on('zoom', (event) => g.attr('transform', event.transform))
+        );
+
+        // Start nodes slightly outside their target — they rush inward
+        const nodes = papers.map(p => {
+            const tx = catCenters[p.category]?.x || cx;
+            const ty = catCenters[p.category]?.y || cy;
+            const dx = tx - cx, dy = ty - cy;
+            const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+            return {
+                ...p,
+                x: tx + (dx / dist) * 60 + (Math.random() - 0.5) * 20,
+                y: ty + (dy / dist) * 60 + (Math.random() - 0.5) * 20,
+            };
+        });
+
+        // Links: papers in same category share weak links
+        const links = [];
+        const catGroups = {};
+        nodes.forEach((n, i) => {
+            if (!catGroups[n.category]) catGroups[n.category] = [];
+            catGroups[n.category].push(i);
+        });
+
+        // Create sparse links within categories
+        Object.values(catGroups).forEach(group => {
+            for (let i = 0; i < group.length - 1; i++) {
+                links.push({ source: group[i], target: group[i + 1] });
+            }
+            // Add a few random cross-links
+            for (let i = 0; i < Math.min(group.length / 3, 5); i++) {
+                const a = group[Math.floor(Math.random() * group.length)];
+                const b = group[Math.floor(Math.random() * group.length)];
+                if (a !== b) links.push({ source: a, target: b });
+            }
+        });
+
+        const biggestCat = sortedCats.length > 0 ? sortedCats[0].id : null;
+        state.simulation = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links).distance(20).strength(0.08))
+            .force('charge', d3.forceManyBody().strength(-10))
+            .force('collision', d3.forceCollide(5))
+            .force('x', d3.forceX(d => catCenters[d.category]?.x || cx)
+                .strength(d => d.category === biggestCat ? 0.3 : 0.15))
+            .force('y', d3.forceY(d => catCenters[d.category]?.y || cy)
+                .strength(d => d.category === biggestCat ? 0.3 : 0.15))
+            .alphaDecay(0.015)
+            .velocityDecay(0.3);
+
+        // Auto-fit periodically during simulation
+        const link = g.selectAll('.link-line')
+            .data(links)
+            .enter()
+            .append('line')
+            .attr('class', 'link-line')
+            .attr('stroke-width', 0.5);
+
+        const node = g.selectAll('.node-circle')
+            .data(nodes)
+            .enter()
+            .append('circle')
+            .attr('class', 'node-circle')
+            .attr('r', d => d.hasAnnotation ? 5 : 3.5)
+            .attr('fill', d => d.color)
+            .attr('stroke', d => d.color)
+            .attr('stroke-width', 0.5)
+            .attr('stroke-opacity', 0.5)
+            .on('click', (event, d) => selectPaper(d.id))
+            .on('mouseenter', (event, d) => {
+                showTooltip(event, `${d.author} (${d.year})`, d.title || d.filename);
+            })
+            .on('mouseleave', () => hideTooltip())
+            .call(d3.drag()
+                .on('start', (event, d) => {
+                    if (!event.active) state.simulation.alphaTarget(0.3).restart();
+                    d.fx = d.x; d.fy = d.y;
+                })
+                .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
+                .on('end', (event, d) => {
+                    if (!event.active) state.simulation.alphaTarget(0);
+                    d.fx = null; d.fy = null;
+                })
+            );
+
+        // Category labels — dynamic, track cluster centroids
+        const catLabels = g.selectAll('.cat-label')
+            .data(LIBRARY_DATA.categories.filter(c => state.selectedCategories.has(c.id)))
+            .enter()
+            .append('text')
+            .attr('class', 'cat-label')
+            .attr('text-anchor', 'middle')
+            .attr('fill', d => d.color)
+            .attr('font-size', '13px')
+            .attr('font-weight', '700')
+            .attr('opacity', 0.9)
+            .attr('pointer-events', 'none')
+            .style('paint-order', 'stroke')
+            .attr('stroke', '#0a0e17')
+            .attr('stroke-width', 3)
+            .attr('stroke-linejoin', 'round')
+            .text(d => d.label);
+
+        state.simulation.on('tick', () => {
+            link
+                .attr('x1', d => d.source.x)
+                .attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x)
+                .attr('y2', d => d.target.y);
+            node
+                .attr('cx', d => d.x)
+                .attr('cy', d => d.y);
+
+            // Update label positions to cluster centroids
+            catLabels.each(function(cat) {
+                const catNodes = nodes.filter(n => n.category === cat.id);
+                if (catNodes.length === 0) return;
+                const cx = catNodes.reduce((s, n) => s + n.x, 0) / catNodes.length;
+                const cy = catNodes.reduce((s, n) => s + n.y, 0) / catNodes.length;
+                d3.select(this).attr('x', cx).attr('y', cy - 15);
+            });
+        });
+    }
+
+    // ---- AUTHOR VIEW ----
+    function renderAuthorView(container) {
+        // Build author data from filtered papers
+        const filteredPapers = getFilteredPapers();
+        const authorCounts = {};
+        const coauthorLinks = {};
+
+        // Use pre-computed full author data, just filter to active categories/tags
+        LIBRARY_DATA.authors.forEach(a => {
+            authorCounts[a.name] = a.count;
+        });
+
+        LIBRARY_DATA.authors.forEach(a => {
+            Object.entries(a.coauthors).forEach(([co, w]) => {
+                if (authorCounts[co]) {
+                    if (!coauthorLinks[a.name]) coauthorLinks[a.name] = {};
+                    coauthorLinks[a.name][co] = w;
+                }
+            });
+        });
+
+        const authors = Object.entries(authorCounts)
+            .filter(([_, count]) => count >= 3)
+            .map(([name, count]) => ({ name, count, coauthors: coauthorLinks[name] || {} }))
+            .sort((a, b) => b.count - a.count)
+            .slice(0, 100);
+        const width = container.clientWidth;
+        const height = container.clientHeight;
+
+        // Author search box
+        const searchBox = document.createElement('input');
+        searchBox.type = 'text';
+        searchBox.placeholder = 'Search authors...';
+        Object.assign(searchBox.style, {
+            position: 'absolute', top: '12px', left: '12px', zIndex: '10',
+            padding: '6px 12px', width: '200px', borderRadius: '8px',
+            border: '1px solid #374151', background: '#1a2236', color: '#e5e7eb',
+            fontSize: '12px', outline: 'none',
+        });
+        container.appendChild(searchBox);
+
+        const svg = d3.select(container)
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height);
+
+        const g = svg.append('g');
+
+        // Build nodes
+        const authorMap = {};
+        authors.forEach((a, i) => { authorMap[a.name] = i; });
+
+        const nodes = authors.map(a => ({
+            name: a.name,
+            count: a.count,
+            radius: Math.sqrt(a.count) * 6 + 4,
+        }));
+
+        // Build co-author links
+        const links = [];
+        authors.forEach((a, i) => {
+            Object.entries(a.coauthors).forEach(([coauthor, weight]) => {
+                const j = authorMap[coauthor];
+                if (j !== undefined && j > i) {
+                    links.push({ source: i, target: j, weight });
+                }
+            });
+        });
+
+        const sim = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links).distance(150).strength(0.02))
+            .force('charge', d3.forceManyBody().strength(-800).distanceMax(500))
+            .force('center', d3.forceCenter(width / 2, height / 2).strength(0.3))
+            .force('collision', d3.forceCollide(d => d.radius + 15));
+
+        const link = g.selectAll('.author-link')
+            .data(links)
+            .enter()
+            .append('line')
+            .attr('stroke', 'rgba(96, 165, 250, 0.5)')
+            .attr('stroke-width', d => Math.max(0.4, Math.sqrt(d.weight) * 0.5))
+            .attr('stroke-opacity', 1);
+
+        const node = g.selectAll('.author-node')
+            .data(nodes)
+            .enter()
+            .append('g')
+            .call(d3.drag()
+                .on('start', (event, d) => {
+                    if (!event.active) sim.alphaTarget(0.3).restart();
+                    d.fx = d.x; d.fy = d.y;
+                    hideTooltip();
+                })
+                .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; hideTooltip(); })
+                .on('end', (event, d) => {
+                    if (!event.active) sim.alphaTarget(0);
+                    d.fx = null; d.fy = null;
+                })
+            );
+
+        node.append('circle')
+            .attr('r', d => d.radius)
+            .attr('fill', '#3b82f6')
+            .attr('fill-opacity', 0.6)
+            .attr('stroke', '#60a5fa')
+            .attr('stroke-width', 1)
+            .style('cursor', 'pointer')
+            .on('mouseenter', (event, d) => {
+                showTooltip(event, d.name, `${d.count} papers`);
+            })
+            .on('mouseleave', () => hideTooltip())
+            .on('click', (event, d) => {
+                // Show author's papers in detail panel
+                const authorPapers = LIBRARY_DATA.papers.filter(p =>
+                    p.author && p.author.includes(d.name.split(' ')[0])
+                ).sort((a, b) => b.year - a.year);
+                const panel = document.getElementById('detailPanel');
+                panel.classList.remove('empty');
+                panel.innerHTML = `
+                    <div class="category-detail fade-in">
+                        <h2>${d.name}</h2>
+                        <div class="paper-count">${d.count} papers</div>
+                        <div class="related-section" style="margin-top:16px">
+                            <h3>Papers</h3>
+                            ${authorPapers.map(p => `
+                                <div class="related-item" style="border-left-color:${p.color}" onclick="selectPaper(${p.id})">
+                                    <span class="related-year">(${p.year || '?'})</span>
+                                    ${(p.title || p.filename).slice(0, 80)}${(p.title || p.filename).length > 80 ? '...' : ''}
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            });
+
+        node.append('text')
+            .attr('text-anchor', 'middle')
+            .attr('dy', '0.35em')
+            .attr('fill', '#e5e7eb')
+            .attr('font-size', d => Math.max(8, Math.min(12, d.count * 1.5)) + 'px')
+            .attr('pointer-events', 'none')
+            .text(d => d.name.length > 15 ? d.name.slice(0, 12) + '...' : d.name);
+
+        let userInteracted = false;
+        const zoomBehavior = d3.zoom().scaleExtent([0.1, 5])
+            .on('zoom', (event) => {
+                g.attr('transform', event.transform);
+                if (event.sourceEvent) userInteracted = true;
+            });
+        svg.call(zoomBehavior);
+
+        sim.on('tick', () => {
+            link
+                .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+            node.attr('transform', d => `translate(${d.x},${d.y})`);
+
+            // Auto-fit only until user zooms/drags
+            if (!userInteracted) {
+                const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
+                const minX = Math.min(...xs), maxX = Math.max(...xs);
+                const minY = Math.min(...ys), maxY = Math.max(...ys);
+                const maxR = Math.max(...nodes.map(n => n.radius)) + 10;
+                const bw = (maxX - minX) + maxR * 2 || 1;
+                const bh = (maxY - minY) + maxR * 2 || 1;
+                const scale = Math.min(width / bw, height / bh);
+                const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2;
+                svg.call(zoomBehavior.transform,
+                    d3.zoomIdentity.translate(width/2 - cx*scale, height/2 - cy*scale).scale(scale)
+                );
+            }
+        });
+
+        // Author search: highlight matching author + connections, dim the rest
+        searchBox.addEventListener('input', () => {
+            const q = searchBox.value.toLowerCase().trim();
+            if (!q) {
+                // Reset all
+                node.select('circle').attr('fill-opacity', 0.6).attr('stroke-opacity', 1);
+                node.select('text').attr('opacity', 1);
+                link.attr('stroke-opacity', 0.3);
+                return;
+            }
+
+            const matchIdx = new Set();
+            const connectedIdx = new Set();
+
+            nodes.forEach((n, i) => {
+                if (n.name.toLowerCase().includes(q)) matchIdx.add(i);
+            });
+
+            // Find connections of matched authors
+            links.forEach(l => {
+                const si = typeof l.source === 'object' ? l.source.index : l.source;
+                const ti = typeof l.target === 'object' ? l.target.index : l.target;
+                if (matchIdx.has(si)) connectedIdx.add(ti);
+                if (matchIdx.has(ti)) connectedIdx.add(si);
+            });
+
+            const visibleIdx = new Set([...matchIdx, ...connectedIdx]);
+
+            node.select('circle')
+                .attr('fill-opacity', (d, i) => visibleIdx.has(i) ? 0.8 : 0.08)
+                .attr('stroke-opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.08);
+            node.select('text')
+                .attr('opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.05);
+            link.attr('stroke-opacity', (d) => {
+                const si = typeof d.source === 'object' ? d.source.index : d.source;
+                const ti = typeof d.target === 'object' ? d.target.index : d.target;
+                return (matchIdx.has(si) || matchIdx.has(ti)) && visibleIdx.has(si) && visibleIdx.has(ti) ? 0.5 : 0.02;
+            });
+        });
+
+        searchBox.focus();
+        state.simulation = sim;
+    }
+
+    // ---- TIMELINE VIEW ----
+    function renderTimelineView(container) {
+        const papers = getFilteredPapers();
+        const width = container.clientWidth;
+        const height = container.clientHeight;
+
+        const margin = { top: 40, right: 30, bottom: 50, left: 60 };
+        const innerW = width - margin.left - margin.right;
+        const innerH = height - margin.top - margin.bottom;
+
+        const svg = d3.select(container)
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height);
+
+        const g = svg.append('g')
+            .attr('transform', `translate(${margin.left},${margin.top})`);
+
+        // Aggregate by year and category
+        const yearCatData = {};
+        const activeCats = new Set();
+        papers.forEach(p => {
+            if (p.year < 1950 || p.year > 2030) return;
+            if (!yearCatData[p.year]) yearCatData[p.year] = {};
+            if (!yearCatData[p.year][p.category]) yearCatData[p.year][p.category] = 0;
+            yearCatData[p.year][p.category]++;
+            activeCats.add(p.category);
+        });
+
+        const years = Object.keys(yearCatData).map(Number).sort((a, b) => a - b);
+        const categories = LIBRARY_DATA.categories
+            .filter(c => activeCats.has(c.id))
+            .map(c => c.id);
+
+        // Stack data
+        const stackData = years.map(y => {
+            const row = { year: y };
+            categories.forEach(c => { row[c] = yearCatData[y]?.[c] || 0; });
+            return row;
+        });
+
+        const stack = d3.stack().keys(categories);
+        const series = stack(stackData);
+
+        const x = d3.scaleBand()
+            .domain(years)
+            .range([0, innerW])
+            .padding(0.3);
+
+        const maxY = d3.max(series, s => d3.max(s, d => d[1])) || 10;
+        const y = d3.scaleLinear()
+            .domain([0, maxY])
+            .range([innerH, 0]);
+
+        const colorMap = {};
+        LIBRARY_DATA.categories.forEach(c => { colorMap[c.id] = c.color; });
+
+        // Bars
+        g.selectAll('.series')
+            .data(series)
+            .enter()
+            .append('g')
+            .attr('fill', d => colorMap[d.key] || '#666')
+            .selectAll('rect')
+            .data(d => d)
+            .enter()
+            .append('rect')
+            .attr('class', 'timeline-bar')
+            .attr('x', d => x(d.data.year))
+            .attr('y', d => y(d[1]))
+            .attr('height', d => y(d[0]) - y(d[1]))
+            .attr('width', x.bandwidth())
+            .attr('rx', 2)
+            .on('mouseenter', (event, d) => {
+                const year = d.data.year;
+                const total = categories.reduce((sum, c) => sum + (d.data[c] || 0), 0);
+                showTooltip(event, `Year: ${year}`, `${total} papers`);
+            })
+            .on('mouseleave', () => hideTooltip());
+
+        // Axes
+        const xAxis = g.append('g')
+            .attr('class', 'timeline-axis')
+            .attr('transform', `translate(0,${innerH})`)
+            .call(d3.axisBottom(x).tickValues(
+                years.filter((y, i) => i % Math.max(1, Math.floor(years.length / 20)) === 0)
+            ));
+
+        g.append('g')
+            .attr('class', 'timeline-axis')
+            .call(d3.axisLeft(y).ticks(5));
+
+        // Labels
+        svg.append('text')
+            .attr('x', width / 2)
+            .attr('y', height - 8)
+            .attr('text-anchor', 'middle')
+            .attr('fill', '#9ca3af')
+            .attr('font-size', '12px')
+            .text('Publication Year');
+
+        svg.append('text')
+            .attr('transform', 'rotate(-90)')
+            .attr('x', -height / 2)
+            .attr('y', 16)
+            .attr('text-anchor', 'middle')
+            .attr('fill', '#9ca3af')
+            .attr('font-size', '12px')
+            .text('Number of Papers');
+
+        // Title
+        svg.append('text')
+            .attr('x', width / 2)
+            .attr('y', 24)
+            .attr('text-anchor', 'middle')
+            .attr('fill', '#e5e7eb')
+            .attr('font-size', '16px')
+            .attr('font-weight', '600')
+            .text('Papers by Year and Category');
+
+    }
+
+    // ============================================================
+    // TOOLTIP
+    // ============================================================
+    function showTooltip(event, title, meta) {
+        const tooltip = document.getElementById('tooltip');
+        tooltip.innerHTML = `
+            <div class="tt-title">${title}</div>
+            <div class="tt-meta">${meta}</div>
+        `;
+        tooltip.style.left = (event.pageX + 12) + 'px';
+        tooltip.style.top = (event.pageY - 10) + 'px';
+        tooltip.classList.add('visible');
+    }
+
+    function hideTooltip() {
+        document.getElementById('tooltip').classList.remove('visible');
+    }
+
+    // ============================================================
+    // START
+    // ============================================================
+    // ============================================================
+    // PDF DROP HANDLER
+    // ============================================================
+
+    const CLASSIFY_RULES = [
+        { id: "01_Wave_Height_Distributions", short: "Height Distributions", color: "#2196F3",
+          patterns: [/wave height.{0,15}distribution/i, /rayleigh/i, /forristall/i, /battjes.{0,5}groenendijk/i, /exceedance/i] },
+        { id: "02_Wave_Crest_Statistics", short: "Crest Statistics", color: "#03A9F4",
+          patterns: [/crest height/i, /crest.{0,10}distribution/i, /wave crest/i, /maximum crest/i] },
+        { id: "03_Nonlinear_Wave_Theory", short: "Nonlinear Theory", color: "#9C27B0",
+          patterns: [/stokes.{0,5}(theory|wave|order)/i, /second.{0,5}order/i, /bound.{0,5}harmonic/i, /nonlinear.{0,10}wave.{0,10}theory/i] },
+        { id: "04_Wave_Breaking_and_Dissipation", short: "Breaking & Dissipation", color: "#F44336",
+          patterns: [/wave break/i, /breaking/i, /energy dissipation/i, /breaker/i] },
+        { id: "05_Wave_Propagation_and_Bathymetry", short: "Propagation & Bathymetry", color: "#4CAF50",
+          patterns: [/shoaling/i, /propagation/i, /bathymetry/i, /refraction/i, /sloping/i] },
+        { id: "06_Reflection_Analysis", short: "Reflection Analysis", color: "#FF9800",
+          patterns: [/incident.{0,10}reflected/i, /reflection/i, /wave.{0,5}separation/i] },
+        { id: "07_Wave_Spectra_and_Directionality", short: "Spectra & Direction", color: "#00BCD4",
+          patterns: [/jonswap/i, /spectrum/i, /spectra/i, /directional.{0,5}spread/i] },
+        { id: "08_Rogue_and_Extreme_Waves", short: "Rogue & Extreme", color: "#FF5722",
+          patterns: [/rogue wave/i, /freak wave/i, /extreme wave/i, /modulational/i, /benjamin.{0,5}feir/i] },
+        { id: "09_Laboratory_Wave_Generation", short: "Lab Generation", color: "#795548",
+          patterns: [/wavemaker/i, /wave.{0,5}maker/i, /wave.{0,5}generation/i, /spurious/i] },
+        { id: "10_Numerical_Modelling", short: "Numerical Modelling", color: "#607D8B",
+          patterns: [/boussinesq/i, /cfd/i, /numerical.{0,5}(simulation|model)/i, /openfoam/i, /sph\b/i] },
+        { id: "11_Wave_Structure_Interactions", short: "Structure Interactions", color: "#8BC34A",
+          patterns: [/wave.{0,10}(force|load)/i, /cylinder/i, /overtopping/i, /run.{0,3}up/i, /breakwater/i] },
+        { id: "12_Shallow_Water_and_Nearshore", short: "Shallow & Nearshore", color: "#009688",
+          patterns: [/shallow.{0,5}water/i, /nearshore/i, /surf.{0,5}zone/i, /kdv/i, /infragravity/i] },
+        { id: "13_Signal_Processing_and_Statistics", short: "Signal Processing", color: "#673AB7",
+          patterns: [/fourier/i, /wavelet/i, /bootstrap/i, /hilbert/i, /signal.{0,5}process/i] },
+    ];
+
+    const TAG_KEYWORDS = {
+        "nonlinear": /nonlinear|non-linear/i, "linear": /\blinear\b/i,
+        "experimental": /experiment|laboratory|flume|basin/i, "numerical": /numerical|simulation|cfd|computational/i,
+        "analytical": /analytical|theoretical|theory/i, "field-data": /field|measured|observation|buoy/i,
+        "statistical": /statistic|distribution|probability/i, "spectral-analysis": /spectr|fourier|wavelet/i,
+        "shallow-water": /shallow/i, "deep-water": /deep.{0,3}water/i, "intermediate-depth": /intermediate|finite.{0,3}depth/i,
+        "varying-depth": /bathymetry|slope|sloping|shoal/i, "coastal": /coastal|beach|shore/i,
+        "wave-breaking": /break/i, "rogue-waves": /rogue|freak/i, "wave-groups": /focus|group/i,
+        "wave-propagation": /propagat/i, "wave-reflection": /reflect/i, "wave-forces": /force|load|impact/i,
+        "wave-height-distribution": /wave height.{0,10}distribution/i, "crest-height": /crest height/i,
+        "extreme-events": /extreme/i, "modelling": /model/i, "ocean-waves": /wave|ocean/i,
+        "comparison": /comparison|validation|assessment/i, "irregular-waves": /irregular/i, "regular-waves": /regular/i,
+        "wave-spectrum": /jonswap|spectrum/i, "energy-dissipation": /dissipation|energy/i,
+    };
+
+    function parseDroppedFilename(filename) {
+        const name = filename.replace(/\.pdf$/i, '');
+        // Author (Year)_Title
+        let m = name.match(/^(.+?)\s*\((\d{4})\)\s*[_\-]\s*(.+)$/);
+        if (m) return { author: m[1].trim(), year: parseInt(m[2]), title: m[3].trim() };
+        // Author - Year - Title
+        m = name.match(/^(.+?)\s*-\s*(\d{4})\s*-\s*(.+)$/);
+        if (m) return { author: m[1].trim(), year: parseInt(m[2]), title: m[3].trim() };
+        // Fallback
+        const ym = name.match(/(\d{4})/);
+        return { author: '', year: ym ? parseInt(ym[1]) : 0, title: name };
+    }
+
+    function classifyPaper(title) {
+        for (const rule of CLASSIFY_RULES) {
+            for (const pat of rule.patterns) {
+                if (pat.test(title)) return rule;
+            }
+        }
+        return { id: "Miscellaneous", short: "Miscellaneous", color: "#BDBDBD" };
+    }
+
+    function generateTags(title) {
+        const tags = [];
+        for (const [tag, pattern] of Object.entries(TAG_KEYWORDS)) {
+            if (pattern.test(title)) tags.push(tag);
+        }
+        if (tags.length < 5) tags.push("ocean-waves");
+        return tags;
+    }
+
+    function addPaperToData(filename) {
+        const meta = parseDroppedFilename(filename);
+        const cat = classifyPaper(meta.title);
+        const tags = generateTags(meta.title);
+        const year = (meta.year >= 1920 && meta.year <= 2026) ? meta.year : 0;
+
+        const newPaper = {
+            id: LIBRARY_DATA.papers.length,
+            author: meta.author,
+            year: year,
+            title: meta.title,
+            filename: filename,
+            category: cat.id,
+            categoryShort: cat.short,
+            color: cat.color,
+            journal: "",
+            doi: "",
+            hasAnnotation: false,
+            tags: tags,
+        };
+
+        LIBRARY_DATA.papers.push(newPaper);
+
+        // Update category count
+        const catNode = LIBRARY_DATA.categories.find(c => c.id === cat.id);
+        if (catNode) catNode.count++;
+
+        // Add to tree
+        const treeCat = LIBRARY_DATA.tree.children.find(c => c.id === cat.id);
+        if (treeCat) {
+            const label = meta.author && year ? `${meta.author} (${year})` : (year ? `(${year})` : filename);
+            treeCat.children.push({
+                name: label.length > 50 ? label.slice(0, 47) + '...' : label,
+                title: meta.title,
+                author: meta.author,
+                year: year,
+                filename: filename,
+                tags: tags,
+                hasAnnotation: false,
+            });
+        }
+
+        // Update stats
+        LIBRARY_DATA.stats.totalPapers++;
+
+        return newPaper;
+    }
+
+    function showToast(paper, enriching) {
+        // Remove existing toast
+        document.querySelectorAll('.toast').forEach(t => t.remove());
+        const toast = document.createElement('div');
+        toast.className = 'toast';
+        toast.innerHTML = `
+            <div class="toast-title">Paper added</div>
+            <div class="toast-meta">${paper.author || 'Unknown'} (${paper.year || '?'}) — ${paper.categoryShort}</div>
+            <div class="toast-meta">${paper.title.slice(0, 80)}${paper.title.length > 80 ? '...' : ''}</div>
+            <div class="toast-meta">Tags: ${paper.tags.slice(0, 5).join(', ')}</div>
+            ${enriching ? '<div class="toast-enriching">Enriching via CrossRef...</div>' : ''}
+        `;
+        document.body.appendChild(toast);
+        setTimeout(() => toast.remove(), 6000);
+    }
+
+    async function enrichViaCrossRef(paper) {
+        try {
+            // Try local server first
+            const resp = await fetch(`http://localhost:8765/enrich?title=${encodeURIComponent(paper.title)}`);
+            if (resp.ok) {
+                const data = await resp.json();
+                if (data.year) paper.year = data.year;
+                if (data.title) paper.title = data.title;
+                if (data.authors && data.authors.length) paper.author = data.authors[0];
+                if (data.journal) paper.journal = data.journal;
+                if (data.doi) paper.doi = data.doi;
+                renderView(state.currentView);
+                showToast(paper, false);
+            }
+        } catch (e) {
+            // Server not running — that's fine, we have filename data
+        }
+    }
+
+    // Set up drag and drop on mainView
+    function setupDropZone() {
+        const mainView = document.getElementById('mainView');
+        const overlay = document.getElementById('dropOverlay');
+        let dragCounter = 0;
+
+        document.addEventListener('dragenter', (e) => {
+            e.preventDefault();
+            dragCounter++;
+            if (e.dataTransfer.types.includes('Files')) {
+                overlay.classList.add('visible');
+            }
+        });
+
+        document.addEventListener('dragleave', (e) => {
+            e.preventDefault();
+            dragCounter--;
+            if (dragCounter <= 0) {
+                dragCounter = 0;
+                overlay.classList.remove('visible');
+            }
+        });
+
+        document.addEventListener('dragover', (e) => {
+            e.preventDefault();
+        });
+
+        document.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dragCounter = 0;
+            overlay.classList.remove('visible');
+
+            const files = Array.from(e.dataTransfer.files);
+            const pdfs = files.filter(f => f.name.toLowerCase().endsWith('.pdf'));
+
+            pdfs.forEach(pdf => {
+                const paper = addPaperToData(pdf.name);
+                showToast(paper, true);
+                renderView(state.currentView);
+                // Try CrossRef enrichment in background
+                enrichViaCrossRef(paper);
+            });
+        });
+    }
+
+    // Initialize everything
+    init();
+
+    // Render the tree once the container has been laid out by CSS grid
+    new ResizeObserver(function(entries, observer) {
+        if (entries[0].contentRect.width > 0) {
+            observer.disconnect();
+            renderView('tree');
+        }
+    }).observe(document.getElementById('mainView'));
+    </script>
+</body>
+</html>
