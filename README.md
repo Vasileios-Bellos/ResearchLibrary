@@ -2,12 +2,7 @@
 
 An interactive mind map for exploring, filtering, and navigating a curated collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualises ~1,400 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
 
-<p align="center">
-  ![](https://img.shields.io/badge/Papers-1%2C399-3b82f6?style=flat)
-  ![](https://img.shields.io/badge/Authors-1%2C545-FF9800?style=flat)
-  ![](https://img.shields.io/badge/Categories-16-4CAF50?style=flat)
-  ![](https://img.shields.io/badge/Tags-76-9C27B0?style=flat)
-</p>
+![](https://img.shields.io/badge/Papers-1%2C399-3b82f6?style=for-the-badge) ![](https://img.shields.io/badge/Authors-1%2C545-FF9800?style=for-the-badge) ![](https://img.shields.io/badge/Categories-16-4CAF50?style=for-the-badge) ![](https://img.shields.io/badge/Tags-76-9C27B0?style=for-the-badge)
 
 ---
 
