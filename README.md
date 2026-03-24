@@ -1,18 +1,19 @@
-# 📚 Research Library &nbsp;<a href="https://vasileios-bellos.github.io/research-library/"><img src="https://img.shields.io/badge/Live_Demo-Interactive_Mind_Map-3b82f6?style=flat" height="50"></a>
+# 📚 Research Library &nbsp;<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="badges/live-demo.svg"></a>
 
 An interactive mind map for exploring, filtering, and navigating a curated collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualises ~1,400 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
 
-<div align="center">
-
-![](https://img.shields.io/badge/Papers-1%2C399-3b82f6?style=for-the-badge) ![](https://img.shields.io/badge/Authors-1%2C545-FF9800?style=for-the-badge) ![](https://img.shields.io/badge/Categories-16-4CAF50?style=for-the-badge) ![](https://img.shields.io/badge/Tags-76-9C27B0?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="badges/papers.svg" />&nbsp;
+  <img src="badges/authors.svg" />&nbsp;
+  <img src="badges/categories.svg" />&nbsp;
+  <img src="badges/tags.svg" />
+</p>
 
 ---
 
 ## Quick Start
 
-Open [`index.html`](https://vasileios-bellos.github.io/research-library/) in any modern browser. No server, no installation, no dependencies - everything runs locally from three files.
+Open [`index.html`](https://vasileios-bellos.github.io/ResearchLibrary/) in any modern browser. No server, no installation, no dependencies - everything runs locally from three files.
 
 ## Views
 
