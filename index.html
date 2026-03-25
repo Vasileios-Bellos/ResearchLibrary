@@ -1385,6 +1385,18 @@
         const vbW = (Math.max(...allCxs) - Math.min(...allCxs)) + pad * 2 || simSize;
         const vbH = (Math.max(...allCys) - Math.min(...allCys)) + pad * 2 || simSize;
 
+        // Search box
+        const searchBox = document.createElement('input');
+        searchBox.type = 'text';
+        searchBox.placeholder = 'Search papers...';
+        Object.assign(searchBox.style, {
+            position: 'absolute', top: '12px', left: '12px', zIndex: '10',
+            padding: '6px 12px', width: '200px', borderRadius: '8px',
+            border: '1px solid #374151', background: '#1a2236', color: '#e5e7eb',
+            fontSize: '12px', outline: 'none',
+        });
+        container.appendChild(searchBox);
+
         const svg = d3.select(container)
             .append('svg')
             .attr('width', width)
@@ -1516,6 +1528,28 @@
                 const cx = catNodes.reduce((s, n) => s + n.x, 0) / catNodes.length;
                 const cy = catNodes.reduce((s, n) => s + n.y, 0) / catNodes.length;
                 d3.select(this).attr('x', cx).attr('y', cy - 15);
+            });
+        });
+
+        // Search: highlight matching papers, dim the rest
+        searchBox.addEventListener('input', () => {
+            const q = searchBox.value.toLowerCase().trim();
+            if (!q) {
+                node.attr('fill-opacity', 1).attr('stroke-opacity', 0.5);
+                link.attr('stroke-opacity', 0.3);
+                return;
+            }
+            const matchIdx = new Set();
+            nodes.forEach((n, i) => {
+                const text = `${n.author} ${n.title} ${n.filename}`.toLowerCase();
+                if (text.includes(q)) matchIdx.add(i);
+            });
+            node.attr('fill-opacity', (d, i) => matchIdx.has(i) ? 1 : 0.05)
+                .attr('stroke-opacity', (d, i) => matchIdx.has(i) ? 1 : 0.02);
+            link.attr('stroke-opacity', d => {
+                const si = typeof d.source === 'object' ? d.source.index : d.source;
+                const ti = typeof d.target === 'object' ? d.target.index : d.target;
+                return (matchIdx.has(si) && matchIdx.has(ti)) ? 0.3 : 0.02;
             });
         });
     }
