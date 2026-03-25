@@ -1,4 +1,4 @@
-name: Update README badges
+name: Update README statistics
 
 on:
   push:
@@ -59,4 +59,4 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "Auto-update README badges" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "Auto-update README statistics" && git push)

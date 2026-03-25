@@ -49,7 +49,7 @@ All data lives in `data.js` - a single JSON object loaded at startup. To adapt t
 
 ## Automation
 
-The statistics in this README are kept in sync with `data.js` via a [GitHub Action](.github/workflows/update-badges.yml) that runs automatically on every push.
+The statistics in this README are kept in sync with `data.js` via a [GitHub Action](.github/workflows/update-statistics.yml) that runs automatically on every push.
 
 ## File Structure
 

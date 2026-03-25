@@ -1579,13 +1579,14 @@
             });
         });
 
-        // Build fullname lookup from LIBRARY_DATA
+        // Build fullname and paperIds lookups from LIBRARY_DATA
         const fullnameLookup = {};
-        LIBRARY_DATA.authors.forEach(a => { fullnameLookup[a.name] = a.fullname; });
+        const paperIdsLookup = {};
+        LIBRARY_DATA.authors.forEach(a => { fullnameLookup[a.name] = a.fullname; paperIdsLookup[a.name] = a.paperIds || []; });
 
         const authors = Object.entries(authorCounts)
             .filter(([_, count]) => count >= 3)
-            .map(([name, count]) => ({ name, fullname: fullnameLookup[name] || name, count, coauthors: coauthorLinks[name] || {} }))
+            .map(([name, count]) => ({ name, fullname: fullnameLookup[name] || name, count, paperIds: paperIdsLookup[name] || [], coauthors: coauthorLinks[name] || {} }))
             .sort((a, b) => b.count - a.count)
             .slice(0, 100);
         const width = container.clientWidth;
@@ -1676,18 +1677,14 @@
             .on('mouseleave', () => hideTooltip())
             .on('click', (event, d) => {
                 // Show author's papers in detail panel
-                const searchName = d.name.toLowerCase();
-                const searchParts = searchName.split(' ');
-                const authorPapers = LIBRARY_DATA.papers.filter(p => {
-                    const text = `${p.author || ''} ${p.filename || ''} ${p.title || ''}`.toLowerCase();
-                    return searchParts.every(part => text.includes(part));
-                }).sort((a, b) => b.year - a.year);
+                const paperIdSet = d.paperIds ? new Set(d.paperIds) : new Set();
+                const authorPapers = LIBRARY_DATA.papers.filter(p => paperIdSet.has(p.id)).sort((a, b) => b.year - a.year);
                 const panel = document.getElementById('detailPanel');
                 panel.classList.remove('empty');
                 panel.innerHTML = `
                     <div class="category-detail fade-in">
                         <h2>${d.fullname || d.name}</h2>
-                        <div class="paper-count">${d.count} papers</div>
+                        <div class="paper-count">${authorPapers.length} papers</div>
                         <div class="related-section" style="margin-top:16px">
                             <h3>Papers</h3>
                             ${authorPapers.map(p => `

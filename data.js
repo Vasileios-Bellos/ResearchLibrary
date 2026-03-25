@@ -26349,6 +26349,52 @@ const LIBRARY_DATA = {
       "name": "Wang",
       "fullname": "Wang, Ying-guang",
       "count": 49,
+      "paperIds": [
+        20,
+        74,
+        117,
+        165,
+        260,
+        274,
+        428,
+        452,
+        487,
+        625,
+        626,
+        627,
+        628,
+        643,
+        648,
+        658,
+        659,
+        667,
+        704,
+        741,
+        763,
+        794,
+        795,
+        819,
+        825,
+        833,
+        834,
+        835,
+        923,
+        941,
+        954,
+        1037,
+        1038,
+        1086,
+        1124,
+        1162,
+        1296,
+        1297,
+        1301,
+        1325,
+        1326,
+        1327,
+        1328,
+        1330
+      ],
       "coauthors": {
         "Gao": 3,
         "Wu": 1,
@@ -26425,6 +26471,55 @@ const LIBRARY_DATA = {
       "name": "Liu",
       "fullname": "Liu, Philip L. -F.",
       "count": 47,
+      "paperIds": [
+        20,
+        41,
+        111,
+        120,
+        121,
+        198,
+        206,
+        227,
+        280,
+        306,
+        395,
+        439,
+        483,
+        518,
+        536,
+        627,
+        646,
+        648,
+        650,
+        658,
+        696,
+        747,
+        749,
+        751,
+        763,
+        769,
+        805,
+        841,
+        879,
+        899,
+        900,
+        901,
+        902,
+        925,
+        929,
+        932,
+        947,
+        962,
+        963,
+        964,
+        1010,
+        1119,
+        1296,
+        1297,
+        1301,
+        1316,
+        1330
+      ],
       "coauthors": {
         "Gao": 1,
         "Wu": 2,
@@ -26523,6 +26618,50 @@ const LIBRARY_DATA = {
       "name": "Swan",
       "fullname": "Swan, Chris",
       "count": 42,
+      "paperIds": [
+        2,
+        3,
+        32,
+        34,
+        84,
+        89,
+        93,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        109,
+        160,
+        249,
+        250,
+        251,
+        343,
+        345,
+        362,
+        369,
+        392,
+        394,
+        397,
+        422,
+        423,
+        463,
+        552,
+        560,
+        562,
+        563,
+        588,
+        589,
+        679,
+        867,
+        870,
+        883,
+        918,
+        968,
+        1082,
+        1263
+      ],
       "coauthors": {
         "Baldock": 3,
         "Karmpadakis": 7,
@@ -26554,6 +26693,49 @@ const LIBRARY_DATA = {
       "name": "Zhang",
       "fullname": "Zhang, Tian-Tian",
       "count": 42,
+      "paperIds": [
+        88,
+        111,
+        169,
+        220,
+        228,
+        229,
+        238,
+        488,
+        630,
+        638,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        751,
+        819,
+        826,
+        840,
+        841,
+        842,
+        843,
+        926,
+        927,
+        928,
+        929,
+        930,
+        967,
+        1018,
+        1153,
+        1168,
+        1172,
+        1173,
+        1174,
+        1182,
+        1296
+      ],
       "coauthors": {
         "Huang": 1,
         "Liu": 6,
@@ -26617,6 +26799,39 @@ const LIBRARY_DATA = {
       "name": "Li",
       "fullname": "Li, Fang-Cheng",
       "count": 34,
+      "paperIds": [
+        40,
+        120,
+        121,
+        227,
+        228,
+        229,
+        282,
+        433,
+        434,
+        487,
+        511,
+        643,
+        667,
+        693,
+        696,
+        747,
+        749,
+        763,
+        769,
+        803,
+        806,
+        844,
+        887,
+        925,
+        941,
+        962,
+        964,
+        1023,
+        1024,
+        1117,
+        1119
+      ],
       "coauthors": {
         "Zhao": 1,
         "Jin": 2,
@@ -26677,6 +26892,31 @@ const LIBRARY_DATA = {
       "name": "Ma",
       "fullname": "Ma, Xiao-zhou",
       "count": 30,
+      "paperIds": [
+        190,
+        222,
+        235,
+        306,
+        448,
+        465,
+        466,
+        467,
+        468,
+        489,
+        664,
+        704,
+        705,
+        747,
+        843,
+        880,
+        881,
+        968,
+        969,
+        980,
+        1087,
+        1124,
+        1125
+      ],
       "coauthors": {
         "He": 1,
         "Dong": 19,
@@ -26714,6 +26954,35 @@ const LIBRARY_DATA = {
       "name": "Chen",
       "fullname": "Chen, Jiahn-Horng",
       "count": 28,
+      "paperIds": [
+        20,
+        28,
+        169,
+        260,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        368,
+        374,
+        375,
+        488,
+        519,
+        583,
+        658,
+        733,
+        873,
+        888,
+        942,
+        943,
+        944,
+        1172,
+        1296,
+        1301,
+        1330
+      ],
       "coauthors": {
         "Gao": 1,
         "Wu": 2,
@@ -26786,6 +27055,33 @@ const LIBRARY_DATA = {
       "name": "Baldock",
       "fullname": "Baldock, Tom E.",
       "count": 25,
+      "paperIds": [
+        2,
+        3,
+        61,
+        171,
+        204,
+        206,
+        245,
+        246,
+        677,
+        864,
+        865,
+        866,
+        867,
+        868,
+        869,
+        961,
+        993,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1009,
+        1027,
+        1186
+      ],
       "coauthors": {
         "Swan": 3,
         "Power": 4,
@@ -26822,6 +27118,29 @@ const LIBRARY_DATA = {
       "name": "Taylor",
       "fullname": "Taylor, R. Eatock",
       "count": 25,
+      "paperIds": [
+        119,
+        152,
+        235,
+        250,
+        251,
+        469,
+        490,
+        589,
+        624,
+        726,
+        772,
+        832,
+        844,
+        848,
+        849,
+        858,
+        870,
+        873,
+        943,
+        979,
+        1318
+      ],
       "coauthors": {
         "Whittaker": 1,
         "Raby": 2,
@@ -26867,6 +27186,29 @@ const LIBRARY_DATA = {
       "name": "Huang",
       "fullname": "Huang, Zhenjia (Jerry)",
       "count": 21,
+      "paperIds": [
+        29,
+        88,
+        125,
+        306,
+        377,
+        378,
+        492,
+        687,
+        688,
+        694,
+        695,
+        740,
+        741,
+        888,
+        955,
+        1102,
+        1103,
+        1104,
+        1105,
+        1118,
+        1219
+      ],
       "coauthors": {
         "Dong": 1,
         "Zhang": 1,
@@ -26905,6 +27247,28 @@ const LIBRARY_DATA = {
       "name": "Lykke Andersen",
       "fullname": "Lykke Andersen, Thomas",
       "count": 20,
+      "paperIds": [
+        59,
+        312,
+        313,
+        315,
+        675,
+        676,
+        682,
+        683,
+        686,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        722,
+        846,
+        935,
+        1065,
+        1169
+      ],
       "coauthors": {
         "Nørgaard": 1,
         "Eldrup": 11,
@@ -26920,6 +27284,27 @@ const LIBRARY_DATA = {
       "name": "Dong",
       "fullname": "Dong, Guo-hai",
       "count": 19,
+      "paperIds": [
+        29,
+        190,
+        222,
+        302,
+        303,
+        489,
+        638,
+        670,
+        704,
+        705,
+        747,
+        787,
+        843,
+        880,
+        881,
+        951,
+        1087,
+        1124,
+        1125
+      ],
       "coauthors": {
         "Huang": 1,
         "He": 1,
@@ -26947,6 +27332,25 @@ const LIBRARY_DATA = {
       "name": "Lin",
       "fullname": "Lin, Ying-Tien",
       "count": 18,
+      "paperIds": [
+        226,
+        280,
+        373,
+        378,
+        430,
+        438,
+        511,
+        549,
+        638,
+        694,
+        695,
+        746,
+        807,
+        844,
+        955,
+        1018,
+        1118
+      ],
       "coauthors": {
         "Xie": 1,
         "Chen": 1,
@@ -26997,6 +27401,23 @@ const LIBRARY_DATA = {
       "name": "Karmpadakis",
       "fullname": "Karmpadakis, Ioannis",
       "count": 15,
+      "paperIds": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        89,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
       "coauthors": {
         "Swan": 7,
         "Christou": 6
@@ -27006,6 +27427,22 @@ const LIBRARY_DATA = {
       "name": "Yang",
       "fullname": "Yang, Jiacheng",
       "count": 15,
+      "paperIds": [
+        279,
+        438,
+        487,
+        645,
+        650,
+        733,
+        751,
+        887,
+        929,
+        954,
+        1173,
+        1174,
+        1330,
+        1333
+      ],
       "coauthors": {
         "Chen": 4,
         "Lin": 1,
@@ -27045,6 +27482,22 @@ const LIBRARY_DATA = {
       "name": "Christou",
       "fullname": "Christou, Marios",
       "count": 14,
+      "paperIds": [
+        32,
+        34,
+        85,
+        89,
+        97,
+        98,
+        99,
+        292,
+        394,
+        679,
+        1082,
+        1084,
+        1166,
+        1196
+      ],
       "coauthors": {
         "Karmpadakis": 6,
         "Swan": 9,
@@ -27063,6 +27516,21 @@ const LIBRARY_DATA = {
       "name": "Battjes",
       "fullname": "Battjes, Jurjen A",
       "count": 13,
+      "paperIds": [
+        4,
+        5,
+        6,
+        174,
+        175,
+        176,
+        177,
+        231,
+        255,
+        611,
+        871,
+        937,
+        1188
+      ],
       "coauthors": {
         "Groenendijk": 2,
         "Janssen": 2,
@@ -27082,6 +27550,21 @@ const LIBRARY_DATA = {
       "name": "Wu",
       "fullname": "Wu, Thung-Yeh",
       "count": 13,
+      "paperIds": [
+        20,
+        78,
+        79,
+        310,
+        430,
+        465,
+        466,
+        518,
+        583,
+        638,
+        639,
+        955,
+        1166
+      ],
       "coauthors": {
         "Gao": 1,
         "Chen": 2,
@@ -27120,6 +27603,21 @@ const LIBRARY_DATA = {
       "name": "Sun",
       "fullname": "Sun, Zhaochen",
       "count": 13,
+      "paperIds": [
+        220,
+        339,
+        519,
+        520,
+        583,
+        747,
+        825,
+        826,
+        879,
+        943,
+        982,
+        996,
+        1156
+      ],
       "coauthors": {
         "Liang": 2,
         "Zhang": 2,
@@ -27156,6 +27654,20 @@ const LIBRARY_DATA = {
       "name": "Zhou",
       "fullname": "Zhou, Zhongbing",
       "count": 13,
+      "paperIds": [
+        267,
+        376,
+        666,
+        667,
+        668,
+        669,
+        763,
+        806,
+        880,
+        881,
+        997,
+        1334
+      ],
       "coauthors": {
         "Ning": 4,
         "Teng": 3,
@@ -27190,6 +27702,21 @@ const LIBRARY_DATA = {
       "name": "Zang",
       "fullname": "Zang, Jun",
       "count": 13,
+      "paperIds": [
+        284,
+        481,
+        624,
+        707,
+        747,
+        848,
+        849,
+        858,
+        873,
+        880,
+        881,
+        943,
+        1130
+      ],
       "coauthors": {
         "Chen": 3,
         "Hillis": 1,
@@ -27227,6 +27754,20 @@ const LIBRARY_DATA = {
       "name": "Power",
       "fullname": "Power, Hannah E.",
       "count": 12,
+      "paperIds": [
+        60,
+        61,
+        204,
+        205,
+        211,
+        212,
+        221,
+        868,
+        1027,
+        1028,
+        1034,
+        1329
+      ],
       "coauthors": {
         "Nielsen": 2,
         "Hughes": 2,
@@ -27246,6 +27787,18 @@ const LIBRARY_DATA = {
       "name": "Kim",
       "fullname": "Kim, Dong Hyawn",
       "count": 11,
+      "paperIds": [
+        37,
+        153,
+        407,
+        408,
+        409,
+        410,
+        875,
+        956,
+        1229,
+        1230
+      ],
       "coauthors": {
         "Kim": 2,
         "Ertekin": 2,
@@ -27268,6 +27821,19 @@ const LIBRARY_DATA = {
       "name": "Babanin",
       "fullname": "Babanin, Alexander V.",
       "count": 11,
+      "paperIds": [
+        116,
+        242,
+        599,
+        661,
+        720,
+        782,
+        900,
+        1137,
+        1140,
+        1141,
+        1145
+      ],
       "coauthors": {
         "Toffoli": 2,
         "Bitner-Gregersen": 1,
@@ -27300,6 +27866,19 @@ const LIBRARY_DATA = {
       "name": "Eldrup",
       "fullname": "Eldrup, Mads Røge",
       "count": 11,
+      "paperIds": [
+        312,
+        313,
+        315,
+        675,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        846
+      ],
       "coauthors": {
         "Lykke Andersen": 11,
         "Clavero": 2,
@@ -27310,6 +27889,18 @@ const LIBRARY_DATA = {
       "name": "Arena",
       "fullname": "Arena, Felice",
       "count": 10,
+      "paperIds": [
+        1,
+        8,
+        80,
+        124,
+        133,
+        239,
+        717,
+        720,
+        774,
+        1151
+      ],
       "coauthors": {
         "Soares": 1,
         "Boccotti": 1,
@@ -27329,6 +27920,18 @@ const LIBRARY_DATA = {
       "name": "Onorato",
       "fullname": "Onorato, Miguel",
       "count": 10,
+      "paperIds": [
+        15,
+        116,
+        242,
+        599,
+        760,
+        770,
+        782,
+        784,
+        801,
+        1146
+      ],
       "coauthors": {
         "Fernandez": 1,
         "Monbaliu": 1,
@@ -27363,6 +27966,18 @@ const LIBRARY_DATA = {
       "name": "Longuet-Higgins",
       "fullname": "Longuet-Higgins, Michael Selwyn",
       "count": 10,
+      "paperIds": [
+        42,
+        199,
+        442,
+        443,
+        444,
+        447,
+        565,
+        965,
+        1120,
+        1121
+      ],
       "coauthors": {
         "Cokelet": 1,
         "Srokosz": 1,
@@ -27373,6 +27988,18 @@ const LIBRARY_DATA = {
       "name": "Benoit",
       "fullname": "Benoit, Michel",
       "count": 10,
+      "paperIds": [
+        557,
+        630,
+        664,
+        665,
+        727,
+        729,
+        760,
+        843,
+        927,
+        930
+      ],
       "coauthors": {
         "Simon": 1,
         "Papoutsellis": 1,
@@ -27393,6 +28020,17 @@ const LIBRARY_DATA = {
       "name": "Zhao",
       "fullname": "Zhao, Yun-Peng",
       "count": 9,
+      "paperIds": [
+        20,
+        40,
+        260,
+        364,
+        439,
+        795,
+        931,
+        995,
+        996
+      ],
       "coauthors": {
         "Gao": 1,
         "Wu": 1,
@@ -27420,6 +28058,17 @@ const LIBRARY_DATA = {
       "name": "Tayfun",
       "fullname": "Tayfun, M. Aziz",
       "count": 9,
+      "paperIds": [
+        67,
+        68,
+        69,
+        115,
+        123,
+        595,
+        596,
+        774,
+        1061
+      ],
       "coauthors": {
         "Fedele": 3,
         "Alkhalidi": 3,
@@ -27430,6 +28079,17 @@ const LIBRARY_DATA = {
       "name": "Buldakov",
       "fullname": "Buldakov, Eugeny",
       "count": 9,
+      "paperIds": [
+        164,
+        180,
+        187,
+        311,
+        566,
+        567,
+        778,
+        873,
+        917
+      ],
       "coauthors": {
         "Vyzikas": 1,
         "Stagonas": 7,
@@ -27447,6 +28107,17 @@ const LIBRARY_DATA = {
       "name": "Ducrozet",
       "fullname": "Ducrozet, Guillaume",
       "count": 9,
+      "paperIds": [
+        218,
+        219,
+        307,
+        725,
+        735,
+        736,
+        763,
+        788,
+        817
+      ],
       "coauthors": {
         "Seiffert": 2,
         "Bonnefoy": 3,
@@ -27466,6 +28137,17 @@ const LIBRARY_DATA = {
       "name": "Adcock",
       "fullname": "Adcock, Thomas A. A.",
       "count": 9,
+      "paperIds": [
+        235,
+        469,
+        490,
+        511,
+        592,
+        726,
+        772,
+        827,
+        844
+      ],
       "coauthors": {
         "Taylor": 6,
         "Yan": 1,
@@ -27491,6 +28173,17 @@ const LIBRARY_DATA = {
       "name": "Hsu",
       "fullname": "Hsu, Hung-Chu",
       "count": 9,
+      "paperIds": [
+        405,
+        406,
+        543,
+        665,
+        927,
+        930,
+        1081,
+        1101,
+        1162
+      ],
       "coauthors": {
         "Kimmoun": 5,
         "Chabchoub": 2,
@@ -27511,6 +28204,16 @@ const LIBRARY_DATA = {
       "name": "Dean",
       "fullname": "Dean, Robert G.",
       "count": 8,
+      "paperIds": [
+        14,
+        131,
+        154,
+        297,
+        317,
+        551,
+        1074,
+        1085
+      ],
       "coauthors": {
         "Dally": 1,
         "Sharma": 2,
@@ -27522,6 +28225,16 @@ const LIBRARY_DATA = {
       "name": "Toffoli",
       "fullname": "Toffoli, Alessandro",
       "count": 8,
+      "paperIds": [
+        15,
+        116,
+        170,
+        599,
+        600,
+        760,
+        801,
+        829
+      ],
       "coauthors": {
         "Fernandez": 1,
         "Onorato": 5,
@@ -27547,6 +28260,16 @@ const LIBRARY_DATA = {
       "name": "Qi",
       "fullname": "Qi, Hongshuai",
       "count": 8,
+      "paperIds": [
+        28,
+        228,
+        229,
+        233,
+        517,
+        518,
+        666,
+        1127
+      ],
       "coauthors": {
         "Hou": 1,
         "Duan": 1,
@@ -27572,6 +28295,16 @@ const LIBRARY_DATA = {
       "name": "Mendes",
       "fullname": "Mendes, Saulo",
       "count": 8,
+      "paperIds": [
+        50,
+        472,
+        810,
+        811,
+        812,
+        814,
+        815,
+        816
+      ],
       "coauthors": {
         "Kasparian": 2,
         "Scotti": 2,
@@ -27582,6 +28315,16 @@ const LIBRARY_DATA = {
       "name": "Fedele",
       "fullname": "Fedele, Francesco",
       "count": 8,
+      "paperIds": [
+        68,
+        115,
+        133,
+        134,
+        173,
+        414,
+        774,
+        791
+      ],
       "coauthors": {
         "Tayfun": 3,
         "Arena": 2,
@@ -27598,6 +28341,16 @@ const LIBRARY_DATA = {
       "name": "Latheef",
       "fullname": "Latheef, M.",
       "count": 8,
+      "paperIds": [
+        108,
+        109,
+        422,
+        423,
+        897,
+        898,
+        1233,
+        1234
+      ],
       "coauthors": {
         "Swan": 3,
         "Spinneken": 1
@@ -27607,6 +28360,16 @@ const LIBRARY_DATA = {
       "name": "Chabchoub",
       "fullname": "Chabchoub, Amin",
       "count": 8,
+      "paperIds": [
+        132,
+        170,
+        276,
+        405,
+        406,
+        764,
+        782,
+        792
+      ],
       "coauthors": {
         "Eeltink": 2,
         "Branger": 2,
@@ -27644,6 +28407,16 @@ const LIBRARY_DATA = {
       "name": "Dias",
       "fullname": "Dias, Frédéric",
       "count": 8,
+      "paperIds": [
+        138,
+        139,
+        173,
+        319,
+        331,
+        621,
+        627,
+        785
+      ],
       "coauthors": {
         "Brennan": 2,
         "Barthelemy": 1,
@@ -27665,6 +28438,16 @@ const LIBRARY_DATA = {
       "name": "Trulsen",
       "fullname": "Trulsen, Karsten",
       "count": 8,
+      "paperIds": [
+        162,
+        166,
+        167,
+        168,
+        424,
+        554,
+        606,
+        831
+      ],
       "coauthors": {
         "Kliakhandler": 1,
         "Dysthe": 1,
@@ -27683,6 +28466,16 @@ const LIBRARY_DATA = {
       "name": "Stagonas",
       "fullname": "Stagonas, Dimitris",
       "count": 8,
+      "paperIds": [
+        164,
+        187,
+        566,
+        567,
+        759,
+        778,
+        873,
+        917
+      ],
       "coauthors": {
         "Vyzikas": 1,
         "Buldakov": 7,
@@ -27701,6 +28494,16 @@ const LIBRARY_DATA = {
       "name": "Chang",
       "fullname": "Chang, Kuang-An",
       "count": 8,
+      "paperIds": [
+        201,
+        220,
+        521,
+        872,
+        941,
+        955,
+        980,
+        1081
+      ],
       "coauthors": {
         "Na": 1,
         "Lim": 1,
@@ -27730,6 +28533,16 @@ const LIBRARY_DATA = {
       "name": "Xie",
       "fullname": "Xie, Zhihua",
       "count": 8,
+      "paperIds": [
+        226,
+        641,
+        642,
+        806,
+        838,
+        879,
+        994,
+        1330
+      ],
       "coauthors": {
         "Lin": 1,
         "Lu": 1,
@@ -27751,6 +28564,16 @@ const LIBRARY_DATA = {
       "name": "Kimmoun",
       "fullname": "Kimmoun, Olivier",
       "count": 8,
+      "paperIds": [
+        405,
+        406,
+        479,
+        665,
+        792,
+        927,
+        930,
+        957
+      ],
       "coauthors": {
         "Hsu": 5,
         "Chabchoub": 3,
@@ -27774,6 +28597,15 @@ const LIBRARY_DATA = {
       "name": "Forristall",
       "fullname": "Forristall, George Z.",
       "count": 7,
+      "paperIds": [
+        17,
+        18,
+        19,
+        83,
+        269,
+        334,
+        369
+      ],
       "coauthors": {
         "Buchner": 1,
         "Hennig": 1,
@@ -27788,6 +28620,15 @@ const LIBRARY_DATA = {
       "name": "Gao",
       "fullname": "Gao, Junliang",
       "count": 7,
+      "paperIds": [
+        20,
+        21,
+        339,
+        643,
+        880,
+        881,
+        882
+      ],
       "coauthors": {
         "Wu": 1,
         "Chen": 1,
@@ -27811,6 +28652,15 @@ const LIBRARY_DATA = {
       "name": "Xu",
       "fullname": "Xu, Wenzhe",
       "count": 7,
+      "paperIds": [
+        20,
+        120,
+        121,
+        227,
+        295,
+        584,
+        844
+      ],
       "coauthors": {
         "Gao": 1,
         "Wu": 1,
@@ -27840,6 +28690,15 @@ const LIBRARY_DATA = {
       "name": "Zhu",
       "fullname": "Zhu, Fangyao",
       "count": 7,
+      "paperIds": [
+        20,
+        670,
+        881,
+        1018,
+        1301,
+        1333,
+        1335
+      ],
       "coauthors": {
         "Gao": 2,
         "Wu": 1,
@@ -27871,6 +28730,15 @@ const LIBRARY_DATA = {
       "name": "Mase",
       "fullname": "Mase, Hajime",
       "count": 7,
+      "paperIds": [
+        47,
+        48,
+        762,
+        934,
+        952,
+        1211,
+        1213
+      ],
       "coauthors": {
         "Ozawa": 1,
         "Altomare": 1,
@@ -27883,6 +28751,15 @@ const LIBRARY_DATA = {
       "name": "Gibson",
       "fullname": "Gibson, Richard",
       "count": 7,
+      "paperIds": [
+        84,
+        85,
+        86,
+        343,
+        345,
+        883,
+        1208
+      ],
       "coauthors": {
         "Swan": 4,
         "Tromans": 1,
@@ -27894,6 +28771,15 @@ const LIBRARY_DATA = {
       "name": "Katsardi",
       "fullname": "Katsardi, V.",
       "count": 7,
+      "paperIds": [
+        100,
+        101,
+        102,
+        194,
+        249,
+        397,
+        1228
+      ],
       "coauthors": {
         "de Lutio": 3,
         "Swan": 5,
@@ -27904,6 +28790,15 @@ const LIBRARY_DATA = {
       "name": "Guedes Soares",
       "fullname": "Guedes Soares, Carlos",
       "count": 7,
+      "paperIds": [
+        112,
+        238,
+        333,
+        352,
+        357,
+        909,
+        910
+      ],
       "coauthors": {
         "Pascoal": 2,
         "Zhang": 1,
@@ -27921,6 +28816,14 @@ const LIBRARY_DATA = {
       "name": "He",
       "fullname": "He, Shengquan",
       "count": 7,
+      "paperIds": [
+        132,
+        190,
+        368,
+        646,
+        794,
+        1335
+      ],
       "coauthors": {
         "Eeltink": 1,
         "Branger": 1,
@@ -27953,6 +28856,15 @@ const LIBRARY_DATA = {
       "name": "Spinneken",
       "fullname": "Spinneken, Johannes",
       "count": 7,
+      "paperIds": [
+        159,
+        160,
+        423,
+        562,
+        563,
+        1262,
+        1263
+      ],
       "coauthors": {
         "Swan": 5,
         "Latheef": 1
@@ -27962,6 +28874,15 @@ const LIBRARY_DATA = {
       "name": "Lee",
       "fullname": "Lee, Jung Hoon",
       "count": 7,
+      "paperIds": [
+        170,
+        197,
+        429,
+        430,
+        807,
+        1022,
+        1154
+      ],
       "coauthors": {
         "Alberello": 1,
         "Chabchoub": 1,
@@ -27984,6 +28905,15 @@ const LIBRARY_DATA = {
       "name": "Liang",
       "fullname": "Liang, Dongfang",
       "count": 7,
+      "paperIds": [
+        220,
+        339,
+        488,
+        625,
+        628,
+        995,
+        997
+      ],
       "coauthors": {
         "Zhang": 2,
         "Sun": 2,
@@ -28003,6 +28933,15 @@ const LIBRARY_DATA = {
       "name": "Shi",
       "fullname": "Shi, Fengyan",
       "count": 7,
+      "paperIds": [
+        228,
+        229,
+        467,
+        628,
+        661,
+        840,
+        997
+      ],
       "coauthors": {
         "Zhang": 4,
         "Li": 2,
@@ -28025,6 +28964,15 @@ const LIBRARY_DATA = {
       "name": "Zheng",
       "fullname": "Zheng, Jinhai",
       "count": 7,
+      "paperIds": [
+        228,
+        229,
+        511,
+        625,
+        628,
+        879,
+        1176
+      ],
       "coauthors": {
         "Zhang": 2,
         "Li": 4,
@@ -28046,6 +28994,15 @@ const LIBRARY_DATA = {
       "name": "Tang",
       "fullname": "Tang, Zhengjiang",
       "count": 7,
+      "paperIds": [
+        519,
+        592,
+        646,
+        827,
+        841,
+        844,
+        996
+      ],
       "coauthors": {
         "Qu": 1,
         "Sun": 2,
@@ -28077,6 +29034,15 @@ const LIBRARY_DATA = {
       "name": "Deng",
       "fullname": "Deng, Xiaowei",
       "count": 7,
+      "paperIds": [
+        519,
+        520,
+        583,
+        954,
+        980,
+        982,
+        1301
+      ],
       "coauthors": {
         "Qu": 4,
         "Sun": 4,
@@ -28103,6 +29069,15 @@ const LIBRARY_DATA = {
       "name": "Fang",
       "fullname": "Fang, Yongliu",
       "count": 7,
+      "paperIds": [
+        627,
+        769,
+        879,
+        899,
+        932,
+        947,
+        962
+      ],
       "coauthors": {
         "Wang": 1,
         "Liu": 7,
@@ -28120,6 +29095,15 @@ const LIBRARY_DATA = {
       "name": "Guo",
       "fullname": "Guo, Yinghao",
       "count": 7,
+      "paperIds": [
+        769,
+        794,
+        795,
+        835,
+        944,
+        947,
+        1296
+      ],
       "coauthors": {
         "Fang": 2,
         "Liu": 3,
@@ -28141,6 +29125,14 @@ const LIBRARY_DATA = {
       "name": "Goda",
       "fullname": "Goda, Yoshimi",
       "count": 6,
+      "paperIds": [
+        22,
+        189,
+        213,
+        347,
+        1094,
+        1095
+      ],
       "coauthors": {
         "Suzuki": 1
       }
@@ -28149,6 +29141,14 @@ const LIBRARY_DATA = {
       "name": "Liberzon",
       "fullname": "Liberzon, Dan",
       "count": 6,
+      "paperIds": [
+        38,
+        155,
+        386,
+        414,
+        673,
+        674
+      ],
       "coauthors": {
         "Knobler": 2,
         "Bar": 1,
@@ -28163,6 +29163,14 @@ const LIBRARY_DATA = {
       "name": "Feng",
       "fullname": "Feng, Xingya",
       "count": 6,
+      "paperIds": [
+        135,
+        274,
+        322,
+        844,
+        847,
+        1206
+      ],
       "coauthors": {
         "Casas-Prat": 1,
         "Wang": 1,
@@ -28184,6 +29192,14 @@ const LIBRARY_DATA = {
       "name": "Fenton",
       "fullname": "Fenton, John D.",
       "count": 6,
+      "paperIds": [
+        136,
+        323,
+        324,
+        326,
+        532,
+        1090
+      ],
       "coauthors": {
         "Rienecker": 2
       }
@@ -28192,6 +29208,14 @@ const LIBRARY_DATA = {
       "name": "Janssen",
       "fullname": "Janssen, Peter A. E. M.",
       "count": 6,
+      "paperIds": [
+        176,
+        235,
+        389,
+        521,
+        611,
+        798
+      ],
       "coauthors": {
         "Battjes": 2,
         "Adcock": 1,
@@ -28214,6 +29238,14 @@ const LIBRARY_DATA = {
       "name": "Yan",
       "fullname": "Yan, Guirong",
       "count": 6,
+      "paperIds": [
+        179,
+        235,
+        468,
+        835,
+        925,
+        1297
+      ],
       "coauthors": {
         "Boswell": 1,
         "Mostert": 1,
@@ -28232,6 +29264,14 @@ const LIBRARY_DATA = {
       "name": "Ning",
       "fullname": "Ning, Dezhi",
       "count": 6,
+      "paperIds": [
+        267,
+        376,
+        488,
+        669,
+        995,
+        997
+      ],
       "coauthors": {
         "Zhou": 4,
         "Teng": 3,
@@ -28248,6 +29288,14 @@ const LIBRARY_DATA = {
       "name": "Altomare",
       "fullname": "Altomare, Corrado",
       "count": 6,
+      "paperIds": [
+        374,
+        375,
+        585,
+        934,
+        945,
+        1021
+      ],
       "coauthors": {
         "Hofland": 2,
         "Chen": 2,
@@ -28269,6 +29317,14 @@ const LIBRARY_DATA = {
       "name": "Martins",
       "fullname": "Martins, Kévin",
       "count": 6,
+      "paperIds": [
+        458,
+        459,
+        460,
+        461,
+        707,
+        1130
+      ],
       "coauthors": {
         "Bonneton": 4,
         "Michallet": 4,
@@ -28281,6 +29337,14 @@ const LIBRARY_DATA = {
       "name": "Young",
       "fullname": "Young, Ian R.",
       "count": 6,
+      "paperIds": [
+        481,
+        649,
+        766,
+        767,
+        900,
+        1138
+      ],
       "coauthors": {
         "Morgan": 1,
         "Zang": 1,
@@ -28300,6 +29364,14 @@ const LIBRARY_DATA = {
       "name": "Padilla",
       "fullname": "Padilla, Enrique M.",
       "count": 6,
+      "paperIds": [
+        498,
+        712,
+        713,
+        855,
+        911,
+        1248
+      ],
       "coauthors": {
         "Alsina": 4
       }
@@ -28308,6 +29380,14 @@ const LIBRARY_DATA = {
       "name": "Frigaard",
       "fullname": "Frigaard, Peter",
       "count": 6,
+      "paperIds": [
+        684,
+        685,
+        700,
+        701,
+        1091,
+        1092
+      ],
       "coauthors": {
         "Brorsen": 4,
         "Lykke Andersen": 2,
@@ -28318,6 +29398,13 @@ const LIBRARY_DATA = {
       "name": "Groenendijk",
       "fullname": "Groenendijk, Heiko W",
       "count": 5,
+      "paperIds": [
+        4,
+        6,
+        23,
+        24,
+        1212
+      ],
       "coauthors": {
         "Battjes": 2
       }
@@ -28326,6 +29413,13 @@ const LIBRARY_DATA = {
       "name": "Boccotti",
       "fullname": "Boccotti, Paolo",
       "count": 5,
+      "paperIds": [
+        7,
+        8,
+        263,
+        264,
+        1076
+      ],
       "coauthors": {
         "Arena": 1,
         "Fiamma": 2,
@@ -28338,6 +29432,13 @@ const LIBRARY_DATA = {
       "name": "Jia",
       "fullname": "Jia, Meijun",
       "count": 5,
+      "paperIds": [
+        41,
+        120,
+        121,
+        227,
+        944
+      ],
       "coauthors": {
         "Liu": 4,
         "Onat": 1,
@@ -28357,6 +29458,13 @@ const LIBRARY_DATA = {
       "name": "Mori",
       "fullname": "Mori, Nobuhito",
       "count": 5,
+      "paperIds": [
+        56,
+        274,
+        799,
+        808,
+        809
+      ],
       "coauthors": {
         "Yasuda": 1,
         "Casas-Prat": 1,
@@ -28374,6 +29482,13 @@ const LIBRARY_DATA = {
       "name": "Bitner-Gregersen",
       "fullname": "Bitner-Gregersen, Elzbieta M.",
       "count": 5,
+      "paperIds": [
+        116,
+        262,
+        441,
+        536,
+        760
+      ],
       "coauthors": {
         "Toffoli": 2,
         "Onorato": 2,
@@ -28398,6 +29513,13 @@ const LIBRARY_DATA = {
       "name": "Bateman",
       "fullname": "Bateman, W.J.D.",
       "count": 5,
+      "paperIds": [
+        129,
+        249,
+        250,
+        251,
+        870
+      ],
       "coauthors": {
         "Katsardi": 1,
         "Swan": 4,
@@ -28408,6 +29530,13 @@ const LIBRARY_DATA = {
       "name": "Skjelbreia",
       "fullname": "Skjelbreia, James E.",
       "count": 5,
+      "paperIds": [
+        157,
+        158,
+        329,
+        724,
+        1171
+      ],
       "coauthors": {
         "Hendrickson": 3,
         "Zelt": 2
@@ -28417,6 +29546,13 @@ const LIBRARY_DATA = {
       "name": "Schäffer",
       "fullname": "Schäffer, Hemming A.",
       "count": 5,
+      "paperIds": [
+        161,
+        217,
+        859,
+        860,
+        904
+      ],
       "coauthors": {
         "Steenberg": 2,
         "Svendsen": 1,
@@ -28428,6 +29564,13 @@ const LIBRARY_DATA = {
       "name": "Zeng",
       "fullname": "Zeng, Qingsong",
       "count": 5,
+      "paperIds": [
+        166,
+        167,
+        168,
+        654,
+        831
+      ],
       "coauthors": {
         "Trulsen": 4,
         "Hekkenberg": 1,
@@ -28440,6 +29583,13 @@ const LIBRARY_DATA = {
       "name": "Alsina",
       "fullname": "Alsina, José M.",
       "count": 5,
+      "paperIds": [
+        171,
+        712,
+        713,
+        855,
+        911
+      ],
       "coauthors": {
         "Baldock": 1,
         "Padilla": 4
@@ -28449,6 +29599,13 @@ const LIBRARY_DATA = {
       "name": "Grilli",
       "fullname": "Grilli, Stephan T.",
       "count": 5,
+      "paperIds": [
+        184,
+        225,
+        331,
+        353,
+        924
+      ],
       "coauthors": {
         "Derakhti": 1,
         "Kirby": 2,
@@ -28471,6 +29628,12 @@ const LIBRARY_DATA = {
       "name": "Park",
       "fullname": "Park, Yong Sung",
       "count": 5,
+      "paperIds": [
+        206,
+        308,
+        719,
+        1154
+      ],
       "coauthors": {
         "Pujara": 1,
         "Miller": 1,
@@ -28491,6 +29654,13 @@ const LIBRARY_DATA = {
       "name": "Hu",
       "fullname": "Hu, Liangming",
       "count": 5,
+      "paperIds": [
+        246,
+        310,
+        650,
+        887,
+        954
+      ],
       "coauthors": {
         "Baldock": 1,
         "Shabani": 1,
@@ -28512,6 +29682,13 @@ const LIBRARY_DATA = {
       "name": "Gramstad",
       "fullname": "Gramstad, Odin",
       "count": 5,
+      "paperIds": [
+        262,
+        424,
+        606,
+        831,
+        1097
+      ],
       "coauthors": {
         "Bitner-Gregersen": 1,
         "Magnusson": 1,
@@ -28528,6 +29705,13 @@ const LIBRARY_DATA = {
       "name": "Bai",
       "fullname": "Bai, K. J.",
       "count": 5,
+      "paperIds": [
+        267,
+        310,
+        376,
+        409,
+        669
+      ],
       "coauthors": {
         "Zhou": 3,
         "Ning": 3,
@@ -28544,6 +29728,13 @@ const LIBRARY_DATA = {
       "name": "Bredmose",
       "fullname": "Bredmose, Henrik",
       "count": 5,
+      "paperIds": [
+        268,
+        271,
+        490,
+        503,
+        504
+      ],
       "coauthors": {
         "Bullock": 2,
         "Hogg": 1,
@@ -28562,6 +29753,13 @@ const LIBRARY_DATA = {
       "name": "Peregrine",
       "fullname": "Peregrine, D. H.",
       "count": 5,
+      "paperIds": [
+        271,
+        486,
+        601,
+        913,
+        985
+      ],
       "coauthors": {
         "Bullock": 1,
         "Obhrai": 1,
@@ -28577,6 +29775,13 @@ const LIBRARY_DATA = {
       "name": "Eatock Taylor",
       "fullname": "Eatock Taylor, R.",
       "count": 5,
+      "paperIds": [
+        310,
+        465,
+        466,
+        624,
+        639
+      ],
       "coauthors": {
         "Wu": 4,
         "Bai": 1,
@@ -28591,6 +29796,13 @@ const LIBRARY_DATA = {
       "name": "Davey",
       "fullname": "Davey, Thomas",
       "count": 5,
+      "paperIds": [
+        338,
+        680,
+        681,
+        730,
+        1088
+      ],
       "coauthors": {
         "Gabl": 1,
         "Steynor": 2,
@@ -28606,6 +29818,13 @@ const LIBRARY_DATA = {
       "name": "Ingram",
       "fullname": "Ingram, David M.",
       "count": 5,
+      "paperIds": [
+        338,
+        680,
+        681,
+        730,
+        1088
+      ],
       "coauthors": {
         "Gabl": 1,
         "Steynor": 2,
@@ -28621,6 +29840,13 @@ const LIBRARY_DATA = {
       "name": "van Dongeren",
       "fullname": "van Dongeren, Ap R.",
       "count": 5,
+      "paperIds": [
+        341,
+        529,
+        611,
+        1029,
+        1160
+      ],
       "coauthors": {
         "Gawehn": 1,
         "de Vries": 1,
@@ -28646,6 +29872,13 @@ const LIBRARY_DATA = {
       "name": "Higuera",
       "fullname": "Higuera, Pablo",
       "count": 5,
+      "paperIds": [
+        372,
+        567,
+        778,
+        877,
+        917
+      ],
       "coauthors": {
         "Lara": 2,
         "Losada": 2,
