@@ -37,7 +37,7 @@ The mind map offers four distinct visualization modes, each designed for a diffe
 | Year range | Dual-handle slider to filter papers by publication year |
 | Detail panel | Click any paper for full metadata: author, year, journal, DOI link, tags, filename, and related papers |
 | Author search | In the Network view, type a name to highlight that author and all their direct co-authors. Click any author node to see their full publication list. |
-| Drop-to-add | Drag a PDF onto the mind map to instantly classify, tag, and add it to the visualization |
+| Drag-and-drop | Drag a PDF onto the mind map to instantly classify, tag, and preview it in the visualization |
 
 ## Data
 
