@@ -1,0 +1,49 @@
+name: Update README badges
+
+on:
+  push:
+    paths:
+      - 'data.js'
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Extract stats and update README
+        run: |
+          # Extract stats from data.js
+          PAPERS=$(grep -o '"totalPapers": [0-9]*' data.js | grep -o '[0-9]*')
+          AUTHORS=$(grep -o '"totalAuthors": [0-9]*' data.js | grep -o '[0-9]*')
+          CATEGORIES=$(grep -o '"totalCategories": [0-9]*' data.js | grep -o '[0-9]*')
+          TAGS=$(grep -o '"totalTags": [0-9]*' data.js | grep -o '[0-9]*')
+
+          echo "Papers: $PAPERS, Authors: $AUTHORS, Categories: $CATEGORIES, Tags: $TAGS"
+
+          # Format numbers with commas (e.g. 1397 -> 1,397 -> URL encoded 1%2C397)
+          fmt() { printf "%'d" $1 | sed 's/,/%2C/g'; }
+
+          P=$(fmt $PAPERS)
+          A=$(fmt $AUTHORS)
+          C=$CATEGORIES
+          T=$TAGS
+
+          # Update badge URLs in README
+          sed -i "s|Papers-[0-9%2C]*-|Papers-${P}-|g" README.md
+          sed -i "s|Authors-[0-9%2C]*-|Authors-${A}-|g" README.md
+          sed -i "s|Categories-[0-9]*-|Categories-${C}-|g" README.md
+          sed -i "s|Tags-[0-9]*-|Tags-${T}-|g" README.md
+
+          # Update the ~N,NNN in the description text
+          PAPERS_COMMA=$(printf "%'d" $PAPERS)
+          sed -i "s|~[0-9,]* papers|~${PAPERS_COMMA} papers|g" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Auto-update README badges" && git push)
