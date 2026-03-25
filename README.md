@@ -19,7 +19,7 @@ Open [`Mind Map`](https://vasileios-bellos.github.io/research-library/) in any m
 The mind map offers four distinct visualisation modes, each designed for a different way of exploring the literature.
 
 | View | Description |
-|------|-------------|
+|:----:|:------------|
 | **Tree** | Collapsible hierarchy of categories, subfolders, and papers. Click a category to expand and see its contents. Supports nested folder structures of arbitrary depth. |
 | **Clusters** | Force-directed graph with papers as nodes, clustered by category. The largest category sits at the centre, with the rest arranged radially. Zoom and drag to explore. |
 | **Network** | Co-authorship network built from CrossRef metadata. Node size reflects paper count; links represent co-authored publications. Search for any author to highlight their connections. |
@@ -28,7 +28,7 @@ The mind map offers four distinct visualisation modes, each designed for a diffe
 ## Features
 
 | Feature | Description |
-|---------|-------------|
+|:-------:|:------------|
 | **Search** | Fuzzy search across titles, authors, and years with instant results |
 | **Category filter** | Toggle categories on/off in the sidebar. Clear all / select all shortcut. |
 | **Tag filter** | 76 domain-specific keyword tags with search. AND logic - selecting multiple tags narrows the results. |
