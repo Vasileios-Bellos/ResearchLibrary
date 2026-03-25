@@ -26,14 +26,11 @@
             --shadow: 0 4px 24px rgba(0,0,0,0.4);
         }
 
-        html { overflow: hidden; }
         body {
-            margin: 0;
             font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
             background: var(--bg-primary);
             color: var(--text-primary);
             overflow: hidden;
-            max-width: 100vw;
             height: 100vh;
             height: 100dvh;
         }
@@ -2385,7 +2382,11 @@
 
             // Re-render on window resize (debounced)
             let resizeTimer;
+            let lastWidth = window.innerWidth;
             window.addEventListener('resize', () => {
+                // Skip if only height changed (mobile keyboard)
+                if (window.innerWidth === lastWidth) return;
+                lastWidth = window.innerWidth;
                 clearTimeout(resizeTimer);
                 resizeTimer = setTimeout(() => renderView(state.currentView), 250);
             });
