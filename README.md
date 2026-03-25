@@ -6,7 +6,7 @@ An interactive mind map for exploring, filtering, and navigating my curated pers
 
 <div align="center">
 
-<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1%2C336-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1%2C420-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
+<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1%2C336-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1%2C419-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
 
 </div>
 
