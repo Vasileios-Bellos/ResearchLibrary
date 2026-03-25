@@ -2,11 +2,11 @@
 
 <h1 align="center"><a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Interactive_Mind_Map-3b82f6?style=flat" width="300"></a></h1>
 
-An interactive mind map for exploring, filtering, and navigating my curated personal collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualizes ~1,400 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
+An interactive mind map for exploring, filtering, and navigating my curated personal collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualizes ~1,300 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
 
 <div align="center">
 
-<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1%2C397-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1%2C545-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
+<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1%2C340-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1%2C426-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
 
 </div>
 
@@ -41,7 +41,7 @@ The mind map offers four distinct visualization modes, each designed for a diffe
 
 ## Data
 
-Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 963 of the 1,397 papers. The remaining papers use metadata parsed from filenames.
+Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 906 of the 1,340 papers. The remaining papers use metadata parsed from filenames.
 
 Tags are assigned from a controlled vocabulary of 76 keywords organized into six facets: **topic**, **theory**, **method**, **depth regime**, **structure type**, and **output type**. Each paper carries at least five tags.
 
