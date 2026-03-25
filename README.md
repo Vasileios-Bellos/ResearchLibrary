@@ -1,4 +1,6 @@
-<h1 align="right">📚 Research Library &nbsp;<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Live_Demo-Interactive_Mind_Map-3b82f6?style=flat" width="300"></a></h1>
+<h1 align="center">📚 Research Library 📚 &nbsp; </h1>
+
+<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Interactive_Mind_Map-3b82f6?style=flat" width="250"></a>
 
 An interactive mind map for exploring, filtering, and navigating my curated personal collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualizes ~1,400 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
 
