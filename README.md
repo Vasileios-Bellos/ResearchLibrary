@@ -14,7 +14,7 @@ An interactive mind map for exploring, filtering, and navigating my curated pers
 
 ## Quick Start
 
-Open [`Mind Map`](https://vasileios-bellos.github.io/research-library/) in any modern browser. No server, no installation, no dependencies - everything runs locally from just three files.
+Open [`Mind Map`](https://vasileios-bellos.github.io/ResearchLibrary/) in any modern browser. No server, no installation, no dependencies - everything runs locally from just three files.
 
 ## Views
 
