@@ -47,6 +47,10 @@ Tags are assigned from a controlled vocabulary of 76 keywords organized into six
 
 All data lives in `data.js` - a single JSON object loaded at startup. To adapt the mind map to a different paper collection, replace this file.
 
+## Automation
+
+The statistics in this README are kept in sync with `data.js` via a [GitHub Action](.github/workflows/update-badges.yml) that runs automatically on every push.
+
 ## File Structure
 
 ```
@@ -55,10 +59,6 @@ data.js          Paper metadata, categories, tags, author links, tree structure
 d3.v7.min.js     D3.js v7 (included locally for offline use)
 README.md
 ```
-
-## Automation
-
-The statistics in this README are kept in sync with `data.js` via a [GitHub Action](.github/workflows/update-badges.yml) that runs automatically on every push.
 
 ## Acknowledgements
 
