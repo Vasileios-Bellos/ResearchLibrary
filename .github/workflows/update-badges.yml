@@ -24,11 +24,12 @@ jobs:
 
           echo "Papers: $PAPERS, Authors: $AUTHORS, Categories: $CATEGORIES, Tags: $TAGS"
 
-          # Format numbers with commas (e.g. 1397 -> 1,397 -> URL encoded 1%2C397)
-          fmt() { printf "%'d" $1 | sed 's/,/%2C/g'; }
+          # Format numbers with commas for URL encoding (1397 -> 1%2C397)
+          urlfmt() { python3 -c "print(f'{int(\"$1\"):,}'.replace(',','%2C'))"; }
+          commafmt() { python3 -c "print(f'{int(\"$1\"):,}')"; }
 
-          P=$(fmt $PAPERS)
-          A=$(fmt $AUTHORS)
+          P=$(urlfmt $PAPERS)
+          A=$(urlfmt $AUTHORS)
           C=$CATEGORIES
           T=$TAGS
 
@@ -38,9 +39,9 @@ jobs:
           sed -i "s|Categories-[0-9]*-|Categories-${C}-|g" README.md
           sed -i "s|Tags-[0-9]*-|Tags-${T}-|g" README.md
 
-          # Update the ~N,NNN in the description text
-          PAPERS_COMMA=$(printf "%'d" $PAPERS)
-          sed -i "s|~[0-9,]* papers|~${PAPERS_COMMA} papers|g" README.md
+          # Update the ~N,NNN in the description text (rounded to nearest 100)
+          PAPERS_ROUND=$(python3 -c "print(f'{round(int(\"$PAPERS\"), -2):,}')")
+          sed -i "s|~[0-9,]* papers|~${PAPERS_ROUND} papers|g" README.md
 
       - name: Commit if changed
         run: |
