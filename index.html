@@ -32,6 +32,7 @@
             color: var(--text-primary);
             overflow: hidden;
             height: 100vh;
+            height: 100dvh;
         }
 
         /* ============================================================
@@ -42,6 +43,7 @@
             grid-template-rows: 60px 1fr;
             grid-template-columns: 280px 1fr 340px;
             height: 100vh;
+            height: 100dvh;
             gap: 0;
         }
 
@@ -738,9 +740,73 @@
                 grid-template-columns: 240px 1fr 300px;
             }
         }
+
+        /* Small screens: stack panels behind toggle buttons */
+        @media (max-width: 900px) {
+            body { height: 100dvh; }
+            .app {
+                grid-template-columns: 1fr;
+                grid-template-rows: 50px 1fr;
+                height: 100dvh;
+            }
+            .header {
+                grid-column: 1; padding: 0 12px;
+                flex-wrap: wrap; gap: 4px;
+                height: auto; min-height: 50px;
+            }
+            .header h1 { font-size: 14px; display: none; }
+            .header-stats { display: none; }
+            .search-container { flex: 1; min-width: 120px; }
+            .search-container input { font-size: 12px; padding: 4px 8px; }
+            .view-modes { gap: 2px; }
+            .view-btn { font-size: 11px; padding: 4px 8px; }
+            .sidebar {
+                position: fixed; left: 0; top: 50px; bottom: 0; width: 280px;
+                z-index: 100; transform: translateX(-100%);
+                transition: transform 0.25s ease;
+                border-right: 1px solid var(--border);
+            }
+            .sidebar.mobile-open { transform: translateX(0); }
+            #detailPanel {
+                position: fixed; right: 0; top: 50px; bottom: 0; width: 320px;
+                z-index: 100; transform: translateX(100%);
+                transition: transform 0.25s ease;
+                border-left: 1px solid var(--border);
+            }
+            #detailPanel.mobile-open { transform: translateX(0); }
+            #mainView { grid-column: 1; }
+            .mobile-toggle {
+                display: flex !important;
+                position: fixed; z-index: 101;
+                width: 36px; height: 36px; border-radius: 8px;
+                background: var(--bg-card); border: 1px solid var(--border);
+                color: var(--text-secondary); cursor: pointer;
+                align-items: center; justify-content: center; font-size: 18px;
+                top: 58px;
+            }
+            .mobile-toggle.left { left: 8px; }
+            .mobile-toggle.right { right: 8px; }
+            .mobile-overlay {
+                display: block !important;
+                position: fixed; inset: 0; z-index: 99;
+                background: rgba(0,0,0,0.4);
+                opacity: 0; pointer-events: none;
+                transition: opacity 0.25s ease;
+            }
+            .mobile-overlay.active { opacity: 1; pointer-events: auto; }
+        }
+
+        /* Desktop: hide mobile controls */
+        .mobile-toggle { display: none; }
+        .mobile-overlay { display: none; }
     </style>
 </head>
 <body>
+    <!-- Mobile toggle buttons and overlay -->
+    <button class="mobile-toggle left" id="mobileFilterBtn">☰</button>
+    <button class="mobile-toggle right" id="mobileDetailBtn">ℹ</button>
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+
     <div class="app">
         <!-- Header -->
         <div class="header">
@@ -853,6 +919,30 @@
     }
 
     function init() {
+        // Mobile panel toggles
+        const sidebar = document.querySelector('.sidebar');
+        const detailPanel = document.getElementById('detailPanel');
+        const overlay = document.getElementById('mobileOverlay');
+        const filterBtn = document.getElementById('mobileFilterBtn');
+        const detailBtn = document.getElementById('mobileDetailBtn');
+
+        function closeMobilePanels() {
+            sidebar.classList.remove('mobile-open');
+            detailPanel.classList.remove('mobile-open');
+            overlay.classList.remove('active');
+        }
+        filterBtn.addEventListener('click', () => {
+            const opening = !sidebar.classList.contains('mobile-open');
+            closeMobilePanels();
+            if (opening) { sidebar.classList.add('mobile-open'); overlay.classList.add('active'); }
+        });
+        detailBtn.addEventListener('click', () => {
+            const opening = !detailPanel.classList.contains('mobile-open');
+            closeMobilePanels();
+            if (opening) { detailPanel.classList.add('mobile-open'); overlay.classList.add('active'); }
+        });
+        overlay.addEventListener('click', closeMobilePanels);
+
         // Set slider range from data
         const yr = LIBRARY_DATA.stats.yearRange;
         const minEl = document.getElementById('yearMin');
