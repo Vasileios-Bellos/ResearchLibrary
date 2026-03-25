@@ -1,10 +1,10 @@
 <h1 align="center">📚 Research Library &nbsp;<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Live_Demo-Interactive_Mind_Map-3b82f6?style=flat" width="300"></a></h1>
 
-An interactive mind map for exploring, filtering, and navigating my curated personal collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualizes ~1396 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
+An interactive mind map for exploring, filtering, and navigating my curated personal collection of scientific research papers. Built with [D3.js](https://d3js.org), it visualizes ~1397 papers in coastal and ocean wave science - though the framework is domain-agnostic and can be adapted to any research field.
 
 <div align="center">
 
-<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1396-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1544-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
+<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1397-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1545-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
 
 </div>
 
