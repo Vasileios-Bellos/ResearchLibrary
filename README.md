@@ -39,7 +39,7 @@ The mind map offers four distinct visualization modes, each designed for a diffe
 
 ## Data
 
-Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 967 of the 1,396 papers. The remaining papers use metadata parsed from filenames.
+Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 963 of the 1,397 papers. The remaining papers use metadata parsed from filenames.
 
 Tags are assigned from a controlled vocabulary of 76 keywords organized into six facets: **topic**, **theory**, **method**, **depth regime**, **structure type**, and **output type**. Each paper carries at least five tags.
 
@@ -50,7 +50,7 @@ All data lives in `data.js` - a single JSON object loaded at startup. To adapt t
 ```
 index.html       Main application (single-page, self-contained)
 data.js          Paper metadata, categories, tags, author links, tree structure
-d3.v7.min.js     D3.js v7 (vendored for offline use)
+d3.v7.min.js     D3.js v7 (included locally for offline use)
 README.md
 ```
 

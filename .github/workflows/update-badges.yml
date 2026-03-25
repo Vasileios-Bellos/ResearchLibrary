@@ -41,7 +41,19 @@ jobs:
 
           # Update the ~N,NNN in the description text (rounded to nearest 100)
           PAPERS_ROUND=$(python3 -c "print(f'{round(int(\"$PAPERS\"), -2):,}')")
-          sed -i "s|~[0-9,]* papers|~${PAPERS_ROUND} papers|g" README.md
+          sed -i "s|~[0-9,]* papers in|~${PAPERS_ROUND} papers in|g" README.md
+
+          # Count enriched papers (those with DOI) and update Data section
+          ENRICHED=$(python3 -c "
+          import json
+          data = json.loads(open('data.js').read().replace('const LIBRARY_DATA = ','').rstrip(';'))
+          print(sum(1 for p in data['papers'] if p.get('doi')))
+          ")
+          PAPERS_COMMA=$(commafmt $PAPERS)
+          sed -i "s|for [0-9,]* of the [0-9,]* papers|for ${ENRICHED} of the ${PAPERS_COMMA} papers|g" README.md
+
+          # Update tag count in text
+          sed -i "s|vocabulary of [0-9]* keywords|vocabulary of ${T} keywords|g" README.md
 
       - name: Commit if changed
         run: |
