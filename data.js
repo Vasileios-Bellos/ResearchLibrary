@@ -2484,7 +2484,7 @@ const LIBRARY_DATA = {
       "title": "Spatial Evolution of Skewness and Kurtosis of Unidirectional Extreme Waves Propagating over a Sloping Beach",
       "filename": "Abroug et al. (2022)_Spatial Evolution of Skewness and Kurtosis of Unidirectional Extreme Waves Propagating over a Sloping Beach.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse10101475",
@@ -2506,7 +2506,7 @@ const LIBRARY_DATA = {
       "title": "Generalized Boccotti distribution for nonlinear wave heights",
       "filename": "Alkhalidi and Tayfun (2013)_Generalized Boccotti distribution for nonlinear wave heights.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2013.09.014",
@@ -2529,7 +2529,7 @@ const LIBRARY_DATA = {
       "title": "Three-dimensional nonlinear random wave groups in intermediate water depth",
       "filename": "Arena et al (2008)_Three-dimensional nonlinear random wave groups in intermediate water depth.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2008.04.002",
@@ -2551,7 +2551,7 @@ const LIBRARY_DATA = {
       "title": "Weakly Nonlinear Water Waves Propagating over Uneven Bottoms",
       "filename": "Baldock, Swan and Taylor (1996)_A laboratory study of nonlinear surface waves on water surface on waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Dynamics of Surface Waves in Coastal Waters",
       "doi": "10.1007/978-3-540-88831-4_2",
@@ -2571,7 +2571,7 @@ const LIBRARY_DATA = {
       "title": "A laboratory study of nonlinear surface waves on water",
       "filename": "Baldock, Swan and Taylor (1996)_A Laboratory Study of Nonlinear Surface Waves on Water.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rsta.1996.0022",
@@ -2591,7 +2591,7 @@ const LIBRARY_DATA = {
       "title": "A laboratory study of nonlinear surface waves on water",
       "filename": "Baldock, Swan and Taylor (1996)_A Laboratory Study of Nonlinear Surface Waves on Water_highlighted.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rsta.1996.0022",
@@ -2611,7 +2611,7 @@ const LIBRARY_DATA = {
       "title": "A laboratory study of nonlinear surface waves on water",
       "filename": "Baldock, Swan and Taylor (1996)_A laboratory study of nonlinear surface waves on water_original.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rsta.1996.0022",
@@ -2631,7 +2631,7 @@ const LIBRARY_DATA = {
       "title": "Extreme ocean waves. Part I. The practical application of fully nonlinear wave modelling",
       "filename": "Bateman, Katsardi and Swan (2012)_Extreme ocean waves. Part I. The practical application of fully nonlinear wave modelling.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -2651,7 +2651,7 @@ const LIBRARY_DATA = {
       "title": "Spatial bright and dark similaritons on cnoidal wave backgrounds in 2D waveguides with different distributed transverse diffractions",
       "filename": "Dai and Xu (2013)_Spatial bright and dark similaritons on cnoidal wave backgrounds in 2D waveguides with different distributed transverse diffractions.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Optics Communications",
       "doi": "10.1016/j.optcom.2013.08.032",
@@ -2671,7 +2671,7 @@ const LIBRARY_DATA = {
       "title": "A note on finite depth second-order wave–wave interactions",
       "filename": "Dalzell (1999)_A note on finite depth second-order wave–wave interactions.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/s0141-1187(99)00008-5",
@@ -2691,7 +2691,7 @@ const LIBRARY_DATA = {
       "title": "Application of Stream Function Wave Theory to Offshore Design Problems",
       "filename": "Dean (1965)_Stream function wave theory_Validity and application.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Offshore Technology Conference",
       "doi": "10.4043/1613-ms",
@@ -2711,7 +2711,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear wave evolution with data-driven breaking",
       "filename": "Eeltink et al. (2022)_Nonlinear wave evolution with data-driven breaking.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Nature Communications",
       "doi": "10.1038/s41467-022-30025-z",
@@ -2731,7 +2731,7 @@ const LIBRARY_DATA = {
       "title": "Weakly nonlinear statistics of high random waves",
       "filename": "Fedele & Arena (2005)_Weakly nonlinear statistics of high random waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Physics of Fluids",
       "doi": "10.1063/1.1831311",
@@ -2751,7 +2751,7 @@ const LIBRARY_DATA = {
       "title": "Kinematics of fluid particles on the sea surface_Hamiltonian theory",
       "filename": "Fedele et al. (2016)_Kinematics of fluid particles on the sea surface_Hamiltonian theory.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -2769,7 +2769,7 @@ const LIBRARY_DATA = {
       "title": "Analysis of higher harmonics in a focused water wave group by a nonlinear potential flow model",
       "filename": "Feng (2019)_Analysis of higher harmonics in a focused water wave group by a nonlinear potential flow model.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2019.106581",
@@ -2791,7 +2791,7 @@ const LIBRARY_DATA = {
       "title": "The Cnoidal Theory Of Water Waves",
       "filename": "Fenton (1998)_The Cnoidal Theory of Water Waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Developments in Offshore Engineering",
       "doi": "10.1016/b978-088415380-1/50021-2",
@@ -2811,7 +2811,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear effects on shoaling surface gravity waves",
       "filename": "Freilich, Guza_1984_Nonlinear effects on shoaling surface gravity waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences",
       "doi": "10.1098/rsta.1984.0019",
@@ -2831,7 +2831,7 @@ const LIBRARY_DATA = {
       "title": "Higher-order solutions of a matrix AKNS system associated with a Hermitian symmetric space",
       "filename": "Geng et al. (2019)_Higher-order solutions of a matrix AKNS system associated with a Hermitian symmetric space.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Physics Letters A",
       "doi": "10.1016/j.physleta.2019.06.050",
@@ -2851,7 +2851,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Interactions in Crossing Sea States",
       "filename": "Hadjigeorgiou_Unknown_Nonlinear Wave Interactions in Realistic Sea States.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Volume 3: Structures, Safety and Reliability",
       "doi": "10.1115/omae2015-41400",
@@ -2869,7 +2869,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Interactions in Crossing Sea States",
       "filename": "Hadjigeorgiou_Unknown_Nonlinear Wave Interactions in Realistic Sea States_highlighted.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Volume 3: Structures, Safety and Reliability",
       "doi": "10.1115/omae2015-41400",
@@ -2887,7 +2887,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear-wave effects on fixed and floating bodies",
       "filename": "Isaacson_Nonlinearwave_effects_on_fixed_and_floating_bodies.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112082002766",
@@ -2907,7 +2907,7 @@ const LIBRARY_DATA = {
       "title": "Characteristic Velocities for Higher-Order Stokes Waves in Deep Water",
       "filename": "Jonsson and Steenber (1999)_Characteristic Velocities for Higher-Order Stokes Waves in Deep Water.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
       "doi": "10.1061/(asce)0733-950x(1999)125:3(109)",
@@ -2927,7 +2927,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Effects on Wave Groups in Random Seas",
       "filename": "Kriebel & Dawson (1991)_Nonlinear Effects on Wave Groups in Random Seas.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Journal of Offshore Mechanics and Arctic Engineering",
       "doi": "10.1115/1.2919910",
@@ -2947,7 +2947,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Wave Transformation in Coastal Zone: Free and Bound Waves",
       "filename": "Kuznetsov and Saprykina (2021)_Nonlinear Wave Transformation in Coastal Zone_Free and Bound Waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Fluids",
       "doi": "10.3390/fluids6100347",
@@ -2968,7 +2968,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Wave Transformation in Coastal Zone: Free and Bound Waves",
       "filename": "Kuznetsov and Saprykina (2021)_Nonlinear Wave Transformation in Coastal Zone_Free and Bound Waves_highlighted.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Fluids",
       "doi": "10.3390/fluids6100347",
@@ -2989,7 +2989,7 @@ const LIBRARY_DATA = {
       "title": "A new method for the generation of second-order random waves",
       "filename": "Leuuwen & Klopman (1996)_A new method for the generation of second-order random waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(95)00027-5",
@@ -3009,7 +3009,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear dispersion relations",
       "filename": "Ludu and Kevrekidis (2017)_Nonlinear dispersion relations.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -3028,7 +3028,7 @@ const LIBRARY_DATA = {
       "title": "Bound waves and triad interactions in shallow water",
       "filename": "Madsen and Sorensen (1993)_Bound waves and triad interactions in shallow water.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(93)90002-y",
@@ -3048,7 +3048,7 @@ const LIBRARY_DATA = {
       "title": "MadsenFuhrman2006",
       "filename": "MadsenFuhrman2006.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -3065,7 +3065,7 @@ const LIBRARY_DATA = {
       "title": "A fully nonlinear wave model to account for breaking wave impact loads on offshore wind turbines",
       "filename": "Marino et al. (2011)_A fully nonlinear wave model to account for breaking wave impact loads on offshore wind turbines.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -3089,7 +3089,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Effects in Water Wave Diffraction",
       "filename": "Monsalve (2017)_Experimental study of water waves_nonlinear effects and absorption.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Nonlinear Water Waves",
       "doi": "10.1007/978-3-642-83331-1_1",
@@ -3109,7 +3109,7 @@ const LIBRARY_DATA = {
       "title": "Proof of Modulational Instability of Stokes Waves in Deep Water",
       "filename": "Nguyen and Strauss (2020)_Proof of modulational instability of Stokes waves in deep water.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Communications on Pure and Applied Mathematics",
       "doi": "10.1002/cpa.22073",
@@ -3129,7 +3129,7 @@ const LIBRARY_DATA = {
       "title": "Importance of second-order wave generation for focused wave group run-up and overtopping",
       "filename": "Orszaghova et al. (2014)_Importance of second-order wave generation for focused wave group run-up and overtopping.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2014.08.007",
@@ -3150,7 +3150,7 @@ const LIBRARY_DATA = {
       "title": "On some solitary and cnoidal wave diffraction solutions of the Green–Naghdi equations",
       "filename": "Seiffert and Ertekin (2015)_Laboratory Generation of Solitary and Cnoidal Waves by the Green-Naghdi Equations.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2014.04.005",
@@ -3170,7 +3170,7 @@ const LIBRARY_DATA = {
       "title": "Second-Order Directional Seas and Associated Wave Forces",
       "filename": "Sharma, Dean - 1981 - Second-order directional seas and associated wave forces.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Offshore Technology Conference",
       "doi": "10.4043/3645-ms",
@@ -3190,7 +3190,7 @@ const LIBRARY_DATA = {
       "title": "Effect of the initial spectrum on the spatial evolution of statistics of unidirectional nonlinear random waves",
       "filename": "Shemer et al. (2010)_Effect of the initial spectrum on the spatial evolution of statistics of unidirectional nonlinear random waves.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Journal of Geophysical Research: Oceans",
       "doi": "10.1029/2010jc006326",
@@ -3213,7 +3213,7 @@ const LIBRARY_DATA = {
       "title": "Surface wave predictions in weakly nonlinear directional seas",
       "filename": "Simanesew et al. (2017)_Surface wave predictions in weakly nonlinear directional seas.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -3232,7 +3232,7 @@ const LIBRARY_DATA = {
       "title": "FIFTH ORDER GRAVITY WAVE THEORY",
       "filename": "Skjelbreia and Hendrickson (1960)_Fifth Order Gravity Wave Theory.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v7.10",
@@ -3252,7 +3252,7 @@ const LIBRARY_DATA = {
       "title": "FIFTH ORDER GRAVITY WAVE THEORY",
       "filename": "Skjelbreia et al. FIFTH ORDER GRAVITY WAVE THEORY.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v7.10",
@@ -3272,7 +3272,7 @@ const LIBRARY_DATA = {
       "title": "Second-order wave maker theory using force-feedback control. Part I. A new theory for regular wave generation",
       "filename": "Spinneken and Swan (2009)_Second-order wave maker theory using force-feedback control. Part I. A new theory for regular wave generation.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -3293,7 +3293,7 @@ const LIBRARY_DATA = {
       "title": "Second-order wave maker theory using force-feedback control. Part II: An experimental verification of regular wave generation",
       "filename": "Spinneken and Swan (2009b), Second-order wave maker theory using force-feedback control. Part II_An experimental verification of regular wave generation.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2009.01.007",
@@ -3315,7 +3315,7 @@ const LIBRARY_DATA = {
       "title": "Second-Order Wave Generation in Laboratory Bassins",
       "filename": "Steenberg and Schäffer (2000)_Second-Order Wave Generation in Laboratory Bassins.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Coastal Engineering 2000",
       "doi": "10.1061/40549(276)77",
@@ -3335,7 +3335,7 @@ const LIBRARY_DATA = {
       "title": "On weakly nonlinear modulation of waves on deep water",
       "filename": "Trulsen et al. (2000)_On weakly nonlinear modulation of waves on deep water.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Physics of Fluids",
       "doi": "10.1063/1.1287856",
@@ -3354,7 +3354,7 @@ const LIBRARY_DATA = {
       "title": "The evolution of free and bound waves during dispersive focusing in a numerical and physical flume",
       "filename": "Vyzikas et al. (2018)_The evolution of free and bound waves during dispersive focusing in a numerical and physical flume.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "",
       "doi": "",
@@ -3374,7 +3374,7 @@ const LIBRARY_DATA = {
       "title": "The evolution of free and bound waves during dispersive focusing in a numerical and physical flume",
       "filename": "Vyzikas et al. (2018)_The evolution of free and bound waves during dispersive focusing in a numerical and physical flume_highlighted.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2017.11.003",
@@ -3395,7 +3395,7 @@ const LIBRARY_DATA = {
       "title": "Analysis of the extreme wave elevation due to second-order diffraction around a vertical cylinder",
       "filename": "Wang and Low (2019)_Analysis of the extreme wave elevation due to second-order diffraction around a vertical cylinder.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2019.01.037",
@@ -3416,7 +3416,7 @@ const LIBRARY_DATA = {
       "title": "Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom",
       "filename": "Zeng & Trulsen (2012) Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Natural Hazards and Earth System Sciences",
       "doi": "10.5194/nhess-12-631-2012",
@@ -3437,7 +3437,7 @@ const LIBRARY_DATA = {
       "title": "Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom",
       "filename": "Zeng, Trulsen - 2012 - Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom-annotated.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Natural Hazards and Earth System Sciences",
       "doi": "10.5194/nhess-12-631-2012",
@@ -3458,7 +3458,7 @@ const LIBRARY_DATA = {
       "title": "Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom",
       "filename": "Zeng, Trulsen - 2012 - Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Natural Hazards and Earth System Sciences",
       "doi": "10.5194/nhess-12-631-2012",
@@ -3479,7 +3479,7 @@ const LIBRARY_DATA = {
       "title": "Hybrid wave model for unidirectional irregular waves—part I. Theory and numerical scheme",
       "filename": "Zhang et al. (1996)_ Hybrid wave model for unidirectional irregular waves - Part I. Theory and numerical scheme_highlighted.pdf",
       "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theories",
+      "categoryShort": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/0141-1187(96)00009-0",
@@ -21723,80 +21723,11 @@ const LIBRARY_DATA = {
     },
     {
       "author": "",
-      "year": 0,
-      "title": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3",
-      "filename": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "analysis",
-        "ocean-waves"
-      ],
-      "id": 1087
-    },
-    {
-      "author": "Eskey, Felixa",
-      "year": 2005,
-      "title": "Tech Talk",
-      "filename": "Christou_BEM_Tech_Talk_June2018.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "10.3998/mpub.114177",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1088
-    },
-    {
-      "author": "Harvey",
-      "year": 2009,
-      "title": "Lecture 13_Triad (or 3-wave) resonances",
-      "filename": "Harvey (2009)_Lecture 13_Triad (or 3-wave) resonances.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves",
-        "wave-interactions"
-      ],
-      "id": 1089
-    },
-    {
-      "author": "Kouskoulas et al.",
-      "year": 2020,
-      "title": "Deep water gravity wave triad resonances on uniform flow",
-      "filename": "Lecture 12_Triad (or 3-wave) resonances.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Physics of Fluids",
-      "doi": "10.1063/5.0012631",
-      "hasAnnotation": false,
-      "tags": [
-        "deep-water",
-        "nonlinear",
-        "ocean-waves",
-        "wave-interactions"
-      ],
-      "id": 1090
-    },
-    {
-      "author": "",
       "year": 1975,
       "title": "Shore protection manual",
       "filename": "Shore Protection Manual Volume 1.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "10.5962/bhl.title.47830",
@@ -21806,18 +21737,92 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1091
+      "id": 1087
     },
     {
       "author": "",
       "year": 1975,
       "title": "Shore protection manual",
       "filename": "Shore Protection Manual Volume 2.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "10.5962/bhl.title.47830",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference"
+      ],
+      "id": 1088
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Where-Sun-Meets-Water-Floating-Solar-Handbook-for-Practitioners",
+      "filename": "Where-Sun-Meets-Water-Floating-Solar-Handbook-for-Practitioners.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference"
+      ],
+      "id": 1089
+    },
+    {
+      "author": "Andersen, Eldrup, Frigaard",
+      "year": 2020,
+      "title": "Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves",
+      "filename": "Andersen, Eldrup, Frigaard - 2020 - Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference"
+      ],
+      "id": 1090
+    },
+    {
+      "author": "Athanassoulis, Belibassakis",
+      "year": 1999,
+      "title": "A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b",
+      "filename": "Athanassoulis, Belibassakis - 1999 - A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-propagation"
+      ],
+      "id": 1091
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "athanassoulis1",
+      "filename": "athanassoulis1.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "",
+      "doi": "",
       "hasAnnotation": false,
       "tags": [
         "book-chapter",
@@ -21829,10 +21834,10 @@ const LIBRARY_DATA = {
     {
       "author": "",
       "year": 0,
-      "title": "Where-Sun-Meets-Water-Floating-Solar-Handbook-for-Practitioners",
-      "filename": "Where-Sun-Meets-Water-Floating-Solar-Handbook-for-Practitioners.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "title": "athanassoulis1_v1",
+      "filename": "athanassoulis1_v1.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -21845,12 +21850,12 @@ const LIBRARY_DATA = {
       "id": 1093
     },
     {
-      "author": "Andersen, Eldrup, Frigaard",
-      "year": 2020,
-      "title": "Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves",
-      "filename": "Andersen, Eldrup, Frigaard - 2020 - Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "author": "",
+      "year": 0,
+      "title": "baldock",
+      "filename": "baldock.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -21863,86 +21868,12 @@ const LIBRARY_DATA = {
       "id": 1094
     },
     {
-      "author": "Athanassoulis, Belibassakis",
-      "year": 1999,
-      "title": "A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b",
-      "filename": "Athanassoulis, Belibassakis - 1999 - A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "analytical",
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "wave-propagation"
-      ],
-      "id": 1095
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "athanassoulis1",
-      "filename": "athanassoulis1.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 1096
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "athanassoulis1_v1",
-      "filename": "athanassoulis1_v1.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 1097
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "baldock",
-      "filename": "baldock.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 1098
-    },
-    {
       "author": "",
       "year": 0,
       "title": "baldock2",
       "filename": "baldock2.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -21952,15 +21883,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1099
+      "id": 1095
     },
     {
       "author": "DONGEREN et al.",
       "year": 2005,
       "title": "SHOALING AND SHORELINE DISSIPATION OF SUBHARMONIC GRAVITY WAVES",
       "filename": "Battjes - 2004 - Shoaling of subharmonic gravity waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering 2004",
       "doi": "10.1142/9789812701916_0097",
@@ -21973,15 +21904,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 1100
+      "id": 1096
     },
     {
       "author": "",
       "year": 0,
       "title": "belibass2",
       "filename": "belibass2.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -21991,15 +21922,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1101
+      "id": 1097
     },
     {
       "author": "Belibassakis et al.",
       "year": 2019,
       "title": "A Nonlinear Coupled-Mode Model for Waves Propagating in Vertically Sheared Currents in Variable Bathymetry—Collinear Waves and Currents",
       "filename": "Belibassakis_&_Touboul_2019[6183].pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Fluids",
       "doi": "10.3390/fluids4020061",
@@ -22013,15 +21944,15 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 1102
+      "id": 1098
     },
     {
       "author": "Bender et al.",
       "year": 2005,
       "title": "Wave transformation by axisymmetric three-dimensional bathymetric anomalies with gradual transitions in depth",
       "filename": "Bender, Dean - 2005 - Wave transformation by axisymmetric three-dimensional bathymetric anomalies with gradual transitions in depth.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2004.12.005",
@@ -22033,15 +21964,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 1103
+      "id": 1099
     },
     {
       "author": "Vrbancich, Julian",
       "year": 2012,
       "title": "Airborne Electromagnetic Bathymetry",
       "filename": "Blondel (2012)_Bathymetry and Its Applications.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Bathymetry and Its Applications",
       "doi": "10.5772/34106",
@@ -22050,15 +21981,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1104
+      "id": 1100
     },
     {
       "author": "Boccotti et al.",
       "year": 1993,
       "title": "An experiment at sea on the reflection of the wind waves",
       "filename": "Boccotti et al. (1993)_An experiment at sea on the reflection of the wind waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(93)90017-c",
@@ -22071,15 +22002,15 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wind-waves"
       ],
-      "id": 1105
+      "id": 1101
     },
     {
       "author": "Desmons et al.",
       "year": 2022,
       "title": "Numerical Simulations of Waves Breaking over a Rectangular Submerged Reef Consisting of a Double Step: Analogies with massive Natural Wave Breaking over Abrupt Bathymetries",
       "filename": "Bolles - 2017 - Water Waves Over a Step Experiments , Simulations , and Freak Events.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Water Waves",
       "doi": "10.1007/s42286-022-00067-3",
@@ -22091,15 +22022,15 @@ const LIBRARY_DATA = {
         "reef",
         "wave-breaking"
       ],
-      "id": 1106
+      "id": 1102
     },
     {
       "author": "Bolles et al.",
       "year": 2019,
       "title": "Anomalous wave statistics induced by abrupt depth change",
       "filename": "Bolles et al. (2018)_Anomalous wave statistics induced by abrupt depth change.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Physical Review Fluids",
       "doi": "10.1103/physrevfluids.4.011801",
@@ -22111,15 +22042,15 @@ const LIBRARY_DATA = {
         "review",
         "statistical"
       ],
-      "id": 1107
+      "id": 1103
     },
     {
       "author": "",
       "year": 2011,
       "title": "Wave-breaking probability",
       "filename": "Breaking and Dissipation of Ocean Surface Waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Breaking and Dissipation of Ocean Surface Waves",
       "doi": "10.1017/cbo9780511736162.006",
@@ -22131,15 +22062,15 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-breaking"
       ],
-      "id": 1108
+      "id": 1104
     },
     {
       "author": "KARPMAN, V.I.",
       "year": 1975,
       "title": "Non-linear stationary waves",
       "filename": "Brorsen (2007)_Non-linear_Waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Non-Linear Waves in Dispersive Media",
       "doi": "10.1016/b978-0-08-017720-5.50007-5",
@@ -22151,15 +22082,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1109
+      "id": 1105
     },
     {
       "author": "Chang et al.",
       "year": 2003,
       "title": "A two-point method for estimating wave reflection over a sloping beach",
       "filename": "Chang & Hsu (2003)_A two-point method for estimating wavereflection over a sloping beach.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/s0029-8018(03)00017-9",
@@ -22172,15 +22103,15 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1110
+      "id": 1106
     },
     {
       "author": "Christou et al.",
       "year": 2009,
       "title": "The reflection of nonlinear irregular surface water waves",
       "filename": "Christou, Hague, Swan - 2009 - The reflection of nonlinear irregular surface water waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Engineering Analysis with Boundary Elements",
       "doi": "10.1016/j.enganabound.2008.10.005",
@@ -22193,15 +22124,15 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-reflection"
       ],
-      "id": 1111
+      "id": 1107
     },
     {
       "author": "COOKER et al.",
       "year": 1997,
       "title": "Reflection of a high-amplitude solitary wave \n\nat a vertical wall",
       "filename": "Cooker et al. (1997)_Reflection of a high-amplitude solitary wave at a vetical wall.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s002211209700551x",
@@ -22213,15 +22144,15 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-reflection"
       ],
-      "id": 1112
+      "id": 1108
     },
     {
       "author": "Craciunescu et al.",
       "year": 2020,
       "title": "Wave breaking energy dissipation in long-crested focused wave groups based on JONSWAP spectra",
       "filename": "Craciunescu & Christou (2020)_Wave breaking energy dissipation in long-crested focused wave groups based on JONSWAP spectra.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2020.102144",
@@ -22235,15 +22166,15 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-spectrum"
       ],
-      "id": 1113
+      "id": 1109
     },
     {
       "author": "Dean et al.",
       "year": 1991,
       "title": "Water Wave Mechanics for Engineers and Scientists",
       "filename": "Dean_and_Dalrymple_Water-wave-mechanics-for-engineers-and-scientists.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Advanced Series on Ocean Engineering",
       "doi": "10.1142/1232",
@@ -22255,15 +22186,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-forces"
       ],
-      "id": 1114
+      "id": 1110
     },
     {
       "author": "Jones et al.",
       "year": 2008,
       "title": "Recognition Memory for Who and With Whom",
       "filename": "Dennis-G.-Zill-Advanced-Engineering-Mathematics-2016-Jones-Bartlett.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "PsycEXTRA Dataset",
       "doi": "10.1037/e527312012-065",
@@ -22273,15 +22204,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1115
+      "id": 1111
     },
     {
       "author": "Dong et al.",
       "year": 2008,
       "title": "Cross-shore variations of wave groupiness by wavelet transform",
       "filename": "Dong et al. (2007)_Cross-shore variations of wave groupiness by wavelet transform.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2007.12.004",
@@ -22294,15 +22225,15 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 1116
+      "id": 1112
     },
     {
       "author": "Draycott et al.",
       "year": 2016,
       "title": "The SPAIR method: Isolating incident and reflected directional wave spectra in multidirectional wave basins",
       "filename": "Draycott et al._2015_The SPAIR method Isolating incident and reflected directional wave spectra in multidirection.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2016.04.012",
@@ -22316,15 +22247,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1117
+      "id": 1113
     },
     {
       "author": "Elgar et al.",
       "year": 1994,
       "title": "Reflection of Ocean Surface Gravity Waves from a Natural Beach",
       "filename": "Elgar et al. (1994)_Reflection of Ocean Surface Gravity Wsaves from a Natural Beach.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/1520-0485(1994)024<1503:roosgw>2.0.co;2",
@@ -22336,15 +22267,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 1118
+      "id": 1114
     },
     {
       "author": "Fenton et al.",
       "year": 1980,
       "title": "Accurate Numerical Solutions for Nonlinear Waves",
       "filename": "Fenton and Rienecker (1980)_ACCURATE NUMERICAL SOLUTIONS FOR NONLINEAR WAVES.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering 1980",
       "doi": "10.1061/9780872622647.002",
@@ -22357,15 +22288,15 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-propagation"
       ],
-      "id": 1119
+      "id": 1115
     },
     {
       "author": "Frigaard et al.",
       "year": 1995,
       "title": "A time-domain method for separating incident and reflected irregular waves",
       "filename": "Frigaard, Brorsen - 1995 - A time-domain method for separating incident and reflected irregular waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(94)00035-v",
@@ -22378,15 +22309,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1120
+      "id": 1116
     },
     {
       "author": "Frigaard et al.",
       "year": 1995,
       "title": "A time-domain method for separating incident and reflected irregular waves",
       "filename": "Frigaard, Peter Bak, Michael - 1993 - A Time-Domain Method for Separating Incident and Reflected Irregular Waves Frigaard , Peter Bak B.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(94)00035-v",
@@ -22399,15 +22330,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1121
+      "id": 1117
     },
     {
       "author": "Gaillard et al.",
       "year": 1980,
       "title": "Method of Analysis of Random Wave Experiments with Reflecting Coastal Structures",
       "filename": "Gaillard et al. (1980)_Method of analysis of random wave experiments with reflecting coastal structures.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering 1980",
       "doi": "10.1061/9780872622647.011",
@@ -22422,15 +22353,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1122
+      "id": 1118
     },
     {
       "author": "Goda & Abe",
       "year": 1968,
       "title": "Apparent coefficients of partial reflection of finite amplitude waves",
       "filename": "Goda & Abe (1968)_Apparent coefficients of partial reflection of finite amplitude waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22441,15 +22372,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1123
+      "id": 1119
     },
     {
       "author": "Goda et al.",
       "year": 1977,
       "title": "Estimation of Incident and Reflected Waves in Random Wave Experiments",
       "filename": "Goda & Suzuki (1976) - Estimation of incident and reflected waves in random wave experiments.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering 1976",
       "doi": "10.1061/9780872620834.048",
@@ -22462,15 +22393,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1124
+      "id": 1120
     },
     {
       "author": "Gorrell et al.",
       "year": 2011,
       "title": "SWAN predictions of waves observed in shallow water onshore of complex bathymetry",
       "filename": "Gorrell et al. - 2011 - SWAN predictions of waves observed in shallow water onshore of complex bathymetry.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2011.01.013",
@@ -22483,15 +22414,15 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1125
+      "id": 1121
     },
     {
       "author": "Gramstad et al.",
       "year": 2013,
       "title": "Freak waves in weakly nonlinear unidirectional wave trains over a sloping bottom in shallow water",
       "filename": "Gramstad et al. - 2013 - Freak waves in weakly nonlinear unidirectional wave trains over a sloping bottom in shallow water.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22506,15 +22437,15 @@ const LIBRARY_DATA = {
         "unidirectional",
         "varying-depth"
       ],
-      "id": 1126
+      "id": 1122
     },
     {
       "author": "Grimshaw et al.",
       "year": 2009,
       "title": "Lecture 6 Derivation of the KdV equation for surface and internal waves Derivation for surface and internal wa",
       "filename": "Grimshaw et al. - 2009 - Lecture 6 Derivation of the KdV equation for surface and internal waves Derivation for surface and internal wa.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22525,15 +22456,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1127
+      "id": 1123
     },
     {
       "author": "Grue, John",
       "year": 1992,
       "title": "Nonlinear water waves at a submerged obstacle or bottom topography",
       "filename": "Grue(1992)_Nonlinear water waves at a submerged obstacle or bottom topography.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112092003148",
@@ -22545,15 +22476,15 @@ const LIBRARY_DATA = {
         "nonlinear",
         "varying-depth"
       ],
-      "id": 1128
+      "id": 1124
     },
     {
       "author": "Holthuijsen, Leo H.",
       "year": 2007,
       "title": "Waves in Oceanic and Coastal Waters",
       "filename": "Holthuijsen-Waves-in-Oceanic-and-Coastal-Waters.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "10.1017/cbo9780511618536",
@@ -22564,15 +22495,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1129
+      "id": 1125
     },
     {
       "author": "Hsu et al.",
       "year": 2001,
       "title": "A parabolic equation extended to account for rapidly varying topography",
       "filename": "Hsu & Wen (2001)_A parabolic equation extended to account for rapidly varying topography.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/s0029-8018(00)00070-6",
@@ -22584,15 +22515,15 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-forces"
       ],
-      "id": 1130
+      "id": 1126
     },
     {
       "author": "Huang et al.",
       "year": 2003,
       "title": "Experiments on the reflection coefficients of a detached breakwater in a directional wave field",
       "filename": "Huang et al. (2003)_Experiments on the reflection coefficients of a detached breakwater in a directional wave field.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/s0378-3839(02)00129-1",
@@ -22606,15 +22537,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1131
+      "id": 1127
     },
     {
       "author": "Huang, M.-C.",
       "year": 2004,
       "title": "Wave parameters and functions in wavelet analysis",
       "filename": "Huang(2002)_Wave parameters and functions in wavelet analysis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/s0029-8018(03)00047-7",
@@ -22626,15 +22557,15 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 1132
+      "id": 1128
     },
     {
       "author": "Huang, M.-C.",
       "year": 2004,
       "title": "Wave parameters and functions in wavelet analysis with filtering",
       "filename": "Huang(2003)_Wave parameters and functions in wavelet analysis with filtering.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2003.10.004",
@@ -22646,15 +22577,15 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 1133
+      "id": 1129
     },
     {
       "author": "Huang et al.",
       "year": 2002,
       "title": "A Study on the Determination of the Reflection Coefficient in a Directional Wave Field",
       "filename": "Huang, Yim, Chou - 2001 - A study on the determination of the reflection coefficient in a directional wave field.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Wave Measurement and Analysis (2001)",
       "doi": "10.1061/40604(273)41",
@@ -22666,15 +22597,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1134
+      "id": 1130
     },
     {
       "author": "Hughes, Steven A.",
       "year": 1993,
       "title": "Laboratory wave reflection analysis using co-located gages",
       "filename": "Hughes - 1993 - Laboratory wave reflection analysis using co-located gages.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(93)90003-q",
@@ -22687,15 +22618,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1135
+      "id": 1131
     },
     {
       "author": "Inch et al.",
       "year": 2017,
       "title": "Correcting wave reflection estimates in the coastal zone",
       "filename": "Inch et al. - 2017 - Correcting wave reflection estimates in the coastal zone.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2016.09.004",
@@ -22707,15 +22638,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1136
+      "id": 1132
     },
     {
       "author": "Iravani et al.",
       "year": 2020,
       "title": "Novel free surface boundary conditions for spilling breaking waves",
       "filename": "Iravani et al. (2020)_Novel free surface boundary conditions for spilling breaking waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103717",
@@ -22727,15 +22658,15 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 1137
+      "id": 1133
     },
     {
       "author": "Isaacson, Michael",
       "year": 1991,
       "title": "Measurement of Regular Wave Reflection",
       "filename": "Isaacson - 1991 - Measurement of regular wave reflection.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
       "doi": "10.1061/(asce)0733-950x(1991)117:6(553)",
@@ -22748,15 +22679,15 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1138
+      "id": 1134
     },
     {
       "author": "",
       "year": 0,
       "title": "kats",
       "filename": "kats.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22766,15 +22697,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1139
+      "id": 1135
     },
     {
       "author": "",
       "year": 0,
       "title": "kats2",
       "filename": "kats2.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22784,15 +22715,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1140
+      "id": 1136
     },
     {
       "author": "Kazolea et al.",
       "year": 2012,
       "title": "An unstructured finite volume numerical scheme for extended 2D Boussinesq-type equations",
       "filename": "Kazolea et al. - 2012 - An unstructured finite volume numerical scheme for extended 2D Boussinesq-type equations.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22804,15 +22735,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1141
+      "id": 1137
     },
     {
       "author": "Kijewski & Kareem",
       "year": 2003,
       "title": "Wavelet Transforms for System Identification in Civil Engineering",
       "filename": "Kijewski & Kareem (2003)_Wavelet Transforms for System Identification in Civil Engineering.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22824,15 +22755,15 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1142
+      "id": 1138
     },
     {
       "author": "Klopman et al.",
       "year": 1999,
       "title": "Random Wave Measurements in Front of Reflective Structures",
       "filename": "Klopman et al. - 1999 - Random Wave Measurements in Front of Reflective Structures.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -22844,15 +22775,15 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1143
+      "id": 1139
     },
     {
       "author": "Kuo et al.",
       "year": 2009,
       "title": "Using time-stack overlooking images to separate incident and reflected waves in wave flume",
       "filename": "Kuo et al. (2008)_Using time-stack overlooking images to separate incident and reflected waves in wave flume.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Wave Motion",
       "doi": "10.1016/j.wavemoti.2008.11.003",
@@ -22864,15 +22795,15 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-reflection"
       ],
-      "id": 1144
+      "id": 1140
     },
     {
       "author": "Pitt et al.",
       "year": 2022,
       "title": "Numerical scheme for the generalised Serre–Green–Naghdi model",
       "filename": "Le Métayer, Gavrilyuk, Hank - 2010 - A numerical scheme for the Green-Naghdi model.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Wave Motion",
       "doi": "10.1016/j.wavemoti.2022.103077",
@@ -22884,15 +22815,15 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1145
+      "id": 1141
     },
     {
       "author": "Li et al.",
       "year": 2012,
       "title": "Separation of free and bound harmonics in waves",
       "filename": "Li, Ting - 2012 - Separation of free and bound harmonics in waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2012.04.003",
@@ -22904,15 +22835,15 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-propagation"
       ],
-      "id": 1146
+      "id": 1142
     },
     {
       "author": "Lin et al.",
       "year": 2004,
       "title": "Decomposition of incident and reflected higher harmonic waves using four wave gauges",
       "filename": "Lin, Huang - 2004 - Decomposition of incident and reflected higher harmonic waves using four wave gauges.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2004.04.004",
@@ -22924,15 +22855,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1147
+      "id": 1143
     },
     {
       "author": "Liu et al.",
       "year": 2013,
       "title": "Wave reflection and transmission by porous breakwaters: A new analytical solution",
       "filename": "Liu, Li - 2013 - Wave reflection and transmission by porous breakwaters A new analytical solution.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2013.04.003",
@@ -22946,15 +22877,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1148
+      "id": 1144
     },
     {
       "author": "Longuet-Higgins, M. S.",
       "year": 1963,
       "title": "The effect of non-linearities on statistical distributions in the theory of sea waves",
       "filename": "Longuet-Higgins - 1963 - The effect of non-linearities on statistical distributions in the theory of sea waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112063001452",
@@ -22966,15 +22897,15 @@ const LIBRARY_DATA = {
         "nonlinear",
         "statistical"
       ],
-      "id": 1149
+      "id": 1145
     },
     {
       "author": "Longuet-Higgins et al.",
       "year": 1960,
       "title": "Changes in the form of short gravity waves on long waves and tidal currents",
       "filename": "Longuet-Higgins, Stewart - 1960 - Changes in the form of short gravity waves on long waves and tidal currents.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112060000803",
@@ -22986,15 +22917,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-current"
       ],
-      "id": 1150
+      "id": 1146
     },
     {
       "author": "Huuse et al.",
       "year": 2002,
       "title": "Reply to comment of P. Japsen et al. on “Cenozoic evolution of the eastern Danish North Sea”",
       "filename": "Lykke Andersen et al_2020.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Marine Geology",
       "doi": "10.1016/s0025-3227(02)00209-8",
@@ -23005,15 +22936,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1151
+      "id": 1147
     },
     {
       "author": "Das et al.",
       "year": 2023,
       "title": "Wave interaction with an elliptic disc submerged in a two-layer fluid",
       "filename": "Lynett & Philip (2004)_A two-layer approach to wave modelling.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Applied Mathematical Modelling",
       "doi": "10.1016/j.apm.2023.01.016",
@@ -23024,15 +22955,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-interactions"
       ],
-      "id": 1152
+      "id": 1148
     },
     {
       "author": "Ma et al.",
       "year": 2010,
       "title": "A new method for separation of 2D incident and reflected waves by the Morlet wavelet transform",
       "filename": "Ma et al. - 2010 - A new method for separation of 2D incident and reflected waves by the Morlet wavelet transform.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2010.01.002",
@@ -23045,15 +22976,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1153
+      "id": 1149
     },
     {
       "author": "Ma et al.",
       "year": 2011,
       "title": "Separation of obliquely incident and reflected irregular waves by the Morlet wavelet transform",
       "filename": "Ma, Dong, Ma - 2011 - Separation of obliquely incident and reflected irregular waves by the Morlet wavelet transform.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2011.03.014",
@@ -23068,15 +22999,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1154
+      "id": 1150
     },
     {
       "author": "Madsen et al.",
       "year": 1992,
       "title": "A new form of the Boussinesq equations with improved linear dispersion characteristics. Part 2. A slowly-varying bathymetry",
       "filename": "Madsen & Sorensen (1992)_A new form of the Boussinesq equations with improved linear dispersion characteristics. Part 2. A  slowly-varying bathymetry.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(92)90019-q",
@@ -23089,15 +23020,15 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1155
+      "id": 1151
     },
     {
       "author": "Majda et al.",
       "year": 2019,
       "title": "Statistical dynamical model to predict extreme events and anomalous features in shallow water waves with abrupt depth change",
       "filename": "Majda, Moore, Qi - 2019 - Statistical dynamical model to predict extreme events and anomalous features in shallow water waves with abrup.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Proceedings of the National Academy of Sciences",
       "doi": "10.1073/pnas.1820467116",
@@ -23109,15 +23040,15 @@ const LIBRARY_DATA = {
         "shallow-water",
         "statistical"
       ],
-      "id": 1156
+      "id": 1152
     },
     {
       "author": "Mallayachari et al.",
       "year": 1995,
       "title": "Standing wave pressures due to regular and random waves on a vertical wall",
       "filename": "Mallayachari & Sundar (1994)_Standing wave pressures due to regular and random waves on a vertical wall.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(95)00011-9",
@@ -23129,15 +23060,15 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-forces"
       ],
-      "id": 1157
+      "id": 1153
     },
     {
       "author": "Mansard et al.",
       "year": 1980,
       "title": "The Measurement of Incident and Reflected Spectra Using a Least Squares Method",
       "filename": "Mansard, Funke - 1980 - The Measurement of Incident and Reflected Spectra Using a Least Squares Method.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering 1980",
       "doi": "10.1061/9780872622647.008",
@@ -23150,15 +23081,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1158
+      "id": 1154
     },
     {
       "author": "Martins et al.",
       "year": 2017,
       "title": "The influence of swash-based reflection on surf zone hydrodynamics: a wave-by-wave approach",
       "filename": "Martins et al. - 2017 - The influence of swash-based reflection on surf zone hydrodynamics a wave-by-wave approach.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2017.01.006",
@@ -23171,15 +23102,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1159
+      "id": 1155
     },
     {
       "author": "Massel",
       "year": 2001,
       "title": "Wavelet analysis for processing of ocean surface wave records",
       "filename": "Massel(2001)_Wavelet analysis for processing of ocean surface wave records.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23191,15 +23122,15 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1160
+      "id": 1156
     },
     {
       "author": "Medina",
       "year": 2001,
       "title": "ESTIMATION OF INCIDENT AND REFLECTED WAVES USING SIMULATED ANNEALING",
       "filename": "Medina - 2001 - ESTIMATION OF INCIDENT AND REFLECTED WAVES USING SIMULATED ANNEALING.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23210,15 +23141,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1161
+      "id": 1157
     },
     {
       "author": "Mei",
       "year": 2004,
       "title": "WAVE PROPAGATION CHAPTER FOUR_WAVES IN WATER",
       "filename": "Mei (2004)_WAVE PROPAGATION CHAPTER FOUR_WAVES IN WATER.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23229,15 +23160,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-propagation"
       ],
-      "id": 1162
+      "id": 1158
     },
     {
       "author": "Naciri, Mei",
       "year": 1992,
       "title": "Evolution of short gravity waves on long gravity waves",
       "filename": "Naciri, Mei - 1992 - Evolution of short gravity waves on long gravity waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23247,15 +23178,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1163
+      "id": 1159
     },
     {
       "author": "Nallayarasu et al.",
       "year": 1995,
       "title": "Estimation of incident and reflected waves in regular wave experiments",
       "filename": "Nallarayasu et al. (1995)_Estimation of indicent and reflected waves in regular wave experiments.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(93)e0011-g",
@@ -23268,15 +23199,15 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1164
+      "id": 1160
     },
     {
       "author": "",
       "year": 2018,
       "title": "Neill & Hashemi (2018) (Book Chapter)_Ocean Modelling for Resource Characterization_in_Fundamentals of Ocean Renewable Energy",
       "filename": "Neill & Hashemi (2018) (Book Chapter)_Ocean Modelling for Resource Characterization_in_Fundamentals of Ocean Renewable Energy.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23288,15 +23219,91 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1165
+      "id": 1161
     },
     {
       "author": "Babanin, Alex",
       "year": 2020,
       "title": "Wave Breaking and Ocean Mixing",
       "filename": "Ocean_Wave_Dynamics_----_(About_the_Authors).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0003",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-breaking"
+      ],
+      "id": 1162
+    },
+    {
+      "author": "Young, Ian",
+      "year": 2020,
+      "title": "Wind-Generated Waves",
+      "filename": "Ocean_Wave_Dynamics_----_(Chapter_1._Wind-Generated_Waves).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0001",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wind-waves"
+      ],
+      "id": 1163
+    },
+    {
+      "author": "Chalikov, Dmitry",
+      "year": 2020,
+      "title": "Phase-Resolving Models",
+      "filename": "Ocean_Wave_Dynamics_----_(Chapter_6._Phase-Resolving_Models).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0006",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "modelling",
+        "ocean-waves",
+        "reference"
+      ],
+      "id": 1164
+    },
+    {
+      "author": "Babanin, Alex",
+      "year": 2020,
+      "title": "Wave Breaking and Ocean Mixing",
+      "filename": "Ocean_Wave_Dynamics_----_(Contents).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0003",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-breaking"
+      ],
+      "id": 1165
+    },
+    {
+      "author": "Babanin, Alex",
+      "year": 2020,
+      "title": "Wave Breaking and Ocean Mixing",
+      "filename": "Ocean_Wave_Dynamics_----_(Intro).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Wave Dynamics",
       "doi": "10.1142/9789811208676_0003",
@@ -23310,59 +23317,56 @@ const LIBRARY_DATA = {
       "id": 1166
     },
     {
-      "author": "Young, Ian",
-      "year": 2020,
-      "title": "Wind-Generated Waves",
-      "filename": "Ocean_Wave_Dynamics_----_(Chapter_1._Wind-Generated_Waves).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "author": "",
+      "year": 2019,
+      "title": "List Of Figures",
+      "filename": "Ocean_Wave_Dynamics_----_(List_of_Figures).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
-      "journal": "Ocean Wave Dynamics",
-      "doi": "10.1142/9789811208676_0001",
+      "journal": "Whales, Whaling, and Ocean Ecosystems",
+      "doi": "10.1525/9780520933200-003",
       "hasAnnotation": false,
       "tags": [
         "book-chapter",
         "ocean-waves",
-        "reference",
-        "wind-waves"
+        "reference"
       ],
       "id": 1167
     },
     {
-      "author": "Chalikov, Dmitry",
-      "year": 2020,
-      "title": "Phase-Resolving Models",
-      "filename": "Ocean_Wave_Dynamics_----_(Chapter_6._Phase-Resolving_Models).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "author": "",
+      "year": 2005,
+      "title": "List of Symbols",
+      "filename": "Ocean_Wave_Dynamics_----_(List_of_Symbols).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
-      "journal": "Ocean Wave Dynamics",
-      "doi": "10.1142/9789811208676_0006",
+      "journal": "Fundamentals of Ocean Climate Models",
+      "doi": "10.1515/9780691187129-005",
       "hasAnnotation": false,
       "tags": [
         "book-chapter",
-        "modelling",
         "ocean-waves",
         "reference"
       ],
       "id": 1168
     },
     {
-      "author": "Babanin, Alex",
-      "year": 2020,
-      "title": "Wave Breaking and Ocean Mixing",
-      "filename": "Ocean_Wave_Dynamics_----_(Contents).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "author": "",
+      "year": 2019,
+      "title": "List Of Tables",
+      "filename": "Ocean_Wave_Dynamics_----_(List_of_Tables).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
-      "journal": "Ocean Wave Dynamics",
-      "doi": "10.1142/9789811208676_0003",
+      "journal": "Whales, Whaling, and Ocean Ecosystems",
+      "doi": "10.1525/9780520933200-002",
       "hasAnnotation": false,
       "tags": [
         "book-chapter",
         "ocean-waves",
-        "reference",
-        "wave-breaking"
+        "reference"
       ],
       "id": 1169
     },
@@ -23370,9 +23374,9 @@ const LIBRARY_DATA = {
       "author": "Babanin, Alex",
       "year": 2020,
       "title": "Wave Breaking and Ocean Mixing",
-      "filename": "Ocean_Wave_Dynamics_----_(Intro).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "filename": "Ocean_Wave_Dynamics_----_(Preface).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Wave Dynamics",
       "doi": "10.1142/9789811208676_0003",
@@ -23386,85 +23390,12 @@ const LIBRARY_DATA = {
       "id": 1170
     },
     {
-      "author": "",
-      "year": 2019,
-      "title": "List Of Figures",
-      "filename": "Ocean_Wave_Dynamics_----_(List_of_Figures).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Whales, Whaling, and Ocean Ecosystems",
-      "doi": "10.1525/9780520933200-003",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 1171
-    },
-    {
-      "author": "",
-      "year": 2005,
-      "title": "List of Symbols",
-      "filename": "Ocean_Wave_Dynamics_----_(List_of_Symbols).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Fundamentals of Ocean Climate Models",
-      "doi": "10.1515/9780691187129-005",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 1172
-    },
-    {
-      "author": "",
-      "year": 2019,
-      "title": "List Of Tables",
-      "filename": "Ocean_Wave_Dynamics_----_(List_of_Tables).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Whales, Whaling, and Ocean Ecosystems",
-      "doi": "10.1525/9780520933200-002",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 1173
-    },
-    {
-      "author": "Babanin, Alex",
-      "year": 2020,
-      "title": "Wave Breaking and Ocean Mixing",
-      "filename": "Ocean_Wave_Dynamics_----_(Preface).pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Ocean Wave Dynamics",
-      "doi": "10.1142/9789811208676_0003",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "wave-breaking"
-      ],
-      "id": 1174
-    },
-    {
       "author": "Onorato et al.",
       "year": 2003,
       "title": "Interaction of two quasi-monochromatic waves in shallow water",
       "filename": "Onorato et al. - 2003 - Interaction of two quasi-monochromatic waves in shallow water.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Physics of Fluids",
       "doi": "10.1063/1.1622394",
@@ -23476,15 +23407,15 @@ const LIBRARY_DATA = {
         "reference",
         "shallow-water"
       ],
-      "id": 1175
+      "id": 1171
     },
     {
       "author": "Pelinovsky et al.",
       "year": 2006,
       "title": "Numerical modeling of the KdV random wave field",
       "filename": "Pelinovsky, Segreeve (Kokorina) - 2006 - Numerical modeling of the KdV random wave field.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "European Journal of Mechanics - B/Fluids",
       "doi": "10.1016/j.euromechflu.2005.11.001",
@@ -23496,15 +23427,15 @@ const LIBRARY_DATA = {
         "numerical",
         "random-waves"
       ],
-      "id": 1176
+      "id": 1172
     },
     {
       "author": "",
       "year": 0,
       "title": "PhysRevFluids.4.011801",
       "filename": "PhysRevFluids.4.011801.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23514,15 +23445,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1177
+      "id": 1173
     },
     {
       "author": "Prabhakar et al.",
       "year": 2001,
       "title": "Standing wave pressures on walls",
       "filename": "Prabhakar & Sundar (2001)_Standing wave pressures on walls.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Ocean Engineering",
       "doi": "10.1016/s0029-8018(00)00016-0",
@@ -23534,15 +23465,15 @@ const LIBRARY_DATA = {
         "reference",
         "wave-forces"
       ],
-      "id": 1178
+      "id": 1174
     },
     {
       "author": "",
       "year": 2000,
       "title": "Design of Seawalls",
       "filename": "Random-Seas-and-Design-of-Maritime-Structures.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Advanced Series on Ocean Engineering",
       "doi": "10.1142/9789812385444_0005",
@@ -23554,15 +23485,15 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 1179
+      "id": 1175
     },
     {
       "author": "Romolo et al.",
       "year": 2008,
       "title": "Mechanics of nonlinear random wave groups interacting with a vertical wall",
       "filename": "Romolo, Arena - 2008 - Mechanics of nonlinear random wave groups interacting with a vertical wall.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Physics of Fluids",
       "doi": "10.1063/1.2890474",
@@ -23574,15 +23505,15 @@ const LIBRARY_DATA = {
         "random-waves",
         "wave-groups"
       ],
-      "id": 1180
+      "id": 1176
     },
     {
       "author": "Sergeeva et al.",
       "year": 2011,
       "title": "Nonlinear random wave field in shallow water: variable Korteweg-de Vries framework",
       "filename": "Sergeeva, Pelinovsky, Talipova - 2011 - Nonlinear random wave field in shallow water Variable Korteweg-de Vries framework.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Natural Hazards and Earth System Sciences",
       "doi": "10.5194/nhess-11-323-2011",
@@ -23595,15 +23526,15 @@ const LIBRARY_DATA = {
         "random-waves",
         "shallow-water"
       ],
-      "id": 1181
+      "id": 1177
     },
     {
       "author": "Spell et al.",
       "year": 1996,
       "title": "Hybrid wave model for unidirectional irregular waves—part II. Comparison with laboratory measurements",
       "filename": "Spell, Zhang, Randall - 1996 - Hybrid wave model for unidirectional irregular waves - Part II. Comparison with laboratory measurements.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/0141-1187(96)00010-7",
@@ -23620,15 +23551,15 @@ const LIBRARY_DATA = {
         "regular-waves",
         "unidirectional"
       ],
-      "id": 1182
+      "id": 1178
     },
     {
       "author": "Suh et al.",
       "year": 1997,
       "title": "Time-dependent equations for wave propagation on rapidly varying topography",
       "filename": "Suh et al (1997)_Time-dependent equations for wave propagation on rapidly varying topography.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/s0378-3839(97)81745-0",
@@ -23640,15 +23571,15 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1183
+      "id": 1179
     },
     {
       "author": "Suh, Park, Park",
       "year": 2001,
       "title": "Separation of incident and reflected waves in wave-current flumes",
       "filename": "Suh, Park, Park - 2001 - Separation of incident and reflected waves in wave-current flumes.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23660,15 +23591,15 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-reflection"
       ],
-      "id": 1184
+      "id": 1180
     },
     {
       "author": "Sun et al.",
       "year": 2002,
       "title": "Hilbert transform applied to separation of waves",
       "filename": "Sun et al. (2002)_Hilbert transform applied to separation of waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23679,15 +23610,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1185
+      "id": 1181
     },
     {
       "author": "",
       "year": 0,
       "title": "Theory and Applications of ocean surface waves Part 1 Linear Aspects",
       "filename": "Theory and Applications of ocean surface waves Part 1 Linear Aspects.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23699,15 +23630,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1186
+      "id": 1182
     },
     {
       "author": "Thompson, Edward F.",
       "year": 1980,
       "title": "Energy spectra in shallow U.S. coastal waters / by Edward F. Thompson.",
       "filename": "Thompson (1980)_Energy spectra in Shallow US coastal waters.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "10.5962/bhl.title.47478",
@@ -23719,15 +23650,15 @@ const LIBRARY_DATA = {
         "shallow-water",
         "spectral-analysis"
       ],
-      "id": 1187
+      "id": 1183
     },
     {
       "author": "",
       "year": 1998,
       "title": "Reader's guide",
       "filename": "Torrence & Compo (1998)_A Practical Guide to Wavelet Analysis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Wavelet Analysis and Its Applications",
       "doi": "10.1016/s1874-608x(98)80025-3",
@@ -23738,15 +23669,15 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1188
+      "id": 1184
     },
     {
       "author": "van Dongeren et al.",
       "year": 2007,
       "title": "Shoaling and shoreline dissipation of low-frequency waves",
       "filename": "van Dongeren et al. - 2007 - Shoaling and shoreline dissipation of low-frequency waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23758,15 +23689,15 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-shoaling"
       ],
-      "id": 1189
+      "id": 1185
     },
     {
       "author": "Viotti, Dias",
       "year": 2014,
       "title": "Extreme waves induced by strong depth transitions Fully nonlinear results",
       "filename": "Viotti, Dias - 2014 - Extreme waves induced by strong depth transitions Fully nonlinear results.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23779,15 +23710,15 @@ const LIBRARY_DATA = {
         "numerical",
         "varying-depth"
       ],
-      "id": 1190
+      "id": 1186
     },
     {
       "author": "Wang et al.",
       "year": 2008,
       "title": "A three-point method for estimating wave reflection of obliquely incident waves over a sloping bottom",
       "filename": "Wang et al. (2008)_A three-point method for estimating wave reflection of obliquely incident waves over a sloping bottom.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2007.09.002",
@@ -23799,15 +23730,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1191
+      "id": 1187
     },
     {
       "author": "",
       "year": 0,
       "title": "Water_Wave_Mechanics_Part-II-Chap_1entire",
       "filename": "Water_Wave_Mechanics_Part-II-Chap_1entire.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23817,15 +23748,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1192
+      "id": 1188
     },
     {
       "author": "",
       "year": 2007,
       "title": "Waves in oceanic waters",
       "filename": "Waves in Oceanic and Coastal Waters.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Waves in Oceanic and Coastal Waters",
       "doi": "10.1017/cbo9780511618536.007",
@@ -23835,15 +23766,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1193
+      "id": 1189
     },
     {
       "author": "",
       "year": 0,
       "title": "wu2",
       "filename": "wu2.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23853,15 +23784,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1194
+      "id": 1190
     },
     {
       "author": "Wu et al.",
       "year": 2016,
       "title": "On the distribution of wave height in shallow water",
       "filename": "Wu_Randell_Christou_Ewans_&_Jonathan_On_the_distribution_of_wave_height_in_shallow_water.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2016.01.015",
@@ -23874,15 +23805,15 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 1195
+      "id": 1191
     },
     {
       "author": "",
       "year": 2020,
       "title": "Xiong et al. (2020) Variations of wave parameter statistics as influenced by water depth in",
       "filename": "Xiong et al. (2020) Variations of wave parameter statistics as influenced by water depth in.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -23893,15 +23824,15 @@ const LIBRARY_DATA = {
         "reference",
         "statistical"
       ],
-      "id": 1196
+      "id": 1192
     },
     {
       "author": "Zhang et al.",
       "year": 1993,
       "title": "Effects of wavelength ratio on wave modelling",
       "filename": "Yue et al. (1992)_Effects of wavelength ratio on wave modelling.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112093000709",
@@ -23913,15 +23844,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1197
+      "id": 1193
     },
     {
       "author": "Zanuttigh et al.",
       "year": 2010,
       "title": "Wave reflection in 3D conditions",
       "filename": "Zanuttigh, Andersen - 2010 - Wave reflection in 3D conditions.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2009.12.006",
@@ -23933,15 +23864,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1198
+      "id": 1194
     },
     {
       "author": "Zanuttigh et al.",
       "year": 2008,
       "title": "Wave reflection from coastal structures in design conditions",
       "filename": "Zanuttigh, van der Meer - 2008 - Wave reflection from coastal structures in design conditions.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2008.02.009",
@@ -23953,15 +23884,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1199
+      "id": 1195
     },
     {
       "author": "Zelt et al.",
       "year": 1993,
       "title": "Estimating Incident and Reflected Wave Fields Using an Arbitrary Number of Wave Gauges",
       "filename": "Zelt, Skjelbreia - 1992 - Estimating Incident and Reflected Wave Fields Using an Arbitrary Number of Wave Gauges.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Coastal Engineering 1992",
       "doi": "10.1061/9780872629332.058",
@@ -23973,15 +23904,15 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1200
+      "id": 1196
     },
     {
       "author": "Zhang et al.",
       "year": 1996,
       "title": "Hybrid wave model for unidirectional irregular waves—part I. Theory and numerical scheme",
       "filename": "Zhang et al. - 1996 - Hybrid wave model for unidirectional irregular waves - Part I. Theory and numerical scheme.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/0141-1187(96)00009-0",
@@ -23997,15 +23928,15 @@ const LIBRARY_DATA = {
         "regular-waves",
         "unidirectional"
       ],
-      "id": 1201
+      "id": 1197
     },
     {
       "author": "Zhang et al.",
       "year": 1999,
       "title": "Deterministic wave model for short-crested ocean waves: Part I. Theory and numerical scheme",
       "filename": "Zhang et al. - 1999 - Deterministic wave model for short-crested ocean waves Part I. Theory and numerical scheme.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/s0141-1187(99)00011-5",
@@ -24018,15 +23949,15 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 1202
+      "id": 1198
     },
     {
       "author": "Zhang et al.",
       "year": 1999,
       "title": "Deterministic wave model for short-crested ocean waves: Part II. Comparison with laboratory and field measurements",
       "filename": "Zhang et al. - 1999 - Deterministic wave model for short-crested ocean waves Part II. Comparison with laboratory and field measurements.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/s0141-1187(99)00012-7",
@@ -24040,15 +23971,15 @@ const LIBRARY_DATA = {
         "modelling",
         "offshore"
       ],
-      "id": 1203
+      "id": 1199
     },
     {
       "author": "Zhang et al.",
       "year": 2013,
       "title": "A Novel Scheme Suitable for High-Voltage and Large-Capacity Photovoltaic Power Stations",
       "filename": "Zhang, Du, Chen - 2013 - A novel scheme suitable for high-voltage and large-capacity photovoltaic power stations.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "IEEE Transactions on Industrial Electronics",
       "doi": "10.1109/tie.2012.2208438",
@@ -24059,15 +23990,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1204
+      "id": 1200
     },
     {
       "author": "",
       "year": 0,
       "title": "zhang",
       "filename": "zhang.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "",
       "doi": "",
@@ -24077,15 +24008,15 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1205
+      "id": 1201
     },
     {
       "author": "Zheng, Siming",
       "year": 2022,
       "title": "Attenuator wave energy converters",
       "filename": "Zheng (2022) (Chapter 6)_Attenuator wave energy converters.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
+      "category": "14_Books",
+      "categoryShort": "Books",
       "color": "#9E9E9E",
       "journal": "Modelling and Optimisation of Wave Energy Converters",
       "doi": "10.1201/9781003198956-6",
@@ -24097,1687 +24028,7 @@ const LIBRARY_DATA = {
         "reference",
         "wec"
       ],
-      "id": 1206
-    },
-    {
-      "author": "Abedi",
-      "year": 2013,
-      "title": "Abedi",
-      "filename": "Abedi2013.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1207
-    },
-    {
-      "author": "Abolghasemi",
-      "year": 2016,
-      "title": "Abolghasemi",
-      "filename": "Abolghasemi2016.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1208
-    },
-    {
-      "author": "Acred",
-      "year": 2014,
-      "title": "Acred",
-      "filename": "Acred2014.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1209
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "AGThesis-tosubmit 1",
-      "filename": "AGThesis-tosubmit 1.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "thesis"
-      ],
-      "id": 1210
-    },
-    {
-      "author": "Aknin",
-      "year": 2015,
-      "title": "Aknin",
-      "filename": "Aknin2015.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1211
-    },
-    {
-      "author": "Zhang, Zhibo",
-      "year": 2018,
-      "title": "revision highlighted",
-      "filename": "Aknin2015_highlighted.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "10.5194/acp-2018-267-ac5",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1212
-    },
-    {
-      "author": "Chauhan, V.P.S.",
-      "year": 1988,
-      "title": "Additive Versus Multiplicative Precorrections of Dairy Records for Some Environmental Effects in Sire Evaluation",
-      "filename": "Allgayer2007_precorrections.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Journal of Dairy Science",
-      "doi": "10.3168/jds.s0022-0302(88)79542-9",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1213
-    },
-    {
-      "author": "Archibald",
-      "year": 2011,
-      "title": "Archibald",
-      "filename": "Archibald2011.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1214
-    },
-    {
-      "author": "Bachant",
-      "year": 2016,
-      "title": "Bachant",
-      "filename": "Bachant2016.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1215
-    },
-    {
-      "author": "Baldock",
-      "year": 1994,
-      "title": "Baldock",
-      "filename": "Baldock1994.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1216
-    },
-    {
-      "author": "Barba",
-      "year": 2004,
-      "title": "Barba",
-      "filename": "Barba2004.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1217
-    },
-    {
-      "author": "Battjes, J.A.",
-      "year": 1972,
-      "title": "Set-Up Due to Irregular Waves",
-      "filename": "Battjes (1974) (Thesis)_Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Coastal Engineering 1972",
-      "doi": "10.1061/9780872620490.116",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "coastal",
-        "irregular-waves",
-        "regular-waves",
-        "wave-propagation"
-      ],
-      "id": 1218
-    },
-    {
-      "author": "Bentham",
-      "year": 2003,
-      "title": "Bentham",
-      "filename": "Bentham2003.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1219
-    },
-    {
-      "author": "Black",
-      "year": 1998,
-      "title": "Black",
-      "filename": "Black1998.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1220
-    },
-    {
-      "author": "Brownlee",
-      "year": 1988,
-      "title": "Brownlee",
-      "filename": "Brownlee1988.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1221
-    },
-    {
-      "author": "Bruggemann",
-      "year": 2017,
-      "title": "Bruggemann",
-      "filename": "Bruggemann2017.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1222
-    },
-    {
-      "author": "Bull",
-      "year": 2013,
-      "title": "Bull",
-      "filename": "Bull2013.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1223
-    },
-    {
-      "author": "Chatelain",
-      "year": 2005,
-      "title": "Chatelain",
-      "filename": "Chatelain2005.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1224
-    },
-    {
-      "author": "Chau",
-      "year": 1989,
-      "title": "Chau",
-      "filename": "Chau1989.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1225
-    },
-    {
-      "author": "Christou",
-      "year": 2009,
-      "title": "Christou",
-      "filename": "Christou2009.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1226
-    },
-    {
-      "author": "Coffey",
-      "year": 2006,
-      "title": "Coffey",
-      "filename": "Coffey2006.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1227
-    },
-    {
-      "author": "Connick",
-      "year": 2013,
-      "title": "Connick",
-      "filename": "Connick2013.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1228
-    },
-    {
-      "author": "Craske",
-      "year": 2016,
-      "title": "Craske",
-      "filename": "Craske2016.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1229
-    },
-    {
-      "author": "Creech",
-      "year": 2009,
-      "title": "Creech",
-      "filename": "Creech2009.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1230
-    },
-    {
-      "author": "",
-      "year": 2009,
-      "title": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data",
-      "filename": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "comparison",
-        "crest-height",
-        "experimental",
-        "extreme-events",
-        "field-data",
-        "numerical",
-        "statistical",
-        "thesis"
-      ],
-      "id": 1231
-    },
-    {
-      "author": "Economidou",
-      "year": 2009,
-      "title": "Economidou",
-      "filename": "Economidou2009.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1232
-    },
-    {
-      "author": "Ely",
-      "year": 2013,
-      "title": "Ely",
-      "filename": "Ely2013.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1233
-    },
-    {
-      "author": "Ezzamel",
-      "year": 2011,
-      "title": "Ezzamel",
-      "filename": "Ezzamel2011.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1234
-    },
-    {
-      "author": "Farrell",
-      "year": 2009,
-      "title": "Farrell",
-      "filename": "Farrell2009.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1235
-    },
-    {
-      "author": "Feng",
-      "year": 2007,
-      "title": "Feng",
-      "filename": "Feng2007.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1236
-    },
-    {
-      "author": "Fernandes",
-      "year": 1983,
-      "title": "Fernandes",
-      "filename": "Fernandes1983.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1237
-    },
-    {
-      "author": "Gibson",
-      "year": 2004,
-      "title": "Gibson",
-      "filename": "Gibson2004.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1238
-    },
-    {
-      "author": "Gocmen",
-      "year": 2016,
-      "title": "Gocmen",
-      "filename": "Gocmen2016.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1239
-    },
-    {
-      "author": "Grice",
-      "year": 2013,
-      "title": "Grice",
-      "filename": "Grice2013.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1240
-    },
-    {
-      "author": "Mase et al.",
-      "year": 2004,
-      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
-      "filename": "Groenendijk (1989)_(MSc Thesis w. notations)_Shallow foreshore wave height statistics_notes.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Asian and Pacific Coasts 2003",
-      "doi": "10.1142/9789812703040_0076",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "breakwater",
-        "random-waves",
-        "shallow-water",
-        "wave-runup"
-      ],
-      "id": 1241
-    },
-    {
-      "author": "Groenendijk",
-      "year": 1989,
-      "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
-      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "shallow-water",
-        "statistical",
-        "thesis",
-        "wave-height-distribution"
-      ],
-      "id": 1242
-    },
-    {
-      "author": "Mase et al.",
-      "year": 2004,
-      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
-      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Asian and Pacific Coasts 2003",
-      "doi": "10.1142/9789812703040_0076",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "breakwater",
-        "random-waves",
-        "shallow-water",
-        "wave-runup"
-      ],
-      "id": 1243
-    },
-    {
-      "author": "Hague",
-      "year": 2006,
-      "title": "Hague",
-      "filename": "Hague2006.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1244
-    },
-    {
-      "author": "Haley-J",
-      "year": 2016,
-      "title": "PhD-Thesis",
-      "filename": "Haley-J-2016-PhD-Thesis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "thesis"
-      ],
-      "id": 1245
-    },
-    {
-      "author": "Haley",
-      "year": 2016,
-      "title": "Haley",
-      "filename": "Haley2016.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1246
-    },
-    {
-      "author": "Heller",
-      "year": 2007,
-      "title": "Heller",
-      "filename": "Heller2007.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1247
-    },
-    {
-      "author": "",
-      "year": 1993,
-      "title": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory",
-      "filename": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "analytical",
-        "book-chapter",
-        "modelling",
-        "numerical",
-        "thesis",
-        "wave-height-distribution",
-        "wave-shoaling"
-      ],
-      "id": 1248
-    },
-    {
-      "author": "Huang",
-      "year": 1994,
-      "title": "Huang",
-      "filename": "Huang1994.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1249
-    },
-    {
-      "author": "Inoue",
-      "year": 2012,
-      "title": "Inoue",
-      "filename": "Inoue2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1250
-    },
-    {
-      "author": "James",
-      "year": 2000,
-      "title": "James",
-      "filename": "James2000.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1251
-    },
-    {
-      "author": "Johannessen",
-      "year": 1997,
-      "title": "Johannessen",
-      "filename": "Johannessen1997.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1252
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "Karmpadakis_Thesis",
-      "filename": "Karmpadakis_Thesis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves",
-        "thesis"
-      ],
-      "id": 1253
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "Karmpadakis_Thesis_highlighted",
-      "filename": "Karmpadakis_Thesis_highlighted.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves",
-        "thesis"
-      ],
-      "id": 1254
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "Karmpadakis_Thesis_highlighted_reduced",
-      "filename": "Karmpadakis_Thesis_highlighted_reduced.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves",
-        "thesis"
-      ],
-      "id": 1255
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "Karmpadakis_Thesis_hl",
-      "filename": "Karmpadakis_Thesis_hl.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves",
-        "thesis"
-      ],
-      "id": 1256
-    },
-    {
-      "author": "",
-      "year": 2020,
-      "title": "PhD thesis",
-      "filename": "Kasiman-EH-2017-PhD-Thesis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "10.5194/se-2020-89-sc4",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "thesis"
-      ],
-      "id": 1257
-    },
-    {
-      "author": "Kasiman",
-      "year": 2017,
-      "title": "Kasiman",
-      "filename": "Kasiman2017.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1258
-    },
-    {
-      "author": "Katsardi",
-      "year": 2007,
-      "title": "Katsardi",
-      "filename": "Katsardi2007.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1259
-    },
-    {
-      "author": "Kim",
-      "year": 1988,
-      "title": "Kim",
-      "filename": "Kim1988.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1260
-    },
-    {
-      "author": "Kim",
-      "year": 2012,
-      "title": "Kim",
-      "filename": "Kim2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1261
-    },
-    {
-      "author": "Kleusberg",
-      "year": 2017,
-      "title": "Kleusberg",
-      "filename": "Kleusberg2017.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1262
-    },
-    {
-      "author": "Koumoutsakos",
-      "year": 1993,
-      "title": "Koumoutsakos",
-      "filename": "Koumoutsakos1993.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1263
-    },
-    {
-      "author": "Latheef",
-      "year": 2014,
-      "title": "Latheef",
-      "filename": "Latheef2014.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1264
-    },
-    {
-      "author": "Latheef",
-      "year": 2014,
-      "title": "Thesis",
-      "filename": "Latheef2014_Thesis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "thesis"
-      ],
-      "id": 1265
-    },
-    {
-      "author": "Lian",
-      "year": 2018,
-      "title": "Lian",
-      "filename": "Lian2018.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1266
-    },
-    {
-      "author": "Liao",
-      "year": 2000,
-      "title": "Liao",
-      "filename": "Liao2000.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1267
-    },
-    {
-      "author": "Lonfils",
-      "year": 2011,
-      "title": "Lonfils",
-      "filename": "Lonfils2011.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1268
-    },
-    {
-      "author": "Lynch",
-      "year": 2012,
-      "title": "Lynch",
-      "filename": "Lynch2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1269
-    },
-    {
-      "author": "Makri",
-      "year": 2018,
-      "title": "Makri",
-      "filename": "Makri2018.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1270
-    },
-    {
-      "author": "Marcus",
-      "year": 1990,
-      "title": "Marcus",
-      "filename": "Marcus1990.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1271
-    },
-    {
-      "author": "Masterton",
-      "year": 2007,
-      "title": "Masterton",
-      "filename": "Masterton2007.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1272
-    },
-    {
-      "author": "",
-      "year": 2020,
-      "title": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory",
-      "filename": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "analytical",
-        "book-chapter",
-        "extreme-events",
-        "intermediate-depth",
-        "rogue-waves",
-        "statistical",
-        "thesis"
-      ],
-      "id": 1273
-    },
-    {
-      "author": "Mikkelsen",
-      "year": 2003,
-      "title": "Mikkelsen",
-      "filename": "Mikkelsen2003.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1274
-    },
-    {
-      "author": "Milthaler",
-      "year": 2015,
-      "title": "Milthaler",
-      "filename": "Milthaler2015.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1275
-    },
-    {
-      "author": "Morgenthal",
-      "year": 2002,
-      "title": "Morgenthal",
-      "filename": "Morgenthal2002.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1276
-    },
-    {
-      "author": "Myrtroeen",
-      "year": 2012,
-      "title": "Myrtroeen",
-      "filename": "Myrtroeen2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1277
-    },
-    {
-      "author": "Osalusi",
-      "year": 2010,
-      "title": "Osalusi",
-      "filename": "Osalusi2010.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1278
-    },
-    {
-      "author": "Padilla",
-      "year": 2019,
-      "title": "Padilla",
-      "filename": "Padilla2019.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1279
-    },
-    {
-      "author": "Pechlivanoglou",
-      "year": 2013,
-      "title": "Pechlivanoglou",
-      "filename": "Pechlivanoglou2013.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1280
-    },
-    {
-      "author": "Peric",
-      "year": 2012,
-      "title": "Peric",
-      "filename": "Peric2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1281
-    },
-    {
-      "author": "Radomski",
-      "year": 2009,
-      "title": "Radomski",
-      "filename": "Radomski2009.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1282
-    },
-    {
-      "author": "Roos",
-      "year": 2011,
-      "title": "Roos",
-      "filename": "Roos2011.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1283
-    },
-    {
-      "author": "Rossi",
-      "year": 2014,
-      "title": "Rossi",
-      "filename": "Rossi2014.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1284
-    },
-    {
-      "author": "Rubel",
-      "year": 2007,
-      "title": "Rubel",
-      "filename": "Rubel2007.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1285
-    },
-    {
-      "author": "Sarlak",
-      "year": 2014,
-      "title": "Sarlak",
-      "filename": "Sarlak2014.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1286
-    },
-    {
-      "author": "Sheel",
-      "year": 2008,
-      "title": "Sheel",
-      "filename": "Sheel2008.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1287
-    },
-    {
-      "author": "Sheikh",
-      "year": 2004,
-      "title": "Sheikh",
-      "filename": "Sheikh2004.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1288
-    },
-    {
-      "author": "Shiels",
-      "year": 1998,
-      "title": "Shiels",
-      "filename": "Shiels1998.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1289
-    },
-    {
-      "author": "Shrinivas",
-      "year": 2015,
-      "title": "Shrinivas",
-      "filename": "Shrinivas2015.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1290
-    },
-    {
-      "author": "Sorensen",
-      "year": 1986,
-      "title": "Sorensen",
-      "filename": "Sorensen1986.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1291
-    },
-    {
-      "author": "Spentza",
-      "year": 2011,
-      "title": "Spentza",
-      "filename": "Spentza2011.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1292
-    },
-    {
-      "author": "Spinneken",
-      "year": 2012,
-      "title": "Spinneken",
-      "filename": "Spinneken2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1293
-    },
-    {
-      "author": "Spinneken",
-      "year": 2012,
-      "title": "reduced",
-      "filename": "Spinneken2012_reduced.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1294
-    },
-    {
-      "author": "Spinneken et al.",
-      "year": 2010,
-      "title": "The Operation of Force-controlled Absorbing Wave Machines",
-      "filename": "Spinneken_Thesis.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "SNAME 29th American Towing Tank Conference",
-      "doi": "10.5957/attc-2010-010",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "wave-forces",
-        "wave-generation"
-      ],
-      "id": 1295
-    },
-    {
-      "author": "Stock",
-      "year": 2006,
-      "title": "Stock",
-      "filename": "Stock2006.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1296
-    },
-    {
-      "author": "Szopa",
-      "year": 2014,
-      "title": "Szopa",
-      "filename": "Szopa2014.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1297
-    },
-    {
-      "author": "Tari",
-      "year": 2012,
-      "title": "Tari",
-      "filename": "Tari2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1298
-    },
-    {
-      "author": "Tchieu",
-      "year": 2010,
-      "title": "Tchieu",
-      "filename": "Tchieu2010.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1299
-    },
-    {
-      "author": "Thies",
-      "year": 2012,
-      "title": "Thies",
-      "filename": "Thies2012.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1300
-    },
-    {
-      "author": "Vaidhyanathan",
-      "year": 1993,
-      "title": "Vaidhyanathan",
-      "filename": "Vaidhyanathan1993.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1301
-    },
-    {
-      "author": "Walther",
-      "year": 1994,
-      "title": "Walther",
-      "filename": "Walther1994.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1302
-    },
-    {
-      "author": "Wilson",
-      "year": 2009,
-      "title": "Wilson",
-      "filename": "Wilson2009.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1303
-    },
-    {
-      "author": "Winchelmans",
-      "year": 1989,
-      "title": "Winchelmans",
-      "filename": "Winchelmans1989.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1304
-    },
-    {
-      "author": "Wist et al.",
-      "year": 2004,
-      "title": "Statistical properties of successive wave heights and successive wave periods",
-      "filename": "Wist (2023) (Thesis)_Statistical properties of successive ocean wave parameters.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "Applied Ocean Research",
-      "doi": "10.1016/j.apor.2005.01.002",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "offshore",
-        "statistical",
-        "wave-height-distribution"
-      ],
-      "id": 1305
-    },
-    {
-      "author": "Zhi (Thesis)",
-      "year": 2018,
-      "title": "AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES",
-      "filename": "Zhi (Thesis) (2018)_AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "directional-spreading",
-        "ocean-waves",
-        "reference",
-        "wave-reflection"
-      ],
-      "id": 1306
-    },
-    {
-      "author": "Zve",
-      "year": 2022,
-      "title": "Zve",
-      "filename": "Zve2022.pdf",
-      "category": "14_Books_and_References",
-      "categoryShort": "Books & References",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1307
+      "id": 1202
     },
     {
       "author": "",
@@ -25798,7 +24049,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1308
+      "id": 1203
     },
     {
       "author": "",
@@ -25821,7 +24072,1687 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 1309
+      "id": 1204
+    },
+    {
+      "author": "Abedi",
+      "year": 2013,
+      "title": "Abedi",
+      "filename": "Abedi2013.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1205
+    },
+    {
+      "author": "Abolghasemi",
+      "year": 2016,
+      "title": "Abolghasemi",
+      "filename": "Abolghasemi2016.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1206
+    },
+    {
+      "author": "Acred",
+      "year": 2014,
+      "title": "Acred",
+      "filename": "Acred2014.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1207
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "AGThesis-tosubmit 1",
+      "filename": "AGThesis-tosubmit 1.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "thesis"
+      ],
+      "id": 1208
+    },
+    {
+      "author": "Aknin",
+      "year": 2015,
+      "title": "Aknin",
+      "filename": "Aknin2015.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1209
+    },
+    {
+      "author": "Zhang, Zhibo",
+      "year": 2018,
+      "title": "revision highlighted",
+      "filename": "Aknin2015_highlighted.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "10.5194/acp-2018-267-ac5",
+      "hasAnnotation": true,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1210
+    },
+    {
+      "author": "Chauhan, V.P.S.",
+      "year": 1988,
+      "title": "Additive Versus Multiplicative Precorrections of Dairy Records for Some Environmental Effects in Sire Evaluation",
+      "filename": "Allgayer2007_precorrections.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "Journal of Dairy Science",
+      "doi": "10.3168/jds.s0022-0302(88)79542-9",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1211
+    },
+    {
+      "author": "Archibald",
+      "year": 2011,
+      "title": "Archibald",
+      "filename": "Archibald2011.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1212
+    },
+    {
+      "author": "Bachant",
+      "year": 2016,
+      "title": "Bachant",
+      "filename": "Bachant2016.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1213
+    },
+    {
+      "author": "Baldock",
+      "year": 1994,
+      "title": "Baldock",
+      "filename": "Baldock1994.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1214
+    },
+    {
+      "author": "Barba",
+      "year": 2004,
+      "title": "Barba",
+      "filename": "Barba2004.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1215
+    },
+    {
+      "author": "Battjes, J.A.",
+      "year": 1972,
+      "title": "Set-Up Due to Irregular Waves",
+      "filename": "Battjes (1974) (Thesis)_Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "Coastal Engineering 1972",
+      "doi": "10.1061/9780872620490.116",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "coastal",
+        "irregular-waves",
+        "regular-waves",
+        "wave-propagation"
+      ],
+      "id": 1216
+    },
+    {
+      "author": "Bentham",
+      "year": 2003,
+      "title": "Bentham",
+      "filename": "Bentham2003.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1217
+    },
+    {
+      "author": "Black",
+      "year": 1998,
+      "title": "Black",
+      "filename": "Black1998.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1218
+    },
+    {
+      "author": "Brownlee",
+      "year": 1988,
+      "title": "Brownlee",
+      "filename": "Brownlee1988.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1219
+    },
+    {
+      "author": "Bruggemann",
+      "year": 2017,
+      "title": "Bruggemann",
+      "filename": "Bruggemann2017.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1220
+    },
+    {
+      "author": "Bull",
+      "year": 2013,
+      "title": "Bull",
+      "filename": "Bull2013.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1221
+    },
+    {
+      "author": "Chatelain",
+      "year": 2005,
+      "title": "Chatelain",
+      "filename": "Chatelain2005.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1222
+    },
+    {
+      "author": "Chau",
+      "year": 1989,
+      "title": "Chau",
+      "filename": "Chau1989.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1223
+    },
+    {
+      "author": "Christou",
+      "year": 2009,
+      "title": "Christou",
+      "filename": "Christou2009.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1224
+    },
+    {
+      "author": "Coffey",
+      "year": 2006,
+      "title": "Coffey",
+      "filename": "Coffey2006.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1225
+    },
+    {
+      "author": "Connick",
+      "year": 2013,
+      "title": "Connick",
+      "filename": "Connick2013.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1226
+    },
+    {
+      "author": "Craske",
+      "year": 2016,
+      "title": "Craske",
+      "filename": "Craske2016.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1227
+    },
+    {
+      "author": "Creech",
+      "year": 2009,
+      "title": "Creech",
+      "filename": "Creech2009.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1228
+    },
+    {
+      "author": "",
+      "year": 2009,
+      "title": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data",
+      "filename": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "comparison",
+        "crest-height",
+        "experimental",
+        "extreme-events",
+        "field-data",
+        "numerical",
+        "statistical",
+        "thesis"
+      ],
+      "id": 1229
+    },
+    {
+      "author": "Economidou",
+      "year": 2009,
+      "title": "Economidou",
+      "filename": "Economidou2009.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1230
+    },
+    {
+      "author": "Ely",
+      "year": 2013,
+      "title": "Ely",
+      "filename": "Ely2013.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1231
+    },
+    {
+      "author": "Ezzamel",
+      "year": 2011,
+      "title": "Ezzamel",
+      "filename": "Ezzamel2011.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1232
+    },
+    {
+      "author": "Farrell",
+      "year": 2009,
+      "title": "Farrell",
+      "filename": "Farrell2009.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1233
+    },
+    {
+      "author": "Feng",
+      "year": 2007,
+      "title": "Feng",
+      "filename": "Feng2007.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1234
+    },
+    {
+      "author": "Fernandes",
+      "year": 1983,
+      "title": "Fernandes",
+      "filename": "Fernandes1983.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1235
+    },
+    {
+      "author": "Gibson",
+      "year": 2004,
+      "title": "Gibson",
+      "filename": "Gibson2004.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1236
+    },
+    {
+      "author": "Gocmen",
+      "year": 2016,
+      "title": "Gocmen",
+      "filename": "Gocmen2016.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1237
+    },
+    {
+      "author": "Grice",
+      "year": 2013,
+      "title": "Grice",
+      "filename": "Grice2013.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1238
+    },
+    {
+      "author": "Mase et al.",
+      "year": 2004,
+      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
+      "filename": "Groenendijk (1989)_(MSc Thesis w. notations)_Shallow foreshore wave height statistics_notes.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "Asian and Pacific Coasts 2003",
+      "doi": "10.1142/9789812703040_0076",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "breakwater",
+        "random-waves",
+        "shallow-water",
+        "wave-runup"
+      ],
+      "id": 1239
+    },
+    {
+      "author": "Groenendijk",
+      "year": 1989,
+      "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
+      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "shallow-water",
+        "statistical",
+        "thesis",
+        "wave-height-distribution"
+      ],
+      "id": 1240
+    },
+    {
+      "author": "Mase et al.",
+      "year": 2004,
+      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
+      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "Asian and Pacific Coasts 2003",
+      "doi": "10.1142/9789812703040_0076",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "breakwater",
+        "random-waves",
+        "shallow-water",
+        "wave-runup"
+      ],
+      "id": 1241
+    },
+    {
+      "author": "Hague",
+      "year": 2006,
+      "title": "Hague",
+      "filename": "Hague2006.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1242
+    },
+    {
+      "author": "Haley-J",
+      "year": 2016,
+      "title": "PhD-Thesis",
+      "filename": "Haley-J-2016-PhD-Thesis.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "thesis"
+      ],
+      "id": 1243
+    },
+    {
+      "author": "Haley",
+      "year": 2016,
+      "title": "Haley",
+      "filename": "Haley2016.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1244
+    },
+    {
+      "author": "Heller",
+      "year": 2007,
+      "title": "Heller",
+      "filename": "Heller2007.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1245
+    },
+    {
+      "author": "",
+      "year": 1993,
+      "title": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory",
+      "filename": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "book-chapter",
+        "modelling",
+        "numerical",
+        "thesis",
+        "wave-height-distribution",
+        "wave-shoaling"
+      ],
+      "id": 1246
+    },
+    {
+      "author": "Huang",
+      "year": 1994,
+      "title": "Huang",
+      "filename": "Huang1994.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1247
+    },
+    {
+      "author": "Inoue",
+      "year": 2012,
+      "title": "Inoue",
+      "filename": "Inoue2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1248
+    },
+    {
+      "author": "James",
+      "year": 2000,
+      "title": "James",
+      "filename": "James2000.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1249
+    },
+    {
+      "author": "Johannessen",
+      "year": 1997,
+      "title": "Johannessen",
+      "filename": "Johannessen1997.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1250
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Karmpadakis_Thesis",
+      "filename": "Karmpadakis_Thesis.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves",
+        "thesis"
+      ],
+      "id": 1251
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Karmpadakis_Thesis_highlighted",
+      "filename": "Karmpadakis_Thesis_highlighted.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": true,
+      "tags": [
+        "ocean-waves",
+        "thesis"
+      ],
+      "id": 1252
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Karmpadakis_Thesis_highlighted_reduced",
+      "filename": "Karmpadakis_Thesis_highlighted_reduced.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": true,
+      "tags": [
+        "ocean-waves",
+        "thesis"
+      ],
+      "id": 1253
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Karmpadakis_Thesis_hl",
+      "filename": "Karmpadakis_Thesis_hl.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": true,
+      "tags": [
+        "ocean-waves",
+        "thesis"
+      ],
+      "id": 1254
+    },
+    {
+      "author": "",
+      "year": 2020,
+      "title": "PhD thesis",
+      "filename": "Kasiman-EH-2017-PhD-Thesis.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "10.5194/se-2020-89-sc4",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "thesis"
+      ],
+      "id": 1255
+    },
+    {
+      "author": "Kasiman",
+      "year": 2017,
+      "title": "Kasiman",
+      "filename": "Kasiman2017.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1256
+    },
+    {
+      "author": "Katsardi",
+      "year": 2007,
+      "title": "Katsardi",
+      "filename": "Katsardi2007.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1257
+    },
+    {
+      "author": "Kim",
+      "year": 1988,
+      "title": "Kim",
+      "filename": "Kim1988.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1258
+    },
+    {
+      "author": "Kim",
+      "year": 2012,
+      "title": "Kim",
+      "filename": "Kim2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1259
+    },
+    {
+      "author": "Kleusberg",
+      "year": 2017,
+      "title": "Kleusberg",
+      "filename": "Kleusberg2017.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1260
+    },
+    {
+      "author": "Koumoutsakos",
+      "year": 1993,
+      "title": "Koumoutsakos",
+      "filename": "Koumoutsakos1993.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1261
+    },
+    {
+      "author": "Latheef",
+      "year": 2014,
+      "title": "Latheef",
+      "filename": "Latheef2014.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1262
+    },
+    {
+      "author": "Latheef",
+      "year": 2014,
+      "title": "Thesis",
+      "filename": "Latheef2014_Thesis.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "thesis"
+      ],
+      "id": 1263
+    },
+    {
+      "author": "Lian",
+      "year": 2018,
+      "title": "Lian",
+      "filename": "Lian2018.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1264
+    },
+    {
+      "author": "Liao",
+      "year": 2000,
+      "title": "Liao",
+      "filename": "Liao2000.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1265
+    },
+    {
+      "author": "Lonfils",
+      "year": 2011,
+      "title": "Lonfils",
+      "filename": "Lonfils2011.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1266
+    },
+    {
+      "author": "Lynch",
+      "year": 2012,
+      "title": "Lynch",
+      "filename": "Lynch2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1267
+    },
+    {
+      "author": "Makri",
+      "year": 2018,
+      "title": "Makri",
+      "filename": "Makri2018.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1268
+    },
+    {
+      "author": "Marcus",
+      "year": 1990,
+      "title": "Marcus",
+      "filename": "Marcus1990.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1269
+    },
+    {
+      "author": "Masterton",
+      "year": 2007,
+      "title": "Masterton",
+      "filename": "Masterton2007.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1270
+    },
+    {
+      "author": "",
+      "year": 2020,
+      "title": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory",
+      "filename": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "book-chapter",
+        "extreme-events",
+        "intermediate-depth",
+        "rogue-waves",
+        "statistical",
+        "thesis"
+      ],
+      "id": 1271
+    },
+    {
+      "author": "Mikkelsen",
+      "year": 2003,
+      "title": "Mikkelsen",
+      "filename": "Mikkelsen2003.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1272
+    },
+    {
+      "author": "Milthaler",
+      "year": 2015,
+      "title": "Milthaler",
+      "filename": "Milthaler2015.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1273
+    },
+    {
+      "author": "Morgenthal",
+      "year": 2002,
+      "title": "Morgenthal",
+      "filename": "Morgenthal2002.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1274
+    },
+    {
+      "author": "Myrtroeen",
+      "year": 2012,
+      "title": "Myrtroeen",
+      "filename": "Myrtroeen2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1275
+    },
+    {
+      "author": "Osalusi",
+      "year": 2010,
+      "title": "Osalusi",
+      "filename": "Osalusi2010.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1276
+    },
+    {
+      "author": "Padilla",
+      "year": 2019,
+      "title": "Padilla",
+      "filename": "Padilla2019.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1277
+    },
+    {
+      "author": "Pechlivanoglou",
+      "year": 2013,
+      "title": "Pechlivanoglou",
+      "filename": "Pechlivanoglou2013.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1278
+    },
+    {
+      "author": "Peric",
+      "year": 2012,
+      "title": "Peric",
+      "filename": "Peric2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1279
+    },
+    {
+      "author": "Radomski",
+      "year": 2009,
+      "title": "Radomski",
+      "filename": "Radomski2009.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1280
+    },
+    {
+      "author": "Roos",
+      "year": 2011,
+      "title": "Roos",
+      "filename": "Roos2011.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1281
+    },
+    {
+      "author": "Rossi",
+      "year": 2014,
+      "title": "Rossi",
+      "filename": "Rossi2014.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1282
+    },
+    {
+      "author": "Rubel",
+      "year": 2007,
+      "title": "Rubel",
+      "filename": "Rubel2007.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1283
+    },
+    {
+      "author": "Sarlak",
+      "year": 2014,
+      "title": "Sarlak",
+      "filename": "Sarlak2014.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1284
+    },
+    {
+      "author": "Sheel",
+      "year": 2008,
+      "title": "Sheel",
+      "filename": "Sheel2008.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1285
+    },
+    {
+      "author": "Sheikh",
+      "year": 2004,
+      "title": "Sheikh",
+      "filename": "Sheikh2004.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1286
+    },
+    {
+      "author": "Shiels",
+      "year": 1998,
+      "title": "Shiels",
+      "filename": "Shiels1998.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1287
+    },
+    {
+      "author": "Shrinivas",
+      "year": 2015,
+      "title": "Shrinivas",
+      "filename": "Shrinivas2015.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1288
+    },
+    {
+      "author": "Sorensen",
+      "year": 1986,
+      "title": "Sorensen",
+      "filename": "Sorensen1986.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1289
+    },
+    {
+      "author": "Spentza",
+      "year": 2011,
+      "title": "Spentza",
+      "filename": "Spentza2011.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1290
+    },
+    {
+      "author": "Spinneken",
+      "year": 2012,
+      "title": "Spinneken",
+      "filename": "Spinneken2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1291
+    },
+    {
+      "author": "Spinneken",
+      "year": 2012,
+      "title": "reduced",
+      "filename": "Spinneken2012_reduced.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1292
+    },
+    {
+      "author": "Spinneken et al.",
+      "year": 2010,
+      "title": "The Operation of Force-controlled Absorbing Wave Machines",
+      "filename": "Spinneken_Thesis.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "SNAME 29th American Towing Tank Conference",
+      "doi": "10.5957/attc-2010-010",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-forces",
+        "wave-generation"
+      ],
+      "id": 1293
+    },
+    {
+      "author": "Stock",
+      "year": 2006,
+      "title": "Stock",
+      "filename": "Stock2006.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1294
+    },
+    {
+      "author": "Szopa",
+      "year": 2014,
+      "title": "Szopa",
+      "filename": "Szopa2014.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1295
+    },
+    {
+      "author": "Tari",
+      "year": 2012,
+      "title": "Tari",
+      "filename": "Tari2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1296
+    },
+    {
+      "author": "Tchieu",
+      "year": 2010,
+      "title": "Tchieu",
+      "filename": "Tchieu2010.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1297
+    },
+    {
+      "author": "Thies",
+      "year": 2012,
+      "title": "Thies",
+      "filename": "Thies2012.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1298
+    },
+    {
+      "author": "Vaidhyanathan",
+      "year": 1993,
+      "title": "Vaidhyanathan",
+      "filename": "Vaidhyanathan1993.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1299
+    },
+    {
+      "author": "Walther",
+      "year": 1994,
+      "title": "Walther",
+      "filename": "Walther1994.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1300
+    },
+    {
+      "author": "Wilson",
+      "year": 2009,
+      "title": "Wilson",
+      "filename": "Wilson2009.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1301
+    },
+    {
+      "author": "Winchelmans",
+      "year": 1989,
+      "title": "Winchelmans",
+      "filename": "Winchelmans1989.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1302
+    },
+    {
+      "author": "Wist et al.",
+      "year": 2004,
+      "title": "Statistical properties of successive wave heights and successive wave periods",
+      "filename": "Wist (2023) (Thesis)_Statistical properties of successive ocean wave parameters.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "Applied Ocean Research",
+      "doi": "10.1016/j.apor.2005.01.002",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "offshore",
+        "statistical",
+        "wave-height-distribution"
+      ],
+      "id": 1303
+    },
+    {
+      "author": "Zhi (Thesis)",
+      "year": 2018,
+      "title": "AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES",
+      "filename": "Zhi (Thesis) (2018)_AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "directional-spreading",
+        "ocean-waves",
+        "reference",
+        "wave-reflection"
+      ],
+      "id": 1304
+    },
+    {
+      "author": "Zve",
+      "year": 2022,
+      "title": "Zve",
+      "filename": "Zve2022.pdf",
+      "category": "16_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1305
     },
     {
       "author": "Fitoussi, F.",
@@ -25837,7 +25768,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1310
+      "id": 1306
     },
     {
       "author": "Parker et al.",
@@ -25853,7 +25784,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1311
+      "id": 1307
     },
     {
       "author": "Aleixo et al.",
@@ -25870,7 +25801,24 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 1312
+      "id": 1308
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3",
+      "filename": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3.pdf",
+      "category": "Miscellaneous",
+      "categoryShort": "Miscellaneous",
+      "color": "#BDBDBD",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "analysis",
+        "ocean-waves"
+      ],
+      "id": 1309
     },
     {
       "author": "Athannasoulis et al.",
@@ -25887,7 +25835,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1313
+      "id": 1310
     },
     {
       "author": "Babaei et al.",
@@ -25906,7 +25854,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1314
+      "id": 1311
     },
     {
       "author": "Barlow et al.",
@@ -25924,7 +25872,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1315
+      "id": 1312
     },
     {
       "author": "Bosma",
@@ -25940,7 +25888,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1316
+      "id": 1313
     },
     {
       "author": "Bulusu e t al.",
@@ -25956,7 +25904,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1317
+      "id": 1314
     },
     {
       "author": "Byun et al.",
@@ -25973,7 +25921,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1318
+      "id": 1315
     },
     {
       "author": "Caprio et al.",
@@ -25989,7 +25937,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1319
+      "id": 1316
     },
     {
       "author": "Stokke, Olav Schram",
@@ -26005,7 +25953,23 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1320
+      "id": 1317
+    },
+    {
+      "author": "Eskey, Felixa",
+      "year": 2005,
+      "title": "Tech Talk",
+      "filename": "Christou_BEM_Tech_Talk_June2018.pdf",
+      "category": "Miscellaneous",
+      "categoryShort": "Miscellaneous",
+      "color": "#BDBDBD",
+      "journal": "",
+      "doi": "10.3998/mpub.114177",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1318
     },
     {
       "author": "Coon et al.",
@@ -26022,7 +25986,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1321
+      "id": 1319
     },
     {
       "author": "Curto, Juan José",
@@ -26039,7 +26003,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 1322
+      "id": 1320
     },
     {
       "author": "Das and Nizar",
@@ -26055,7 +26019,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1323
+      "id": 1321
     },
     {
       "author": "de Gast et al.",
@@ -26072,7 +26036,7 @@ const LIBRARY_DATA = {
         "comparison",
         "ocean-waves"
       ],
-      "id": 1324
+      "id": 1322
     },
     {
       "author": "DeCourcy et al.",
@@ -26091,7 +26055,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 1325
+      "id": 1323
     },
     {
       "author": "",
@@ -26107,7 +26071,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1326
+      "id": 1324
     },
     {
       "author": "",
@@ -26123,7 +26087,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1327
+      "id": 1325
     },
     {
       "author": "Deng et al.",
@@ -26141,7 +26105,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 1328
+      "id": 1326
     },
     {
       "author": "Di Luccio et al.",
@@ -26159,7 +26123,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-runup"
       ],
-      "id": 1329
+      "id": 1327
     },
     {
       "author": "Figueira de Morisson Faria et al.",
@@ -26177,7 +26141,7 @@ const LIBRARY_DATA = {
         "review",
         "wave-generation"
       ],
-      "id": 1330
+      "id": 1328
     },
     {
       "author": "Farsani et al.",
@@ -26197,7 +26161,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1331
+      "id": 1329
     },
     {
       "author": "Girard et al",
@@ -26216,7 +26180,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-current"
       ],
-      "id": 1332
+      "id": 1330
     },
     {
       "author": "Gomez-Heras et al.",
@@ -26234,7 +26198,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 1333
+      "id": 1331
     },
     {
       "author": "Gu et al.",
@@ -26254,7 +26218,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 1334
+      "id": 1332
     },
     {
       "author": "",
@@ -26270,7 +26234,24 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1335
+      "id": 1333
+    },
+    {
+      "author": "Harvey",
+      "year": 2009,
+      "title": "Lecture 13_Triad (or 3-wave) resonances",
+      "filename": "Harvey (2009)_Lecture 13_Triad (or 3-wave) resonances.pdf",
+      "category": "Miscellaneous",
+      "categoryShort": "Miscellaneous",
+      "color": "#BDBDBD",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves",
+        "wave-interactions"
+      ],
+      "id": 1334
     },
     {
       "author": "Henshaw et al.",
@@ -26287,7 +26268,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 1336
+      "id": 1335
     },
     {
       "author": "Janati and Azimi",
@@ -26303,7 +26284,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1337
+      "id": 1336
     },
     {
       "author": "Jang",
@@ -26321,7 +26302,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1338
+      "id": 1337
     },
     {
       "author": "Jeon et al.",
@@ -26339,7 +26320,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1339
+      "id": 1338
     },
     {
       "author": "Amir Khan et al.",
@@ -26355,7 +26336,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1340
+      "id": 1339
     },
     {
       "author": "Lashkarbolok, Mohsen",
@@ -26371,6 +26352,25 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves",
         "wave-forces"
+      ],
+      "id": 1340
+    },
+    {
+      "author": "Kouskoulas et al.",
+      "year": 2020,
+      "title": "Deep water gravity wave triad resonances on uniform flow",
+      "filename": "Lecture 12_Triad (or 3-wave) resonances.pdf",
+      "category": "Miscellaneous",
+      "categoryShort": "Miscellaneous",
+      "color": "#BDBDBD",
+      "journal": "Physics of Fluids",
+      "doi": "10.1063/5.0012631",
+      "hasAnnotation": false,
+      "tags": [
+        "deep-water",
+        "nonlinear",
+        "ocean-waves",
+        "wave-interactions"
       ],
       "id": 1341
     },
@@ -27389,7 +27389,7 @@ const LIBRARY_DATA = {
     },
     {
       "id": "03_Nonlinear_Wave_Theory",
-      "label": "Nonlinear Wave Theories",
+      "label": "Nonlinear Wave Theory",
       "color": "#9C27B0",
       "count": 50,
       "description": "Stokes theory, second/third-order expansions, bound harmonics, deterministic models"
@@ -27465,11 +27465,11 @@ const LIBRARY_DATA = {
       "description": "FFT, wavelets, bootstrapping, statistical methods"
     },
     {
-      "id": "14_Books_and_References",
-      "label": "Books & References",
+      "id": "14_Books",
+      "label": "Books",
       "color": "#9E9E9E",
-      "count": 221,
-      "description": "Textbooks, handbooks, doctoral theses"
+      "count": 116,
+      "description": "Textbooks and handbooks"
     },
     {
       "id": "15_Supervision",
@@ -27479,10 +27479,17 @@ const LIBRARY_DATA = {
       "description": "MSc/BSc supervised dissertations and projects"
     },
     {
+      "id": "16_Theses",
+      "label": "Theses",
+      "color": "#795548",
+      "count": 101,
+      "description": "Doctoral and other research theses"
+    },
+    {
       "id": "Miscellaneous",
       "label": "Miscellaneous",
       "color": "#BDBDBD",
-      "count": 89,
+      "count": 93,
       "description": "Miscellaneous and uncategorised papers"
     }
   ],
@@ -30149,9 +30156,9 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1960,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Propagation & Bathymetry": 2,
-      "Books & References": 1
+      "Books": 1
     },
     {
       "year": 1961,
@@ -30167,7 +30174,7 @@ const LIBRARY_DATA = {
       "year": 1963,
       "Wave Propagation & Bathymetry": 1,
       "Wave Spectra & Directionality": 1,
-      "Books & References": 1
+      "Books": 1
     },
     {
       "year": 1964,
@@ -30190,7 +30197,7 @@ const LIBRARY_DATA = {
     {
       "year": 1968,
       "Wave Propagation & Bathymetry": 1,
-      "Books & References": 1
+      "Books": 1
     },
     {
       "year": 1969,
@@ -30208,10 +30215,10 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1972,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave-Structure Interactions": 1,
       "Signal Processing": 1,
-      "Books & References": 1
+      "Theses": 1
     },
     {
       "year": 1974,
@@ -30222,7 +30229,7 @@ const LIBRARY_DATA = {
       "year": 1975,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 4,
-      "Books & References": 3
+      "Books": 3
     },
     {
       "year": 1976,
@@ -30232,7 +30239,7 @@ const LIBRARY_DATA = {
       "year": 1977,
       "Wave Propagation & Bathymetry": 1,
       "Wave Spectra & Directionality": 1,
-      "Books & References": 1
+      "Books": 1
     },
     {
       "year": 1978,
@@ -30243,7 +30250,7 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1979,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 4,
       "Rogue & Extreme Waves": 1
     },
@@ -30252,7 +30259,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 3,
       "Wave Propagation & Bathymetry": 1,
       "Reflection Analysis": 1,
-      "Books & References": 4
+      "Books": 4
     },
     {
       "year": 1981,
@@ -30264,7 +30271,7 @@ const LIBRARY_DATA = {
     {
       "year": 1982,
       "Wave Height Statistics": 3,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 2,
       "Wave-Structure Interactions": 1
     },
@@ -30273,11 +30280,11 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 1,
       "Wave Propagation & Bathymetry": 4,
       "Wave Spectra & Directionality": 1,
-      "Books & References": 1
+      "Theses": 1
     },
     {
       "year": 1984,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 2,
       "Wave Spectra & Directionality": 1
     },
@@ -30291,7 +30298,7 @@ const LIBRARY_DATA = {
     {
       "year": 1986,
       "Wave Propagation & Bathymetry": 2,
-      "Books & References": 1
+      "Theses": 1
     },
     {
       "year": 1987,
@@ -30301,9 +30308,9 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1988,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 1,
-      "Books & References": 3,
+      "Theses": 3,
       "Miscellaneous": 1
     },
     {
@@ -30313,44 +30320,46 @@ const LIBRARY_DATA = {
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 2,
       "Wave Spectra & Directionality": 1,
-      "Books & References": 3
+      "Theses": 3
     },
     {
       "year": 1990,
       "Wave Propagation & Bathymetry": 4,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 1
+      "Theses": 1
     },
     {
       "year": 1991,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 1,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 1,
-      "Books & References": 2
+      "Books": 2
     },
     {
       "year": 1992,
       "Wave Propagation & Bathymetry": 4,
       "Wave Spectra & Directionality": 1,
-      "Books & References": 3,
+      "Books": 3,
       "Miscellaneous": 1
     },
     {
       "year": 1993,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 6,
       "Reflection Analysis": 2,
       "Wave-Structure Interactions": 1,
       "Signal Processing": 1,
-      "Books & References": 7
+      "Books": 4,
+      "Theses": 3
     },
     {
       "year": 1994,
       "Wave Propagation & Bathymetry": 3,
       "Numerical Modelling": 1,
-      "Books & References": 4
+      "Books": 1,
+      "Theses": 3
     },
     {
       "year": 1995,
@@ -30358,23 +30367,24 @@ const LIBRARY_DATA = {
       "Reflection Analysis": 3,
       "Wave Spectra & Directionality": 2,
       "Numerical Modelling": 1,
-      "Books & References": 4
+      "Books": 4
     },
     {
       "year": 1996,
       "Wave Height Statistics": 2,
-      "Nonlinear Wave Theories": 5,
+      "Nonlinear Wave Theory": 5,
       "Wave Propagation & Bathymetry": 2,
       "Lab Generation": 1,
       "Numerical Modelling": 2,
-      "Books & References": 2
+      "Books": 2
     },
     {
       "year": 1997,
       "Wave Propagation & Bathymetry": 7,
       "Reflection Analysis": 1,
       "Numerical Modelling": 1,
-      "Books & References": 3
+      "Books": 2,
+      "Theses": 1
     },
     {
       "year": 1998,
@@ -30382,37 +30392,39 @@ const LIBRARY_DATA = {
       "Wave Propagation & Bathymetry": 1,
       "Wave Spectra & Directionality": 1,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 3,
+      "Books": 1,
+      "Theses": 2,
       "Miscellaneous": 1
     },
     {
       "year": 1999,
-      "Nonlinear Wave Theories": 3,
+      "Nonlinear Wave Theory": 3,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 5,
       "Reflection Analysis": 3,
       "Shallow & Nearshore Waves": 1,
       "Signal Processing": 1,
-      "Books & References": 4
+      "Books": 4
     },
     {
       "year": 2000,
       "Wave Height Statistics": 5,
       "Crest Height Statistics": 2,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 3,
       "Numerical Modelling": 1,
-      "Books & References": 3
+      "Books": 1,
+      "Theses": 2
     },
     {
       "year": 2001,
       "Wave Height Statistics": 1,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 8,
       "Reflection Analysis": 2,
       "Numerical Modelling": 1,
       "Signal Processing": 2,
-      "Books & References": 5
+      "Books": 5
     },
     {
       "year": 2002,
@@ -30420,7 +30432,8 @@ const LIBRARY_DATA = {
       "Wave Propagation & Bathymetry": 4,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
-      "Books & References": 4,
+      "Books": 3,
+      "Theses": 1,
       "Miscellaneous": 1
     },
     {
@@ -30431,7 +30444,8 @@ const LIBRARY_DATA = {
       "Rogue & Extreme Waves": 1,
       "Lab Generation": 1,
       "Numerical Modelling": 3,
-      "Books & References": 6
+      "Books": 4,
+      "Theses": 2
     },
     {
       "year": 2004,
@@ -30441,27 +30455,30 @@ const LIBRARY_DATA = {
       "Rogue & Extreme Waves": 2,
       "Numerical Modelling": 2,
       "Wave-Structure Interactions": 1,
-      "Books & References": 10
+      "Books": 4,
+      "Theses": 6
     },
     {
       "year": 2005,
       "Crest Height Statistics": 1,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 6,
       "Rogue & Extreme Waves": 1,
-      "Books & References": 5,
-      "Miscellaneous": 1
+      "Books": 3,
+      "Theses": 1,
+      "Miscellaneous": 2
     },
     {
       "year": 2006,
       "Wave Height Statistics": 1,
       "Crest Height Statistics": 2,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 9,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Signal Processing": 2,
-      "Books & References": 4
+      "Books": 1,
+      "Theses": 3
     },
     {
       "year": 2007,
@@ -30471,35 +30488,39 @@ const LIBRARY_DATA = {
       "Wave Propagation & Bathymetry": 8,
       "Numerical Modelling": 1,
       "Signal Processing": 1,
-      "Books & References": 8,
+      "Books": 3,
+      "Theses": 5,
       "Miscellaneous": 2
     },
     {
       "year": 2008,
       "Wave Height Statistics": 1,
       "Crest Height Statistics": 2,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Propagation & Bathymetry": 8,
       "Reflection Analysis": 2,
       "Rogue & Extreme Waves": 1,
       "Numerical Modelling": 1,
-      "Books & References": 6
+      "Books": 5,
+      "Theses": 1
     },
     {
       "year": 2009,
       "Wave Height Statistics": 2,
-      "Nonlinear Wave Theories": 3,
+      "Nonlinear Wave Theory": 3,
       "Wave Propagation & Bathymetry": 8,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 2,
       "Lab Generation": 1,
       "Signal Processing": 1,
-      "Books & References": 11
+      "Books": 3,
+      "Theses": 7,
+      "Miscellaneous": 1
     },
     {
       "year": 2010,
       "Wave Height Statistics": 3,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 3,
       "Wave Propagation & Bathymetry": 11,
       "Reflection Analysis": 2,
@@ -30507,12 +30528,13 @@ const LIBRARY_DATA = {
       "Lab Generation": 1,
       "Numerical Modelling": 1,
       "Shallow & Nearshore Waves": 2,
-      "Books & References": 5
+      "Books": 2,
+      "Theses": 3
     },
     {
       "year": 2011,
       "Wave Height Statistics": 1,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 7,
       "Reflection Analysis": 1,
@@ -30520,26 +30542,28 @@ const LIBRARY_DATA = {
       "Numerical Modelling": 1,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 9,
+      "Books": 4,
+      "Theses": 5,
       "Miscellaneous": 1
     },
     {
       "year": 2012,
       "Wave Height Statistics": 1,
-      "Nonlinear Wave Theories": 4,
+      "Nonlinear Wave Theory": 4,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 9,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 2,
       "Wave-Structure Interactions": 1,
-      "Books & References": 12,
+      "Books": 3,
+      "Theses": 9,
       "Miscellaneous": 1
     },
     {
       "year": 2013,
       "Wave Height Statistics": 4,
       "Crest Height Statistics": 7,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 3,
       "Wave Propagation & Bathymetry": 11,
       "Reflection Analysis": 1,
@@ -30547,14 +30571,15 @@ const LIBRARY_DATA = {
       "Numerical Modelling": 1,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 9,
+      "Books": 3,
+      "Theses": 6,
       "Miscellaneous": 3
     },
     {
       "year": 2014,
       "Wave Height Statistics": 2,
       "Crest Height Statistics": 1,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 13,
       "Reflection Analysis": 1,
@@ -30563,25 +30588,26 @@ const LIBRARY_DATA = {
       "Lab Generation": 3,
       "Numerical Modelling": 4,
       "Wave-Structure Interactions": 1,
-      "Books & References": 7,
+      "Books": 1,
+      "Theses": 6,
       "Miscellaneous": 2
     },
     {
       "year": 2015,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Propagation & Bathymetry": 11,
       "Rogue & Extreme Waves": 4,
       "Lab Generation": 1,
       "Numerical Modelling": 1,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 3,
+      "Theses": 3,
       "Miscellaneous": 1
     },
     {
       "year": 2016,
       "Wave Height Statistics": 7,
       "Crest Height Statistics": 3,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 2,
       "Wave Propagation & Bathymetry": 7,
       "Reflection Analysis": 2,
@@ -30590,13 +30616,14 @@ const LIBRARY_DATA = {
       "Numerical Modelling": 3,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 8,
+      "Books": 2,
+      "Theses": 6,
       "Miscellaneous": 4
     },
     {
       "year": 2017,
       "Wave Height Statistics": 2,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 8,
       "Wave Propagation & Bathymetry": 22,
       "Reflection Analysis": 4,
@@ -30606,13 +30633,14 @@ const LIBRARY_DATA = {
       "Wave-Structure Interactions": 2,
       "Shallow & Nearshore Waves": 1,
       "Signal Processing": 1,
-      "Books & References": 5,
+      "Books": 2,
+      "Theses": 3,
       "Miscellaneous": 3
     },
     {
       "year": 2018,
       "Crest Height Statistics": 3,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 4,
       "Wave Propagation & Bathymetry": 13,
       "Reflection Analysis": 1,
@@ -30621,14 +30649,15 @@ const LIBRARY_DATA = {
       "Numerical Modelling": 6,
       "Wave-Structure Interactions": 1,
       "Signal Processing": 2,
-      "Books & References": 5,
+      "Books": 1,
+      "Theses": 4,
       "Miscellaneous": 3
     },
     {
       "year": 2019,
       "Wave Height Statistics": 3,
       "Crest Height Statistics": 8,
-      "Nonlinear Wave Theories": 3,
+      "Nonlinear Wave Theory": 3,
       "Wave Breaking & Dissipation": 5,
       "Wave Propagation & Bathymetry": 20,
       "Reflection Analysis": 4,
@@ -30638,7 +30667,8 @@ const LIBRARY_DATA = {
       "Numerical Modelling": 7,
       "Wave-Structure Interactions": 6,
       "Shallow & Nearshore Waves": 2,
-      "Books & References": 6,
+      "Books": 5,
+      "Theses": 1,
       "Miscellaneous": 2
     },
     {
@@ -30655,14 +30685,15 @@ const LIBRARY_DATA = {
       "Wave-Structure Interactions": 37,
       "Shallow & Nearshore Waves": 20,
       "Signal Processing": 2,
-      "Books & References": 13,
-      "Miscellaneous": 33
+      "Books": 10,
+      "Theses": 2,
+      "Miscellaneous": 34
     },
     {
       "year": 2021,
       "Wave Height Statistics": 4,
       "Crest Height Statistics": 2,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 5,
       "Wave Propagation & Bathymetry": 32,
       "Reflection Analysis": 5,
@@ -30677,7 +30708,7 @@ const LIBRARY_DATA = {
       "year": 2022,
       "Wave Height Statistics": 3,
       "Crest Height Statistics": 2,
-      "Nonlinear Wave Theories": 2,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 2,
       "Wave Propagation & Bathymetry": 9,
       "Reflection Analysis": 2,
@@ -30685,13 +30716,14 @@ const LIBRARY_DATA = {
       "Rogue & Extreme Waves": 2,
       "Lab Generation": 2,
       "Signal Processing": 2,
-      "Books & References": 4,
+      "Books": 3,
       "Supervision": 2,
+      "Theses": 1,
       "Miscellaneous": 3
     },
     {
       "year": 2023,
-      "Nonlinear Wave Theories": 1,
+      "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Bathymetry": 5,
       "Wave Spectra & Directionality": 1,
@@ -30699,7 +30731,7 @@ const LIBRARY_DATA = {
       "Numerical Modelling": 2,
       "Wave-Structure Interactions": 3,
       "Shallow & Nearshore Waves": 1,
-      "Books & References": 1,
+      "Books": 1,
       "Miscellaneous": 1
     },
     {
@@ -32855,7 +32887,7 @@ const LIBRARY_DATA = {
         "description": "Wave crest height distributions, average shapes, nonlinear corrections"
       },
       {
-        "name": "Nonlinear Wave Theories",
+        "name": "Nonlinear Wave Theory",
         "children": [
           {
             "name": "Abroug et al. (2022)",
@@ -49291,7 +49323,7 @@ const LIBRARY_DATA = {
         "description": "FFT, wavelets, bootstrapping, statistical methods"
       },
       {
-        "name": "Books & References",
+        "name": "Books",
         "children": [
           {
             "name": "Handbooks",
@@ -51263,1450 +51295,11 @@ const LIBRARY_DATA = {
                 ]
               }
             ]
-          },
-          {
-            "name": "Theses",
-            "children": [
-              {
-                "name": "Abedi (2013)",
-                "title": "Abedi",
-                "author": "Abedi",
-                "year": 2013,
-                "filename": "Abedi2013.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Abolghasemi (2016)",
-                "title": "Abolghasemi",
-                "author": "Abolghasemi",
-                "year": 2016,
-                "filename": "Abolghasemi2016.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Acred (2014)",
-                "title": "Acred",
-                "author": "Acred",
-                "year": 2014,
-                "filename": "Acred2014.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "AGThesis-tosubmit 1",
-                "title": "AGThesis-tosubmit 1",
-                "author": "",
-                "year": 0,
-                "filename": "AGThesis-tosubmit 1.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Aknin (2015)",
-                "title": "Aknin",
-                "author": "Aknin",
-                "year": 2015,
-                "filename": "Aknin2015.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Zhang, Zhibo (2018)",
-                "title": "revision highlighted",
-                "author": "Zhang, Zhibo",
-                "year": 2018,
-                "filename": "Aknin2015_highlighted.pdf",
-                "journal": "",
-                "doi": "10.5194/acp-2018-267-ac5",
-                "hasAnnotation": true,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Chauhan, V.P.S. (1988)",
-                "title": "Additive Versus Multiplicative Precorrections of Dairy Records for Some Environmental Effects in Sire Evaluation",
-                "author": "Chauhan, V.P.S.",
-                "year": 1988,
-                "filename": "Allgayer2007_precorrections.pdf",
-                "journal": "Journal of Dairy Science",
-                "doi": "10.3168/jds.s0022-0302(88)79542-9",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Archibald (2011)",
-                "title": "Archibald",
-                "author": "Archibald",
-                "year": 2011,
-                "filename": "Archibald2011.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Bachant (2016)",
-                "title": "Bachant",
-                "author": "Bachant",
-                "year": 2016,
-                "filename": "Bachant2016.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Baldock (1994)",
-                "title": "Baldock",
-                "author": "Baldock",
-                "year": 1994,
-                "filename": "Baldock1994.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Barba (2004)",
-                "title": "Barba",
-                "author": "Barba",
-                "year": 2004,
-                "filename": "Barba2004.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Battjes, J.A. (1972)",
-                "title": "Set-Up Due to Irregular Waves",
-                "author": "Battjes, J.A.",
-                "year": 1972,
-                "filename": "Battjes (1974) (Thesis)_Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves.pdf",
-                "journal": "Coastal Engineering 1972",
-                "doi": "10.1061/9780872620490.116",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "irregular-waves",
-                  "regular-waves",
-                  "wave-propagation"
-                ]
-              },
-              {
-                "name": "Bentham (2003)",
-                "title": "Bentham",
-                "author": "Bentham",
-                "year": 2003,
-                "filename": "Bentham2003.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Black (1998)",
-                "title": "Black",
-                "author": "Black",
-                "year": 1998,
-                "filename": "Black1998.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Brownlee (1988)",
-                "title": "Brownlee",
-                "author": "Brownlee",
-                "year": 1988,
-                "filename": "Brownlee1988.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Bruggemann (2017)",
-                "title": "Bruggemann",
-                "author": "Bruggemann",
-                "year": 2017,
-                "filename": "Bruggemann2017.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Bull (2013)",
-                "title": "Bull",
-                "author": "Bull",
-                "year": 2013,
-                "filename": "Bull2013.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Chatelain (2005)",
-                "title": "Chatelain",
-                "author": "Chatelain",
-                "year": 2005,
-                "filename": "Chatelain2005.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Chau (1989)",
-                "title": "Chau",
-                "author": "Chau",
-                "year": 1989,
-                "filename": "Chau1989.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Christou (2009)",
-                "title": "Christou",
-                "author": "Christou",
-                "year": 2009,
-                "filename": "Christou2009.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Coffey (2006)",
-                "title": "Coffey",
-                "author": "Coffey",
-                "year": 2006,
-                "filename": "Coffey2006.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Connick (2013)",
-                "title": "Connick",
-                "author": "Connick",
-                "year": 2013,
-                "filename": "Connick2013.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Craske (2016)",
-                "title": "Craske",
-                "author": "Craske",
-                "year": 2016,
-                "filename": "Craske2016.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Creech (2009)",
-                "title": "Creech",
-                "author": "Creech",
-                "year": 2009,
-                "filename": "Creech2009.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "(2009)",
-                "title": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data",
-                "author": "",
-                "year": 2009,
-                "filename": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "comparison",
-                  "crest-height",
-                  "experimental",
-                  "extreme-events",
-                  "field-data",
-                  "numerical",
-                  "statistical",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Economidou (2009)",
-                "title": "Economidou",
-                "author": "Economidou",
-                "year": 2009,
-                "filename": "Economidou2009.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Ely (2013)",
-                "title": "Ely",
-                "author": "Ely",
-                "year": 2013,
-                "filename": "Ely2013.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Ezzamel (2011)",
-                "title": "Ezzamel",
-                "author": "Ezzamel",
-                "year": 2011,
-                "filename": "Ezzamel2011.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Farrell (2009)",
-                "title": "Farrell",
-                "author": "Farrell",
-                "year": 2009,
-                "filename": "Farrell2009.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Feng (2007)",
-                "title": "Feng",
-                "author": "Feng",
-                "year": 2007,
-                "filename": "Feng2007.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Fernandes (1983)",
-                "title": "Fernandes",
-                "author": "Fernandes",
-                "year": 1983,
-                "filename": "Fernandes1983.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Gibson (2004)",
-                "title": "Gibson",
-                "author": "Gibson",
-                "year": 2004,
-                "filename": "Gibson2004.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Gocmen (2016)",
-                "title": "Gocmen",
-                "author": "Gocmen",
-                "year": 2016,
-                "filename": "Gocmen2016.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Grice (2013)",
-                "title": "Grice",
-                "author": "Grice",
-                "year": 2013,
-                "filename": "Grice2013.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Mase et al. (2004)",
-                "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
-                "author": "Mase et al.",
-                "year": 2004,
-                "filename": "Groenendijk (1989)_(MSc Thesis w. notations)_Shallow foreshore wave height statistics_notes.pdf",
-                "journal": "Asian and Pacific Coasts 2003",
-                "doi": "10.1142/9789812703040_0076",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "breakwater",
-                  "random-waves",
-                  "shallow-water",
-                  "wave-runup"
-                ]
-              },
-              {
-                "name": "Groenendijk (1989)",
-                "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
-                "author": "Groenendijk",
-                "year": 1989,
-                "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "shallow-water",
-                  "statistical",
-                  "thesis",
-                  "wave-height-distribution"
-                ]
-              },
-              {
-                "name": "Mase et al. (2004)",
-                "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
-                "author": "Mase et al.",
-                "year": 2004,
-                "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
-                "journal": "Asian and Pacific Coasts 2003",
-                "doi": "10.1142/9789812703040_0076",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "breakwater",
-                  "random-waves",
-                  "shallow-water",
-                  "wave-runup"
-                ]
-              },
-              {
-                "name": "Hague (2006)",
-                "title": "Hague",
-                "author": "Hague",
-                "year": 2006,
-                "filename": "Hague2006.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Haley-J (2016)",
-                "title": "PhD-Thesis",
-                "author": "Haley-J",
-                "year": 2016,
-                "filename": "Haley-J-2016-PhD-Thesis.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Haley (2016)",
-                "title": "Haley",
-                "author": "Haley",
-                "year": 2016,
-                "filename": "Haley2016.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Heller (2007)",
-                "title": "Heller",
-                "author": "Heller",
-                "year": 2007,
-                "filename": "Heller2007.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "(1993)",
-                "title": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory",
-                "author": "",
-                "year": 1993,
-                "filename": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "analytical",
-                  "book-chapter",
-                  "modelling",
-                  "numerical",
-                  "thesis",
-                  "wave-height-distribution",
-                  "wave-shoaling"
-                ]
-              },
-              {
-                "name": "Huang (1994)",
-                "title": "Huang",
-                "author": "Huang",
-                "year": 1994,
-                "filename": "Huang1994.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Inoue (2012)",
-                "title": "Inoue",
-                "author": "Inoue",
-                "year": 2012,
-                "filename": "Inoue2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "James (2000)",
-                "title": "James",
-                "author": "James",
-                "year": 2000,
-                "filename": "James2000.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Johannessen (1997)",
-                "title": "Johannessen",
-                "author": "Johannessen",
-                "year": 1997,
-                "filename": "Johannessen1997.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Karmpadakis_Thesis",
-                "title": "Karmpadakis_Thesis",
-                "author": "",
-                "year": 0,
-                "filename": "Karmpadakis_Thesis.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Karmpadakis_Thesis_highlighted",
-                "title": "Karmpadakis_Thesis_highlighted",
-                "author": "",
-                "year": 0,
-                "filename": "Karmpadakis_Thesis_highlighted.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": true,
-                "tags": [
-                  "ocean-waves",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Karmpadakis_Thesis_highlighted_reduced",
-                "title": "Karmpadakis_Thesis_highlighted_reduced",
-                "author": "",
-                "year": 0,
-                "filename": "Karmpadakis_Thesis_highlighted_reduced.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": true,
-                "tags": [
-                  "ocean-waves",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Karmpadakis_Thesis_hl",
-                "title": "Karmpadakis_Thesis_hl",
-                "author": "",
-                "year": 0,
-                "filename": "Karmpadakis_Thesis_hl.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": true,
-                "tags": [
-                  "ocean-waves",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "(2020)",
-                "title": "PhD thesis",
-                "author": "",
-                "year": 2020,
-                "filename": "Kasiman-EH-2017-PhD-Thesis.pdf",
-                "journal": "",
-                "doi": "10.5194/se-2020-89-sc4",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Kasiman (2017)",
-                "title": "Kasiman",
-                "author": "Kasiman",
-                "year": 2017,
-                "filename": "Kasiman2017.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Katsardi (2007)",
-                "title": "Katsardi",
-                "author": "Katsardi",
-                "year": 2007,
-                "filename": "Katsardi2007.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Kim (1988)",
-                "title": "Kim",
-                "author": "Kim",
-                "year": 1988,
-                "filename": "Kim1988.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Kim (2012)",
-                "title": "Kim",
-                "author": "Kim",
-                "year": 2012,
-                "filename": "Kim2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Kleusberg (2017)",
-                "title": "Kleusberg",
-                "author": "Kleusberg",
-                "year": 2017,
-                "filename": "Kleusberg2017.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Koumoutsakos (1993)",
-                "title": "Koumoutsakos",
-                "author": "Koumoutsakos",
-                "year": 1993,
-                "filename": "Koumoutsakos1993.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Latheef (2014)",
-                "title": "Latheef",
-                "author": "Latheef",
-                "year": 2014,
-                "filename": "Latheef2014.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Latheef (2014)",
-                "title": "Thesis",
-                "author": "Latheef",
-                "year": 2014,
-                "filename": "Latheef2014_Thesis.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Lian (2018)",
-                "title": "Lian",
-                "author": "Lian",
-                "year": 2018,
-                "filename": "Lian2018.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Liao (2000)",
-                "title": "Liao",
-                "author": "Liao",
-                "year": 2000,
-                "filename": "Liao2000.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Lonfils (2011)",
-                "title": "Lonfils",
-                "author": "Lonfils",
-                "year": 2011,
-                "filename": "Lonfils2011.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Lynch (2012)",
-                "title": "Lynch",
-                "author": "Lynch",
-                "year": 2012,
-                "filename": "Lynch2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Makri (2018)",
-                "title": "Makri",
-                "author": "Makri",
-                "year": 2018,
-                "filename": "Makri2018.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Marcus (1990)",
-                "title": "Marcus",
-                "author": "Marcus",
-                "year": 1990,
-                "filename": "Marcus1990.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Masterton (2007)",
-                "title": "Masterton",
-                "author": "Masterton",
-                "year": 2007,
-                "filename": "Masterton2007.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "(2020)",
-                "title": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory",
-                "author": "",
-                "year": 2020,
-                "filename": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "analytical",
-                  "book-chapter",
-                  "extreme-events",
-                  "intermediate-depth",
-                  "rogue-waves",
-                  "statistical",
-                  "thesis"
-                ]
-              },
-              {
-                "name": "Mikkelsen (2003)",
-                "title": "Mikkelsen",
-                "author": "Mikkelsen",
-                "year": 2003,
-                "filename": "Mikkelsen2003.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Milthaler (2015)",
-                "title": "Milthaler",
-                "author": "Milthaler",
-                "year": 2015,
-                "filename": "Milthaler2015.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Morgenthal (2002)",
-                "title": "Morgenthal",
-                "author": "Morgenthal",
-                "year": 2002,
-                "filename": "Morgenthal2002.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Myrtroeen (2012)",
-                "title": "Myrtroeen",
-                "author": "Myrtroeen",
-                "year": 2012,
-                "filename": "Myrtroeen2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Osalusi (2010)",
-                "title": "Osalusi",
-                "author": "Osalusi",
-                "year": 2010,
-                "filename": "Osalusi2010.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Padilla (2019)",
-                "title": "Padilla",
-                "author": "Padilla",
-                "year": 2019,
-                "filename": "Padilla2019.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Pechlivanoglou (2013)",
-                "title": "Pechlivanoglou",
-                "author": "Pechlivanoglou",
-                "year": 2013,
-                "filename": "Pechlivanoglou2013.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Peric (2012)",
-                "title": "Peric",
-                "author": "Peric",
-                "year": 2012,
-                "filename": "Peric2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Radomski (2009)",
-                "title": "Radomski",
-                "author": "Radomski",
-                "year": 2009,
-                "filename": "Radomski2009.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Roos (2011)",
-                "title": "Roos",
-                "author": "Roos",
-                "year": 2011,
-                "filename": "Roos2011.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Rossi (2014)",
-                "title": "Rossi",
-                "author": "Rossi",
-                "year": 2014,
-                "filename": "Rossi2014.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Rubel (2007)",
-                "title": "Rubel",
-                "author": "Rubel",
-                "year": 2007,
-                "filename": "Rubel2007.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Sarlak (2014)",
-                "title": "Sarlak",
-                "author": "Sarlak",
-                "year": 2014,
-                "filename": "Sarlak2014.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Sheel (2008)",
-                "title": "Sheel",
-                "author": "Sheel",
-                "year": 2008,
-                "filename": "Sheel2008.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Sheikh (2004)",
-                "title": "Sheikh",
-                "author": "Sheikh",
-                "year": 2004,
-                "filename": "Sheikh2004.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Shiels (1998)",
-                "title": "Shiels",
-                "author": "Shiels",
-                "year": 1998,
-                "filename": "Shiels1998.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Shrinivas (2015)",
-                "title": "Shrinivas",
-                "author": "Shrinivas",
-                "year": 2015,
-                "filename": "Shrinivas2015.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Sorensen (1986)",
-                "title": "Sorensen",
-                "author": "Sorensen",
-                "year": 1986,
-                "filename": "Sorensen1986.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Spentza (2011)",
-                "title": "Spentza",
-                "author": "Spentza",
-                "year": 2011,
-                "filename": "Spentza2011.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Spinneken (2012)",
-                "title": "Spinneken",
-                "author": "Spinneken",
-                "year": 2012,
-                "filename": "Spinneken2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Spinneken (2012)",
-                "title": "reduced",
-                "author": "Spinneken",
-                "year": 2012,
-                "filename": "Spinneken2012_reduced.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Spinneken et al. (2010)",
-                "title": "The Operation of Force-controlled Absorbing Wave Machines",
-                "author": "Spinneken et al.",
-                "year": 2010,
-                "filename": "Spinneken_Thesis.pdf",
-                "journal": "SNAME 29th American Towing Tank Conference",
-                "doi": "10.5957/attc-2010-010",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "wave-forces",
-                  "wave-generation"
-                ]
-              },
-              {
-                "name": "Stock (2006)",
-                "title": "Stock",
-                "author": "Stock",
-                "year": 2006,
-                "filename": "Stock2006.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Szopa (2014)",
-                "title": "Szopa",
-                "author": "Szopa",
-                "year": 2014,
-                "filename": "Szopa2014.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Tari (2012)",
-                "title": "Tari",
-                "author": "Tari",
-                "year": 2012,
-                "filename": "Tari2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Tchieu (2010)",
-                "title": "Tchieu",
-                "author": "Tchieu",
-                "year": 2010,
-                "filename": "Tchieu2010.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Thies (2012)",
-                "title": "Thies",
-                "author": "Thies",
-                "year": 2012,
-                "filename": "Thies2012.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Vaidhyanathan (1993)",
-                "title": "Vaidhyanathan",
-                "author": "Vaidhyanathan",
-                "year": 1993,
-                "filename": "Vaidhyanathan1993.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Walther (1994)",
-                "title": "Walther",
-                "author": "Walther",
-                "year": 1994,
-                "filename": "Walther1994.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Wilson (2009)",
-                "title": "Wilson",
-                "author": "Wilson",
-                "year": 2009,
-                "filename": "Wilson2009.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Winchelmans (1989)",
-                "title": "Winchelmans",
-                "author": "Winchelmans",
-                "year": 1989,
-                "filename": "Winchelmans1989.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              },
-              {
-                "name": "Wist et al. (2004)",
-                "title": "Statistical properties of successive wave heights and successive wave periods",
-                "author": "Wist et al.",
-                "year": 2004,
-                "filename": "Wist (2023) (Thesis)_Statistical properties of successive ocean wave parameters.pdf",
-                "journal": "Applied Ocean Research",
-                "doi": "10.1016/j.apor.2005.01.002",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "offshore",
-                  "statistical",
-                  "wave-height-distribution"
-                ]
-              },
-              {
-                "name": "Zhi (Thesis) (2018)",
-                "title": "AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES",
-                "author": "Zhi (Thesis)",
-                "year": 2018,
-                "filename": "Zhi (Thesis) (2018)_AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "directional-spreading",
-                  "ocean-waves",
-                  "reference",
-                  "wave-reflection"
-                ]
-              },
-              {
-                "name": "Zve (2022)",
-                "title": "Zve",
-                "author": "Zve",
-                "year": 2022,
-                "filename": "Zve2022.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "ocean-waves"
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Analysis_of_Waves_Technical_documentation_for_W...",
-            "title": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3",
-            "author": "",
-            "year": 0,
-            "filename": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "analysis",
-              "ocean-waves"
-            ]
-          },
-          {
-            "name": "Eskey, Felixa (2005)",
-            "title": "Tech Talk",
-            "author": "Eskey, Felixa",
-            "year": 2005,
-            "filename": "Christou_BEM_Tech_Talk_June2018.pdf",
-            "journal": "",
-            "doi": "10.3998/mpub.114177",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves"
-            ]
-          },
-          {
-            "name": "Harvey (2009)",
-            "title": "Lecture 13_Triad (or 3-wave) resonances",
-            "author": "Harvey",
-            "year": 2009,
-            "filename": "Harvey (2009)_Lecture 13_Triad (or 3-wave) resonances.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves",
-              "wave-interactions"
-            ]
-          },
-          {
-            "name": "Kouskoulas et al. (2020)",
-            "title": "Deep water gravity wave triad resonances on uniform flow",
-            "author": "Kouskoulas et al.",
-            "year": 2020,
-            "filename": "Lecture 12_Triad (or 3-wave) resonances.pdf",
-            "journal": "Physics of Fluids",
-            "doi": "10.1063/5.0012631",
-            "hasAnnotation": false,
-            "tags": [
-              "deep-water",
-              "nonlinear",
-              "ocean-waves",
-              "wave-interactions"
-            ]
           }
         ],
-        "id": "14_Books_and_References",
+        "id": "14_Books",
         "color": "#9E9E9E",
-        "description": "Textbooks, handbooks, doctoral theses"
+        "description": "Textbooks and handbooks"
       },
       {
         "name": "Supervision",
@@ -52755,6 +51348,1391 @@ const LIBRARY_DATA = {
         "description": "MSc/BSc supervised dissertations and projects"
       },
       {
+        "name": "Theses",
+        "children": [
+          {
+            "name": "Abedi (2013)",
+            "title": "Abedi",
+            "author": "Abedi",
+            "year": 2013,
+            "filename": "Abedi2013.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Abolghasemi (2016)",
+            "title": "Abolghasemi",
+            "author": "Abolghasemi",
+            "year": 2016,
+            "filename": "Abolghasemi2016.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Acred (2014)",
+            "title": "Acred",
+            "author": "Acred",
+            "year": 2014,
+            "filename": "Acred2014.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "AGThesis-tosubmit 1",
+            "title": "AGThesis-tosubmit 1",
+            "author": "",
+            "year": 0,
+            "filename": "AGThesis-tosubmit 1.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "ocean-waves",
+              "reference",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Aknin (2015)",
+            "title": "Aknin",
+            "author": "Aknin",
+            "year": 2015,
+            "filename": "Aknin2015.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Zhang, Zhibo (2018)",
+            "title": "revision highlighted",
+            "author": "Zhang, Zhibo",
+            "year": 2018,
+            "filename": "Aknin2015_highlighted.pdf",
+            "journal": "",
+            "doi": "10.5194/acp-2018-267-ac5",
+            "hasAnnotation": true,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Chauhan, V.P.S. (1988)",
+            "title": "Additive Versus Multiplicative Precorrections of Dairy Records for Some Environmental Effects in Sire Evaluation",
+            "author": "Chauhan, V.P.S.",
+            "year": 1988,
+            "filename": "Allgayer2007_precorrections.pdf",
+            "journal": "Journal of Dairy Science",
+            "doi": "10.3168/jds.s0022-0302(88)79542-9",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Archibald (2011)",
+            "title": "Archibald",
+            "author": "Archibald",
+            "year": 2011,
+            "filename": "Archibald2011.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Bachant (2016)",
+            "title": "Bachant",
+            "author": "Bachant",
+            "year": 2016,
+            "filename": "Bachant2016.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Baldock (1994)",
+            "title": "Baldock",
+            "author": "Baldock",
+            "year": 1994,
+            "filename": "Baldock1994.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Barba (2004)",
+            "title": "Barba",
+            "author": "Barba",
+            "year": 2004,
+            "filename": "Barba2004.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Battjes, J.A. (1972)",
+            "title": "Set-Up Due to Irregular Waves",
+            "author": "Battjes, J.A.",
+            "year": 1972,
+            "filename": "Battjes (1974) (Thesis)_Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves.pdf",
+            "journal": "Coastal Engineering 1972",
+            "doi": "10.1061/9780872620490.116",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "coastal",
+              "irregular-waves",
+              "regular-waves",
+              "wave-propagation"
+            ]
+          },
+          {
+            "name": "Bentham (2003)",
+            "title": "Bentham",
+            "author": "Bentham",
+            "year": 2003,
+            "filename": "Bentham2003.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Black (1998)",
+            "title": "Black",
+            "author": "Black",
+            "year": 1998,
+            "filename": "Black1998.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Brownlee (1988)",
+            "title": "Brownlee",
+            "author": "Brownlee",
+            "year": 1988,
+            "filename": "Brownlee1988.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Bruggemann (2017)",
+            "title": "Bruggemann",
+            "author": "Bruggemann",
+            "year": 2017,
+            "filename": "Bruggemann2017.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Bull (2013)",
+            "title": "Bull",
+            "author": "Bull",
+            "year": 2013,
+            "filename": "Bull2013.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Chatelain (2005)",
+            "title": "Chatelain",
+            "author": "Chatelain",
+            "year": 2005,
+            "filename": "Chatelain2005.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Chau (1989)",
+            "title": "Chau",
+            "author": "Chau",
+            "year": 1989,
+            "filename": "Chau1989.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Christou (2009)",
+            "title": "Christou",
+            "author": "Christou",
+            "year": 2009,
+            "filename": "Christou2009.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Coffey (2006)",
+            "title": "Coffey",
+            "author": "Coffey",
+            "year": 2006,
+            "filename": "Coffey2006.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Connick (2013)",
+            "title": "Connick",
+            "author": "Connick",
+            "year": 2013,
+            "filename": "Connick2013.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Craske (2016)",
+            "title": "Craske",
+            "author": "Craske",
+            "year": 2016,
+            "filename": "Craske2016.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Creech (2009)",
+            "title": "Creech",
+            "author": "Creech",
+            "year": 2009,
+            "filename": "Creech2009.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "(2009)",
+            "title": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data",
+            "author": "",
+            "year": 2009,
+            "filename": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "comparison",
+              "crest-height",
+              "experimental",
+              "extreme-events",
+              "field-data",
+              "numerical",
+              "statistical",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Economidou (2009)",
+            "title": "Economidou",
+            "author": "Economidou",
+            "year": 2009,
+            "filename": "Economidou2009.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Ely (2013)",
+            "title": "Ely",
+            "author": "Ely",
+            "year": 2013,
+            "filename": "Ely2013.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Ezzamel (2011)",
+            "title": "Ezzamel",
+            "author": "Ezzamel",
+            "year": 2011,
+            "filename": "Ezzamel2011.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Farrell (2009)",
+            "title": "Farrell",
+            "author": "Farrell",
+            "year": 2009,
+            "filename": "Farrell2009.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Feng (2007)",
+            "title": "Feng",
+            "author": "Feng",
+            "year": 2007,
+            "filename": "Feng2007.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Fernandes (1983)",
+            "title": "Fernandes",
+            "author": "Fernandes",
+            "year": 1983,
+            "filename": "Fernandes1983.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Gibson (2004)",
+            "title": "Gibson",
+            "author": "Gibson",
+            "year": 2004,
+            "filename": "Gibson2004.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Gocmen (2016)",
+            "title": "Gocmen",
+            "author": "Gocmen",
+            "year": 2016,
+            "filename": "Gocmen2016.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Grice (2013)",
+            "title": "Grice",
+            "author": "Grice",
+            "year": 2013,
+            "filename": "Grice2013.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Mase et al. (2004)",
+            "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
+            "author": "Mase et al.",
+            "year": 2004,
+            "filename": "Groenendijk (1989)_(MSc Thesis w. notations)_Shallow foreshore wave height statistics_notes.pdf",
+            "journal": "Asian and Pacific Coasts 2003",
+            "doi": "10.1142/9789812703040_0076",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "breakwater",
+              "random-waves",
+              "shallow-water",
+              "wave-runup"
+            ]
+          },
+          {
+            "name": "Groenendijk (1989)",
+            "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
+            "author": "Groenendijk",
+            "year": 1989,
+            "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "shallow-water",
+              "statistical",
+              "thesis",
+              "wave-height-distribution"
+            ]
+          },
+          {
+            "name": "Mase et al. (2004)",
+            "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
+            "author": "Mase et al.",
+            "year": 2004,
+            "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
+            "journal": "Asian and Pacific Coasts 2003",
+            "doi": "10.1142/9789812703040_0076",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "breakwater",
+              "random-waves",
+              "shallow-water",
+              "wave-runup"
+            ]
+          },
+          {
+            "name": "Hague (2006)",
+            "title": "Hague",
+            "author": "Hague",
+            "year": 2006,
+            "filename": "Hague2006.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Haley-J (2016)",
+            "title": "PhD-Thesis",
+            "author": "Haley-J",
+            "year": 2016,
+            "filename": "Haley-J-2016-PhD-Thesis.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "ocean-waves",
+              "reference",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Haley (2016)",
+            "title": "Haley",
+            "author": "Haley",
+            "year": 2016,
+            "filename": "Haley2016.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Heller (2007)",
+            "title": "Heller",
+            "author": "Heller",
+            "year": 2007,
+            "filename": "Heller2007.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "(1993)",
+            "title": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory",
+            "author": "",
+            "year": 1993,
+            "filename": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "analytical",
+              "book-chapter",
+              "modelling",
+              "numerical",
+              "thesis",
+              "wave-height-distribution",
+              "wave-shoaling"
+            ]
+          },
+          {
+            "name": "Huang (1994)",
+            "title": "Huang",
+            "author": "Huang",
+            "year": 1994,
+            "filename": "Huang1994.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Inoue (2012)",
+            "title": "Inoue",
+            "author": "Inoue",
+            "year": 2012,
+            "filename": "Inoue2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "James (2000)",
+            "title": "James",
+            "author": "James",
+            "year": 2000,
+            "filename": "James2000.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Johannessen (1997)",
+            "title": "Johannessen",
+            "author": "Johannessen",
+            "year": 1997,
+            "filename": "Johannessen1997.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Karmpadakis_Thesis",
+            "title": "Karmpadakis_Thesis",
+            "author": "",
+            "year": 0,
+            "filename": "Karmpadakis_Thesis.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Karmpadakis_Thesis_highlighted",
+            "title": "Karmpadakis_Thesis_highlighted",
+            "author": "",
+            "year": 0,
+            "filename": "Karmpadakis_Thesis_highlighted.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": true,
+            "tags": [
+              "ocean-waves",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Karmpadakis_Thesis_highlighted_reduced",
+            "title": "Karmpadakis_Thesis_highlighted_reduced",
+            "author": "",
+            "year": 0,
+            "filename": "Karmpadakis_Thesis_highlighted_reduced.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": true,
+            "tags": [
+              "ocean-waves",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Karmpadakis_Thesis_hl",
+            "title": "Karmpadakis_Thesis_hl",
+            "author": "",
+            "year": 0,
+            "filename": "Karmpadakis_Thesis_hl.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": true,
+            "tags": [
+              "ocean-waves",
+              "thesis"
+            ]
+          },
+          {
+            "name": "(2020)",
+            "title": "PhD thesis",
+            "author": "",
+            "year": 2020,
+            "filename": "Kasiman-EH-2017-PhD-Thesis.pdf",
+            "journal": "",
+            "doi": "10.5194/se-2020-89-sc4",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "ocean-waves",
+              "reference",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Kasiman (2017)",
+            "title": "Kasiman",
+            "author": "Kasiman",
+            "year": 2017,
+            "filename": "Kasiman2017.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Katsardi (2007)",
+            "title": "Katsardi",
+            "author": "Katsardi",
+            "year": 2007,
+            "filename": "Katsardi2007.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Kim (1988)",
+            "title": "Kim",
+            "author": "Kim",
+            "year": 1988,
+            "filename": "Kim1988.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Kim (2012)",
+            "title": "Kim",
+            "author": "Kim",
+            "year": 2012,
+            "filename": "Kim2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Kleusberg (2017)",
+            "title": "Kleusberg",
+            "author": "Kleusberg",
+            "year": 2017,
+            "filename": "Kleusberg2017.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Koumoutsakos (1993)",
+            "title": "Koumoutsakos",
+            "author": "Koumoutsakos",
+            "year": 1993,
+            "filename": "Koumoutsakos1993.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Latheef (2014)",
+            "title": "Latheef",
+            "author": "Latheef",
+            "year": 2014,
+            "filename": "Latheef2014.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Latheef (2014)",
+            "title": "Thesis",
+            "author": "Latheef",
+            "year": 2014,
+            "filename": "Latheef2014_Thesis.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "ocean-waves",
+              "reference",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Lian (2018)",
+            "title": "Lian",
+            "author": "Lian",
+            "year": 2018,
+            "filename": "Lian2018.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Liao (2000)",
+            "title": "Liao",
+            "author": "Liao",
+            "year": 2000,
+            "filename": "Liao2000.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Lonfils (2011)",
+            "title": "Lonfils",
+            "author": "Lonfils",
+            "year": 2011,
+            "filename": "Lonfils2011.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Lynch (2012)",
+            "title": "Lynch",
+            "author": "Lynch",
+            "year": 2012,
+            "filename": "Lynch2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Makri (2018)",
+            "title": "Makri",
+            "author": "Makri",
+            "year": 2018,
+            "filename": "Makri2018.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Marcus (1990)",
+            "title": "Marcus",
+            "author": "Marcus",
+            "year": 1990,
+            "filename": "Marcus1990.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Masterton (2007)",
+            "title": "Masterton",
+            "author": "Masterton",
+            "year": 2007,
+            "filename": "Masterton2007.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "(2020)",
+            "title": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory",
+            "author": "",
+            "year": 2020,
+            "filename": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "analytical",
+              "book-chapter",
+              "extreme-events",
+              "intermediate-depth",
+              "rogue-waves",
+              "statistical",
+              "thesis"
+            ]
+          },
+          {
+            "name": "Mikkelsen (2003)",
+            "title": "Mikkelsen",
+            "author": "Mikkelsen",
+            "year": 2003,
+            "filename": "Mikkelsen2003.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Milthaler (2015)",
+            "title": "Milthaler",
+            "author": "Milthaler",
+            "year": 2015,
+            "filename": "Milthaler2015.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Morgenthal (2002)",
+            "title": "Morgenthal",
+            "author": "Morgenthal",
+            "year": 2002,
+            "filename": "Morgenthal2002.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Myrtroeen (2012)",
+            "title": "Myrtroeen",
+            "author": "Myrtroeen",
+            "year": 2012,
+            "filename": "Myrtroeen2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Osalusi (2010)",
+            "title": "Osalusi",
+            "author": "Osalusi",
+            "year": 2010,
+            "filename": "Osalusi2010.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Padilla (2019)",
+            "title": "Padilla",
+            "author": "Padilla",
+            "year": 2019,
+            "filename": "Padilla2019.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Pechlivanoglou (2013)",
+            "title": "Pechlivanoglou",
+            "author": "Pechlivanoglou",
+            "year": 2013,
+            "filename": "Pechlivanoglou2013.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Peric (2012)",
+            "title": "Peric",
+            "author": "Peric",
+            "year": 2012,
+            "filename": "Peric2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Radomski (2009)",
+            "title": "Radomski",
+            "author": "Radomski",
+            "year": 2009,
+            "filename": "Radomski2009.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Roos (2011)",
+            "title": "Roos",
+            "author": "Roos",
+            "year": 2011,
+            "filename": "Roos2011.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Rossi (2014)",
+            "title": "Rossi",
+            "author": "Rossi",
+            "year": 2014,
+            "filename": "Rossi2014.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Rubel (2007)",
+            "title": "Rubel",
+            "author": "Rubel",
+            "year": 2007,
+            "filename": "Rubel2007.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Sarlak (2014)",
+            "title": "Sarlak",
+            "author": "Sarlak",
+            "year": 2014,
+            "filename": "Sarlak2014.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Sheel (2008)",
+            "title": "Sheel",
+            "author": "Sheel",
+            "year": 2008,
+            "filename": "Sheel2008.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Sheikh (2004)",
+            "title": "Sheikh",
+            "author": "Sheikh",
+            "year": 2004,
+            "filename": "Sheikh2004.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Shiels (1998)",
+            "title": "Shiels",
+            "author": "Shiels",
+            "year": 1998,
+            "filename": "Shiels1998.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Shrinivas (2015)",
+            "title": "Shrinivas",
+            "author": "Shrinivas",
+            "year": 2015,
+            "filename": "Shrinivas2015.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Sorensen (1986)",
+            "title": "Sorensen",
+            "author": "Sorensen",
+            "year": 1986,
+            "filename": "Sorensen1986.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Spentza (2011)",
+            "title": "Spentza",
+            "author": "Spentza",
+            "year": 2011,
+            "filename": "Spentza2011.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Spinneken (2012)",
+            "title": "Spinneken",
+            "author": "Spinneken",
+            "year": 2012,
+            "filename": "Spinneken2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Spinneken (2012)",
+            "title": "reduced",
+            "author": "Spinneken",
+            "year": 2012,
+            "filename": "Spinneken2012_reduced.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Spinneken et al. (2010)",
+            "title": "The Operation of Force-controlled Absorbing Wave Machines",
+            "author": "Spinneken et al.",
+            "year": 2010,
+            "filename": "Spinneken_Thesis.pdf",
+            "journal": "SNAME 29th American Towing Tank Conference",
+            "doi": "10.5957/attc-2010-010",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "ocean-waves",
+              "reference",
+              "wave-forces",
+              "wave-generation"
+            ]
+          },
+          {
+            "name": "Stock (2006)",
+            "title": "Stock",
+            "author": "Stock",
+            "year": 2006,
+            "filename": "Stock2006.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Szopa (2014)",
+            "title": "Szopa",
+            "author": "Szopa",
+            "year": 2014,
+            "filename": "Szopa2014.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Tari (2012)",
+            "title": "Tari",
+            "author": "Tari",
+            "year": 2012,
+            "filename": "Tari2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Tchieu (2010)",
+            "title": "Tchieu",
+            "author": "Tchieu",
+            "year": 2010,
+            "filename": "Tchieu2010.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Thies (2012)",
+            "title": "Thies",
+            "author": "Thies",
+            "year": 2012,
+            "filename": "Thies2012.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Vaidhyanathan (1993)",
+            "title": "Vaidhyanathan",
+            "author": "Vaidhyanathan",
+            "year": 1993,
+            "filename": "Vaidhyanathan1993.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Walther (1994)",
+            "title": "Walther",
+            "author": "Walther",
+            "year": 1994,
+            "filename": "Walther1994.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Wilson (2009)",
+            "title": "Wilson",
+            "author": "Wilson",
+            "year": 2009,
+            "filename": "Wilson2009.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Winchelmans (1989)",
+            "title": "Winchelmans",
+            "author": "Winchelmans",
+            "year": 1989,
+            "filename": "Winchelmans1989.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Wist et al. (2004)",
+            "title": "Statistical properties of successive wave heights and successive wave periods",
+            "author": "Wist et al.",
+            "year": 2004,
+            "filename": "Wist (2023) (Thesis)_Statistical properties of successive ocean wave parameters.pdf",
+            "journal": "Applied Ocean Research",
+            "doi": "10.1016/j.apor.2005.01.002",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "ocean-waves",
+              "offshore",
+              "statistical",
+              "wave-height-distribution"
+            ]
+          },
+          {
+            "name": "Zhi (Thesis) (2018)",
+            "title": "AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES",
+            "author": "Zhi (Thesis)",
+            "year": 2018,
+            "filename": "Zhi (Thesis) (2018)_AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "book-chapter",
+              "directional-spreading",
+              "ocean-waves",
+              "reference",
+              "wave-reflection"
+            ]
+          },
+          {
+            "name": "Zve (2022)",
+            "title": "Zve",
+            "author": "Zve",
+            "year": 2022,
+            "filename": "Zve2022.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          }
+        ],
+        "id": "16_Theses",
+        "color": "#795548",
+        "description": "Doctoral and other research theses"
+      },
+      {
         "name": "Miscellaneous",
         "children": [
           {
@@ -52795,6 +52773,20 @@ const LIBRARY_DATA = {
             "tags": [
               "ocean-waves",
               "wave-kinematics"
+            ]
+          },
+          {
+            "name": "Analysis_of_Waves_Technical_documentation_for_W...",
+            "title": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3",
+            "author": "",
+            "year": 0,
+            "filename": "Analysis_of_Waves_Technical_documentation_for_WaveLab_3.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "analysis",
+              "ocean-waves"
             ]
           },
           {
@@ -52903,6 +52895,19 @@ const LIBRARY_DATA = {
             "filename": "Chircop et al. (2020)_Governing the Arctic Shipping.pdf",
             "journal": "Arctic Governance: Volume 2",
             "doi": "10.5040/9781350985384.ch-010",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves"
+            ]
+          },
+          {
+            "name": "Eskey, Felixa (2005)",
+            "title": "Tech Talk",
+            "author": "Eskey, Felixa",
+            "year": 2005,
+            "filename": "Christou_BEM_Tech_Talk_June2018.pdf",
+            "journal": "",
+            "doi": "10.3998/mpub.114177",
             "hasAnnotation": false,
             "tags": [
               "ocean-waves"
@@ -53129,6 +53134,20 @@ const LIBRARY_DATA = {
             ]
           },
           {
+            "name": "Harvey (2009)",
+            "title": "Lecture 13_Triad (or 3-wave) resonances",
+            "author": "Harvey",
+            "year": 2009,
+            "filename": "Harvey (2009)_Lecture 13_Triad (or 3-wave) resonances.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "ocean-waves",
+              "wave-interactions"
+            ]
+          },
+          {
             "name": "Henshaw et al. (2020)",
             "title": "Ubiquitous velocity fluctuations throughout the molecular interstellar medium",
             "author": "Henshaw et al.",
@@ -53210,6 +53229,22 @@ const LIBRARY_DATA = {
             "tags": [
               "ocean-waves",
               "wave-forces"
+            ]
+          },
+          {
+            "name": "Kouskoulas et al. (2020)",
+            "title": "Deep water gravity wave triad resonances on uniform flow",
+            "author": "Kouskoulas et al.",
+            "year": 2020,
+            "filename": "Lecture 12_Triad (or 3-wave) resonances.pdf",
+            "journal": "Physics of Fluids",
+            "doi": "10.1063/5.0012631",
+            "hasAnnotation": false,
+            "tags": [
+              "deep-water",
+              "nonlinear",
+              "ocean-waves",
+              "wave-interactions"
             ]
           },
           {
@@ -54047,7 +54082,7 @@ const LIBRARY_DATA = {
   },
   "stats": {
     "totalPapers": 1399,
-    "totalCategories": 16,
+    "totalCategories": 17,
     "totalAuthors": 1545,
     "totalTags": 76,
     "yearRange": [
