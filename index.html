@@ -1853,7 +1853,37 @@
                 const total = categories.reduce((sum, c) => sum + (d.data[c] || 0), 0);
                 showTooltip(event, `Year: ${year}`, `${total} papers`);
             })
-            .on('mouseleave', () => hideTooltip());
+            .on('mouseleave', () => hideTooltip())
+            .on('click', function(event, d) {
+                const year = d.data.year;
+                // Find which category this bar segment belongs to
+                const catId = d3.select(this.parentNode).datum().key;
+                const catMeta = LIBRARY_DATA.categories.find(c => c.id === catId);
+                const catLabel = catMeta ? catMeta.label : catId;
+                const catColor = catMeta ? catMeta.color : '#999';
+
+                const matchingPapers = LIBRARY_DATA.papers
+                    .filter(p => p.year === year && p.category === catId)
+                    .sort((a, b) => (a.author || '').localeCompare(b.author || ''));
+
+                const panel = document.getElementById('detailPanel');
+                panel.classList.remove('empty');
+                panel.innerHTML = `
+                    <div class="category-detail fade-in">
+                        <h2 style="color:${catColor}">${catLabel}</h2>
+                        <div class="paper-count">${matchingPapers.length} papers in ${year}</div>
+                        <div class="related-section" style="margin-top:16px">
+                            <h3>Papers</h3>
+                            ${matchingPapers.map(p => `
+                                <div class="related-item" style="border-left-color:${p.color}" onclick="selectPaper(${p.id})">
+                                    ${p.author ? p.author.split(/[,&]/)[0].trim() : 'Unknown'}
+                                    <br><small style="color:var(--text-muted)">${(p.title || p.filename).slice(0, 80)}${(p.title || p.filename).length > 80 ? '...' : ''}</small>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            });
 
         // Axes
         const xAxis = g.append('g')
