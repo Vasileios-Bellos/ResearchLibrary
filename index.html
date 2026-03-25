@@ -756,7 +756,7 @@
             .header h1 { font-size: 14px; display: none; }
             .header-stats { display: none; }
             .search-container { flex: 1; min-width: 120px; }
-            .search-container input { font-size: 12px; padding: 4px 8px; }
+            .search-container input { font-size: 12px; padding: 4px 8px 4px 30px; }
             .view-modes { gap: 2px; }
             .view-btn { font-size: 11px; padding: 4px 8px; }
             .sidebar {
@@ -1411,7 +1411,10 @@
                         const newHeight = Math.max(container.clientHeight, totalNodes2 * 20 + 60);
                         svg.attr('height', newHeight);
                         treeDiv.style('height', newHeight + 'px');
-                        treeLayout.size([newHeight - 60, width - 400]);
+                        const maxDepth = Math.max(...root.descendants().map(n => n.depth), 1);
+                        const newWidth = Math.max(width, maxDepth * 220 + treeMargin + 100);
+                        svg.attr('width', newWidth);
+                        treeLayout.size([newHeight - 60, newWidth - treeMargin - 100]);
                         update(d);
 
                         // Scroll so the clicked node is centered
