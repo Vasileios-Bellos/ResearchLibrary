@@ -1612,6 +1612,7 @@
 
         const nodes = authors.map(a => ({
             name: a.name,
+            fullname: a.fullname || a.name,
             count: a.count,
             radius: Math.sqrt(a.count) * 6 + 4,
         }));
@@ -1666,7 +1667,7 @@
             .attr('stroke-width', 1)
             .style('cursor', 'pointer')
             .on('mouseenter', (event, d) => {
-                showTooltip(event, d.name, `${d.count} papers`);
+                showTooltip(event, d.fullname || d.name, `${d.count} papers`);
             })
             .on('mouseleave', () => hideTooltip())
             .on('click', (event, d) => {
@@ -1678,7 +1679,7 @@
                 panel.classList.remove('empty');
                 panel.innerHTML = `
                     <div class="category-detail fade-in">
-                        <h2>${d.name}</h2>
+                        <h2>${d.fullname || d.name}</h2>
                         <div class="paper-count">${d.count} papers</div>
                         <div class="related-section" style="margin-top:16px">
                             <h3>Papers</h3>

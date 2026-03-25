@@ -27460,6 +27460,7 @@ const LIBRARY_DATA = {
   "authors": [
     {
       "name": "Wang",
+      "fullname": "Wang, Ying-guang",
       "count": 52,
       "coauthors": {
         "Gao": 4,
@@ -27536,6 +27537,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Liu",
+      "fullname": "Liu, Philip L. -F.",
       "count": 48,
       "coauthors": {
         "Gao": 1,
@@ -27636,6 +27638,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zhang",
+      "fullname": "Zhang, Changzheng",
       "count": 46,
       "coauthors": {
         "Zheng": 3,
@@ -27702,6 +27705,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Swan",
+      "fullname": "Swan, Chris",
       "count": 44,
       "coauthors": {
         "Baldock": 3,
@@ -27732,6 +27736,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Li",
+      "fullname": "Li, Fang-Cheng",
       "count": 35,
       "coauthors": {
         "Zhao": 2,
@@ -27792,6 +27797,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Ma",
+      "fullname": "Ma, Xiao-zhou",
       "count": 30,
       "coauthors": {
         "He": 1,
@@ -27828,6 +27834,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Chen",
+      "fullname": "Chen, Jiahn-Horng",
       "count": 29,
       "coauthors": {
         "Gao": 1,
@@ -27900,6 +27907,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Baldock",
+      "fullname": "Baldock, Tom E.",
       "count": 25,
       "coauthors": {
         "Swan": 3,
@@ -27935,6 +27943,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Huang",
+      "fullname": "Huang, Zhenjia (Jerry)",
       "count": 25,
       "coauthors": {
         "Dong": 1,
@@ -27984,6 +27993,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Taylor",
+      "fullname": "Taylor, R. Eatock",
       "count": 25,
       "coauthors": {
         "Whittaker": 1,
@@ -28028,6 +28038,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Dong",
+      "fullname": "Dong, Guo-hai",
       "count": 19,
       "coauthors": {
         "Huang": 1,
@@ -28054,6 +28065,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Lin",
+      "fullname": "Lin, Ying-Tien",
       "count": 18,
       "coauthors": {
         "Xie": 1,
@@ -28103,6 +28115,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Yang",
+      "fullname": "Yang, Jiacheng",
       "count": 16,
       "coauthors": {
         "Chen": 4,
@@ -28143,6 +28156,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Karmpadakis",
+      "fullname": "Karmpadakis, Ioannis",
       "count": 14,
       "coauthors": {
         "Swan": 7,
@@ -28151,6 +28165,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Christou",
+      "fullname": "Christou, Marios",
       "count": 14,
       "coauthors": {
         "Karmpadakis": 6,
@@ -28168,6 +28183,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Lykke Andersen",
+      "fullname": "Lykke Andersen, Thomas",
       "count": 14,
       "coauthors": {
         "Nørgaard": 1,
@@ -28179,6 +28195,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Sun",
+      "fullname": "Sun, Zhaochen",
       "count": 14,
       "coauthors": {
         "Liang": 2,
@@ -28239,6 +28256,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Battjes",
+      "fullname": "Battjes, Jurjen A",
       "count": 13,
       "coauthors": {
         "Groenendijk": 2,
@@ -28257,6 +28275,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Wu",
+      "fullname": "Wu, Thung-Yeh",
       "count": 13,
       "coauthors": {
         "Gao": 1,
@@ -28294,6 +28313,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zhou",
+      "fullname": "Zhou, Zhongbing",
       "count": 13,
       "coauthors": {
         "Ning": 4,
@@ -28327,6 +28347,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zang",
+      "fullname": "Zang, Jun",
       "count": 13,
       "coauthors": {
         "Chen": 3,
@@ -28363,6 +28384,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Kim",
+      "fullname": "Kim, Dong Hyawn",
       "count": 12,
       "coauthors": {
         "Kim": 2,
@@ -28385,6 +28407,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zhao",
+      "fullname": "Zhao, Yun-Peng",
       "count": 11,
       "coauthors": {
         "Zheng": 1,
@@ -28417,6 +28440,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Power",
+      "fullname": "Power, Hannah E.",
       "count": 11,
       "coauthors": {
         "Nielsen": 2,
@@ -28435,6 +28459,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Babanin",
+      "fullname": "Babanin, Alexander V.",
       "count": 11,
       "coauthors": {
         "Toffoli": 2,
@@ -28466,6 +28491,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Eldrup",
+      "fullname": "Eldrup, Mads Røge",
       "count": 11,
       "coauthors": {
         "Lykke Andersen": 11,
@@ -28475,6 +28501,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Arena",
+      "fullname": "Arena, Felice",
       "count": 10,
       "coauthors": {
         "Soares": 1,
@@ -28493,6 +28520,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Onorato",
+      "fullname": "Onorato, Miguel",
       "count": 10,
       "coauthors": {
         "Fernandez": 1,
@@ -28526,6 +28554,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Benoit",
+      "fullname": "Benoit, Michel",
       "count": 10,
       "coauthors": {
         "Simon": 1,
@@ -28545,6 +28574,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Guo",
+      "fullname": "Guo, Jen-Hwa",
       "count": 10,
       "coauthors": {
         "Fang": 2,
@@ -28575,6 +28605,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Gao",
+      "fullname": "Gao, Junliang",
       "count": 9,
       "coauthors": {
         "Wu": 1,
@@ -28600,6 +28631,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Katsardi",
+      "fullname": "Katsardi, V.",
       "count": 9,
       "coauthors": {
         "de Lutio": 5,
@@ -28609,6 +28641,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Lee",
+      "fullname": "Lee, Byeong Wook",
       "count": 9,
       "coauthors": {
         "Ko": 2,
@@ -28633,6 +28666,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Mase",
+      "fullname": "Mase, Hajime",
       "count": 9,
       "coauthors": {
         "Iwagaki": 2,
@@ -28645,6 +28679,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "He",
+      "fullname": "He, Shengquan",
       "count": 9,
       "coauthors": {
         "Eeltink": 1,
@@ -28679,6 +28714,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Buldakov",
+      "fullname": "Buldakov, Eugeny",
       "count": 9,
       "coauthors": {
         "Vyzikas": 1,
@@ -28695,6 +28731,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Longuet-Higgins",
+      "fullname": "Longuet-Higgins, Michael Selwyn",
       "count": 9,
       "coauthors": {
         "Cokelet": 1,
@@ -28704,6 +28741,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Ducrozet",
+      "fullname": "Ducrozet, Guillaume",
       "count": 9,
       "coauthors": {
         "Seiffert": 2,
@@ -28722,6 +28760,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Adcock",
+      "fullname": "Adcock, Thomas A. A.",
       "count": 9,
       "coauthors": {
         "Taylor": 6,
@@ -28746,6 +28785,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Hsu",
+      "fullname": "Hsu, Hung-Chu",
       "count": 9,
       "coauthors": {
         "Kimmoun": 5,
@@ -28765,6 +28805,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zheng",
+      "fullname": "Zheng, Jinhai",
       "count": 8,
       "coauthors": {
         "Cai": 5,
@@ -28787,6 +28828,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Dean",
+      "fullname": "Dean, Robert G.",
       "count": 8,
       "coauthors": {
         "Dally": 1,
@@ -28797,6 +28839,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Toffoli",
+      "fullname": "Toffoli, Alessandro",
       "count": 8,
       "coauthors": {
         "Fernandez": 1,
@@ -28821,6 +28864,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Xu",
+      "fullname": "Xu, Yun-Jie",
       "count": 8,
       "coauthors": {
         "Gao": 1,
@@ -28849,6 +28893,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Guedes Soares",
+      "fullname": "Guedes Soares, Carlos",
       "count": 8,
       "coauthors": {
         "Carvalho": 1,
@@ -28866,6 +28911,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Qi",
+      "fullname": "Qi, Hongshuai",
       "count": 8,
       "coauthors": {
         "Hou": 1,
@@ -28890,6 +28936,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Mendes",
+      "fullname": "Mendes, Saulo",
       "count": 8,
       "coauthors": {
         "Kasparian": 2,
@@ -28899,6 +28946,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Tayfun",
+      "fullname": "Tayfun, M. Aziz",
       "count": 8,
       "coauthors": {
         "Fedele": 3,
@@ -28908,6 +28956,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Fedele",
+      "fullname": "Fedele, Francesco",
       "count": 8,
       "coauthors": {
         "Tayfun": 3,
@@ -28923,6 +28972,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Latheef",
+      "fullname": "Latheef, M.",
       "count": 8,
       "coauthors": {
         "Swan": 3,
@@ -28931,6 +28981,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Chabchoub",
+      "fullname": "Chabchoub, Amin",
       "count": 8,
       "coauthors": {
         "Eeltink": 2,
@@ -28967,6 +29018,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Dias",
+      "fullname": "Dias, Frédéric",
       "count": 8,
       "coauthors": {
         "Brennan": 2,
@@ -28987,6 +29039,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Trulsen",
+      "fullname": "Trulsen, Karsten",
       "count": 8,
       "coauthors": {
         "Kliakhandler": 1,
@@ -29004,6 +29057,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Stagonas",
+      "fullname": "Stagonas, Dimitris",
       "count": 8,
       "coauthors": {
         "Vyzikas": 1,
@@ -29021,6 +29075,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Chang",
+      "fullname": "Chang, Kuang-An",
       "count": 8,
       "coauthors": {
         "Na": 1,
@@ -29049,6 +29104,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Xie",
+      "fullname": "Xie, Zhihua",
       "count": 8,
       "coauthors": {
         "Lin": 1,
@@ -29069,6 +29125,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Kimmoun",
+      "fullname": "Kimmoun, Olivier",
       "count": 8,
       "coauthors": {
         "Hsu": 5,
@@ -29091,6 +29148,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Deng",
+      "fullname": "Deng, Xiaowei",
       "count": 8,
       "coauthors": {
         "Qu": 4,
@@ -29117,6 +29175,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Fang",
+      "fullname": "Fang, Yongliu",
       "count": 8,
       "coauthors": {
         "Wang": 1,
@@ -29136,6 +29195,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Forristall",
+      "fullname": "Forristall, George Z.",
       "count": 7,
       "coauthors": {
         "Buchner": 1,
@@ -29149,6 +29209,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zhu",
+      "fullname": "Zhu, Fangyao",
       "count": 7,
       "coauthors": {
         "Gao": 2,
@@ -29179,6 +29240,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Gibson",
+      "fullname": "Gibson, Richard",
       "count": 7,
       "coauthors": {
         "Swan": 4,
@@ -29189,6 +29251,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Spinneken",
+      "fullname": "Spinneken, Johannes",
       "count": 7,
       "coauthors": {
         "Swan": 5,
@@ -29197,6 +29260,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Liang",
+      "fullname": "Liang, Dongfang",
       "count": 7,
       "coauthors": {
         "Zhang": 2,
@@ -29215,6 +29279,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Shi",
+      "fullname": "Shi, Fengyan",
       "count": 7,
       "coauthors": {
         "Zhang": 4,
@@ -29236,6 +29301,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Tang",
+      "fullname": "Tang, Zhengjiang",
       "count": 7,
       "coauthors": {
         "Qu": 1,
@@ -29266,6 +29332,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Jiang",
+      "fullname": "Jiang, Xiao-Hang",
       "count": 7,
       "coauthors": {
         "Qu": 4,
@@ -29289,6 +29356,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Goda",
+      "fullname": "Goda, Yoshimi",
       "count": 6,
       "coauthors": {
         "Suzuki": 1
@@ -29296,6 +29364,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Liberzon",
+      "fullname": "Liberzon, Dan",
       "count": 6,
       "coauthors": {
         "Knobler": 2,
@@ -29309,6 +29378,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Jia",
+      "fullname": "Jia, Meijun",
       "count": 6,
       "coauthors": {
         "Liu": 4,
@@ -29327,6 +29397,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Feng",
+      "fullname": "Feng, Xingya",
       "count": 6,
       "coauthors": {
         "Casas-Prat": 1,
@@ -29347,6 +29418,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Fenton",
+      "fullname": "Fenton, John D.",
       "count": 6,
       "coauthors": {
         "Rienecker": 2
@@ -29354,6 +29426,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Janssen",
+      "fullname": "Janssen, Peter A. E. M.",
       "count": 6,
       "coauthors": {
         "Battjes": 2,
@@ -29375,6 +29448,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Yan",
+      "fullname": "Yan, Guirong",
       "count": 6,
       "coauthors": {
         "Boswell": 1,
@@ -29392,6 +29466,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Hu",
+      "fullname": "Hu, Liangming",
       "count": 6,
       "coauthors": {
         "Baldock": 1,
@@ -29413,6 +29488,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Ning",
+      "fullname": "Ning, Dezhi",
       "count": 6,
       "coauthors": {
         "Zhou": 4,
@@ -29428,6 +29504,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Altomare",
+      "fullname": "Altomare, Corrado",
       "count": 6,
       "coauthors": {
         "Hofland": 2,
@@ -29448,6 +29525,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Martins",
+      "fullname": "Martins, Kévin",
       "count": 6,
       "coauthors": {
         "Bonneton": 4,
@@ -29459,6 +29537,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Young",
+      "fullname": "Young, Ian R.",
       "count": 6,
       "coauthors": {
         "Morgan": 1,
@@ -29477,6 +29556,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Padilla",
+      "fullname": "Padilla, Enrique M.",
       "count": 6,
       "coauthors": {
         "Alsina": 4
@@ -29484,6 +29564,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Andersen",
+      "fullname": "Andersen, Thomas Lykke",
       "count": 6,
       "coauthors": {
         "Grønbech": 1,
@@ -29493,6 +29574,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Frigaard",
+      "fullname": "Frigaard, Peter",
       "count": 6,
       "coauthors": {
         "Brorsen": 4,
@@ -29502,6 +29584,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Groenendijk",
+      "fullname": "Groenendijk, Heiko W",
       "count": 5,
       "coauthors": {
         "Battjes": 2
@@ -29509,6 +29592,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Boccotti",
+      "fullname": "Boccotti, Paolo",
       "count": 5,
       "coauthors": {
         "Arena": 1,
@@ -29520,6 +29604,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Cai",
+      "fullname": "Cai, Z.W.",
       "count": 5,
       "coauthors": {
         "Zheng": 5,
@@ -29534,6 +29619,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Duan",
+      "fullname": "Duan, YongLiang",
       "count": 5,
       "coauthors": {
         "Zheng": 1,
@@ -29556,6 +29642,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "de Lutio",
+      "fullname": "de Lutio, L.",
       "count": 5,
       "coauthors": {
         "Katsardi": 5,
@@ -29564,6 +29651,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Mori",
+      "fullname": "Mori, Nobuhito",
       "count": 5,
       "coauthors": {
         "Yasuda": 1,
@@ -29580,6 +29668,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Hughes",
+      "fullname": "Hughes, Michael G.",
       "count": 5,
       "coauthors": {
         "Power": 2,
@@ -29615,6 +29704,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Waseda",
+      "fullname": "Waseda, Takuji",
       "count": 5,
       "coauthors": {
         "Wada": 1,
@@ -29632,6 +29722,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Bitner-Gregersen",
+      "fullname": "Bitner-Gregersen, Elzbieta M.",
       "count": 5,
       "coauthors": {
         "Toffoli": 2,
@@ -29655,6 +29746,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Bateman",
+      "fullname": "Bateman, W.J.D.",
       "count": 5,
       "coauthors": {
         "Katsardi": 1,
@@ -29664,6 +29756,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Dai",
+      "fullname": "Dai, Chao-Qing",
       "count": 5,
       "coauthors": {
         "Xu": 2,
@@ -29685,6 +29778,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Sharma",
+      "fullname": "Sharma, Abhishek",
       "count": 5,
       "coauthors": {
         "Dean": 2,
@@ -29710,6 +29804,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Skjelbreia",
+      "fullname": "Skjelbreia, James E.",
       "count": 5,
       "coauthors": {
         "Hendrickson": 3,
@@ -29718,6 +29813,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Schäffer",
+      "fullname": "Schäffer, Hemming A.",
       "count": 5,
       "coauthors": {
         "Steenberg": 2,
@@ -29728,6 +29824,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Zeng",
+      "fullname": "Zeng, Qingsong",
       "count": 5,
       "coauthors": {
         "Trulsen": 4,
@@ -29739,6 +29836,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Alsina",
+      "fullname": "Alsina, José M.",
       "count": 5,
       "coauthors": {
         "Baldock": 1,
@@ -29747,6 +29845,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Grilli",
+      "fullname": "Grilli, Stephan T.",
       "count": 5,
       "coauthors": {
         "Derakhti": 1,
@@ -29768,6 +29867,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Park",
+      "fullname": "Park, Yong Sung",
       "count": 5,
       "coauthors": {
         "Pujara": 1,
