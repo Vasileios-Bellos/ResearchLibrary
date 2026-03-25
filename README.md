@@ -16,14 +16,14 @@ Open [`Mind Map`](https://vasileios-bellos.github.io/research-library/) in any m
 
 ## Views
 
-The mind map offers four distinct visualisation modes, each designed for a different way of exploring the literature.
+The mind map offers four distinct visualization modes, each designed for a different way of exploring the literature.
 
 | View | Description |
 |:----:|:------------|
 | Tree | Collapsible hierarchy of categories, subfolders, and papers. Click a category to expand and see its contents. Supports nested folder structures of arbitrary depth. |
-| Clusters | Force-directed graph with papers as nodes, clustered by category. The largest category sits at the centre, with the rest arranged radially. Zoom and drag to explore. |
+| Clusters | Force-directed graph with papers as nodes, clustered by category. The largest category sits at the center, with the rest arranged radially. Zoom and drag to explore. |
 | Network | Co-authorship network built from CrossRef metadata. Node size reflects paper count; links represent co-authored publications. Search for any author to highlight their connections. |
-| Timeline | Stacked bar chart of papers per year, colour-coded by category. Covers the full date range of the collection. |
+| Timeline | Stacked bar chart of papers per year, color-coded by category. Covers the full date range of the collection. |
 
 ## Features
 
@@ -35,13 +35,13 @@ The mind map offers four distinct visualisation modes, each designed for a diffe
 | Year range | Dual-handle slider to filter papers by publication year |
 | Detail panel | Click any paper for full metadata: author, year, journal, DOI link, tags, filename, and related papers |
 | Author search | In the Network view, type a name to highlight that author and all their direct co-authors |
-| Drop-to-add | Drag a PDF onto the mind map to instantly classify, tag, and add it to the visualisation |
+| Drop-to-add | Drag a PDF onto the mind map to instantly classify, tag, and add it to the visualization |
 
 ## Data
 
 Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 967 of the 1,396 papers. The remaining papers use metadata parsed from filenames.
 
-Tags are assigned from a controlled vocabulary of 76 keywords organised into six facets: **topic**, **theory**, **method**, **depth regime**, **structure type**, and **output type**. Each paper carries at least five tags.
+Tags are assigned from a controlled vocabulary of 76 keywords organized into six facets: **topic**, **theory**, **method**, **depth regime**, **structure type**, and **output type**. Each paper carries at least five tags.
 
 All data lives in `data.js` - a single JSON object loaded at startup. To adapt the mind map to a different paper collection, replace this file.
 
@@ -56,7 +56,7 @@ README.md
 
 ## Acknowledgements
 
-Visualisation patterns adapted from [D3 Observable Examples](https://observablehq.com/@d3) by [Mike Bostock](https://bost.ocks.org/mike/):
+Visualization patterns adapted from [D3 Observable Examples](https://observablehq.com/@d3) by [Mike Bostock](https://bost.ocks.org/mike/):
 - [Collapsible Tree](https://observablehq.com/@d3/collapsible-tree)
 - [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph)
 - [Stacked Bar Chart](https://observablehq.com/@d3/stacked-bar-chart)
