@@ -20,22 +20,22 @@ The mind map offers four distinct visualisation modes, each designed for a diffe
 
 | View | Description |
 |:----:|:------------|
-| **Tree** | Collapsible hierarchy of categories, subfolders, and papers. Click a category to expand and see its contents. Supports nested folder structures of arbitrary depth. |
-| **Clusters** | Force-directed graph with papers as nodes, clustered by category. The largest category sits at the centre, with the rest arranged radially. Zoom and drag to explore. |
-| **Network** | Co-authorship network built from CrossRef metadata. Node size reflects paper count; links represent co-authored publications. Search for any author to highlight their connections. |
-| **Timeline** | Stacked bar chart of papers per year, colour-coded by category. Covers the full date range of the collection. |
+| Tree | Collapsible hierarchy of categories, subfolders, and papers. Click a category to expand and see its contents. Supports nested folder structures of arbitrary depth. |
+| Clusters | Force-directed graph with papers as nodes, clustered by category. The largest category sits at the centre, with the rest arranged radially. Zoom and drag to explore. |
+| Network | Co-authorship network built from CrossRef metadata. Node size reflects paper count; links represent co-authored publications. Search for any author to highlight their connections. |
+| Timeline | Stacked bar chart of papers per year, colour-coded by category. Covers the full date range of the collection. |
 
 ## Features
 
 | Feature | Description |
 |:-------:|:------------|
-| **Search** | Fuzzy search across titles, authors, and years with instant results |
-| **Category filter** | Toggle categories on/off in the sidebar. Clear all / select all shortcut. |
-| **Tag filter** | 76 domain-specific keyword tags with search. AND logic - selecting multiple tags narrows the results. |
-| **Year range** | Dual-handle slider to filter papers by publication year |
-| **Detail panel** | Click any paper for full metadata: author, year, journal, DOI link, tags, filename, and related papers |
-| **Author search** | In the Network view, type a name to highlight that author and all their direct co-authors |
-| **Drop-to-add** | Drag a PDF onto the mind map to instantly classify, tag, and add it to the visualisation |
+| Search | Fuzzy search across titles, authors, and years with instant results |
+| Category filter | Toggle categories on/off in the sidebar. Clear all / select all shortcut. |
+| Tag filter | 76 domain-specific keyword tags with search. AND logic - selecting multiple tags narrows the results. |
+| Year range | Dual-handle slider to filter papers by publication year |
+| Detail panel | Click any paper for full metadata: author, year, journal, DOI link, tags, filename, and related papers |
+| Author search | In the Network view, type a name to highlight that author and all their direct co-authors |
+| Drop-to-add | Drag a PDF onto the mind map to instantly classify, tag, and add it to the visualisation |
 
 ## Data
 
