@@ -4706,7 +4706,7 @@ const LIBRARY_DATA = {
       "title": "Experimental investigation of wave propagation over a bar",
       "filename": "1-s2.0-037838399390022Z-main_Beji & Battjes (1992)_Experimental investigation of wave propagation over a bar.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(93)90022-z",
@@ -4726,7 +4726,7 @@ const LIBRARY_DATA = {
       "title": "Modeling depth-induced wave breaking over complex coastal bathymetries",
       "filename": "1-s2.0-S0378383915001301-main_Salmon & Holthuijsen (2015)_Modeling depth-induced wave breaking over complex coastal bathymetries.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2015.08.002",
@@ -4746,7 +4746,7 @@ const LIBRARY_DATA = {
       "title": "Anomalous Waves Triggered by Abrupt Depth Changes: Laboratory Experiments and Truncated KdV Statistical Mechanics",
       "filename": "2010.02970_Sun et al. (2020)_Rigorous criteria for anomalous waves induced by abrupt depth change using truncated KdV statistical mechanics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Nonlinear Science",
       "doi": "10.1007/s00332-020-09649-2",
@@ -4766,7 +4766,7 @@ const LIBRARY_DATA = {
       "title": "Comments on \"Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone\" by Abroug et al.",
       "filename": "Abroug et al. (2020)_Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone_original.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.5194/nhess-2020-209-rc2",
@@ -4790,7 +4790,7 @@ const LIBRARY_DATA = {
       "title": "Did the Draupner wave occur in a crossing sea?",
       "filename": "Adcock_Taylor_Yan_Ma_Janssen_2011_Did_the_Draupner_wave_occur_in_a_crossing_sea.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rspa.2011.0049",
@@ -4810,7 +4810,7 @@ const LIBRARY_DATA = {
       "title": "Properties of breaking irregular waves over slopes",
       "filename": "Aggarwal et al. (2020)_Properties of breaking irregular waves over slopes.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -4830,7 +4830,7 @@ const LIBRARY_DATA = {
       "title": "Space-time extreme wind waves: Analysis and prediction of shape and height",
       "filename": "Alvise et al. (2017)_Space-time extreme wind waves_Analysis and prediction of shape and height.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Modelling",
       "doi": "10.1016/j.ocemod.2017.03.010",
@@ -4849,7 +4849,7 @@ const LIBRARY_DATA = {
       "title": "Modelling Extreme Waves with 2D Dysthe Equation",
       "filename": "Archibald_2011_Modelling_of_extreme_ocean_waves_using_high_performance_computing.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Synthesis Lectures on Ocean Systems Engineering",
       "doi": "10.1007/978-3-031-77084-5_4",
@@ -4869,7 +4869,7 @@ const LIBRARY_DATA = {
       "title": "On non-linear very large sea wave groups",
       "filename": "Arena (2004)_On non-linear very large sea wave groups.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2004.12.002",
@@ -4889,7 +4889,7 @@ const LIBRARY_DATA = {
       "title": "A consistent coupled-mode theory for \nthe propagation of small-amplitude water waves \nover variable bathymetry regions",
       "filename": "Athanassoulis_&_Belibassakis_A_consistent_coupled-mode_theory_for_the_propagation_of_small-amplitude_water_waves_over_variable_bathymetry_regions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112099004978",
@@ -4909,7 +4909,7 @@ const LIBRARY_DATA = {
       "title": "A_New_Probabilistic_Wave_Breaking_Model_for_Domina",
       "filename": "A_New_Probabilistic_Wave_Breaking_Model_for_Domina.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -4927,7 +4927,7 @@ const LIBRARY_DATA = {
       "title": "On Natural Modulational Bandwidth of Deep-Water Surface Waves",
       "filename": "Babanin et al. (2019)_On natural modulational bandwidth of deep-water surface waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Fluids",
       "doi": "10.3390/fluids4020067",
@@ -4944,7 +4944,7 @@ const LIBRARY_DATA = {
       "title": "The Phillips spectrum and a model of wind-wave dissipation",
       "filename": "Badulin et al. (2019)_The Phillips spectrum and the model of wind-wave dissipation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Theoretical and Mathematical Physics",
       "doi": "10.1134/s0040577920030034",
@@ -4964,7 +4964,7 @@ const LIBRARY_DATA = {
       "title": "Bai_Eatock_2007_Numerical_simulation_of_fully_nonlinear_regular_and_focused_wave_diffraction_around_a_vertical_cylinder_using_domain_decomposition",
       "filename": "Bai_Eatock_2007_Numerical_simulation_of_fully_nonlinear_regular_and_focused_wave_diffraction_around_a_vertical_cylinder_using_domain_decomposition.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -4987,7 +4987,7 @@ const LIBRARY_DATA = {
       "title": "Long wave generation by the shoaling and breaking of transient wave groups on a beach",
       "filename": "Baldock (2006)_Long wave generation by the shoaling and breaking of transient wave groups on a beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5011,7 +5011,7 @@ const LIBRARY_DATA = {
       "title": "Two-dimensional modelling of wave dynamics and wave forces on fringing coral reefs",
       "filename": "Baldock et al. (2020)_Two-dimensional modelling of wave dynamics and wave forces on fringing coral reefs.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2019.103594",
@@ -5031,7 +5031,7 @@ const LIBRARY_DATA = {
       "title": "Baldock_Swan_Taylor_A_laboratory_study_of_nonlinear_surface_waves_on_water",
       "filename": "Baldock_Swan_Taylor_A_laboratory_study_of_nonlinear_surface_waves_on_water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5051,7 +5051,7 @@ const LIBRARY_DATA = {
       "title": "Understanding the Influence of Nonlinear Seas on Wind Generated Waves",
       "filename": "Baley (2020)_Understanding the Influence of Nonlinear Seas on Wind Generated Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5070,7 +5070,7 @@ const LIBRARY_DATA = {
       "title": "Extreme ocean waves. Part I. The practical application of fully nonlinear wave modelling",
       "filename": "Bateman_Katsardi_&_Swan_Extreme_Ocean_Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2011.05.002",
@@ -5092,7 +5092,7 @@ const LIBRARY_DATA = {
       "title": "On the Efficient Numerical Simulation of Directionally Spread Surface Water Waves",
       "filename": "Bateman_Swan_Taylor_1996_On_the_efficient_numerical_simulation_of_directionally_spread_surface_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Computational Physics",
       "doi": "10.1006/jcph.2001.6906",
@@ -5112,7 +5112,7 @@ const LIBRARY_DATA = {
       "title": "On the calculation of the water particle kinematics arising in a directionally spread wavefield",
       "filename": "Bateman_Swan_Taylor_2003_On_the_calculation_of_the_water_particle_kinematics_arising_in_a_directionally_spread_wavefield.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Computational Physics",
       "doi": "10.1016/s0021-9991(03)00012-3",
@@ -5132,7 +5132,7 @@ const LIBRARY_DATA = {
       "title": "SHOALING AND SHORELINE DISSIPATION OF SUBHARMONIC GRAVITY WAVES",
       "filename": "Battjes_2004_Shoaling of subharmonic gravity waves-annotated.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 2004",
       "doi": "10.1142/9789812701916_0097",
@@ -5154,7 +5154,7 @@ const LIBRARY_DATA = {
       "title": "Wave-in-Deck Forces on Fixed Horizontal Decks of Offshore Platforms",
       "filename": "Bea_Xu_Stear_Ramos_1999_Wave_forces_on_decks_of_offshore_platforms.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 1A: Offshore Technology",
       "doi": "10.1115/omae2014-23629",
@@ -5174,7 +5174,7 @@ const LIBRARY_DATA = {
       "title": "Radial Basis Function Differential Quadrature for Hydrodynamic Pressure on Dams with Arbitrary Reservoir and Face Shapes Affected by Earthquake",
       "filename": "Behroozi and Vaghefi (2020)_Radial Basis Function Differential Quadrature for Hydrodynamic Pressure on Dams with Arbitrary Reservoir and Face Shapes Affected by Earthquake.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Applied Fluid Mechanics",
       "doi": "10.47176/jafm.13.06.31296",
@@ -5190,7 +5190,7 @@ const LIBRARY_DATA = {
       "title": "Numerical simulation of nonlinear wave propagation over a bar",
       "filename": "Beji & Battjes (1994)_Numerical simulation of nonlinear wave propagation over a bar.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(94)90012-4",
@@ -5211,7 +5211,7 @@ const LIBRARY_DATA = {
       "title": "A novel coupled-mode model for waves propagating in variable bathymetry in the presence of sheared currents",
       "filename": "Belibassakis & Touboul (2021)_Propagation of waves in variable bathymetry in the presence of sheared currents by means of coupled-modes.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Sustainable Development and Innovations in Marine Technologies",
       "doi": "10.1201/9780367810085-8",
@@ -5231,7 +5231,7 @@ const LIBRARY_DATA = {
       "title": "A Nonlinear Coupled-Mode Model for Waves Propagating in Vertically Sheared Currents in Variable Bathymetry—Collinear Waves and Currents",
       "filename": "Belibassakis_&_Touboul_2019_A_nonlinear_coupled-mode_model_for_waves_propagating_in_vertically_sheared_currents_in_variable_bathymetry_Collinear_waves_and_currents.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Fluids",
       "doi": "10.3390/fluids4020061",
@@ -5252,7 +5252,7 @@ const LIBRARY_DATA = {
       "title": "Short-Term/Range Extreme-Value Probability Distributions of Upper Bounded Space-Time Maximum Ocean Waves",
       "filename": "Benetazzo et al. (2020)_Short-Term_Range Extreme-Value Probability Distributions of Upper Bounded Space-Time Maximum Ocean Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8090679",
@@ -5270,7 +5270,7 @@ const LIBRARY_DATA = {
       "title": "WASS_An open-source pipeline for 3D stereo reconstruction of ocean waves",
       "filename": "Bergamasco et al. (2017)_WASS_An open-source pipeline for 3D stereo reconstruction of ocean waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5286,7 +5286,7 @@ const LIBRARY_DATA = {
       "title": "Experimental investigation on the hydrodynamic performance of plane nets fouled by hydroids in waves",
       "filename": "Bi et al. (2020)_Experimental investigation on the hydrodynamic performance of plane nets fouled by hydroids in waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107839",
@@ -5305,7 +5305,7 @@ const LIBRARY_DATA = {
       "title": "Particle Image Velocimetry Measurements of Flow Over an Ogee-Type Weir in a Hydraulic Flume",
       "filename": "Biegowski et al. (2020)_Particle Image Velocimetry Measurements of Flow Over an Ogee-Type Weir in a Hydraulic Flume.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal of Civil Engineering",
       "doi": "10.1007/s40999-020-00538-z",
@@ -5323,7 +5323,7 @@ const LIBRARY_DATA = {
       "title": "Challenges in Description of Nonlinear Waves Due to Sampling Variability",
       "filename": "Bitner-Gregersen et al. (2020)_Challenges in description of nonlinearwaves due to sampling variability.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8040279",
@@ -5341,7 +5341,7 @@ const LIBRARY_DATA = {
       "title": "Some new results on statistical properties of wind waves",
       "filename": "Boccotti (1983)_Some new results on statistical properties of wind waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/0141-1187(83)90067-6",
@@ -5360,7 +5360,7 @@ const LIBRARY_DATA = {
       "title": "A field experiment on the mechanics of irregular gravity waves",
       "filename": "Boccotti et al. (1993)_A field experiment on the mechanics of irregular gravity waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112093003714",
@@ -5380,7 +5380,7 @@ const LIBRARY_DATA = {
       "title": "Boccotti_1983_Some_new_results_on_statistical_properties_of_wind_waves",
       "filename": "Boccotti_1983_Some_new_results_on_statistical_properties_of_wind_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5400,7 +5400,7 @@ const LIBRARY_DATA = {
       "title": "Geometric and kinematic indicators of breaking inception in surface gravity waves",
       "filename": "Boettger et al. (2020)_On the energetics of breaking inception and onset in surface gravity waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physical Review Fluids",
       "doi": "10.1103/jp36-ktbh",
@@ -5418,7 +5418,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
       "filename": "Boo_Kim_1996_Fully_nonlinear_diffraction_due_to_a_vertical_circular_cylinder_in_a_3D_HOBEM_Numerical_wave_tank.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2013.04.019",
@@ -5441,7 +5441,7 @@ const LIBRARY_DATA = {
       "title": "Violent breaking wave impacts. Part 3. Effects of scale and aeration",
       "filename": "Bredmose_Bullock_Hogg_2015_Violent_breaking_wave_impacts_part_3_effects_of_scale_and_aeration.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2014.692",
@@ -5461,7 +5461,7 @@ const LIBRARY_DATA = {
       "title": "Are Basin Waves Different From Field Waves?: First Investigations During the ‘CresT’ JIP",
       "filename": "Buchner_Forristall_2012_ARE_BASIN_WAVES_DIFFERENT_FROM_FIELD_WAVES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 2: Structures, Safety and Reliability",
       "doi": "10.1115/omae2012-83468",
@@ -5481,7 +5481,7 @@ const LIBRARY_DATA = {
       "title": "The influence of air and scale on wave impact pressures",
       "filename": "Bullock_Crawford_Hewson_Walkden_Bird_2001_The_influence_of_air_and_scale_on_wave_impact_pressures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/s0378-3839(00)00065-x",
@@ -5501,7 +5501,7 @@ const LIBRARY_DATA = {
       "title": "Violent breaking wave impacts. Part 1: Results from large-scale regular wave tests on vertical and sloping walls",
       "filename": "Bullock_Obhrai_Peregrine_Bredmose_Violent_breaking_wave_impacts_Part_1_Results_from_large-scale_regular_wave_tests_on_vertical_and_sloping_walls.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2006.12.002",
@@ -5522,7 +5522,7 @@ const LIBRARY_DATA = {
       "title": "A multivariate, stochastic, climate-based wave emulator for shoreline change modelling",
       "filename": "Cagigal et al. (2020)_A multivariate, stochastic, climate-based wave emulator for shoreline change modelling.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Modelling",
       "doi": "10.1016/j.ocemod.2020.101695",
@@ -5539,7 +5539,7 @@ const LIBRARY_DATA = {
       "title": "Short-range ocean forecast error characteristics in high resolution assimilative systems",
       "filename": "Carneiro et al. (2021)_Short-range ocean forecast error characteristics in high resolution assimilative systems.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5555,7 +5555,7 @@ const LIBRARY_DATA = {
       "title": "Effects of Internal Climate Variability on Historical Ocean Wave Height Trend Assessment",
       "filename": "Casas-Prat et al. (2022)_Effects of Internal Climate Variability on Historical Ocean Wave Height Trend Assessment.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Frontiers in Marine Science",
       "doi": "10.3389/fmars.2022.847017",
@@ -5573,7 +5573,7 @@ const LIBRARY_DATA = {
       "title": "morphodynamics-of-wave-dominated-beaches",
       "filename": "Castelle & Masselink_(2019)_morphodynamics-of-wave-dominated-beaches.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5591,7 +5591,7 @@ const LIBRARY_DATA = {
       "title": "Drifting breathers and Fermi–Pasta–Ulam paradox for water waves",
       "filename": "Chabchoub et al. (2019)_Drifting breathers and Fermi–Pasta–Ulam paradox for water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Wave Motion",
       "doi": "10.1016/j.wavemoti.2019.05.001",
@@ -5608,7 +5608,7 @@ const LIBRARY_DATA = {
       "title": "Ringing of a vertical cylinder in waves",
       "filename": "Chaplin_Rainey_Yemm_1997_Ringing_of_a_vertical_cylinder_in_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s002211209700699x",
@@ -5628,7 +5628,7 @@ const LIBRARY_DATA = {
       "title": "Chau_&_Taylor_Secondorder_wave_diffraction_by_a_vertical_cylinder",
       "filename": "Chau_&_Taylor_Secondorder_wave_diffraction_by_a_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5648,7 +5648,7 @@ const LIBRARY_DATA = {
       "title": "Wave–wave interactions on a sloping bottom",
       "filename": "Chen & Yang (2016)_Wave–wave interactions on a sloping bottom.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2014.10.001",
@@ -5668,7 +5668,7 @@ const LIBRARY_DATA = {
       "title": "Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads",
       "filename": "Chen et al. (2020)_Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Advances in Civil Engineering",
       "doi": "10.1155/2020/8830199",
@@ -5685,7 +5685,7 @@ const LIBRARY_DATA = {
       "title": "Wave-wave interactions on a sloping bottom-annotated",
       "filename": "Chen, Yang - 2015 - Wave-wave interactions on a sloping bottom-annotated.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5705,7 +5705,7 @@ const LIBRARY_DATA = {
       "title": "Two-dimensional Navier–Stokes simulation of breaking waves",
       "filename": "Chen_Kharif_Zaleski_Li_1999_Two-dimensional_Navier-Stokes_simulation_of_breaking_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physics of Fluids",
       "doi": "10.1063/1.869907",
@@ -5727,7 +5727,7 @@ const LIBRARY_DATA = {
       "title": "CFD simulations of wave–current-body interactions including greenwater and wet deck slamming",
       "filename": "Chen_Yu_2009_CFD_simulation_of_wave_current-body_interactions_including_greenwater_and_wet_deck_slamming.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Computers &amp; Fluids",
       "doi": "10.1016/j.compfluid.2008.01.026",
@@ -5747,7 +5747,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of wave–structure interaction using OpenFOAM",
       "filename": "Chen_Zang_Hillis_Morgan_Plummer_2014_Numerical_investigation_of_wave-structure_interaction_using_OpenFOAM.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2014.06.003",
@@ -5767,7 +5767,7 @@ const LIBRARY_DATA = {
       "title": "On the Joint Probability of Wave-Heights and Periods in Intermediate and Shallow Waters",
       "filename": "Chondros & Memos (2016)_On the Joint Probability of Wave-Heights and Periods in Intermediate and Shallow Waters.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Journal",
       "doi": "10.1142/s0578563416500133",
@@ -5787,7 +5787,7 @@ const LIBRARY_DATA = {
       "title": "Computations of fully nonlinear three-dimensional wave–wave and wave–body interactions. \nPart 2. Nonlinear waves and forces on a body",
       "filename": "Christou_2009_Fully_Nonlinear_Computations_of_waves_and_wave-structure_interaction.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112001004384",
@@ -5809,7 +5809,7 @@ const LIBRARY_DATA = {
       "title": "Christou_Ewans_2011_EXAMINING_A_COMPREHENSIVE_DATASET_CONTAINING_THOUSANDS_OF_FREAK_WAVES",
       "filename": "Christou_Ewans_2011_EXAMINING_A_COMPREHENSIVE_DATASET_CONTAINING_THOUSANDS_OF_FREAK_WAVES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5829,7 +5829,7 @@ const LIBRARY_DATA = {
       "title": "WAVE HEIGHT DISTRIBUTION IN CONSTANT AND FINITE DEPTHS",
       "filename": "Clares & Gent (2012)_Wave height distrib ution in constant and finite depths.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v33.waves.15",
@@ -5849,7 +5849,7 @@ const LIBRARY_DATA = {
       "title": "Corte_Grilli_2006_Numerical_Modeling_of_Extreme_Wave_Slamming",
       "filename": "Corte_Grilli_2006_Numerical_Modeling_of_Extreme_Wave_Slamming.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5870,7 +5870,7 @@ const LIBRARY_DATA = {
       "title": "Reduced-order precursors of rare events in unidirectional nonlinear water waves",
       "filename": "Cousins and Sapsis (2015)_Reduced order prediction of rare events in unidirectional nonlinear water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2016.13",
@@ -5890,7 +5890,7 @@ const LIBRARY_DATA = {
       "title": "Reduced-order precursors of rare events in unidirectional nonlinear water waves",
       "filename": "Cousins and Sapsis (2016)_Reduced-order precursors of rare events in unidirectional nonlinear water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2016.13",
@@ -5910,7 +5910,7 @@ const LIBRARY_DATA = {
       "title": "On the calculation of wavenumber from measured time traces",
       "filename": "Craciunescu and Christou (2020)_On the calculation of wavenumber from measured time traces.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2020.102115",
@@ -5927,7 +5927,7 @@ const LIBRARY_DATA = {
       "title": "Wave Loading on a Group of Cylinders in Fairly Perfect Fluid",
       "filename": "Cui and Zhou (2020)_Wave Loading on a Group of Cylinders in Fairly Perfect Fluid.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -5946,7 +5946,7 @@ const LIBRARY_DATA = {
       "title": "Numerical modeling of water waves with the SPH method",
       "filename": "Dalrymple_Rogers_2006_Numerical_modeling_of_water_waves_with_the_SPH_method.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2005.10.004",
@@ -5966,7 +5966,7 @@ const LIBRARY_DATA = {
       "title": "Numerical modelling of extreme waves by Smoothed Particle Hydrodynamics",
       "filename": "Dao_Xu_Chan_Tkalich_2011_Numerical_modelling_of_extreme_waves_by_smoothed_particle_hydrodynamics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Natural Hazards and Earth System Sciences",
       "doi": "10.5194/nhess-11-419-2011",
@@ -5986,7 +5986,7 @@ const LIBRARY_DATA = {
       "title": "Wave propagation over a deformable sea floor",
       "filename": "Dawson (1978)_Wave propagation over a deformable sea floor.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(78)90001-x",
@@ -6006,7 +6006,7 @@ const LIBRARY_DATA = {
       "title": "Relative Validities of Water Wave Theories",
       "filename": "Dean_1970_Relative Validities of Water Wave Theories.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of the Waterways, Harbors and Coastal Engineering Division",
       "doi": "10.1061/awhcar.0000003",
@@ -6026,7 +6026,7 @@ const LIBRARY_DATA = {
       "title": "Weakly nonlinear waves in water of variable depth_Variable-coefficient Korteweg–de Vries equation",
       "filename": "Demiray (2010)_Weakly nonlinear waves in water of variable depth_Variable-coefficient Korteweg–de Vries equation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6046,7 +6046,7 @@ const LIBRARY_DATA = {
       "title": "An experimental study of gravity waves through segmented floating viscoelastic covers",
       "filename": "Dharma et al. (2020)_An experimental study of gravity waves through segmented floating viscoelastic covers.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2020.102233",
@@ -6064,7 +6064,7 @@ const LIBRARY_DATA = {
       "title": "A remark on finite volume methods for 2D shallow water equations over irregular bottom topography",
       "filename": "Di Cristo et al. (2020_A remark on finite volume methods for 2D shallow water equations over irregular bottom topography.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydraulic Research",
       "doi": "10.1080/00221686.2020.1744752",
@@ -6084,7 +6084,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear wave propagation of Stokes' waves over uneven bottoms",
       "filename": "Dingemans (1997)_Water wave propagation over uneven bottoms.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Advanced Series on Ocean Engineering",
       "doi": "10.1142/9789812796042_0008",
@@ -6106,7 +6106,7 @@ const LIBRARY_DATA = {
       "title": "Parameterization of nonlinear shallow water waves over sloping bottoms",
       "filename": "Dong et al. (2014)_Parameterization of nonlinear shallow water waves over sloping bottoms.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6127,7 +6127,7 @@ const LIBRARY_DATA = {
       "title": "An Experimental Investigation of Wave Forces on a Submerged Horizontal Plate Over a Simple Slope",
       "filename": "Dong et al. (2020)_An Experimental Investigation of Wave Forces on a Submerged Horizontal Plate Over a Simple Slope.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6146,7 +6146,7 @@ const LIBRARY_DATA = {
       "title": "Image-Based Measurement of Wave Interactions with",
       "filename": "Douglas et al. (2020)_Image-Based Measurement of Wave Interactions with.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6164,7 +6164,7 @@ const LIBRARY_DATA = {
       "title": "Complex coastal protective measures to protect",
       "filename": "Dreizis and Kostin (2020)_Complex coastal protective measures to protect.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6184,7 +6184,7 @@ const LIBRARY_DATA = {
       "title": "Phase-resolved wave prediction model for long-crest waves based on machine learning",
       "filename": "Duan et al. (2020)_Phase-resolved wave prediction model for long-crest waves based on machine learning.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
       "doi": "10.1016/j.cma.2020.113350",
@@ -6202,7 +6202,7 @@ const LIBRARY_DATA = {
       "title": "Applicability and limitations of highly non-linear potential flow solvers in the context of water waves",
       "filename": "Ducrozet et al. (2017)_Applicability and limitations of highly non-linear potential flow solvers in the context of water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2017.07.003",
@@ -6222,7 +6222,7 @@ const LIBRARY_DATA = {
       "title": "Physical modeling of progressive damage and failure of wood-frame coastal residential structures due to surge and wave forces",
       "filename": "Duncan (2020))_Physical Modeling of Progressive Damage and Failure of Wood-Frame Coastal Residential Structures Due to Waves and Surge Forces.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2021.103959",
@@ -6242,7 +6242,7 @@ const LIBRARY_DATA = {
       "title": "Second-order Wave Forces Acting on a Horizontal Circular Cylinder in Irregular Waves",
       "filename": "Eatock_Kernot_1999_On_second_order_wave_loading_and_response_in_irregular_waves_NOT OFFICIAL.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Nonlinear Water Waves",
       "doi": "10.1007/978-3-642-83331-1_29",
@@ -6265,7 +6265,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Wave Tanks Based on Finite Element and Boundary Element Modelling",
       "filename": "Eatock_Wu_Bai_Hu_2008_Numerical_Wave_Tanks_Based_on_finite_element_and_boundary_element_modelling.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "24th International Conference on Offshore Mechanics and Arctic Engineering: Volume 3",
       "doi": "10.1115/omae2005-67505",
@@ -6285,7 +6285,7 @@ const LIBRARY_DATA = {
       "title": "Wave Propagation Models for Numerical Wave Tanks",
       "filename": "Eatock_Wu_Bai_Hu_2008_NUMERICAL_WAVE_TANKS_proceedings.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Advanced Numerical Modelling of Wave Structure Interactions",
       "doi": "10.1201/9781351119542-2",
@@ -6305,7 +6305,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of Free/Bound Waves on Gentle and Steep Foreshores",
       "filename": "Eldrup and Andersen (2020)_Numerical Study on RegularWave Shoaling_De-Shoaling and Decomposition of Free_Bound Waves on  Gentle and Steep Foreshores.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8050334",
@@ -6326,7 +6326,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of Free/Bound Waves on Gentle and Steep Foreshores",
       "filename": "Eldrup and Lykke Andersen (2020)_Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of FreeBound Waves on Gentle and Steep Foreshores.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8050334",
@@ -6347,7 +6347,7 @@ const LIBRARY_DATA = {
       "title": "Eldrup, Andersen_2020_Numerical study on regular wave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated",
       "filename": "Eldrup, Andersen_2020_Numerical study on regular wave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6368,7 +6368,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of Free/Bound Waves on Gentle and Steep Foreshores",
       "filename": "Eldrup, Andersen_2020_Numerical study on regularwave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8050334",
@@ -6389,7 +6389,7 @@ const LIBRARY_DATA = {
       "title": "WAVE DIRECTION COMPUTATIONS WITH THREE GAGE ARRAYS",
       "filename": "Esteva (1976)_WAVE DIRECTION COMPUTATIONS WITH THREE GAGE ARRAYS.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6405,7 +6405,7 @@ const LIBRARY_DATA = {
       "title": "Evaluation and development of water wave theories for engineering application",
       "filename": "Evaluation and development of water wave theories for engineering application.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.5962/bhl.title.47504",
@@ -6425,7 +6425,7 @@ const LIBRARY_DATA = {
       "title": "Observations of the Directional Spectrum of Fetch-Limited Waves",
       "filename": "Ewans_1998_Observations_of_the_Directional_Spectrum_of_Fetch-Limited_Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/1520-0485(1998)028<0495:ootdso>2.0.co;2",
@@ -6446,7 +6446,7 @@ const LIBRARY_DATA = {
       "title": "Extreme long waves over a varying bathymetry",
       "filename": "extreme_long_waves_over_a_varying_bathymetry_Hertirich & Dias (2019).pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2019.618",
@@ -6466,7 +6466,7 @@ const LIBRARY_DATA = {
       "title": "INTRODUCTION",
       "filename": "Faltinsen_2006_Hydrodynamics_of_High-Speed_Marine_Vehicles.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Hydrodynamics of High-Speed Marine Vehicles",
       "doi": "10.1017/cbo9780511546068.002",
@@ -6486,7 +6486,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear wave loads on a slender vertical cylinder",
       "filename": "Faltinsen_Newman_&Vinje_Nonlinear_wave_loads_on_a_slender_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112095001297",
@@ -6508,7 +6508,7 @@ const LIBRARY_DATA = {
       "title": "An Approximation Model for Nonlinear Wave Induced Moment on a Vertical Surface-Piercing Column",
       "filename": "Feng et al. (2020)_An Approximation Model for Nonlinear Wave Induced Moment on a Vertical Surface-Piercing Column.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6528,7 +6528,7 @@ const LIBRARY_DATA = {
       "title": "A fifth-order theory for steady waves",
       "filename": "Fenton (1985)_A fifth-order theory for steady waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6546,7 +6546,7 @@ const LIBRARY_DATA = {
       "title": "A Fifth‐Order Stokes Theory for Steady Waves",
       "filename": "Fenton_A_fifth_order_stokes_theory_for_steady_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
       "doi": "10.1061/(asce)0733-950x(1985)111:2(216)",
@@ -6568,7 +6568,7 @@ const LIBRARY_DATA = {
       "title": "Introduction to some nonlinear wave theories",
       "filename": "Fenton_Nonlinear wave theories.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Fluid Waves",
       "doi": "10.1201/9780429295263-7",
@@ -6588,7 +6588,7 @@ const LIBRARY_DATA = {
       "title": "The Cnoidal Theory Of Water Waves",
       "filename": "Fenton_The Cnoidal Theory of Water Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Developments in Offshore Engineering",
       "doi": "10.1016/b978-088415380-1/50021-2",
@@ -6608,7 +6608,7 @@ const LIBRARY_DATA = {
       "title": "Ferrant_1995_Time_domain_computation_of_nonlinear_diffraction_loads_upon_three_dimensional_floating_bodies",
       "filename": "Ferrant_1995_Time_domain_computation_of_nonlinear_diffraction_loads_upon_three_dimensional_floating_bodies.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6628,7 +6628,7 @@ const LIBRARY_DATA = {
       "title": "Ferziger_Peric_2002_Computational_Methods_for_Fluid_Dynamics",
       "filename": "Ferziger_Peric_2002_Computational_Methods_for_Fluid_Dynamics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6648,7 +6648,7 @@ const LIBRARY_DATA = {
       "title": "FIFTH ORDER GRAVITY WAVE THEORY",
       "filename": "FIFTH_ORDER_GRAVITY_WAVE_THEORY.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v7.10",
@@ -6668,7 +6668,7 @@ const LIBRARY_DATA = {
       "title": "On the solution of the slope beach problem in the context of shallow-water code benchmarking_Why non-linearization of the initial waveforms is essential",
       "filename": "Figueredo et al. (2020)_On the solution of the slope beach problem in the context of shallow-water code benchmarking_Why non-linearization of the initial waveforms is essential.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6690,7 +6690,7 @@ const LIBRARY_DATA = {
       "title": "Numerical modeling of extreme rogue waves generated by directional energy focusing",
       "filename": "Fochesato_Grilli_Dias_2007_Numerical_modeling_of_extreme_rogue_waves_generated_by_directional_energy_focusing.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Wave Motion",
       "doi": "10.1016/j.wavemoti.2007.01.003",
@@ -6714,7 +6714,7 @@ const LIBRARY_DATA = {
       "title": "CHAPTER 1 \nCHAPTER 2 \nCHAPTER 3 \nCHAPTER 4 \nCHAPTER 5 \nCHAPTER 6 \nCHAPTER 7 \nCHAPTER 8 \nCHAPTER 9 \nCHAPTER 10 \nCHAPTER 11 \nCHAPTER 12",
       "filename": "Folley2017_Chapter_TheWaveEnergyResource.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Prisoners, Diplomats, and the Great War",
       "doi": "10.5040/9798216001317.0010",
@@ -6734,7 +6734,7 @@ const LIBRARY_DATA = {
       "title": "Numerical and experimental analysis of extreme wave induced vertical bending moments on a FPSO",
       "filename": "Fonseca et al. (2010)_Numerical and experimental analysis of extreme wave induced vertical bending moments on a FPSO.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2010.08.001",
@@ -6754,7 +6754,7 @@ const LIBRARY_DATA = {
       "title": "Wave and Crest Height Distributions",
       "filename": "Foristall 2000_Wave_Crest_distributions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Encyclopedia of Maritime and Offshore Engineering",
       "doi": "10.1002/9781118476406.emoe080",
@@ -6772,7 +6772,7 @@ const LIBRARY_DATA = {
       "title": "Foristall_2000_Wave_Crest_distributions-Observations_and_Second-Order_Theory",
       "filename": "Foristall_2000_Wave_Crest_distributions-Observations_and_Second-Order_Theory.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6793,7 +6793,7 @@ const LIBRARY_DATA = {
       "title": "Forristall_2006_MAXIMUM_WAVE_HEIGHTS_OVER_AN_AREA_AND_THE_AIR_GAP_PROBLEM",
       "filename": "Forristall_2006_MAXIMUM_WAVE_HEIGHTS_OVER_AN_AREA_AND_THE_AIR_GAP_PROBLEM.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -6813,7 +6813,7 @@ const LIBRARY_DATA = {
       "title": "Design for high performance assurance for offshore production facilities in remote harsh and sensitive environments",
       "filename": "Fu_2020_DYNAMIC RISK ANALYSIS OF OFFSHORE FACILITIES IN HARSH_ENVIRONMENTS.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "OPSEARCH",
       "doi": "10.1007/bf03398819",
@@ -6830,7 +6830,7 @@ const LIBRARY_DATA = {
       "title": "Capturing the Motion of the Free Surface of a Fluid Stored within a Floating Structure",
       "filename": "Gabl_etal_Capturing_the_motion_of_the_free_surface_of_a_fluid_stored_within_a_floating_structure.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Water",
       "doi": "10.3390/w11010050",
@@ -6850,7 +6850,7 @@ const LIBRARY_DATA = {
       "title": "Probability density function for wave elevation based on Gaussian mixture models",
       "filename": "Gao et al. (2020)_Probability density function for wave elevation based on Gaussian mixture models.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107815",
@@ -6870,7 +6870,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear instability of interfacial waves in stratified laminar channel flow",
       "filename": "Garcia et al. (2020)_Nonlinear instability of interfacial waves in stratified laminar channel flow.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal of Multiphase Flow",
       "doi": "10.1016/j.ijmultiphaseflow.2020.103463",
@@ -6889,7 +6889,7 @@ const LIBRARY_DATA = {
       "title": "The application of a radar-based depth inversion method to monitor near-shore nourishments on an open sandy coast and an ebb-tidal delta",
       "filename": "Gawehn et al. (2020)_The application of a radar-based depth inversion method to monitor near-shore nourishments on an open sandy coast and an ebb-tidal delta.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103716",
@@ -6909,7 +6909,7 @@ const LIBRARY_DATA = {
       "title": "Tsunami Wave Transformation in Selesung Bay (Lampung)",
       "filename": "Gelfi et al. (2021)_Tsunami Wave Transformation in Selesung Bay (Lampung).pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "IOP Conference Series: Earth and Environmental Science",
       "doi": "10.1088/1755-1315/698/1/012027",
@@ -6929,7 +6929,7 @@ const LIBRARY_DATA = {
       "title": "The evolution of large ocean waves: the role of local and rapid spectral changes",
       "filename": "Gibson_&_Swan_The_evolution_of_large_ocean_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rspa.2006.1729",
@@ -6949,7 +6949,7 @@ const LIBRARY_DATA = {
       "title": "Congratulations, Liu etal",
       "filename": "Gibson_etal_2002.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.5194/gmd-2015-251-sc2",
@@ -6969,7 +6969,7 @@ const LIBRARY_DATA = {
       "title": "Local Energy Spectra in the Vicinity of an Extreme Wave Event",
       "filename": "Gibson_Swan_2003_LOCAL_ENERGY_SPECTRA_IN_THE_VICINITY_OF_AN_EXTREME_WAVE_EVENT.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 3: Materials Technology; Ocean Engineering; Polar and Arctic Sciences and Technology; Workshops",
       "doi": "10.1115/omae2003-37249",
@@ -6992,7 +6992,7 @@ const LIBRARY_DATA = {
       "title": "Gibson_Tromans_Swan_2002_draft not final",
       "filename": "Gibson_Tromans_Swan_2002_draft not final.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7012,7 +7012,7 @@ const LIBRARY_DATA = {
       "title": "Reanalysis of Regular and Random Breaking Wave Statistics",
       "filename": "Goda_2010_REANALYSIS_OF_REGULAR_AND_RANDOM_BREAKING_WAVE_STATISTICS.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Journal",
       "doi": "10.1142/s0578563410002129",
@@ -7035,7 +7035,7 @@ const LIBRARY_DATA = {
       "title": "State-of-the-art of classical SPH for free-surface flows",
       "filename": "Gomez_Rogers_Dalrymple_2010_State-of-the-art_of_classical_SPH_for_free_surface_flows.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydraulic Research",
       "doi": "10.3826/jhr.2010.0012",
@@ -7055,7 +7055,7 @@ const LIBRARY_DATA = {
       "title": "Shallow structure of the Chalco and Xochimilco sub-basins (southern Mexico basin) based on wave propagation modelling and seismic data",
       "filename": "Gonzalez-Flores et al. (2020)_Shallow structure of the Chalco and Xochimilco sub-basins (southern Mexico basin) based on wave propagation modelling and seismic data.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7075,7 +7075,7 @@ const LIBRARY_DATA = {
       "title": "Fluid dynamics and wave-structure interactions",
       "filename": "Goteman et al. (2022)_Fluid dynamics and wave-structure interactions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7092,7 +7092,7 @@ const LIBRARY_DATA = {
       "title": "Wave Energy Resource Assessment for Exploitation—A Review",
       "filename": "Gouillou et al. (2020)_Wave Energy Resource Assessment for Exploitation—A Review.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8090705",
@@ -7111,7 +7111,7 @@ const LIBRARY_DATA = {
       "title": "Extreme waves generated by cyclonic winds in the western portion of the South Atlantic Ocean",
       "filename": "Gramcianinov et al. (2020)_Extreme waves generated by cyclonic winds in the western portion of the South Atlantic Ocean.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107745",
@@ -7131,7 +7131,7 @@ const LIBRARY_DATA = {
       "title": "An efficient boundary element method for nonlinear water waves",
       "filename": "Grilli_Skourup_&_Svendsen_An_efficient_boundary_element_method_for_nonlinear_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Engineering Analysis with Boundary Elements",
       "doi": "10.1016/0955-7997(89)90005-2",
@@ -7151,7 +7151,7 @@ const LIBRARY_DATA = {
       "title": "Runup on a vertical column in strong water wave events",
       "filename": "Grue and Osyka (2020)_Runup on a vertical column in strong water wave events.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103775",
@@ -7171,7 +7171,7 @@ const LIBRARY_DATA = {
       "title": "Runup on a vertical column in strong water wave events",
       "filename": "Grue and Osyka (2020)_Vertical column in strong water wave events_runup_ runup velocity and their scaling.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103775",
@@ -7191,7 +7191,7 @@ const LIBRARY_DATA = {
       "title": "Measurements of higher harmonic wave forces on a vertical truncated circular cylinder",
       "filename": "Grue_Bjorshol_Strand_1993_Higher_harmonic_wave_exciting_forces_on_a_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2005.03.006",
@@ -7212,7 +7212,7 @@ const LIBRARY_DATA = {
       "title": "Representation of double-peaked sea wave spectra",
       "filename": "Guedes Soares - 1984 - Representation of double-peaked sea wave spectra.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(84)90019-2",
@@ -7231,7 +7231,7 @@ const LIBRARY_DATA = {
       "title": "Marinet_D2.12 Collation of Wave Simulation Methods",
       "filename": "Guillouzouic (2014)_Marinet_D2.12 Collation of Wave Simulation Methods.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7248,7 +7248,7 @@ const LIBRARY_DATA = {
       "title": "Laboratory Physical Simulation of Acoustic Wave Propagation on the Shelf",
       "filename": "Gurbatov (2020)_Laboratory Physical Simulation of Acoustic Wave Propagation on the Shelf.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Acoustical Physics",
       "doi": "10.1134/s106377102004003x",
@@ -7267,7 +7267,7 @@ const LIBRARY_DATA = {
       "title": "Hadjigeorgiou_Swan&Christou_2017_Numerical_Investigation_of_Crest-Height_Statistics",
       "filename": "Hadjigeorgiou_Swan&Christou_2017_Numerical_Investigation_of_Crest-Height_Statistics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7287,7 +7287,7 @@ const LIBRARY_DATA = {
       "title": "Impulse waves from laboratory scale to mega-tsunamis",
       "filename": "Hager et al. (2004)_Impulse waves from laboratory scale to mega-tsunamis.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7305,7 +7305,7 @@ const LIBRARY_DATA = {
       "title": "A multiple flux boundary element method applied to the description of surface water waves",
       "filename": "Hague_Swan_2009_A_multiple_flux_boundary_element_method_applied_to_the_description_of_surface_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Computational Physics",
       "doi": "10.1016/j.jcp.2009.04.012",
@@ -7325,7 +7325,7 @@ const LIBRARY_DATA = {
       "title": "Haley_2016_Fluid_forcing_in_the_crests_of_large_ocean_waves",
       "filename": "Haley_2016_Fluid_forcing_in_the_crests_of_large_ocean_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7345,7 +7345,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Study on Interaction Between Focusing Waves with Fixed Cylinder",
       "filename": "Han et al. (2021)_Numerical Study on Interaction Between Focusing Waves with Fixed Cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal of Offshore and Polar Engineering",
       "doi": "10.17736/ijope.2021.jc806",
@@ -7364,7 +7364,7 @@ const LIBRARY_DATA = {
       "title": "Experimental study of three-wave interactions among capillary-gravity surface waves",
       "filename": "Haudin et al. (2016)_Experimental study of three-wave interactions among capillary-gravity surface waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physical Review E",
       "doi": "10.1103/physreve.93.043110",
@@ -7383,7 +7383,7 @@ const LIBRARY_DATA = {
       "title": "The pressure of water waves upon a fixed obstacle",
       "filename": "Havelock_1940_The_pressure_of_water_waves_upon_a_fixed_obstacle.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences",
       "doi": "10.1098/rspa.1940.0066",
@@ -7403,7 +7403,7 @@ const LIBRARY_DATA = {
       "title": "Environmental Contour Lines for Design Purposes: Why and When?",
       "filename": "Haver_Kleiven_2004_ENVIRONMENTAL_CONTOUR_LINES_FOR_DESIGN_PURPOSES–WHY_AND_WHEN.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "23rd International Conference on Offshore Mechanics and Arctic Engineering, Volume 1, Parts A and B",
       "doi": "10.1115/omae2004-51157",
@@ -7423,7 +7423,7 @@ const LIBRARY_DATA = {
       "title": "Dynamic Modelling of Seismic Wave Propagation due to a Remote Seismic Source: A Case Study",
       "filename": "He et al. (2020)_Dynamic Modelling of Seismic Wave Propagation due to a Remote Seismic Source_A Case Study.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Rock Mechanics and Rock Engineering",
       "doi": "10.1007/s00603-020-02217-w",
@@ -7441,7 +7441,7 @@ const LIBRARY_DATA = {
       "title": "Effect of Short-Crestedness on Extreme Wave Impact: A Summary of Findings From the Joint Industry Project “ShorTCresT”",
       "filename": "Hennig_et.al_2015_EFFECT_OF_SHORT-CRESTEDNESS_ON_EXTREME_WAVE_IMPACT-A_SUMMARY.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 3: Structures, Safety and Reliability",
       "doi": "10.1115/omae2015-41167",
@@ -7461,7 +7461,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear shoaling of directionally spread waves on a beach",
       "filename": "Herbers & Burton (1997) Nonlinear shoaling of directionally spread waves on a beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research: Oceans",
       "doi": "10.1029/97jc01581",
@@ -7484,7 +7484,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear shoaling of directionally spread waves on a beach",
       "filename": "Herbers, Burton_1997_Nonlinear shoaling of directionally spread waves on a beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research: Oceans",
       "doi": "10.1029/97jc01581",
@@ -7507,7 +7507,7 @@ const LIBRARY_DATA = {
       "title": "Realistic wave generation and active wave absorption for Navier–Stokes models",
       "filename": "Higuera_Lara_Losada_2013_Realistic_wave_generation_and_active_wave_absorption_for_Navier-Stokes_models-application_to_Openfoam.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2012.07.002",
@@ -7528,7 +7528,7 @@ const LIBRARY_DATA = {
       "title": "Velocimetry Based on Self-Generated Surface Wave Patterns",
       "filename": "Ho et al. (2020)_Velocimetry Based on Self-Generated Surface Wave Patterns.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Water",
       "doi": "10.3390/w12092342",
@@ -7544,7 +7544,7 @@ const LIBRARY_DATA = {
       "title": "Prediction formula for the spectral wave period T m-1,0 on mildly sloping shallow foreshores",
       "filename": "Hofland et al. (2017)_Prediction formula for the spectral wave period Tm-1_0 on mildly sloping shallow.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2017.02.005",
@@ -7564,7 +7564,7 @@ const LIBRARY_DATA = {
       "title": "Prediction formula for the spectral wave period T m-1,0 on mildly sloping shallow foreshores",
       "filename": "Hofland et al. (2017)_Prediction formula for the spectral wave period Tm-1_0 on mildly sloping shallow_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2017.02.005",
@@ -7584,7 +7584,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
       "filename": "Hong_Kim_2000_Nonlinear_Wave_Forces_on_a_Stationary_Vertical_Cylinder_by_HOBEM-NWT.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2013.04.019",
@@ -7607,7 +7607,7 @@ const LIBRARY_DATA = {
       "title": "The local properties of ocean surface waves by the phase‐Time method",
       "filename": "Huang et al. (1992)_The local properties of ocean surface waves by the phase-Time method.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Geophysical Research Letters",
       "doi": "10.1029/92gl00670",
@@ -7623,7 +7623,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Simulation of Propagation and Breaking Processes of a Focused Waves Group",
       "filename": "Huang_Lin_2012_NUMERICAL_SIMULATION_OF_PROPAGATION_AND_BREAKING_PROCESSES_OF_A_FOCUSED_WAVES_GROUP.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydrodynamics",
       "doi": "10.1016/s1001-6058(11)60261-8",
@@ -7643,7 +7643,7 @@ const LIBRARY_DATA = {
       "title": "PHASE INVERSION AND THE IDENTIFICATION OF HARMONIC STRUCTURE IN COASTAL ENGINEERING EXPERIMENTS",
       "filename": "Hunt et al. (2004)_Phase inversion and the identification of harmonic structure in Coastal Engineering experiments.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 2004",
       "doi": "10.1142/9789812701916_0083",
@@ -7663,7 +7663,7 @@ const LIBRARY_DATA = {
       "title": "An experimental investigation of higher-harmonic wave forces on a vertical cylinder",
       "filename": "Huseby_Grue_2000_An_experimental_investigation_of_higherharmonic_wave_forces_on_a_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112000008533",
@@ -7684,7 +7684,7 @@ const LIBRARY_DATA = {
       "title": "Effects of the wind on the breaking of modulated wave trains",
       "filename": "Iafrati et al. (2019)_Effects of the wind on the breaking of modulated wave trains.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "European Journal of Mechanics - B/Fluids",
       "doi": "10.1016/j.euromechflu.2018.03.012",
@@ -7702,7 +7702,7 @@ const LIBRARY_DATA = {
       "title": "Numerical study of the effects of the breaking intensity on wave breaking flows",
       "filename": "Iafrati_2009_Numerical_study_of_the_effects_of_the_breaking_intensity_on_wave_breaking_flows.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112008005302",
@@ -7722,7 +7722,7 @@ const LIBRARY_DATA = {
       "title": "A level set technique applied to unsteady free surface flows",
       "filename": "Iafrati_Mascio_Campana_2001_A_level_set_technique_applied_to_unsteady_free_surface.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal for Numerical Methods in Fluids",
       "doi": "10.1002/1097-0363(20010215)35:3<281::aid-fld91>3.0.co;2-v",
@@ -7742,7 +7742,7 @@ const LIBRARY_DATA = {
       "title": "Solution of the implicitly discretised fluid flow equations by operator-splitting",
       "filename": "Issa_1986_Solution_of_the_implicitly_discretised_fluid_flow_equations_by_operator_splitting.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Computational Physics",
       "doi": "10.1016/0021-9991(86)90099-9",
@@ -7762,7 +7762,7 @@ const LIBRARY_DATA = {
       "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
       "filename": "Itay and Liberzon (2017)_Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7782,7 +7782,7 @@ const LIBRARY_DATA = {
       "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
       "filename": "Itay and Liberzon (2017)_Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/jpo-d-16-0289.1",
@@ -7803,7 +7803,7 @@ const LIBRARY_DATA = {
       "title": "A wave generation toolbox for the open‐source CFD library: OpenFoam®",
       "filename": "Jacobsen_Fuhrman_Fredsoe_2012_A_wave_generation_toolbox_for_the_open-source_CFD_library-OPENFOAM.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal for Numerical Methods in Fluids",
       "doi": "10.1002/fld.2726",
@@ -7823,7 +7823,7 @@ const LIBRARY_DATA = {
       "title": "Boundary layer-mediated vorticity generation in currents over sloping bathymetry",
       "filename": "Jagannathan et al. (2021)_Boundary-Layer-Mediated Vorticity Generation in Currents over Sloping Bathymetry.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/jpo-d-20-0253.1",
@@ -7843,7 +7843,7 @@ const LIBRARY_DATA = {
       "title": "Long waves induced by short-wave groups over a sloping bottom",
       "filename": "Janssen et al. (2003)_Long waves induced by short-wave groups over a sloping bottom.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7863,7 +7863,7 @@ const LIBRARY_DATA = {
       "title": "Calculations of kinematics underneath measured time histories of steep water waves",
       "filename": "Johannessen (2010)_Calculations of kinematics underneath measured time histories of steep water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -7880,7 +7880,7 @@ const LIBRARY_DATA = {
       "title": "On the Distribution of Wave Impact Loads on Offshore Structures",
       "filename": "Johannessen_Lande_Hagen_2017_On_the_Distribution_of_Wave_Impact_Loads_on_Offshore_Structures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 3A: Structures, Safety and Reliability",
       "doi": "10.1115/omae2017-62057",
@@ -7900,7 +7900,7 @@ const LIBRARY_DATA = {
       "title": "A laboratory study of the focusing of transient and directionally spread surface water waves",
       "filename": "Johannessen_Swan_2001_A_laboratory_study_of_the_focusing_of_transient_and_directionally_spread_surface_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rspa.2000.0702",
@@ -7922,7 +7922,7 @@ const LIBRARY_DATA = {
       "title": "Bragg scattering of long waves by an array of floating flexible plates in the presence of multiple submerged trenches",
       "filename": "Kar et al. (2020)_Bragg scattering of long waves by an array of floating flexible plates in the presence of multiple submerged trenches.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physics of Fluids",
       "doi": "10.1063/5.0017930",
@@ -7940,7 +7940,7 @@ const LIBRARY_DATA = {
       "title": "The interaction of surface water waves with submerged breakwaters",
       "filename": "Karmpardakis_Swan_Latheef_Christou_Estimation_of_directional_spreading_within_surface_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2008.02.014",
@@ -7960,7 +7960,7 @@ const LIBRARY_DATA = {
       "title": "Experimental Study on Wave and Wave-Current Loads on Vertical Surface-Piercing Column Structures",
       "filename": "Kasiman_2017_Numerical_Modelling_of_Wave_Interactions_with_vertical_surface-piercing_column.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 7: Ocean Engineering",
       "doi": "10.1115/omae2015-41278",
@@ -7983,7 +7983,7 @@ const LIBRARY_DATA = {
       "title": "Run-Up of Impulse Wave Trains on Steep to Vertical Slopes",
       "filename": "Kastinger et al. (2020)_Run-Up of Impulse Wave Trains on Steep to Vertical Slopes.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydraulic Engineering",
       "doi": "10.1061/(asce)hy.1943-7900.0001803",
@@ -8001,7 +8001,7 @@ const LIBRARY_DATA = {
       "title": "The evolution of large non-breaking waves in intermediate and shallow water. I. Numerical calculations of uni-directional seas",
       "filename": "Katsardi_&_Swan_2011_The_evolution_of_large_non-breaking_waves_in_intermediate_and_shallow_water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rspa.2010.0280",
@@ -8023,7 +8023,7 @@ const LIBRARY_DATA = {
       "title": "(Multi)wavelets increase both accuracy and efficiency of standard Godunov-type hydrodynamic models: Robust 2D approaches",
       "filename": "Kesserwani et al. (2019)_(Multi)wavelets increase both accuracy and efficiency of standard Godunov-type hydrodynamic models.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Advances in Water Resources",
       "doi": "10.1016/j.advwatres.2020.103693",
@@ -8041,7 +8041,7 @@ const LIBRARY_DATA = {
       "title": "Rapid synthesis of random sea surfaces using recursive digital filters",
       "filename": "Ketabdari and Ranginkaman (2009)_Simulation of Random Irregular Sea Waves for Numerical and Physical Models using Digital Filters.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "OCEANS 2010 MTS/IEEE SEATTLE",
       "doi": "10.1109/oceans.2010.5663942",
@@ -8059,7 +8059,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear dispersion relation predicts harmonic generation in wave motion",
       "filename": "Khajehtourian and Hussein (2019)_Nonlinear dispersion relation predicts harmonic generation in wave motion.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8079,7 +8079,7 @@ const LIBRARY_DATA = {
       "title": "Integrated Coastal-River-Urban Total Water Level Forecast System for Tidal Rivers_Calibration, Validation, and Operational Evaluation",
       "filename": "Khalid et al. (2021)_Integrated Coastal-River-Urban Total Water Level Forecast System for Tidal Rivers_Calibration, Validation, and Operational Evaluation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8097,7 +8097,7 @@ const LIBRARY_DATA = {
       "title": "Corrected Incompressible SPH method for accurate water-surface tracking in breaking waves",
       "filename": "Khayyer_Gotoh_Shao_2008_Corrected_Incompressible_SPH_method_for_accurate_water-surface_tracking_in_breaking_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2007.10.001",
@@ -8118,7 +8118,7 @@ const LIBRARY_DATA = {
       "title": "Experimental study of runup for sandy beaches under waves and tide",
       "filename": "Khoury, Jarno, Marin - 2019 - Experimental study of runup for sandy beaches under waves and tide.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2018.12.003",
@@ -8138,7 +8138,7 @@ const LIBRARY_DATA = {
       "title": "Experimental simulation of sandy beaches under waves and tides: hydro-morphodynamic analysis",
       "filename": "Khoury, Jarno-Druaux, Marin - 2013 - Experimental simulation of sandy beaches under waves and tides hydro-morphodynamic analysis.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Coastal Research",
       "doi": "10.2112/si65-303.1",
@@ -8158,7 +8158,7 @@ const LIBRARY_DATA = {
       "title": "EVOLUTION OF UNSTABLE WAVE PACKETS OVER VARIABLE BATHYMETRY",
       "filename": "Kimmoun et al. (2014)_Evolution of unstable wave packets over variable bathymetry.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v36v.waves.8",
@@ -8177,7 +8177,7 @@ const LIBRARY_DATA = {
       "title": "Experiments on uni-directional and nonlinear wave group shoaling",
       "filename": "Kimmoun et al. (2021)_Experiments on uni-directional and nonlinear wave group shoaling.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Dynamics",
       "doi": "10.1007/s10236-021-01485-6",
@@ -8200,7 +8200,7 @@ const LIBRARY_DATA = {
       "title": "The complete second-order diffraction solution for an axisymmetric body Part 1. Monochromatic incident waves",
       "filename": "Kim_&_Yue_complete_secondorder_diffraction_solution_for_an_axisymmetric_body_part_1_monochromatic_incident_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112089000649",
@@ -8220,7 +8220,7 @@ const LIBRARY_DATA = {
       "title": "The complete second-order diffraction solution for an axisymmetric body Part 2. Bichromatic incident waves and body motions",
       "filename": "Kim_&_Yue_complete_secondorder_diffraction_solution_for_an_axisymmetric_body_part_2_bichromatic_incident_waves_and_body_motions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112090001690",
@@ -8240,7 +8240,7 @@ const LIBRARY_DATA = {
       "title": "Finite-Element Computation of Wave-Structure Interaction between Steep Stokes Waves and Vertical Cylinders",
       "filename": "Kim_Kyoung_Ertekin_Bai_2006_Finite-Element_Computation_of_Wave-Structure_Interaction_between_Steep_Stokes_Waves_and_Vertical_Cylinders.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
       "doi": "10.1061/(asce)0733-950x(2006)132:5(337)",
@@ -8261,7 +8261,7 @@ const LIBRARY_DATA = {
       "title": "Ringing Analysis of a Vertical Cylinder by Euler Overlay Method",
       "filename": "Kim_O'Sullivan_Read_2012_RINGING_ANALYSIS_OF_A_VERTICAL_CYLINDER_BY_EULER_OVERLAY_METHOD.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 4: Offshore Geotechnics; Ronald W. Yeung Honoring Symposium on Offshore and Ship Hydrodynamics",
       "doi": "10.1115/omae2012-84091",
@@ -8281,7 +8281,7 @@ const LIBRARY_DATA = {
       "title": "On the Theory of the Equilibrium Range in the Spectrum of Wind-Generated Gravity Waves",
       "filename": "Kitaigorodskii, Krasitskii, Zaslavskii - 1975 - On the Theory of the Equilibrium Range in the Spectrum of Wind-Generated Gravity Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/1520-0485(1983)013<0816:ottote>2.0.co;2",
@@ -8301,7 +8301,7 @@ const LIBRARY_DATA = {
       "title": "Breaking Waves in Deep Water and Resulting Wave Forces",
       "filename": "Kjeldsen_&_Myrhaug_BREAKING_WAVES_IN_DEEP_WATER_AND_RESULTING_WAVE_FORCES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Offshore Technology Conference",
       "doi": "10.4043/3646-ms",
@@ -8321,7 +8321,7 @@ const LIBRARY_DATA = {
       "title": "Modelling of Rogue Wave Shapes in Shallow Water",
       "filename": "Klopman & Stive (1989)_Extreme waves and wave loading in shallow water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Extreme Ocean Waves",
       "doi": "10.1007/978-1-4020-8314-3_4",
@@ -8340,7 +8340,7 @@ const LIBRARY_DATA = {
       "title": "Large waves and navigation hazards of the Eastern Mediterranean Sea",
       "filename": "Knobler et al. (2022)_Large waves and navigation hazards of the Eastern Mediterranean Sea.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Scientific Reports",
       "doi": "10.1038/s41598-022-20355-9",
@@ -8356,7 +8356,7 @@ const LIBRARY_DATA = {
       "title": "On reduced equations in the Hamiltonian theory of weakly nonlinear surface waves",
       "filename": "Krasitskii_1994_On_reduced_equations_in_the_hamiltonian_theory_of_weakly_nonlinear_surface_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112094004350",
@@ -8377,7 +8377,7 @@ const LIBRARY_DATA = {
       "title": "LINEAR WAVE THEORY_PART A",
       "filename": "Krogstad and Arntsen (2020)_LINEAR WAVE THEORY_PART A.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8395,7 +8395,7 @@ const LIBRARY_DATA = {
       "title": "LINEAR WAVE THEORY_PART B",
       "filename": "Krogstad and Arntsen (2020)_LINEAR WAVE THEORY_PART B.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8413,7 +8413,7 @@ const LIBRARY_DATA = {
       "title": "Krogstad_et.al_2008_Extreme_Waves_in_the_Long-Term_Wave_measurements_at_Ekofisk_p23",
       "filename": "Krogstad_et.al_2008_Extreme_Waves_in_the_Long-Term_Wave_measurements_at_Ekofisk_p23.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8433,7 +8433,7 @@ const LIBRARY_DATA = {
       "title": "Laboratory Investigation of Wave Breaking. Part 2. Deep Water Waves",
       "filename": "Kway_Loh_Chan_1998_Laboratory_study_of_deep-water_breaking.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.21236/ada013336",
@@ -8454,7 +8454,7 @@ const LIBRARY_DATA = {
       "title": "An Introduction to Water Waves",
       "filename": "La Mehaute (1969)_An Introduction to Hydrodynamics and Water Waves_Volume I_Fundamentals.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "An Introduction to Hydrodynamics and Water Waves",
       "doi": "10.1007/978-3-642-85567-2_15",
@@ -8470,7 +8470,7 @@ const LIBRARY_DATA = {
       "title": "Water wave scattering by a sinusoidal bed in the presence of vertically sheared current",
       "filename": "Laffitte et al. (2021)_Water wave scattering by a sinusoidal bed in the presence of vertically sheared current.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2021.102549",
@@ -8489,7 +8489,7 @@ const LIBRARY_DATA = {
       "title": "A laboratory study of wave crest statistics and the role of directional spreading",
       "filename": "Latheef_&_Swan_A_laboratory_study_of_wave_crest_statistics_and_the_role_of_directional_spreading.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rspa.2012.0696",
@@ -8510,7 +8510,7 @@ const LIBRARY_DATA = {
       "title": "A laboratory study of nonlinear changes in the directionality of extreme seas",
       "filename": "Latheef_Swan_&_Spinneken_A laboratory study of nonlinear changes in the directionality of extreme seas.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rspa.2016.0290",
@@ -8532,7 +8532,7 @@ const LIBRARY_DATA = {
       "title": "Statistical properties of wave kinematics in long-crested irregular waves propagating over non-uniform bathymetry",
       "filename": "Lawrence et al. (2021)_Statistical properties of wave kinematics in long-crested irregular waves propagating over non-uniform bathymetry.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physics of Fluids",
       "doi": "10.1063/5.0047643",
@@ -8554,7 +8554,7 @@ const LIBRARY_DATA = {
       "title": "TWO-DIMENSIONAL SEICHE IN A BASIN SUBJECTED TO INCIDENT WAVES",
       "filename": "Le Mehaute (1954)_TWO-DIMENSIONAL, SEICHE IN A BASIN SUBJECTED TO INCIDENT WAVES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v5.10",
@@ -8572,7 +8572,7 @@ const LIBRARY_DATA = {
       "title": "ON NON-SATURATED BREAKERS AND THE WAVE RUN-UP",
       "filename": "Le Mehaute_ On non saturated breakers and the wave run-up.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v8.6",
@@ -8592,7 +8592,7 @@ const LIBRARY_DATA = {
       "title": "TWO-DIMENSIONAL SEICHE IN A BASIN SUBJECTED TO INCIDENT WAVES",
       "filename": "Le Mehaute_Two dimensional Seiche in a basin subjected to incident waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v5.10",
@@ -8612,7 +8612,7 @@ const LIBRARY_DATA = {
       "title": "Transformation of Monochromatic Waves from Deep to Shallow Water",
       "filename": "Le-Mehaute_An introduction to hydrodynamics and water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.21236/ada098538",
@@ -8632,7 +8632,7 @@ const LIBRARY_DATA = {
       "title": "Wave propagation over a rectangular trench",
       "filename": "Lee & Ayes (2006)_Wave propagation over a rectangular trench.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112081000773",
@@ -8652,7 +8652,7 @@ const LIBRARY_DATA = {
       "title": "Structural Safety Analysis for an Oscillating Water Column Wave Power Conversion System Installed in Caisson Structure",
       "filename": "Lee et al. (2020)_Structural Safety Analysis for an Oscillating Water Column Wave Power Conversion System Installed in Caisson Structure.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8070506",
@@ -8672,7 +8672,7 @@ const LIBRARY_DATA = {
       "title": "Prediction of microperforated panel absorbers using the finite-difference time-domain method",
       "filename": "Lee_Newman_2005_Computatio_of_wave_effects_using_the_panel_method.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Wave Motion",
       "doi": "10.1016/j.wavemoti.2019.01.006",
@@ -8692,7 +8692,7 @@ const LIBRARY_DATA = {
       "title": "PERIODIC GRAVITY WAVES OVER A GENTLE SLOPE AT A THIRD ORDER OF APPROXIMATION",
       "filename": "Le_Mehaute_Periodic Gravity waves over a gentle slope at a third order of approximation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v9.2",
@@ -8712,7 +8712,7 @@ const LIBRARY_DATA = {
       "title": "On Wave-Induced Elastic Deformations of a Submerged Wave Energy Device",
       "filename": "Li et al. (2020)_On Wave-Induced Elastic Deformations of a Submerged Wave Energy Device.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Application",
       "doi": "10.1007/s11804-020-00142-6",
@@ -8729,7 +8729,7 @@ const LIBRARY_DATA = {
       "title": "On Rogue Waves Generated by Abrupt Depth Transitions",
       "filename": "Li et al. (2022)_On Rogue Waves Generated by Abrupt Depth Transitions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8749,7 +8749,7 @@ const LIBRARY_DATA = {
       "title": "Column Slamming Loads on a TLP From Steep and Breaking Waves",
       "filename": "Lian_2018_Slamming_loads_on_large_diameter_column_from_breaking_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 1: Offshore Technology",
       "doi": "10.1115/omae2017-61786",
@@ -8770,7 +8770,7 @@ const LIBRARY_DATA = {
       "title": "Lian_et.al_2016_Crest_height_distribution_from_model_tests_compared_to_second_order_simulations_and_full-scale",
       "filename": "Lian_et.al_2016_Crest_height_distribution_from_model_tests_compared_to_second_order_simulations_and_full-scale.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8792,7 +8792,7 @@ const LIBRARY_DATA = {
       "title": "Lian_Haver_2015_Measured_crest_height_distribution_compared_to_second_order_distribution",
       "filename": "Lian_Haver_2015_Measured_crest_height_distribution_compared_to_second_order_distribution.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8812,7 +8812,7 @@ const LIBRARY_DATA = {
       "title": "Novel similarities in the free-surface profiles and velocities of solitary waves traveling over a very steep beach",
       "filename": "Lin et al. (2020)_Novel similarities in the free-surface profiles and velocities of solitary waves traveling over a very steep beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physics of Fluids",
       "doi": "10.1063/5.0016444",
@@ -8831,7 +8831,7 @@ const LIBRARY_DATA = {
       "title": "Experimental and numerical study of the hydrodynamic characteristics of a semisubmersible aquaculture facility in waves",
       "filename": "Liu et al. (2020)_Experimental and numerical study of the hydrodynamic characteristics of a semisubmersible aquaculture facility in waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107714",
@@ -8851,7 +8851,7 @@ const LIBRARY_DATA = {
       "title": "Liu et al. (2020_High order nonlinear wave interactions from deep to finite water depth with bottom topography change",
       "filename": "Liu et al. (2020_High order nonlinear wave interactions from deep to finite water depth with bottom topography change.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8872,7 +8872,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Effects of Statistical Distribution of Deep Water Waves",
       "filename": "Longuet-Higgings_1952_On_the_Statistical_distribution_of_sea_waves[5490].pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "North Sea Dynamics",
       "doi": "10.1007/978-3-642-68838-6_18",
@@ -8892,7 +8892,7 @@ const LIBRARY_DATA = {
       "title": "On the joint distribution of the periods and amplitudes of sea waves",
       "filename": "Longuet-Higgins (1975)_On the joint distribution of the periods and amplitudes of sea waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research",
       "doi": "10.1029/jc080i018p02688",
@@ -8910,7 +8910,7 @@ const LIBRARY_DATA = {
       "title": "On the joint distribution of the periods and amplitudes of sea waves",
       "filename": "Longuet-Higgins (1975)_On the joint distribution of the periods and amplitudes of sea waves_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research",
       "doi": "10.1029/jc080i018p02688",
@@ -8928,7 +8928,7 @@ const LIBRARY_DATA = {
       "title": "The deformation of steep surface waves on water - I. A numerical method of computation",
       "filename": "Longuet-Higgins_&_Cokelet_1976.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences",
       "doi": "10.1098/rspa.1976.0092",
@@ -8948,7 +8948,7 @@ const LIBRARY_DATA = {
       "title": "Longuet-Higgins_&_Stewart_Changes_in_the_form_of_short_gravity_waves_on_long_waves_and_tidal_currents",
       "filename": "Longuet-Higgins_&_Stewart_Changes_in_the_form_of_short_gravity_waves_on_long_waves_and_tidal_currents.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8968,7 +8968,7 @@ const LIBRARY_DATA = {
       "title": "Longuet-Higgins_1963_abstract",
       "filename": "Longuet-Higgins_1963_abstract.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -8988,7 +8988,7 @@ const LIBRARY_DATA = {
       "title": "The propagation of short surface waves on longer gravity waves",
       "filename": "Longuet-Higgins_1987_The_propagation_of_short_surface_waves_on_longer_gravity_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s002211208700096x",
@@ -9008,7 +9008,7 @@ const LIBRARY_DATA = {
       "title": "Investigation of spectra variations of wave groups in finite depth",
       "filename": "Ma et al. (2015)_Investigation of spectra variations of wave groups in finite depth.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9027,7 +9027,7 @@ const LIBRARY_DATA = {
       "title": "Ma et al._2017_A numerical investigation on nonlinear transformation of obliquely incident random waves on plane sloping bottoms",
       "filename": "Ma et al._2017_A numerical investigation on nonlinear transformation of obliquely incident random waves on plane sloping bottoms.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9048,7 +9048,7 @@ const LIBRARY_DATA = {
       "title": "Wave Diffraction Forces on Offshore Wind Turbine Piles With an Octagonal Cross Section",
       "filename": "MacCamy_Fuschs_1954_Wave_forces_on_piles-a_diffraction_theory.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 1: Offshore Technology",
       "doi": "10.1115/omae2013-10368",
@@ -9070,7 +9070,7 @@ const LIBRARY_DATA = {
       "title": "Comparison of analytical and numerical solutions for wave interaction with a vertical porous barrier",
       "filename": "Mackay and Johanning (2020)_Comparison of analytical and numerical solutions for wave interaction with a vertical porous barrie.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107032",
@@ -9090,7 +9090,7 @@ const LIBRARY_DATA = {
       "title": "A Boussinesq-type method for fully nonlinear waves interacting with a rapidly varying bathymetry",
       "filename": "Madsen et al. (2006)_A Boussinesq-type method for fully nonlinear waves interacting with a rapidly varying bathymetry.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2005.11.002",
@@ -9111,7 +9111,7 @@ const LIBRARY_DATA = {
       "title": "Hydrodynamic Analysis of Surge-Type Wave Energy Devices in Variable Bathymetry by Means of BEM",
       "filename": "Magkouris, Bonovas and Belibassakis (2020)_Hydrodynamic Analysis of Surge-Type Wave Energy Devices in Variable Bathymetry by Means of BEM.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9130,7 +9130,7 @@ const LIBRARY_DATA = {
       "title": "Design of Submerged Offshore Reefs for the Coastal Protection Measures",
       "filename": "Mahalingaiha et al. (2015)_Design of Submerged Offshore Reefs for the Coastal Protection Measures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Aquatic Procedia",
       "doi": "10.1016/j.aqpro.2015.02.027",
@@ -9149,7 +9149,7 @@ const LIBRARY_DATA = {
       "title": "Applicability of wave models in shallow coastal waters",
       "filename": "Mai et al (1999)_Applicability of wave models in shallow coastal waters.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9168,7 +9168,7 @@ const LIBRARY_DATA = {
       "title": "Third-harmonic wave diffraction by a vertical cylinder",
       "filename": "Malenica_&_Molin_Thirdharmonic_wave_diffraction_by_a_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112095004071",
@@ -9188,7 +9188,7 @@ const LIBRARY_DATA = {
       "title": "Effect of random surface and interface roughness on the propagation of surface acoustic waves",
       "filename": "Marthinsen_Winterstein_1992_ON_THE_SKEWNESS_OF_RANDOM_SURFACE_WAVES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Waves in Random Media",
       "doi": "10.1088/0959-7174/4/3/007",
@@ -9208,7 +9208,7 @@ const LIBRARY_DATA = {
       "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
       "filename": "Martins et al. (2021)_Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2021.103917",
@@ -9229,7 +9229,7 @@ const LIBRARY_DATA = {
       "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
       "filename": "Martins, Bonneton, Michallet - 2021 - Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping labo-annotated.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2021.103917",
@@ -9250,7 +9250,7 @@ const LIBRARY_DATA = {
       "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
       "filename": "Martins, Bonneton, Michallet_2021_Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laborato.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2021.103917",
@@ -9271,7 +9271,7 @@ const LIBRARY_DATA = {
       "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
       "filename": "Martins, Bonneton, Michallet_2021_Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2021.103917",
@@ -9292,7 +9292,7 @@ const LIBRARY_DATA = {
       "title": "Masterson_Swan_&_Zutphen_2007_Nonlinear_Wave_Scattering_From_a_Single_Surface-Piercing_Column_Comparison_With_Second-Order_Theory full",
       "filename": "Masterson_Swan_&_Zutphen_2007_Nonlinear_Wave_Scattering_From_a_Single_Surface-Piercing_Column_Comparison_With_Second-Order_Theory full.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9315,7 +9315,7 @@ const LIBRARY_DATA = {
       "title": "On the accurate and efficient calibration of a 3D wave basin",
       "filename": "Masterson_Swan_2008_On_the_accurate_and_efficient_calibration_of_a_3D_wave_basin.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2008.02.002",
@@ -9335,7 +9335,7 @@ const LIBRARY_DATA = {
       "title": "Development of a one-way coupled diffraction/trapped air model for predicting wave loading on bridges under water wave attack",
       "filename": "Matemu et al. (2020)_Development of a one-way coupled diffraction_trapped air model for predicting wave loading on bridges under water wave attack.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluids and Structures",
       "doi": "10.1016/j.jfluidstructs.2020.103067",
@@ -9354,7 +9354,7 @@ const LIBRARY_DATA = {
       "title": "Finite element simulation of fully non‐linear interaction between vertical cylinders and steep waves. Part 1: methodology and numerical procedure",
       "filename": "Ma_et.al_2001_Finite_element_simulation_of_fully_non-linear_interaction_between_vertical_cylinders_and_steep_waves_Part_1.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal for Numerical Methods in Fluids",
       "doi": "10.1002/fld.131.abs",
@@ -9374,7 +9374,7 @@ const LIBRARY_DATA = {
       "title": "Finite element simulation of fully non‐linear interaction between vertical cylinders and steep waves. Part 1: methodology and numerical procedure",
       "filename": "Ma_et.al_2001_Finite_element_simulation_of_fully_non-linear_interaction_between_vertical_cylinders_and_steep_waves_Part_2.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal for Numerical Methods in Fluids",
       "doi": "10.1002/fld.131.abs",
@@ -9394,7 +9394,7 @@ const LIBRARY_DATA = {
       "title": "Shock-capturing non-hydrostatic model for fully dispersive surface wave processes",
       "filename": "Ma_Shi_Kirby_2012_Shock-capturing_non-hydrostatic_model_for_fully_dispersive_surface_wave_processes.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Modelling",
       "doi": "10.1016/j.ocemod.2011.12.002",
@@ -9414,7 +9414,7 @@ const LIBRARY_DATA = {
       "title": "Quasi ALE finite element method for nonlinear water waves",
       "filename": "Ma_Yan_2006_Quasi_ALE_finite_element_method_for_nonlinear_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Computational Physics",
       "doi": "10.1016/j.jcp.2005.06.014",
@@ -9434,7 +9434,7 @@ const LIBRARY_DATA = {
       "title": "The Set-Down and Set-Up of Directionally Spread and Crossing Surface Gravity Wave Groups in Severe North Sea Storms",
       "filename": "McAllister, Adcock, Taylor and van den Bremer (2018)_The set-down and set-up of directionally spread and crossing surface gravity wave groups.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 7B: Ocean Engineering",
       "doi": "10.1115/omae2018-77186",
@@ -9455,7 +9455,7 @@ const LIBRARY_DATA = {
       "title": "Sandbar dynamics in microtidal environments: Migration patterns in unprotected and bounded beaches",
       "filename": "Melito et al. (2020)_Sandbar dynamics in microtidal environments_Migration patterns in unprotected and bounded beaches.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103768",
@@ -9473,7 +9473,7 @@ const LIBRARY_DATA = {
       "title": "The instability and breaking of deep-water waves",
       "filename": "Melville (1981)_The instability and breaking of deep-water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112082000706",
@@ -9493,7 +9493,7 @@ const LIBRARY_DATA = {
       "title": "Saturation of rogue wave amplification over steep shoals",
       "filename": "Mendes & Kasparian (2022) (Pre-print)_Saturation of Rogue Wave Amplification over Steep Shoals.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physical Review E",
       "doi": "10.1103/physreve.106.065101",
@@ -9513,7 +9513,7 @@ const LIBRARY_DATA = {
       "title": "Projected 21st century changes in extreme wind-wave events",
       "filename": "Meucci et al. (2020)_Projected 21st century changes in extreme wind-wave events.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9531,7 +9531,7 @@ const LIBRARY_DATA = {
       "title": "The Physical Basis of the Mild-Slope Wave Equation",
       "filename": "Mild_slope_equation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 1984",
       "doi": "10.1061/9780872624382.065",
@@ -9551,7 +9551,7 @@ const LIBRARY_DATA = {
       "title": "CONTRIBUTIONS TO THE MONO LAKE EXPERIMENTS. VOLUME II. THE LINEAR THEORY OF WATER WAVES GENERATED BY EXPLOSIONS.",
       "filename": "Mindlin (2020)_Water Waves_Theory and Experiments.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.21236/ad0477286",
@@ -9570,7 +9570,7 @@ const LIBRARY_DATA = {
       "title": "Numerical study on energy-converging efficiency of the ducts of vertical axis tidal current turbine in restricted water",
       "filename": "Ming et al. (2020)_Numerical study on energy-converging efficiency of the ducts of vertical axis tidal current turbine in restricted water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9590,7 +9590,7 @@ const LIBRARY_DATA = {
       "title": "Rapid phase-resolved prediction of nonlinear dispersive waves using machine learning",
       "filename": "Mohaghegh et al. (2007)_Rapid Phase-Resolved Prediction of Nonlinear Dispersive Waves Using Machine Learning.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2021.102920",
@@ -9610,7 +9610,7 @@ const LIBRARY_DATA = {
       "title": "Second-order diffraction loads upon three-dimensional bodies",
       "filename": "Molin_1979_Second-order_diffraction_loads_upon_three-dimensional_bodies.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/0141-1187(79)90027-0",
@@ -9630,7 +9630,7 @@ const LIBRARY_DATA = {
       "title": "Third-order effects in wave–body interaction",
       "filename": "Molin_Kimmoun_Remy_Chatjigeorgiou_Third-order_effects_in_wave–body_interaction.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "European Journal of Mechanics - B/Fluids",
       "doi": "10.1016/j.euromechflu.2013.11.009",
@@ -9650,7 +9650,7 @@ const LIBRARY_DATA = {
       "title": "Solitary Waves on a Cretan Beach",
       "filename": "Monaghan_Kos_1999_SOLITARY_WAVES_ON_A_CRETAN_BEACH.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
       "doi": "10.1061/(asce)0733-950x(1999)125:3(145)",
@@ -9671,7 +9671,7 @@ const LIBRARY_DATA = {
       "title": "USING THE RASINTERFOAM CFD MODEL FOR WAVE TRANSFORMATION AND COASTAL MODELLING",
       "filename": "Morgan_Zang_Greaves_Heath_Whitlow_Young_2011_Using_the_rasInterFoam_CFD_model_for_wave_transformation_and_coastal_modelling.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v32.waves.23",
@@ -9692,7 +9692,7 @@ const LIBRARY_DATA = {
       "title": "Moukalled_et.al_FVM_OpenFOAM_Matlab",
       "filename": "Moukalled_et.al_FVM_OpenFOAM_Matlab.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9712,7 +9712,7 @@ const LIBRARY_DATA = {
       "title": "A 3D numerical model for computing non-breaking wave forces on slender piles",
       "filename": "Mo_Irschik_Oumeraci_Lui_2007_A_3D_Numerical_Model_For_Computing_Non-breaking_wave_forces_on_slender_piles.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Engineering Mathematics",
       "doi": "10.1007/s10665-006-9094-6",
@@ -9734,7 +9734,7 @@ const LIBRARY_DATA = {
       "title": "Breaking Waves in Deep Water and Resulting Wave Forces",
       "filename": "Myrhaug_&_Kjeldsen.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Offshore Technology Conference",
       "doi": "10.4043/3646-ms",
@@ -9754,7 +9754,7 @@ const LIBRARY_DATA = {
       "title": "Thirty-Nine-Year Wave Hindcast, Storm Activity, and Probability Analysis of Storm Waves in the Kara Sea, Russia",
       "filename": "Myslenkov et al (2021)_Thirty-Nine-Year Wave Hindcast, Storm Activity, and Probability Analysis of Storm Waves in the Kara Sea, Russia.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Water",
       "doi": "10.3390/w13050648",
@@ -9773,7 +9773,7 @@ const LIBRARY_DATA = {
       "title": "Computations of overturning waves",
       "filename": "New_McIver_Peregrine_1985_Computations_of_overturning_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112085000118",
@@ -9793,7 +9793,7 @@ const LIBRARY_DATA = {
       "title": "Numerical study on tritium dispersion in coastal waters: The case of Hangzhou Bay, China",
       "filename": "Nie et al. (2020)_Numerical study on tritium dispersion in coastal waters_The case of Hangzhou Bay, China.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydrology",
       "doi": "10.1016/j.jhydrol.2020.125532",
@@ -9812,7 +9812,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation on the propagation and evolution of focused waves over a sloping bed",
       "filename": "Ning et al. (2022)_Numerical investigation on the propagation and evolution of focused waves over a sloping bed.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2022.111035",
@@ -9833,7 +9833,7 @@ const LIBRARY_DATA = {
       "title": "Controlled extreme wave generation using an improved focusing method",
       "filename": "Niu et al. (2020)_Controlled extreme wave generation using an improved focusing method.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2019.102017",
@@ -9853,7 +9853,7 @@ const LIBRARY_DATA = {
       "title": "Harmonic structure of wave loads on a surface piercing column in directionally spread and unidirectional random seas",
       "filename": "Nogaard et al. (2017)_Surface wave statistics in directionally spread seas.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Ocean Engineering and Marine Energy",
       "doi": "10.1007/s40722-022-00276-5",
@@ -9874,7 +9874,7 @@ const LIBRARY_DATA = {
       "title": "Study of Global Wave Repeatability in the New Multiphase Wave Lab (MWL)",
       "filename": "Novakovic et al. (2020)_Study of Global Wave Repeatability in the New Multiphase Wave Lab (MWL).pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9891,7 +9891,7 @@ const LIBRARY_DATA = {
       "title": "Determination of Wave Impact Loads for the Hebron Gravity Based Structure (GBS)",
       "filename": "Oberlies_et.al_2014_DETERMINATION_OF_WAVE_IMPACT_LOADS_FOR_THE_HEBRON_GRAVITY_BASED_STRUCTURE.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 1A: Offshore Technology",
       "doi": "10.1115/omae2014-23503",
@@ -9911,7 +9911,7 @@ const LIBRARY_DATA = {
       "title": "Six-Parameter Wave Spectra",
       "filename": "Ochi, Hubble - 1976 - On six-parameter wave spectra.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 1976",
       "doi": "10.1061/9780872620834.018",
@@ -9930,7 +9930,7 @@ const LIBRARY_DATA = {
       "title": "Experimental investigation of the effect of vegetation on dam break flood waves",
       "filename": "Oguzhan and Aksoy (2020)_Experimental investigation of the effect of vegetation on dam break flood waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydrology and Hydromechanics",
       "doi": "10.2478/johh-2020-0026",
@@ -9947,7 +9947,7 @@ const LIBRARY_DATA = {
       "title": "Ohl_et.al_2000_Water_wave_diffraction_by_a_cylinder_array_Part_1_Regular_waves",
       "filename": "Ohl_et.al_2000_Water_wave_diffraction_by_a_cylinder_array_Part_1_Regular_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9967,7 +9967,7 @@ const LIBRARY_DATA = {
       "title": "Olagnon_1992_Comparison_of_two_methods_for_evaluation_of_wave_crest_kinematics",
       "filename": "Olagnon_1992_Comparison_of_two_methods_for_evaluation_of_wave_crest_kinematics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -9987,7 +9987,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear shoaling of shallow water waves: perspective in terms of the inverse scattering transform",
       "filename": "Osborne et al. (1996)_Nonlinear shoaling of shallow water waves_perspective in terms of the inverse scattering transform.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Il Nuovo Cimento C",
       "doi": "10.1007/bf02511838",
@@ -10009,7 +10009,7 @@ const LIBRARY_DATA = {
       "title": "Transfer and dissipation of energy during wave group propagation on a gentle beach slope",
       "filename": "Padilla & Alsina (2017)_Transfer and dissipation of energy during wave group propagation on a gentle beach slope.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10030,7 +10030,7 @@ const LIBRARY_DATA = {
       "title": "Shallow Water Bathymetry Derived from Green Wavelength Terrestrial Laser Scanner",
       "filename": "Panagou et al. (2020)_Shallow Water Bathymetry Derived from Green Wavelength Terrestrial Laser Scanner.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Marine Geodesy",
       "doi": "10.1080/01490419.2020.1737602",
@@ -10048,7 +10048,7 @@ const LIBRARY_DATA = {
       "title": "A Wave Input-Reduction Method Incorporating Initiation of Sediment Motion",
       "filename": "Papadimitriou et al. (2020)_A Wave Input-Reduction Method Incorporating Initiation of Sediment Motion.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8080597",
@@ -10065,7 +10065,7 @@ const LIBRARY_DATA = {
       "title": "Wave resource assessment and wave energy exploitation along the Indian coast",
       "filename": "Patel et al. (2020)_Wave resource assessment and wave energy exploitation along the Indian coast.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107834",
@@ -10085,7 +10085,7 @@ const LIBRARY_DATA = {
       "title": "A National-Scale Assessment of Population and Built-Environment Exposure in Tsunami Evacuation Zones",
       "filename": "Paulik et al. (2020)_A National-Scale Assessment of Population and Built-Environment Exposure in Tsunami Evacuation Zones.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Geosciences",
       "doi": "10.3390/geosciences10080291",
@@ -10103,7 +10103,7 @@ const LIBRARY_DATA = {
       "title": "Forcing of a bottom-mounted circular cylinder by steep regular water waves at finite depth",
       "filename": "Paulsen_Bredmose_Binggham_&_Jacobsen_Forcing_of_a_bottommounted_circular_cylinder_by_steep_regular_water_waves_at_finite_depth.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2014.386",
@@ -10124,7 +10124,7 @@ const LIBRARY_DATA = {
       "title": "An efficient domain decomposition strategy for wave loads on surface piercing circular cylinders",
       "filename": "Paulsen_Bredmose_Bingham_2014_An_efficient_domain_decomposition_strategy_for_wave_loads_on_surface_piercing_circular_cylinders.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2014.01.006",
@@ -10144,7 +10144,7 @@ const LIBRARY_DATA = {
       "title": "Classical tidal harmonic analysis including error estimates in MATLAB using T_TIDE",
       "filename": "Pawlowicz et al. (2002)_Classical tidal harmonic analysis including error estimates in MATLAB using T_TIDE.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Computers &amp; Geosciences",
       "doi": "10.1016/s0098-3004(02)00013-4",
@@ -10162,7 +10162,7 @@ const LIBRARY_DATA = {
       "title": "On the dynamics of unsteady gravity waves of finite amplitude Part 2. Local properties of a random wave field",
       "filename": "Philips_On_the_dynamics_of_unsteady_gravity_waves_of_finite_amplitude_part_2_local_properties_of_a_random_wave_field.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112061000913",
@@ -10182,7 +10182,7 @@ const LIBRARY_DATA = {
       "title": "THE HIGH FREQUENCY SPECTRUM OF WINDGENERATED WAVES",
       "filename": "Philips_The_equilibrium_range_in_the_spectrum_of_windgenerated_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Reports of Research Institute for Applied Mechanics",
       "doi": "10.5109/7173512",
@@ -10202,7 +10202,7 @@ const LIBRARY_DATA = {
       "title": "The equilibrium range in the spectrum of wind-generated waves",
       "filename": "Phillips - 1958 - The equilibrium range in the spectrum of wind-generated waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112058000550",
@@ -10221,7 +10221,7 @@ const LIBRARY_DATA = {
       "title": "Expected Structure of Extreme Waves in a Gaussian Sea. Part I_Theory and SWADE Buoy Measurements",
       "filename": "Phillips et al. (1993)_Expected Structure of Extreme Waves in a Gaussian Sea. Part I_Theory and SWADE Buoy Measurements.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10241,7 +10241,7 @@ const LIBRARY_DATA = {
       "title": "On the dynamics of unsteady gravity waves of finite amplitude Part 1. The elementary interactions",
       "filename": "Phillips_On_the_dynamics_of_unsteady_gravity_waves_of_finite_amplitude_part_1_the_elementary_interactions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112060001043",
@@ -10261,7 +10261,7 @@ const LIBRARY_DATA = {
       "title": "Fully nonlinear simulations of unidirectional extreme waves provoked by strong depth transitions: The effect of slope",
       "filename": "PhysRevFluids.5.064804_Zheng et al. (2020)_Fully nonlinear simulations of unidirectional extreme waves provoked by strong depth transitions_The effect of slope.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physical Review Fluids",
       "doi": "10.1103/physrevfluids.5.064804",
@@ -10285,7 +10285,7 @@ const LIBRARY_DATA = {
       "title": "Pierson_Neumann_James_1971_Practical_methods_for_observing_and_forecasting_ocean_waves_by_means_of_wave_spectra_and_statistics",
       "filename": "Pierson_Neumann_James_1971_Practical_methods_for_observing_and_forecasting_ocean_waves_by_means_of_wave_spectra_and_statistics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10305,7 +10305,7 @@ const LIBRARY_DATA = {
       "title": "Bound and free surface waves in a large wind‐wave tank",
       "filename": "Plant et al. (2014)_Bound and free surface waves in a large wind‐wave tank.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10323,7 +10323,7 @@ const LIBRARY_DATA = {
       "title": "Characteristics of the Wave Slamming Forces on Jacket Structures Under Plunging Breaking Waves Based on Experimental Data",
       "filename": "Podrazka_etal_2019_A_Relationship_Between_Breaking_Wave_Characteristics_and_Slamming_Forces_Acting_on_Jacket_Structures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 7B: Ocean Engineering",
       "doi": "10.1115/omae2017-61789",
@@ -10344,7 +10344,7 @@ const LIBRARY_DATA = {
       "title": "Short‐term statistics of waves observed in deep water",
       "filename": "Prat & Holthuijsen (2010)_Short-term statistics of waves observed in deep water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research: Oceans",
       "doi": "10.1029/2009jc005742",
@@ -10363,7 +10363,7 @@ const LIBRARY_DATA = {
       "title": "Wave-induced spill from grounded tankers",
       "filename": "Puolakka (2020)_Wave-induced spill from grounded tankers.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2020.102290",
@@ -10380,7 +10380,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear_phase-resolved_reconstruction_of_irregular_water_waves__div_",
       "filename": "Qi et al. (2018)_Nonlinear_phase-resolved_reconstruction_of_irregular_water_waves__div_.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10400,7 +10400,7 @@ const LIBRARY_DATA = {
       "title": "Predictable zone for phase-resolved reconstruction and forecast of irregular waves",
       "filename": "Qi et al. (2018b)_Predictable zone for phase-resolved reconstruction and forecast of irregular waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Wave Motion",
       "doi": "10.1016/j.wavemoti.2017.12.001",
@@ -10418,7 +10418,7 @@ const LIBRARY_DATA = {
       "title": "Numerical study on hydrodynamic load of real-world tsunami wave at highway bridge deck using a coupled modeling system",
       "filename": "Qu et al. (2019)_Numerical study on hydrodynamic load of real-world tsunami wave at highway bridge deck using a coupled modeling system.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2019.106486",
@@ -10438,7 +10438,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation on hydrodynamic load of coastal bridge deck under joint action of solitary wave and wind",
       "filename": "Qu et al. (2020)_Numerical investigation on hydrodynamic load of coastal bridge deck under joint action of solitary wave and wind.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.108037",
@@ -10459,7 +10459,7 @@ const LIBRARY_DATA = {
       "title": "Performance Characteristics of “Spotter,” a Newly Developed Real-Time Wave Measurement Buoy",
       "filename": "Raghukumar et al. (2019)_Performance Characteristics of ‘‘Spotter,’’ a Newly Developed Real-Time Wave Measurement Buoy.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Atmospheric and Oceanic Technology",
       "doi": "10.1175/jtech-d-18-0151.1",
@@ -10476,7 +10476,7 @@ const LIBRARY_DATA = {
       "title": "Slender-body expressions for the wave load on offshore structures",
       "filename": "Rainey_1995_Slender-body_expressions_for_the_wave_load_on_offshore_structures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Proceedings of the Royal Society of London. Series A: Mathematical and Physical Sciences",
       "doi": "10.1098/rspa.1995.0091",
@@ -10496,7 +10496,7 @@ const LIBRARY_DATA = {
       "title": "Weak or strong nonlinearity: the vital issue",
       "filename": "Rainey_2007_Weak_Or_Strong_Nonlinearity_The_Vital-issue.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Engineering Mathematics",
       "doi": "10.1007/s10665-006-9126-2",
@@ -10516,7 +10516,7 @@ const LIBRARY_DATA = {
       "title": "Using Spectrograms from Underwater Total Pressure Sensors to Detect Passing Vessels in a Coastal Environment",
       "filename": "Ratsep et al. (2020)_Using Spectrograms from Underwater Total Pressure Sensors to Detect Passing Vessels in a Coastal Environment.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Atmospheric and Oceanic Technology",
       "doi": "10.1175/jtech-d-19-0192.1",
@@ -10534,7 +10534,7 @@ const LIBRARY_DATA = {
       "title": "Rayleigh probability distributions applied to random wave heights",
       "filename": "Rayleigh probability distributions applied to random wave heights.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10553,7 +10553,7 @@ const LIBRARY_DATA = {
       "title": "On the Non-Gaussianity of the Height of Sea Waves",
       "filename": "Reyes (2021)_On the Non-Gaussianity of the Height of Sea Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse9121446",
@@ -10569,7 +10569,7 @@ const LIBRARY_DATA = {
       "title": "Validation and practical application of nonlinear wave decomposition methods for irregular waves",
       "filename": "Ridder et al (2023)_Validation and practical application of nonlinear wave decomposition methods for irregular waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2023.104311",
@@ -10591,7 +10591,7 @@ const LIBRARY_DATA = {
       "title": "Validation and practical application of nonlinear wave decomposition methods for irregular waves_hightlighted",
       "filename": "Ridder et al (2023)_Validation and practical application of nonlinear wave decomposition methods for irregular waves_hightlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10611,7 +10611,7 @@ const LIBRARY_DATA = {
       "title": "Efficient two-layer non-hydrostatic wave model with accurate dispersive behaviour",
       "filename": "Ridder et al. (2020)_Efficient two-layer non-hydrostatic wave model with accurate dispersive behaviour.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103808",
@@ -10630,7 +10630,7 @@ const LIBRARY_DATA = {
       "title": "Low Frequency Waves Detected in a Large Wave Flume under Irregular Waves with Different Grouping Factor and Combination of Regular Waves",
       "filename": "Riefolo et al. (2017)_Low Frequency Waves Detected in a Large Wave Flume under Irregular Waves with Different Grouping Factor and Combination of Regular Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Water",
       "doi": "10.3390/w10020228",
@@ -10650,7 +10650,7 @@ const LIBRARY_DATA = {
       "title": "A Fourier approximation method for steady water waves_highlighted",
       "filename": "Rienecker & Fenton (1981)_A Fourier approximation method for steady water waves_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10667,7 +10667,7 @@ const LIBRARY_DATA = {
       "title": "A Fourier approximation method for steady water waves",
       "filename": "Rienecker and Fenton (2006)_a-fourier-approximation-method-for-steady-water-waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112081002851",
@@ -10685,7 +10685,7 @@ const LIBRARY_DATA = {
       "title": "Submesoscale current effects on surface waves",
       "filename": "Romero et. al (2020)_Submesoscale current effects on surface waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Modelling",
       "doi": "10.1016/j.ocemod.2020.101662",
@@ -10702,7 +10702,7 @@ const LIBRARY_DATA = {
       "title": "Roos_2009",
       "filename": "Roos_2009.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10722,7 +10722,7 @@ const LIBRARY_DATA = {
       "title": "Roos_2010",
       "filename": "Roos_2010.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10742,7 +10742,7 @@ const LIBRARY_DATA = {
       "title": "On Environmental Contours for Marine and Coastal Design",
       "filename": "Ross et al. (2019)_ON ENVIRONMENTAL CONTOURS FOR MARINE AND COASTAL DESIGN.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 7B: Ocean Engineering",
       "doi": "10.1115/omae2019-96587",
@@ -10761,7 +10761,7 @@ const LIBRARY_DATA = {
       "title": "Harnessing new data technologies for nature-based solutions in assessing and managing risk in coastal zones",
       "filename": "Ruckelshaus et al. (2020)_Harnessing new data technologies for nature-based solutions in assessing and managing risk in coastal zones.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10778,7 +10778,7 @@ const LIBRARY_DATA = {
       "title": "GLOBEX_WAVE DYNAMICS ON A GENTLY SLOPING LABORATORY BEACH",
       "filename": "Ruessink et al. (2013)_GLOBEX_WAVE DYNAMICS ON A GENTLY SLOPING LABORATORY BEACH.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10796,7 +10796,7 @@ const LIBRARY_DATA = {
       "title": "Lattice Boltzmann Methods for Viscous Fluid Flows and Two-Phase Fluid Flows",
       "filename": "Rusche_2003_Computational_fluid_dynamics_of_dispersed_two-phase_flows_at_high_phase_fractions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Computational Fluid Dynamics 2008",
       "doi": "10.1007/978-3-642-01273-0_1",
@@ -10816,7 +10816,7 @@ const LIBRARY_DATA = {
       "title": "Trapped flexural waves supported by a pair of identical cylinders in a two-layer fluid",
       "filename": "Saha and Bora (2020)_Trapped flexural waves supported by a pair of identical cylinders in a two-layer fluid.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "SN Applied Sciences",
       "doi": "10.1007/s42452-020-03229-5",
@@ -10833,7 +10833,7 @@ const LIBRARY_DATA = {
       "title": "Transformation of Irregular Waves in Shoaling Water",
       "filename": "Sakai & Iwagaki (1974)_Transformation of Irregular Waves in Shoaling Water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 1974",
       "doi": "10.1061/9780872621138.026",
@@ -10855,7 +10855,7 @@ const LIBRARY_DATA = {
       "title": "Formation and migration of ripple pattern due to pure wave",
       "filename": "Sarkar et al. (2020)_Formation and migration of ripple pattern due to pure wave.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "ISH Journal of Hydraulic Engineering",
       "doi": "10.1080/09715010.2020.1824622",
@@ -10871,7 +10871,7 @@ const LIBRARY_DATA = {
       "title": "Scour around a monopile induced by directionally spread irregular waves in combination with oblique currents",
       "filename": "Schendel et al. (2020_Scour around a monopile induced by directionally spread irregular waves in combination with oblique currents.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103751",
@@ -10893,7 +10893,7 @@ const LIBRARY_DATA = {
       "title": "Experimental Investigation of Wave Interaction with a Thin Floating Sheet",
       "filename": "Schreirer and Jacobi (2020)_Experimental Investigation of Wave Interaction with a Thin Floating Sheet.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -10911,7 +10911,7 @@ const LIBRARY_DATA = {
       "title": "Sharp-Crested Breaking Surface Waves Observed from a Ship-Based Stereo Video System",
       "filename": "Schwendeman and Thomson (2027)_Sharp-crested breaking surface waves observed from a ship-based stereo video system.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/jpo-d-16-0187.1",
@@ -10929,7 +10929,7 @@ const LIBRARY_DATA = {
       "title": "A coastal <scp>N<sub>2</sub></scp> fixation hotspot at the Cape Hatteras front: Elucidating spatial heterogeneity in diazotroph activity via supervised machine learning",
       "filename": "Seldon et al. (2021)_A coastal N2 fixation hotspot at the Cape Hatteras front_Elucidating spatial heterogeneity in diazotroph activity via supervised machine learning.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Limnology and Oceanography",
       "doi": "10.1002/lno.11727",
@@ -10947,7 +10947,7 @@ const LIBRARY_DATA = {
       "title": "Strong variations of radar return from the sea surface due to breaking surface waves",
       "filename": "Sergiervskaya et al. (2020)_Strong variations of radar return from the sea surface due to breaking surface waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Remote Sensing of the Ocean, Sea Ice, Coastal Waters, and Large Water Regions 2020",
       "doi": "10.1117/12.2574094",
@@ -10964,7 +10964,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of response-conditioning wave techniques for short-term rare combined loading scenarios",
       "filename": "Seyffert et al. (2020)_Numerical investigation of response-conditioning wave techniques for short-term rare combined loading scenarios.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107719",
@@ -10983,7 +10983,7 @@ const LIBRARY_DATA = {
       "title": "Shallow Water Waves A Comparison of Theories and Experiments",
       "filename": "SHALLOW WATER WAVES A COMPARISON OF THEORIES AND EXPERIMENTS.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 1968",
       "doi": "10.1061/9780872620131.007",
@@ -11004,7 +11004,7 @@ const LIBRARY_DATA = {
       "title": "Modeling nonlinear wave–wave interactions with the elliptic mild slope equation",
       "filename": "Sharma A. et al. (2014)_Modeling nonlinear wave–wave interactions with the elliptic mild slope equation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2014.08.004",
@@ -11027,7 +11027,7 @@ const LIBRARY_DATA = {
       "title": "Second-Order Directional Seas and Associated Wave Forces",
       "filename": "Sharma_Dean_1981_Second-Order_Directional_Seas_and_Associated_Wave_Forces.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Offshore Technology Conference",
       "doi": "10.4043/3645-ms",
@@ -11047,7 +11047,7 @@ const LIBRARY_DATA = {
       "title": "The Interaction Between Steep Waves and a Vertical, Surface-Piercing Column",
       "filename": "Sheikh_&_Swan_2005_The_Interaction_Between_Steep.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 3: Materials Technology; Ocean Engineering; Polar and Arctic Sciences and Technology; Workshops",
       "doi": "10.1115/omae2003-37154",
@@ -11067,7 +11067,7 @@ const LIBRARY_DATA = {
       "title": "Stationary water waves on rotational flows of two vortical layers",
       "filename": "Shōji and Okamoto (2020)_Stationary water waves on rotational flows of two vortical layers.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Japan Journal of Industrial and Applied Mathematics",
       "doi": "10.1007/s13160-020-00431-1",
@@ -11083,7 +11083,7 @@ const LIBRARY_DATA = {
       "title": "Bimodality of Directional Distributions in Ocean Wave Spectra: A Comparison of Data-Adaptive Estimation Techniques",
       "filename": "Simanesew et al. (2018)_Bimodality of Directional Distributions in Ocean Wave Spectra_A Comparison of Data-Adaptive Estimation Techniques.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Atmospheric and Oceanic Technology",
       "doi": "10.1175/jtech-d-17-0007.1",
@@ -11103,7 +11103,7 @@ const LIBRARY_DATA = {
       "title": "Energy balance, wave shoaling and group celerity in Boussinesq-type wave propagation models",
       "filename": "Simarro (2013)_Energy balance, wave shoaling and group celerity in Boussinesq-type wave propagation models.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11125,7 +11125,7 @@ const LIBRARY_DATA = {
       "title": "Linear shoaling in Boussinesq-type wave propagation models",
       "filename": "Simarro et al. (2013)_Linear shoaling in Boussinesq-type wave propagation models.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2013.05.009",
@@ -11147,7 +11147,7 @@ const LIBRARY_DATA = {
       "title": "Comparing methods of modeling depth-induced breaking of irregular waves with a fully nonlinear potential flow approach",
       "filename": "Simon et al. (2019)_Comparing methods of modeling depth-induced breaking of irregular waves with a fully nonlinear potential flow approach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Ocean Engineering and Marine Energy",
       "doi": "10.1007/s40722-019-00154-7",
@@ -11172,7 +11172,7 @@ const LIBRARY_DATA = {
       "title": "A comparison of numerical predictions and experimental measurements of the internal kinematics of a deep-water plunging wave",
       "filename": "Skyner_1996_comparison_of_numerical_predictions_and_experimental_measurements_of_the_internal_kinematics_of_a_deepwater_plunging_wave.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112096002327",
@@ -11197,7 +11197,7 @@ const LIBRARY_DATA = {
       "title": "Group-wave resonances in nonlinear dispersive media_The case of gravity water waves",
       "filename": "Slunyaev (2017)_Group-wave resonances in nonlinear dispersive media_The case of gravity water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11217,7 +11217,7 @@ const LIBRARY_DATA = {
       "title": "Extreme two-dimensional water waves: an assessment of potential design solutions",
       "filename": "Smith_&_Swan_2002_Extreme_two-dimensional_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/s0029-8018(01)00028-2",
@@ -11238,7 +11238,7 @@ const LIBRARY_DATA = {
       "title": "Wave Theory Predictions of Crest Kinematics",
       "filename": "Sobey_1990_wave_theory_predictions_of_crest_kinematics_only a preview.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Water Wave Kinematics",
       "doi": "10.1007/978-94-009-0531-3_13",
@@ -11258,7 +11258,7 @@ const LIBRARY_DATA = {
       "title": "Second-order wave maker theory using force-feedback control. Part I: A new theory for regular wave generation",
       "filename": "Spinneken_&_Swan_2009_Second-order wave maker theory using force-feedback control. Part I.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2009.01.019",
@@ -11282,7 +11282,7 @@ const LIBRARY_DATA = {
       "title": "Second-order wave maker theory using force-feedback control. Part II: An experimental verification of regular wave generation",
       "filename": "Spinneken_&_Swan_2009_Second-order wave maker theory using force-feedback control. Part II.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2009.01.007",
@@ -11306,7 +11306,7 @@ const LIBRARY_DATA = {
       "title": "Laboratory Study on Steep Wave Interactions with Fixed and Moving Cylinder",
       "filename": "Sriram et al. (2020)_Laboratory Study On Steep Wave Interaction with Fixed and Moving Cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal of Offshore and Polar Engineering",
       "doi": "10.17736/ijope.2021.jc808",
@@ -11325,7 +11325,7 @@ const LIBRARY_DATA = {
       "title": "On the skewness of sea-surface elevation",
       "filename": "Srokosz_Longuet-Higgins_1986_on_the_skewness_of_seasurface_elevation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112086002653",
@@ -11345,7 +11345,7 @@ const LIBRARY_DATA = {
       "title": "Experimental Generation of Focusing Wave Groups on Following and Adverse-Sheared Currents in a Wave-Current Flume",
       "filename": "Stagonas et al. (2018)_On the experimental generation of focusing wave groups on following and adverse sheared currents in a wave-current flume.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Hydraulic Engineering",
       "doi": "10.1061/(asce)hy.1943-7900.0001443",
@@ -11365,7 +11365,7 @@ const LIBRARY_DATA = {
       "title": "Simulating Breaking Focused Waves in CFD: Methodology for Controlled Generation of First and Second Order",
       "filename": "Stagonas, Higuera, Buldakov_2018_Simulating Breaking Focused Waves in CFD Methodology for Controlled Generation of First and Second Orde.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
       "doi": "10.1061/(asce)ww.1943-5460.0000420",
@@ -11389,7 +11389,7 @@ const LIBRARY_DATA = {
       "title": "Selected Papers from the Future Paths and Needs in Wave Modelling Workshop",
       "filename": "Stansberg and Rodrigues (2021)_Selected Papers from the Future Paths and Needs in Wave Modelling Workshop.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11406,7 +11406,7 @@ const LIBRARY_DATA = {
       "title": "Random wave groups and nonlinear extreme platform responses in model testing",
       "filename": "Stansberg_2000_Nonlinear_Extreme_Wave_Evolution_in_Random_Wave_Groups.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Marine Systems &amp; Ocean Technology",
       "doi": "10.1007/bf03449301",
@@ -11429,7 +11429,7 @@ const LIBRARY_DATA = {
       "title": "Characteristics of Steep Second-Order Random Waves in Finite and Shallow Water",
       "filename": "Stansberg_2003_Second-_and_higher-order_effects_in_steep_random_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 6: Ocean Engineering",
       "doi": "10.1115/omae2011-50219",
@@ -11451,7 +11451,7 @@ const LIBRARY_DATA = {
       "title": "Nonlinear Wave Amplification Around Column-Based Platforms in Steep Waves",
       "filename": "Stansberg_2014_NONLINEAR_WAVE_AMPLIFICATION_AROUND_COLUMN-BASED_PLATFORMS_IN.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 1B: Offshore Technology",
       "doi": "10.1115/omae2014-24569",
@@ -11472,7 +11472,7 @@ const LIBRARY_DATA = {
       "title": "Stansberg_et.al_2010",
       "filename": "Stansberg_et.al_2010.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11492,7 +11492,7 @@ const LIBRARY_DATA = {
       "title": "Non-linear scattering of steep surface waves around vertical columns",
       "filename": "Stansberg_Kristiansen_2005_Non-linear_scattering_of_steep_surface_waves_around_vertical_columns.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2005.11.004",
@@ -11513,7 +11513,7 @@ const LIBRARY_DATA = {
       "title": "Global existence and stability in a class of chemotaxis systems with lethal interactions, nonlinear diffusion and production",
       "filename": "Stansberg_Nielsen_2001_Nonlinear_wavestructure_interactions_on_floating_production_systems.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Nonlinear Analysis",
       "doi": "10.1016/j.na.2026.114079",
@@ -11533,7 +11533,7 @@ const LIBRARY_DATA = {
       "title": "statistics-of-rogue-waves-in-isotropic-wave-fields",
       "filename": "statistics-of-rogue-waves-in-isotropic-wave-fields.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11551,7 +11551,7 @@ const LIBRARY_DATA = {
       "title": "Hydrodynamic Waves",
       "filename": "Steer et al. (2019)_Hydrodynamic X Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Waves and Oscillations in Nature",
       "doi": "10.1201/b18492-11",
@@ -11567,7 +11567,7 @@ const LIBRARY_DATA = {
       "title": "Shallow water seakeeping tests with Columbia class submarine for integration into the Environmental Monitoring and Operator Guidance System",
       "filename": "Stehno et al. (2020)_Shallow Water Seakeeping Tests with Columbia Class Submarine for Integration into the Environmental Monitoring and Operator Guidance System.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "10.21079/11681/37779",
@@ -11585,7 +11585,7 @@ const LIBRARY_DATA = {
       "title": "A scale comparison of waves breaking on a beach",
       "filename": "Stive (1985)_A scale comparison of waves breaking on a beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/0378-3839(85)90003-1",
@@ -11605,7 +11605,7 @@ const LIBRARY_DATA = {
       "title": " other version",
       "filename": "Stokes1847 other version.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11625,7 +11625,7 @@ const LIBRARY_DATA = {
       "title": "Stokes_1847",
       "filename": "Stokes_1847.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11645,7 +11645,7 @@ const LIBRARY_DATA = {
       "title": "An Assessment of Load and Response for Horizontal Slamming Loads From Model Scale Experiments",
       "filename": "Storheim_Lian_2018_An_Assessment_of_Load_and_Response_for_Horizontal_Slamming_Loads_From_Model_Scale_Experiments.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 3: Structures, Safety, and Reliability",
       "doi": "10.1115/omae2018-78355",
@@ -11666,7 +11666,7 @@ const LIBRARY_DATA = {
       "title": "Complete Second-Order Solution for Water Waves Generated in Wave Flumes",
       "filename": "Sulisz and Hudspeth (1993)_Complete Second-Order Solution for Water Waves Generated in Wave Flumes.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluids and Structures",
       "doi": "10.1006/jfls.1993.1016",
@@ -11684,7 +11684,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of breaking solitary wave runup on permeable sloped beach using a nonhydrostatic model",
       "filename": "Sun et al. (2019)_Numerical investigation of breaking solitary wave runup on permeable sloped beach using a nonhydrostatic model.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2019.106625",
@@ -11709,7 +11709,7 @@ const LIBRARY_DATA = {
       "title": "Prediction of Extreme Wave Slamming Loads on a Fixed Platform",
       "filename": "Suyuthi_&_Haver_2009_ Extreme_Loads_due_to_Wave_Breaking_Against_Platform_Column.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 2: CFD and FSI",
       "doi": "10.1115/omae2018-78179",
@@ -11729,7 +11729,7 @@ const LIBRARY_DATA = {
       "title": "Characterization of Overtopping Waves on Sea Dikes with Gentle and Shallow Foreshores",
       "filename": "Suzuki et al. (2020)_Characterization of Overtopping Waves on Sea Dikes with Gentle and Shallow Foreshores.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8100752",
@@ -11747,7 +11747,7 @@ const LIBRARY_DATA = {
       "title": "Swan_1990_Wave_Kinematics_Within_The_Criest_To_Trough_Region",
       "filename": "Swan_1990_Wave_Kinematics_Within_The_Criest_To_Trough_Region.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11767,7 +11767,7 @@ const LIBRARY_DATA = {
       "title": "NONLINEAR INERTIAL LOADING. PART I: ACCELERATIONS IN STEEP 2-D WATER WAVES",
       "filename": "Swan_Bashir_&_Gudmestad_2002_NONLINEAR_INERTIAL_LOADING._PART I-ACCELERATIONS_IN_STEEP_2-D_WATER_WAVES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluids and Structures",
       "doi": "10.1006/jfls.2001.0425",
@@ -11789,7 +11789,7 @@ const LIBRARY_DATA = {
       "title": "The Interaction Between Steep Waves and a Vertical, Surface-Piercing Column",
       "filename": "Swan_Sheikh_The_interaction_between_steep_waves_and_a_surface-piercing_column.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 3: Materials Technology; Ocean Engineering; Polar and Arctic Sciences and Technology; Workshops",
       "doi": "10.1115/omae2003-37154",
@@ -11809,7 +11809,7 @@ const LIBRARY_DATA = {
       "title": "Observations of wave-structure interaction for a multi-legged concrete platform",
       "filename": "Swan_Taylor_&_Van Langen_1997_Observations_of_wave-structure_interaction_for_a_multi_legged_concrete_platform.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/s0141-1187(97)00036-9",
@@ -11829,7 +11829,7 @@ const LIBRARY_DATA = {
       "title": "On dispersion of directional surface gravity waves",
       "filename": "Taklo et al. (2017)_On dispersion of directional surface gravity waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11847,7 +11847,7 @@ const LIBRARY_DATA = {
       "title": "Improvement of the Full-Range Equation for Wave Boundary Layer Thickness",
       "filename": "Tanaka et al. (2020)_Improvement of the Full-Range Equation for Wave Boundary Layer Thickness.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8080573",
@@ -11863,7 +11863,7 @@ const LIBRARY_DATA = {
       "title": "Field measurement of nonlinear changes to large gravity wave groups",
       "filename": "Tang, Tromans, Adcock_2019_Field measurement of nonlinear changes to large gravity wave groups.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2019.454",
@@ -11883,7 +11883,7 @@ const LIBRARY_DATA = {
       "title": "Dynamic of a planing hull in regular waves_Comparison of experimental, numerical and mathematical methods",
       "filename": "Tavakoli et al. (2020)_Dynamic of a planing hull in regular waves_Comparison of experimental, numerical and mathematical methods.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -11903,7 +11903,7 @@ const LIBRARY_DATA = {
       "title": "Energy extraction from an articulated plate anti-motion device of a very large floating structure under irregular waves",
       "filename": "Tay (2018)_Energy extraction from an articulated plate anti-motion device of a very large floating structure under irregular waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Renewable Energy",
       "doi": "10.1016/j.renene.2018.06.044",
@@ -11923,7 +11923,7 @@ const LIBRARY_DATA = {
       "title": "Distribution of sea-surface elevations in intermediate and shallow water depths",
       "filename": "Tayfun & Alkhalidi (2020)_Distribution of sea-surface elevations in intermediate and shallow water depths_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103651",
@@ -11943,7 +11943,7 @@ const LIBRARY_DATA = {
       "title": "Distribution of sea-surface elevations in intermediate and shallow water depths",
       "filename": "Tayfun, Alkhalidi_2020_Distribution of sea-surface elevations in intermediate and shallow water depths.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103651",
@@ -11963,7 +11963,7 @@ const LIBRARY_DATA = {
       "title": "Assessing the turbulent kinetic energy budget in an energetic tidal flow from measurements of coupled ADCPs",
       "filename": "Thiebaut et al. (2020)_Assessing the turbulent kinetic energy budget in an energetic tidal flow from measurements of coupled ADCPs.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
       "doi": "10.1098/rsta.2019.0496",
@@ -11982,7 +11982,7 @@ const LIBRARY_DATA = {
       "title": "Modelling the hydrodynamic effect of abrupt water depth changes on a ship travelling in restricted waters using CFD",
       "filename": "Tierzev et al (2020)_Modelling the hydrodynamic effect of abrupt water depth changes on a ship travelling in restricted waters using CFD.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ships and Offshore Structures",
       "doi": "10.1080/17445302.2020.1816731",
@@ -12002,7 +12002,7 @@ const LIBRARY_DATA = {
       "title": "Maximum steepness of oceanic waves: Field and laboratory experiments",
       "filename": "Toffoli et al._2010_Maximum steepness of oceanic waves Field and laboratory.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Geophysical Research Letters",
       "doi": "10.1029/2009gl041771",
@@ -12019,7 +12019,7 @@ const LIBRARY_DATA = {
       "title": "Types of Ocean Surface Waves, Wave Classification",
       "filename": "Toffoli_Bitner-Gregersen_2017_Types_of_Ocean_Surface_Waves-Wave_Classification.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Encyclopedia of Maritime and Offshore Engineering",
       "doi": "10.1002/9781118476406.emoe077",
@@ -12039,7 +12039,7 @@ const LIBRARY_DATA = {
       "title": "Pressure Oscillations During Wave Impact on Vertical Walls",
       "filename": "Topliss_Cooker_Peregrine_1992_Pressure_oscillations_during_wave_impact_on_vertical_walls.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 1992",
       "doi": "10.1061/9780872629332.124",
@@ -12059,7 +12059,7 @@ const LIBRARY_DATA = {
       "title": "Torsethaugen_&_Haver_Simplified_double_peak_spectral_model_for_ocean_waves",
       "filename": "Torsethaugen_&_Haver_Simplified_double_peak_spectral_model_for_ocean_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12079,7 +12079,7 @@ const LIBRARY_DATA = {
       "title": "Large-Scale Wave Kinematics Measurements of Regular Waves and Large-Amplitude Wave Groups",
       "filename": "Tromans et al. (1991)_A new model for the kinematics of large ocean waves-application as a design wave.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "29th International Conference on Ocean, Offshore and Arctic Engineering: Volume 4",
       "doi": "10.1115/omae2010-20240",
@@ -12099,7 +12099,7 @@ const LIBRARY_DATA = {
       "title": "The statistics of the extreme response of offshore structures",
       "filename": "Tromans_Anaturk_&_Hagemeijer.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(92)90013-t",
@@ -12120,7 +12120,7 @@ const LIBRARY_DATA = {
       "title": "Offshore Concrete Gravity-Based Structures",
       "filename": "Tromans_Swan_Masterton_2006_Nonlinear_potential_flow_forcing-the_ringing_of_concrete_gravity_based_structures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "ACI Concrete International",
       "doi": "10.14359/51715523",
@@ -12140,7 +12140,7 @@ const LIBRARY_DATA = {
       "title": "Crossing sea state and rogue wave probability during the <scp>P</scp>restige accident",
       "filename": "Trulsen_Nieto-Borge_Gramstad_Aouf_Lefevre_2015_Crossing_sea_state_and_rogue_wave_probability_during_the_Prestige_accident.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research: Oceans",
       "doi": "10.1002/2015jc011161",
@@ -12160,7 +12160,7 @@ const LIBRARY_DATA = {
       "title": "Free surface wave-breaking in the full nonlinear water wave problem with a permanent interface in cylindrical coordinates",
       "filename": "Tseng and Cheng (2020)_NONLINEAR BREAKING-WAVE CHARACTERISTIS IN LAGRANGIAN COORDINATES.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Evolution Equations",
       "doi": "10.1007/s00028-025-01165-8",
@@ -12179,7 +12179,7 @@ const LIBRARY_DATA = {
       "title": "Recommended standard for wave data sampling and near-real-time processing",
       "filename": "Tucker_1992_Recommended_standard_for_wave_data_sampling_and_near-real-time_processing.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(93)90015-a",
@@ -12199,7 +12199,7 @@ const LIBRARY_DATA = {
       "title": "Numerical simulation of a random sea: a common error and its effect upon wave group statistics",
       "filename": "Tucker_Challenor_Carter_1984_Numerical_simulation_of_a_random_sea-a_common_error_and_its_effect_upon_wave_group_statistics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/0141-1187(84)90050-6",
@@ -12221,7 +12221,7 @@ const LIBRARY_DATA = {
       "title": "The May 11 Paphos, Cyprus, earthquake_implications for stress regime and tsunami modelling for the Eastern Mediterranean shorelines",
       "filename": "Ulutas (2020)_The May 11 Paphos, Cyprus, earthquake_implications for stress regime and tsunami modelling for the Eastern Mediterranean shorelines.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12239,7 +12239,7 @@ const LIBRARY_DATA = {
       "title": "Shoaling and shoreline dissipation of low‐frequency waves",
       "filename": "van Dongeren et al._2007_Shoaling and shoreline dissipation of low-frequency waves-annotated.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Geophysical Research: Oceans",
       "doi": "10.1029/2006jc003701",
@@ -12261,7 +12261,7 @@ const LIBRARY_DATA = {
       "title": "Challenger Deep internal wave turbulence events",
       "filename": "van Haren (2007)_Challenger Deep internal wave turbulence events.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Deep Sea Research Part I: Oceanographic Research Papers",
       "doi": "10.1016/j.dsr.2020.103400",
@@ -12278,7 +12278,7 @@ const LIBRARY_DATA = {
       "title": "Experimental investigation of wave tip variability of impacting waves",
       "filename": "van Meerkerk et al. (2020)_Experimental investigation of wave tip variability of impacting waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physics of Fluids",
       "doi": "10.1063/5.0016467",
@@ -12297,7 +12297,7 @@ const LIBRARY_DATA = {
       "title": "Spatial distribution of wave energy over complex coastal bathymetries: Development of methodologies for comparing modeled wave fields with satellite observations",
       "filename": "Varing et al. (2020)_Spatial distribution of wave energy over complex coastal bathymetries_development of methodologies for comparing modeled wave fields with satellite observations.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103793",
@@ -12318,7 +12318,7 @@ const LIBRARY_DATA = {
       "title": "Two-Dimensional Numerical Analysis Of Acoustic Field Using The Constrained Interpolation Profile Method",
       "filename": "Vestbøstad_A_numerical_study_of_wave_in-deck_impact_using_a_two-dimensional_constrained_interpolation_profile_method.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Acoustical Imaging",
       "doi": "10.1007/978-1-4020-8823-0_70",
@@ -12338,7 +12338,7 @@ const LIBRARY_DATA = {
       "title": "Vestbøstad_Okland_Lian_Stavang_2017",
       "filename": "Vestbøstad_Okland_Lian_Stavang_2017.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12358,7 +12358,7 @@ const LIBRARY_DATA = {
       "title": "Predicting wave load distributions using indirect methods",
       "filename": "Vigso and Georgakis (2020)_Predicting wave load distributions using indirect methods.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107682",
@@ -12377,7 +12377,7 @@ const LIBRARY_DATA = {
       "title": "Marine Biofouling: A European Database for the Marine Renewable Energy Sector",
       "filename": "Vinagre et al. (2020)_Marine Biofouling_A European Database for the Marine Renewable Energy Sector.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8070495",
@@ -12394,7 +12394,7 @@ const LIBRARY_DATA = {
       "title": "Vinje_Brevig_1981_Numerical_simulation_of_breaking_waves",
       "filename": "Vinje_Brevig_1981_Numerical_simulation_of_breaking_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12414,7 +12414,7 @@ const LIBRARY_DATA = {
       "title": "A unified runup formula for solitary waves on a plane beach",
       "filename": "Vinodh and Tanaka (2020)_A unified runup formula for solitary waves on a plane beach.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.108038",
@@ -12434,7 +12434,7 @@ const LIBRARY_DATA = {
       "title": "The Conformal-mapping Method for Surface Gravity Waves in the Presence of Variable Bathymetry and Mean Current",
       "filename": "Viotti et al. (2014)_The Conformal-mapping Method for Surface Gravity Waves in the Presence of Variable Bathymetry and Mean Current.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Procedia IUTAM",
       "doi": "10.1016/j.piutam.2014.01.053",
@@ -12452,7 +12452,7 @@ const LIBRARY_DATA = {
       "title": "Von_Karman_1929_The_impact_on_seaplane_floats_during_landing",
       "filename": "Von_Karman_1929_The_impact_on_seaplane_floats_during_landing.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12472,7 +12472,7 @@ const LIBRARY_DATA = {
       "title": "Engineering Approach to Nonlinear Wave Shoaling",
       "filename": "Walker & Headland (1982)_Engineering approach to nonlinear wave shoaling.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering 1982",
       "doi": "10.1061/9780872623736.034",
@@ -12493,7 +12493,7 @@ const LIBRARY_DATA = {
       "title": "Wave diffraction and near-trapping by a multi-column gravity-based structure",
       "filename": "Walker_Eatock_Taylor_Zang_2008_Wave_diffraction_and_near-trapping_by_a_multi-column.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2007.08.005",
@@ -12514,7 +12514,7 @@ const LIBRARY_DATA = {
       "title": "Accuracy of depth-integrated nonhydrostatic wave models",
       "filename": "Wang et al. (2017)_Accuracy of depth-integrated nonhydrostatic wave models.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2017.12.015",
@@ -12533,7 +12533,7 @@ const LIBRARY_DATA = {
       "title": "A Comparison of Different Wave Modelling Techniques in An Open-Source Hydrodynamic Framework",
       "filename": "Wang et al. (2020)_A Comparison of Different Wave Modelling Techniques in An Open-Source Hydrodynamic Framework.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12551,7 +12551,7 @@ const LIBRARY_DATA = {
       "title": "Experimental study on free-surface deformation and forces on a finite submerged plate induced by a solitary wave",
       "filename": "Wang et al. (2020)_Experimental study on free-surface deformation and forces on a finite submerged plate induced by a solitary wave.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Physics of Fluids",
       "doi": "10.1063/5.0015903",
@@ -12571,7 +12571,7 @@ const LIBRARY_DATA = {
       "title": "Analytical and numerical investigation of trapped ocean waves along a submerged ridge",
       "filename": "Wang et al. (2021)_Analytical and numerical investigation of trapped ocean waves along a submerged ridge.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2020.1039",
@@ -12589,7 +12589,7 @@ const LIBRARY_DATA = {
       "title": "Wave Measurements and the RDI ADCP Waves Array Technique",
       "filename": "Wave Measurements and the RDI ADCP Waves Array Technique.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12606,7 +12606,7 @@ const LIBRARY_DATA = {
       "title": "Wave–bottom interaction and extreme wave statistics due to shoaling and de-shoaling of irregular long-crested wave trains over steep seabed changes",
       "filename": "wavebottom-interaction-and-extreme-wave-statistics-due-to-shoaling-and-de-shoaling-of-irregular-long-crested-wave-trains-over-steep-seabed-changes.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/jfm.2020.1125",
@@ -12630,7 +12630,7 @@ const LIBRARY_DATA = {
       "title": "The 2021 Chart of Armed Conflict",
       "filename": "WaveHeightDist_DiskStation_Nov-09-0149-2021_Conflict.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Armed Conflict Survey",
       "doi": "10.1080/23740973.2021.1974255",
@@ -12647,7 +12647,7 @@ const LIBRARY_DATA = {
       "title": "Models of Beam-Wave Interaction in Slow-Wave Structures",
       "filename": "Wave_Wave_Interaction_Papers.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Beam-Wave Interaction in Periodic and Quasi-Periodic Structures",
       "doi": "10.1007/978-3-662-03398-2_4",
@@ -12666,7 +12666,7 @@ const LIBRARY_DATA = {
       "title": "A high-resolution, long-term wave resource assessment of Japan with wave-current effects",
       "filename": "Webb et al. (2020)_A high-resolution, long-term wave resource assessment of Japan with wave-current effects.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12684,7 +12684,7 @@ const LIBRARY_DATA = {
       "title": "Methods for Calculating Forces Produced by Irregular Waves",
       "filename": "Wheeler_1970_Method_for_calculating_forces_produced_by_irregular_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Offshore Technology Conference",
       "doi": "10.4043/1006-ms",
@@ -12705,7 +12705,7 @@ const LIBRARY_DATA = {
       "title": "Breaking wave impact force on a vertical and inclined slender pile—theoretical and large-scale model investigations",
       "filename": "Wienke_Oumeraci_2005_Breaking_wave_impact_force_on_a_vertical_and_inclined_slender_pile-theoretical_and_large-scale_model_investigations.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2004.12.008",
@@ -12728,7 +12728,7 @@ const LIBRARY_DATA = {
       "title": "Tsunami Fragility Functions for Road and Utility Pole Assets Using Field Survey and Remotely Sensed Data from the 2018 Sulawesi Tsunami, Palu, Indonesia",
       "filename": "Williams et al. (2020)_Tsunami Fragility Functions for Road and Utility Pole Assets Using Field Survey and Remotely Sensed Data from the 2018 Sulawesi Tsunami, Palu, Indonesia.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12746,7 +12746,7 @@ const LIBRARY_DATA = {
       "title": "Summary charts of the mean dynamic topography and current field at the surface of the ocean, and related functions of the mean wind-stress",
       "filename": "Wozniak (1996)_Sea surface slope distribution and foam coverage as functions of the mean height of wind waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Deep Sea Research and Oceanographic Abstracts",
       "doi": "10.1016/0011-7471(65)91063-6",
@@ -12766,7 +12766,7 @@ const LIBRARY_DATA = {
       "title": "Development of Two-Dimensional Non-Hydrostatic Wave Model Based on Central-Upwind Scheme",
       "filename": "Wu et al. (2020)_Development of Two-Dimensional Non-Hydrostatic Wave Model Based on Central-Upwind Scheme.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8070505",
@@ -12784,7 +12784,7 @@ const LIBRARY_DATA = {
       "title": "Time stepping solutions of the two-dimensional nonlinear wave radiation problem",
       "filename": "Wu_Eatock_1995_Time_stepping_solutions_of_the_two-dimensional_nonlinear_wave_radiation_problem.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/0029-8018(95)00014-c",
@@ -12805,7 +12805,7 @@ const LIBRARY_DATA = {
       "title": "Maximum-Likelihood Estimation of the Directional Distribution of 0.53-Hz Ocean Waves",
       "filename": "Wyatt et al. (1997)_Maximum-Likelihood Estimation of the Directional Distribution of 0.53-Hz Ocean Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12823,7 +12823,7 @@ const LIBRARY_DATA = {
       "title": "Two-phase flow simulation of breaking solitary waves over surface-piercing and submerged conical structures",
       "filename": "Xie and Stoesser (2020)_Two-phase flow simulation of breaking solitary waves over surface-piercing and submerged conical structures.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12843,7 +12843,7 @@ const LIBRARY_DATA = {
       "title": "Numerical study of breaking waves by a two‐phase flow model",
       "filename": "Xie_2012_Numerical_study_of_breaking_waves_by_a_two-phase_flow_model.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "International Journal for Numerical Methods in Fluids",
       "doi": "10.1002/fld.2690",
@@ -12863,7 +12863,7 @@ const LIBRARY_DATA = {
       "title": "Variations of wave parameter statistics as influenced by water depth in coastal and inner shelf areas",
       "filename": "Xiong et al. (2020)_Variations of wave parameter statistics as influenced by water depth in coastal and inner shelf areas.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2020.103714",
@@ -12882,7 +12882,7 @@ const LIBRARY_DATA = {
       "title": "Computations of fully nonlinear three-dimensional wave–wave and wave–body interactions. \nPart 1. Dynamics of steep three-dimensional waves",
       "filename": "Xue_Xu_Liu_Yue_2001_computations_of_fully_nonlinear_threedimensional_wavewave_and_wavebody_interactions_part_1_dynamics_of_steep_threedimensional_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
       "doi": "10.1017/s0022112001004396",
@@ -12903,7 +12903,7 @@ const LIBRARY_DATA = {
       "title": "Numerical Simulation of Nonlinear Wave Diffraction by a Vertical Cylinder",
       "filename": "Yang_Ertekin_1992_Numerical_simulation_of_nonlinear_wave_diffraction_by_a_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Offshore Mechanics and Arctic Engineering",
       "doi": "10.1115/1.2919950",
@@ -12924,7 +12924,7 @@ const LIBRARY_DATA = {
       "title": "A study of tsunami-like solitary wave transformation and run-up over fringing reefs",
       "filename": "Yao et al. (2017)_A study of tsunami-like solitary wave transformation and run-up over fringing reefs.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2017.12.020",
@@ -12948,7 +12948,7 @@ const LIBRARY_DATA = {
       "title": "Laboratory study on wave transformation and run-up in a 2DH reef-lagoon-channel system",
       "filename": "Yao et al. (2020)_Laboratory study on wave transformation and run-up in a 2DH reef-lagoon-channel system.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -12970,7 +12970,7 @@ const LIBRARY_DATA = {
       "title": "Wave attenuation by rigid emergent vegetation under combined wave and current flows",
       "filename": "Yin et al. (2020)_Wave attenuation by rigid emergent vegetation under combined wave and current flows.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107632",
@@ -12989,7 +12989,7 @@ const LIBRARY_DATA = {
       "title": "Multiplatform evaluation of global trends in wind speed and wave height",
       "filename": "Young and Ribal (2019)_Multiplatform evaluation of global trends in wind speed and wave height.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13007,7 +13007,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of local scour around USAF with different hydraulic conditions under currents and waves",
       "filename": "Yu et al. (2020)_Numerical investigation of local scour around USAF with different hydraulic conditions under currents and waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107696",
@@ -13027,7 +13027,7 @@ const LIBRARY_DATA = {
       "title": "Stability of periodic waves of finite amplitude on the surface of a deep fluid",
       "filename": "Zakharov_1968_Stability_Of_Periodic_Waves_Of_Finite_amplitude_on_the_surface_of_a_deep_fluid.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Applied Mechanics and Technical Physics",
       "doi": "10.1007/bf00913182",
@@ -13047,7 +13047,7 @@ const LIBRARY_DATA = {
       "title": "Extreme structural response values from various methods of simulating wave kinematics",
       "filename": "Zaki et al. (2014)_Extreme structural response values from various methods of simulating wave kinematics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13065,7 +13065,7 @@ const LIBRARY_DATA = {
       "title": "Comparison of Extreme Responses From Wheeler and Vertical Stretching Methods",
       "filename": "Zaki_et.al_2013_COMPARISON_OF_EXTREME_RESPONSES_FROM_WHEELER_AND.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Volume 2A: Structures, Safety and Reliability",
       "doi": "10.1115/omae2013-10594",
@@ -13085,7 +13085,7 @@ const LIBRARY_DATA = {
       "title": "Scale effects on the wave-making resistance of ships sailing in shallow water",
       "filename": "Zeng et al. (2020)_Scale effects on the wave-making resistance of ships sailing in shallow water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107654",
@@ -13104,7 +13104,7 @@ const LIBRARY_DATA = {
       "title": "Statistics of fetch-limited wind waves observed along the western coast of the Gulf of Aqaba",
       "filename": "Zerbib et al. (2021)_Statistics of fetch-limited wind waves observed along the western coast of the Gulf of Aqaba.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13123,7 +13123,7 @@ const LIBRARY_DATA = {
       "title": "Bayesian Updating Model for Structural Vibration–Induced Hydrodynamic Added Mass of Rectangular Pile Cap Submerged in Water",
       "filename": "Zhang et al. (2020)_Bayesian Updating Model for Structural Vibration–Induced Hydrodynamic Added Mass of Rectangular Pile Cap Submerged in Water.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13141,7 +13141,7 @@ const LIBRARY_DATA = {
       "title": "Experimental and numerical investigation of wave-induced hydrodynamic interactions of a sub-floating hydrocarbon storage tank system in shallow waters",
       "filename": "Zhang et al. (2020)_Experimental and numerical investigation of wave-induced hydrodynamic interactions of a sub-floating hydrocarbon storage tank system in shallow waters.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13160,7 +13160,7 @@ const LIBRARY_DATA = {
       "title": "Experimental study on irregular wave-induced pore-water pressures in a porous seabed around a mono-pile",
       "filename": "Zhang et al. (2020)_Experimental study on irregular wave-induced pore-water pressures in a porous seabed around a mono-pile.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/j.apor.2019.102041",
@@ -13180,7 +13180,7 @@ const LIBRARY_DATA = {
       "title": "Hydrodynamic Load Analysis and Experimental Study of Grouting Clamp under Wave and Ocean Current",
       "filename": "Zhang et al. (2020)_Hydrodynamic Load Analysis and Experimental Study of Grouting Clamp under Wave and Ocean Current.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Marine Science and Engineering",
       "doi": "10.3390/jmse8070512",
@@ -13200,7 +13200,7 @@ const LIBRARY_DATA = {
       "title": "Shoaling of bound infragravity waves on plane slopes for bichromatic wave conditions",
       "filename": "Zhang et al. (2020)_Shoaling of bound infragravity waves on plane slopes for bichromatic wave conditions.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13220,7 +13220,7 @@ const LIBRARY_DATA = {
       "title": "Effect of initial condition uncertainty on the profile of maximum wave",
       "filename": "Zhang et al. (2022)_Effect of initial condition uncertainty on the profile of maximum wave.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Marine Structures",
       "doi": "10.1016/j.marstruc.2021.103127",
@@ -13237,7 +13237,7 @@ const LIBRARY_DATA = {
       "title": "Equilibration process of out-of-equilibrium sea-states induced by strong depth variation Evolution of coastal wave spectrum and representative parameters",
       "filename": "Zhang et al. (2023)_Equilibration process of out-of-equilibrium sea-states induced by strong depth variation Evolution of coastal wave spectrum and representative parameters.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13257,7 +13257,7 @@ const LIBRARY_DATA = {
       "title": "Equilibration process of out-of-equilibrium sea-states induced by strong depth variation_Evolution of coastal wave statistics",
       "filename": "Zhang et al. (2023)_Equilibration process of out-of-equilibrium sea-states induced by strong depth variation_Evolution of coastal wave statistics.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "",
       "doi": "",
@@ -13277,7 +13277,7 @@ const LIBRARY_DATA = {
       "title": "Equilibration process of out-of-equilibrium sea-states induced by strong depth variation: Evolution of coastal wave spectrum and representative parameters",
       "filename": "Zhang et al. (2023)_Equilibration process of out-of-equilibrium sea-states induced by strong depth variation_Evolution of coastal wave statistics_highlighted.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2022.104099",
@@ -13297,7 +13297,7 @@ const LIBRARY_DATA = {
       "title": "STATISTICS OF EXTREME WAVES IN COASTAL WATERS: LARGE SCALE EXPERIMENTS AND ADVANCED NUMERICAL SIMULATIONS",
       "filename": "Zhang_etal_2019_Statistics_of_Extreme_Waves_in_Coastal_Waters-Large_Scale_Experiments_and_Advanced_Numerical_Simulations.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering Proceedings",
       "doi": "10.9753/icce.v36.waves.86",
@@ -13319,7 +13319,7 @@ const LIBRARY_DATA = {
       "title": "A new model for wave-induced instantaneous liquefaction in a non-cohesive seabed with dynamic permeability",
       "filename": "Zhou et al. (2020)_A new model for wave-induced instantaneous liquefaction in a non-cohesive seabed with dynamic permeability.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107597",
@@ -13339,7 +13339,7 @@ const LIBRARY_DATA = {
       "title": "Correlations between oceanic crustal thickness, melt volume, and spreading rate from global gravity observation",
       "filename": "Zhou et al. (2020)_Correlations between oceanic crustal thickness, melt volume, and spreading rate from global gravity observation.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Marine Geophysical Research",
       "doi": "10.1007/s11001-020-09413-x",
@@ -13355,7 +13355,7 @@ const LIBRARY_DATA = {
       "title": "Wave impact pressures on vertical cylinders",
       "filename": "Zhou_Chan_Melville_1991_Wave_impact_pressures_on_vertical_cylinders.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Applied Ocean Research",
       "doi": "10.1016/s0141-1187(05)80046-x",
@@ -13375,7 +13375,7 @@ const LIBRARY_DATA = {
       "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
       "filename": "Zhou_Ning_Teng_Bai_2013_Numerical_investigation_of_wave_radiation_by_a_vertical_cylinder.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2013.04.019",
@@ -13398,7 +13398,7 @@ const LIBRARY_DATA = {
       "title": "Experimental and 3D numerical investigation of solitary wave forces on coastal bridges",
       "filename": "Zhu and Dong (2020)_Experimental and 3D numerical investigation of solitary wave forces on coastal bridges.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Ocean Engineering",
       "doi": "10.1016/j.oceaneng.2020.107499",
@@ -13419,7 +13419,7 @@ const LIBRARY_DATA = {
       "title": "SWASH: An operational public domain code for simulating wave fields and rapidly varied flows in coastal waters",
       "filename": "Zijlema_Stelling_Smit_2011_SWASH-An_operational_public_domain_code_for_simulating_wave_fields_and_rapidly_varied_flows_in_coastal_waters.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Coastal Engineering",
       "doi": "10.1016/j.coastaleng.2011.05.015",
@@ -13439,7 +13439,7 @@ const LIBRARY_DATA = {
       "title": "Investigation of conical shock wave/boundary layer interaction in axisymmetric internal flow",
       "filename": "Zuo et al. (2020)_Investigation of conical shock wave_boundary layer interaction in axisymmetric internal flow.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Aerospace Science and Technology",
       "doi": "10.1016/j.ast.2020.106106",
@@ -13455,7 +13455,7 @@ const LIBRARY_DATA = {
       "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
       "filename": "[15200485 - Journal of Physical Oceanography] Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves (1).pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/jpo-d-16-0289.1",
@@ -13476,7 +13476,7 @@ const LIBRARY_DATA = {
       "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
       "filename": "[15200485 - Journal of Physical Oceanography] Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Physical Oceanography",
       "doi": "10.1175/jpo-d-16-0289.1",
@@ -16044,46 +16044,6 @@ const LIBRARY_DATA = {
       "id": 799
     },
     {
-      "author": "Jia et al.",
-      "year": 2016,
-      "title": "Breathers and rogue waves for an eighth-order variable-coefficient nonlinear Schrödinger equation in an ocean or optical fiber",
-      "filename": "Jia et al. (2016)_Breathers and rogue waves for an eighth-order variable-coefficient nonlinear Schrödinger equation in an ocean or optical fiber.pdf",
-      "category": "08_Rogue_and_Extreme_Waves",
-      "categoryShort": "Rogue & Extreme Waves",
-      "color": "#FF5722",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "linear",
-        "nls",
-        "nonlinear",
-        "ocean-waves",
-        "rogue-waves"
-      ],
-      "id": 800
-    },
-    {
-      "author": "Jiang et al.",
-      "year": 2017,
-      "title": "Nonlinear wave solutions for an integrable sixth-order nonlinear Schrödinger equation in an optical fiber",
-      "filename": "Jiang, Gao and Huang (2017)_Nonlinear wave solutions for an integrable sixth-order nonlinear Schrödinger equation in an optical fiber.pdf",
-      "category": "08_Rogue_and_Extreme_Waves",
-      "categoryShort": "Rogue & Extreme Waves",
-      "color": "#FF5722",
-      "journal": "Optik",
-      "doi": "10.1016/j.ijleo.2017.05.008",
-      "hasAnnotation": false,
-      "tags": [
-        "linear",
-        "nls",
-        "nonlinear",
-        "ocean-waves",
-        "rogue-waves"
-      ],
-      "id": 801
-    },
-    {
       "author": "Kokorina et al.",
       "year": 2019,
       "title": "Lifetimes of Rogue Wave Events in Direct Numerical Simulations of Deep-Water Irregular Sea Waves",
@@ -16101,7 +16061,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "rogue-waves"
       ],
-      "id": 802
+      "id": 800
     },
     {
       "author": "El Koussaifi et al.",
@@ -16121,7 +16081,7 @@ const LIBRARY_DATA = {
         "review",
         "rogue-waves"
       ],
-      "id": 803
+      "id": 801
     },
     {
       "author": "",
@@ -16141,7 +16101,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "varying-depth"
       ],
-      "id": 804
+      "id": 802
     },
     {
       "author": "Li, Shui and Huang",
@@ -16161,7 +16121,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 805
+      "id": 803
     },
     {
       "author": "Liao et al.",
@@ -16181,7 +16141,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 806
+      "id": 804
     },
     {
       "author": "Liu, Yang Y and Yang W",
@@ -16200,7 +16160,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "regular-waves"
       ],
-      "id": 807
+      "id": 805
     },
     {
       "author": "Lu et al.",
@@ -16219,7 +16179,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-groups"
       ],
-      "id": 808
+      "id": 806
     },
     {
       "author": "Luo et al.",
@@ -16239,7 +16199,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-forces"
       ],
-      "id": 809
+      "id": 807
     },
     {
       "author": "Luxmoore et al.",
@@ -16259,7 +16219,7 @@ const LIBRARY_DATA = {
         "extreme-events",
         "rogue-waves"
       ],
-      "id": 810
+      "id": 808
     },
     {
       "author": "Luxmoore et al.",
@@ -16279,7 +16239,7 @@ const LIBRARY_DATA = {
         "extreme-events",
         "rogue-waves"
       ],
-      "id": 811
+      "id": 809
     },
     {
       "author": "Mendes et al.",
@@ -16299,7 +16259,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 812
+      "id": 810
     },
     {
       "author": "Mendes & Scotti",
@@ -16319,7 +16279,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 813
+      "id": 811
     },
     {
       "author": "Mendes",
@@ -16339,7 +16299,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 814
+      "id": 812
     },
     {
       "author": "",
@@ -16359,7 +16319,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 815
+      "id": 813
     },
     {
       "author": "Mendes et al.",
@@ -16379,7 +16339,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 816
+      "id": 814
     },
     {
       "author": "Mendes et al.",
@@ -16399,7 +16359,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 817
+      "id": 815
     },
     {
       "author": "Mendes et al.",
@@ -16419,7 +16379,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 818
+      "id": 816
     },
     {
       "author": "Michel et al.",
@@ -16439,7 +16399,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 819
+      "id": 817
     },
     {
       "author": "",
@@ -16459,7 +16419,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "spectral-analysis"
       ],
-      "id": 820
+      "id": 818
     },
     {
       "author": "Peng et al.",
@@ -16479,7 +16439,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 821
+      "id": 819
     },
     {
       "author": "Sapsis, Themistoklis P.",
@@ -16499,7 +16459,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 822
+      "id": 820
     },
     {
       "author": "WU et al.",
@@ -16519,7 +16479,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 823
+      "id": 821
     },
     {
       "author": "Sehic",
@@ -16539,7 +16499,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 824
+      "id": 822
     },
     {
       "author": "Slunyaev et al.",
@@ -16559,7 +16519,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-groups"
       ],
-      "id": 825
+      "id": 823
     },
     {
       "author": "Stansell, Paul",
@@ -16579,7 +16539,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 826
+      "id": 824
     },
     {
       "author": "Sun et al.",
@@ -16599,7 +16559,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 827
+      "id": 825
     },
     {
       "author": "Sun et al.",
@@ -16620,7 +16580,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 828
+      "id": 826
     },
     {
       "author": "Tang et al.",
@@ -16643,7 +16603,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 829
+      "id": 827
     },
     {
       "author": "Teutsch et al.",
@@ -16663,7 +16623,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 830
+      "id": 828
     },
     {
       "author": "Toffoli et al.",
@@ -16683,7 +16643,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wind-waves"
       ],
-      "id": 831
+      "id": 829
     },
     {
       "author": "Zaman et al.",
@@ -16703,7 +16663,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 832
+      "id": 830
     },
     {
       "author": "Trulsen et al.",
@@ -16723,7 +16683,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "varying-depth"
       ],
-      "id": 833
+      "id": 831
     },
     {
       "author": "Walker et al.",
@@ -16743,7 +16703,7 @@ const LIBRARY_DATA = {
         "offshore",
         "rogue-waves"
       ],
-      "id": 834
+      "id": 832
     },
     {
       "author": "Wang et al.",
@@ -16763,7 +16723,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 835
+      "id": 833
     },
     {
       "author": "Wang et al.",
@@ -16783,7 +16743,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "rogue-waves"
       ],
-      "id": 836
+      "id": 834
     },
     {
       "author": "Wang et al.",
@@ -16803,7 +16763,7 @@ const LIBRARY_DATA = {
         "numerical",
         "rogue-waves"
       ],
-      "id": 837
+      "id": 835
     },
     {
       "author": "Watanabe et al.",
@@ -16821,7 +16781,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-groups"
       ],
-      "id": 838
+      "id": 836
     },
     {
       "author": "Whittaker et al.",
@@ -16843,7 +16803,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-runup"
       ],
-      "id": 839
+      "id": 837
     },
     {
       "author": "Xie et al.",
@@ -16863,7 +16823,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 840
+      "id": 838
     },
     {
       "author": "Ying et al.",
@@ -16884,7 +16844,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-current"
       ],
-      "id": 841
+      "id": 839
     },
     {
       "author": "Zhang et al.",
@@ -16907,7 +16867,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 842
+      "id": 840
     },
     {
       "author": "Zhang et al.",
@@ -16927,7 +16887,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 843
+      "id": 841
     },
     {
       "author": "Zhang et al.",
@@ -16946,7 +16906,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-groups"
       ],
-      "id": 844
+      "id": 842
     },
     {
       "author": "Zhang et al.",
@@ -16968,7 +16928,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-current"
       ],
-      "id": 845
+      "id": 843
     },
     {
       "author": "Adcock et al.",
@@ -16988,7 +16948,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "wave-generation"
       ],
-      "id": 846
+      "id": 844
     },
     {
       "author": "",
@@ -17008,7 +16968,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 847
+      "id": 845
     },
     {
       "author": "Eldrup et al.",
@@ -17028,7 +16988,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 848
+      "id": 846
     },
     {
       "author": "Feng et al.",
@@ -17048,7 +17008,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 849
+      "id": 847
     },
     {
       "author": "Fitzgerald et al.",
@@ -17068,7 +17028,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 850
+      "id": 848
     },
     {
       "author": "Fitzgerald et al.",
@@ -17088,7 +17048,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 851
+      "id": 849
     },
     {
       "author": "Jang and Sung",
@@ -17108,7 +17068,7 @@ const LIBRARY_DATA = {
         "linear",
         "nonlinear"
       ],
-      "id": 852
+      "id": 850
     },
     {
       "author": "Malek-Mohammadi and Testik",
@@ -17128,7 +17088,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-generation"
       ],
-      "id": 853
+      "id": 851
     },
     {
       "author": "Mortimer et al.",
@@ -17148,7 +17108,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 854
+      "id": 852
     },
     {
       "author": "Nikseresht and Bingham",
@@ -17168,7 +17128,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-generation"
       ],
-      "id": 855
+      "id": 853
     },
     {
       "author": "ONORATO et al.",
@@ -17188,7 +17148,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-generation"
       ],
-      "id": 856
+      "id": 854
     },
     {
       "author": "Padilla et al.",
@@ -17208,7 +17168,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-reflection"
       ],
-      "id": 857
+      "id": 855
     },
     {
       "author": "Pierella et al.",
@@ -17231,7 +17191,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-spectrum"
       ],
-      "id": 858
+      "id": 856
     },
     {
       "author": "",
@@ -17254,28 +17214,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-spectrum"
       ],
-      "id": 859
-    },
-    {
-      "author": "",
-      "year": 2021,
-      "title": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their(2)",
-      "filename": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their(2).pdf",
-      "category": "09_Laboratory_Wave_Generation",
-      "categoryShort": "Lab Generation",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "experimental",
-        "irregular-waves",
-        "linear",
-        "nonlinear",
-        "regular-waves",
-        "wave-generation"
-      ],
-      "id": 860
+      "id": 857
     },
     {
       "author": "Fitzgerald et al.",
@@ -17295,7 +17234,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 861
+      "id": 858
     },
     {
       "author": "Schäffer, Hemming A.",
@@ -17317,7 +17256,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-forces"
       ],
-      "id": 862
+      "id": 859
     },
     {
       "author": "Schäffer et al.",
@@ -17338,7 +17277,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-forces"
       ],
-      "id": 863
+      "id": 860
     },
     {
       "author": "Sriram et al.",
@@ -17359,7 +17298,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-groups"
       ],
-      "id": 864
+      "id": 861
     },
     {
       "author": "",
@@ -17376,7 +17315,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 865
+      "id": 862
     },
     {
       "author": "",
@@ -17395,7 +17334,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 866
+      "id": 863
     },
     {
       "author": "Baldock & Swan",
@@ -17411,7 +17350,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 867
+      "id": 864
     },
     {
       "author": "Baldock",
@@ -17431,7 +17370,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-groups"
       ],
-      "id": 868
+      "id": 865
     },
     {
       "author": "Baldock",
@@ -17451,7 +17390,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-groups"
       ],
-      "id": 869
+      "id": 866
     },
     {
       "author": "Baldock et al.",
@@ -17469,7 +17408,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 870
+      "id": 867
     },
     {
       "author": "Baldock et al.",
@@ -17490,7 +17429,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 871
+      "id": 868
     },
     {
       "author": "Baldock, Swan and Taylor",
@@ -17506,7 +17445,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 872
+      "id": 869
     },
     {
       "author": "Bateman et al.",
@@ -17524,7 +17463,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 873
+      "id": 870
     },
     {
       "author": "Bosboom et al.",
@@ -17545,7 +17484,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 874
+      "id": 871
     },
     {
       "author": "Chang et al.",
@@ -17565,7 +17504,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 875
+      "id": 872
     },
     {
       "author": "Chen et al.",
@@ -17586,7 +17525,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 876
+      "id": 873
     },
     {
       "author": "Cheng et al.",
@@ -17606,7 +17545,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 877
+      "id": 874
     },
     {
       "author": "Choi et al.",
@@ -17626,7 +17565,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 878
+      "id": 875
     },
     {
       "author": "Dang et al.",
@@ -17646,7 +17585,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 879
+      "id": 876
     },
     {
       "author": "Higuera et al.",
@@ -17666,7 +17605,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 880
+      "id": 877
     },
     {
       "author": "Donahue et al.",
@@ -17684,7 +17623,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 881
+      "id": 878
     },
     {
       "author": "Fang et al.",
@@ -17704,7 +17643,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 882
+      "id": 879
     },
     {
       "author": "Gao et al.",
@@ -17724,7 +17663,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-forces"
       ],
-      "id": 883
+      "id": 880
     },
     {
       "author": "Gao et al.",
@@ -17744,7 +17683,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 884
+      "id": 881
     },
     {
       "author": "Gao et al.",
@@ -17764,7 +17703,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 885
+      "id": 882
     },
     {
       "author": "Gibson et al.",
@@ -17781,7 +17720,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 886
+      "id": 883
     },
     {
       "author": "Giorgi et al.",
@@ -17803,7 +17742,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wec"
       ],
-      "id": 887
+      "id": 884
     },
     {
       "author": "",
@@ -17819,7 +17758,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 888
+      "id": 885
     },
     {
       "author": "Amrutha et al.",
@@ -17839,7 +17778,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 889
+      "id": 886
     },
     {
       "author": "Hu et al.",
@@ -17857,7 +17796,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 890
+      "id": 887
     },
     {
       "author": "Huang et al.",
@@ -17877,7 +17816,7 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-propagation"
       ],
-      "id": 891
+      "id": 888
     },
     {
       "author": "Leiteritz et al.",
@@ -17894,7 +17833,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 892
+      "id": 889
     },
     {
       "author": "Izquierdo et al.",
@@ -17914,7 +17853,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 893
+      "id": 890
     },
     {
       "author": "Jang, T.S.",
@@ -17934,7 +17873,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 894
+      "id": 891
     },
     {
       "author": "Jang, T.S.",
@@ -17954,7 +17893,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 895
+      "id": 892
     },
     {
       "author": "Jang, T.S.",
@@ -17974,7 +17913,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 896
+      "id": 893
     },
     {
       "author": "",
@@ -17993,7 +17932,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-groups"
       ],
-      "id": 897
+      "id": 894
     },
     {
       "author": "Khait et al.",
@@ -18013,7 +17952,7 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-breaking"
       ],
-      "id": 898
+      "id": 895
     },
     {
       "author": "",
@@ -18035,7 +17974,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 899
+      "id": 896
     },
     {
       "author": "Latheef and Swan",
@@ -18054,7 +17993,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 900
+      "id": 897
     },
     {
       "author": "Latheef, Swan and Spinneken",
@@ -18074,7 +18013,7 @@ const LIBRARY_DATA = {
         "linear",
         "nonlinear"
       ],
-      "id": 901
+      "id": 898
     },
     {
       "author": "Liu et al.",
@@ -18095,7 +18034,7 @@ const LIBRARY_DATA = {
         "numerical",
         "shallow-water"
       ],
-      "id": 902
+      "id": 899
     },
     {
       "author": "Liu et al.",
@@ -18114,7 +18053,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-generation"
       ],
-      "id": 903
+      "id": 900
     },
     {
       "author": "Liu et al.",
@@ -18135,7 +18074,7 @@ const LIBRARY_DATA = {
         "numerical",
         "second-order"
       ],
-      "id": 904
+      "id": 901
     },
     {
       "author": "Luo et al.",
@@ -18155,7 +18094,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 905
+      "id": 902
     },
     {
       "author": "MADSEN et al.",
@@ -18175,7 +18114,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-runup"
       ],
-      "id": 906
+      "id": 903
     },
     {
       "author": "Madsen et al.",
@@ -18196,7 +18135,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "numerical"
       ],
-      "id": 907
+      "id": 904
     },
     {
       "author": "Marchesi et al.",
@@ -18219,7 +18158,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wec"
       ],
-      "id": 908
+      "id": 905
     },
     {
       "author": "Masterton and Swan",
@@ -18236,7 +18175,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 909
+      "id": 906
     },
     {
       "author": "Mean et al.",
@@ -18256,7 +18195,7 @@ const LIBRARY_DATA = {
         "simulation",
         "wave-propagation"
       ],
-      "id": 910
+      "id": 907
     },
     {
       "author": "Miquel et al.",
@@ -18276,7 +18215,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-generation"
       ],
-      "id": 911
+      "id": 908
     },
     {
       "author": "Mohapatra et al.",
@@ -18298,7 +18237,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 912
+      "id": 909
     },
     {
       "author": "Mohapatra et al.",
@@ -18320,7 +18259,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 913
+      "id": 910
     },
     {
       "author": "Padilla et al.",
@@ -18342,7 +18281,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 914
+      "id": 911
     },
     {
       "author": "Pizzo et al.",
@@ -18362,7 +18301,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 915
+      "id": 912
     },
     {
       "author": "Peregrine et al.",
@@ -18379,7 +18318,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 916
+      "id": 913
     },
     {
       "author": "Pradlhan et al.",
@@ -18398,7 +18337,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "sediment-transport"
       ],
-      "id": 917
+      "id": 914
     },
     {
       "author": "Sedigh et al.",
@@ -18416,7 +18355,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 918
+      "id": 915
     },
     {
       "author": "Shrineash et al.",
@@ -18436,7 +18375,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 919
+      "id": 916
     },
     {
       "author": "Stagonas et al.",
@@ -18458,7 +18397,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 920
+      "id": 917
     },
     {
       "author": "Sheikh et al.",
@@ -18477,7 +18416,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 921
+      "id": 918
     },
     {
       "author": "Tran et al.",
@@ -18500,7 +18439,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-shoaling"
       ],
-      "id": 922
+      "id": 919
     },
     {
       "author": "Tran et al.",
@@ -18523,7 +18462,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-shoaling"
       ],
-      "id": 923
+      "id": 920
     },
     {
       "author": "Vijay et al.",
@@ -18543,7 +18482,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 924
+      "id": 921
     },
     {
       "author": "de Vos et al.",
@@ -18562,7 +18501,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 925
+      "id": 922
     },
     {
       "author": "Wang and Wan",
@@ -18582,7 +18521,7 @@ const LIBRARY_DATA = {
         "simulation",
         "wave-propagation"
       ],
-      "id": 926
+      "id": 923
     },
     {
       "author": "Wei et al.",
@@ -18603,7 +18542,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "numerical"
       ],
-      "id": 927
+      "id": 924
     },
     {
       "author": "Yan et al.",
@@ -18624,7 +18563,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 928
+      "id": 925
     },
     {
       "author": "Yao et al.",
@@ -18644,7 +18583,7 @@ const LIBRARY_DATA = {
         "offshore",
         "reef"
       ],
-      "id": 929
+      "id": 926
     },
     {
       "author": "Zhang et al.",
@@ -18665,7 +18604,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 930
+      "id": 927
     },
     {
       "author": "Zhang and Li",
@@ -18683,7 +18622,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 931
+      "id": 928
     },
     {
       "author": "Zhang et al.",
@@ -18704,7 +18643,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 932
+      "id": 929
     },
     {
       "author": "Zhang et al.",
@@ -18725,7 +18664,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 933
+      "id": 930
     },
     {
       "author": "Zhao et al.",
@@ -18745,7 +18684,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 934
+      "id": 931
     },
     {
       "author": "Liu et al.",
@@ -18765,7 +18704,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 935
+      "id": 932
     },
     {
       "author": "de Almeida et al.",
@@ -18785,7 +18724,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 936
+      "id": 933
     },
     {
       "author": "Altomare et al.",
@@ -18805,7 +18744,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 937
+      "id": 934
     },
     {
       "author": "Andersen et al.",
@@ -18823,7 +18762,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 938
+      "id": 935
     },
     {
       "author": "Al-Ani et al.",
@@ -18841,7 +18780,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 939
+      "id": 936
     },
     {
       "author": "Battjes, J.A.",
@@ -18862,7 +18801,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 940
+      "id": 937
     },
     {
       "author": "de Beer et al.",
@@ -18883,7 +18822,7 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wave-runup"
       ],
-      "id": 941
+      "id": 938
     },
     {
       "author": "Bertram et al.",
@@ -18901,7 +18840,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wec"
       ],
-      "id": 942
+      "id": 939
     },
     {
       "author": "Bettess et al.",
@@ -18921,7 +18860,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 943
+      "id": 940
     },
     {
       "author": "Chang et al.",
@@ -18941,7 +18880,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 944
+      "id": 941
     },
     {
       "author": "Chen et al.",
@@ -18959,7 +18898,7 @@ const LIBRARY_DATA = {
         "breakwater",
         "ocean-waves"
       ],
-      "id": 945
+      "id": 942
     },
     {
       "author": "Chen et al.",
@@ -18981,7 +18920,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 946
+      "id": 943
     },
     {
       "author": "Chen et al.",
@@ -19002,7 +18941,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 947
+      "id": 944
     },
     {
       "author": "Dan et al.",
@@ -19022,7 +18961,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-runup"
       ],
-      "id": 948
+      "id": 945
     },
     {
       "author": "Uhlirova et al.",
@@ -19040,7 +18979,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 949
+      "id": 946
     },
     {
       "author": "Fang et al.",
@@ -19061,7 +19000,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-runup"
       ],
-      "id": 950
+      "id": 947
     },
     {
       "author": "Formentin et al.",
@@ -19081,7 +19020,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 951
+      "id": 948
     },
     {
       "author": "Frantzis et al.",
@@ -19102,7 +19041,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 952
+      "id": 949
     },
     {
       "author": "",
@@ -19120,7 +19059,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 953
+      "id": 950
     },
     {
       "author": "Han et al.",
@@ -19140,7 +19079,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 954
+      "id": 951
     },
     {
       "author": "Hedges et al.",
@@ -19160,7 +19099,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 955
+      "id": 952
     },
     {
       "author": "Hernández-Fontes et al.",
@@ -19178,7 +19117,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 956
+      "id": 953
     },
     {
       "author": "Hu et al.",
@@ -19199,7 +19138,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 957
+      "id": 954
     },
     {
       "author": "Huang et al.",
@@ -19220,7 +19159,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 958
+      "id": 955
     },
     {
       "author": "Jeong et al.",
@@ -19241,7 +19180,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 959
+      "id": 956
     },
     {
       "author": "Kimmoun et al.",
@@ -19261,7 +19200,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 960
+      "id": 957
     },
     {
       "author": "Koley",
@@ -19279,7 +19218,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 961
+      "id": 958
     },
     {
       "author": "Konispoliatis et al.",
@@ -19297,7 +19236,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 962
+      "id": 959
     },
     {
       "author": "Donnelly et al.",
@@ -19317,7 +19256,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 963
+      "id": 960
     },
     {
       "author": "Lancaster et al.",
@@ -19339,7 +19278,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wec"
       ],
-      "id": 964
+      "id": 961
     },
     {
       "author": "Li et al.",
@@ -19358,7 +19297,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 965
+      "id": 962
     },
     {
       "author": "Liu and Li",
@@ -19375,7 +19314,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 966
+      "id": 963
     },
     {
       "author": "Liu et al.",
@@ -19393,7 +19332,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 967
+      "id": 964
     },
     {
       "author": "Longuet-Higgins and Stewart",
@@ -19413,7 +19352,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 968
+      "id": 965
     },
     {
       "author": "Lucio et al.",
@@ -19433,7 +19372,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 969
+      "id": 966
     },
     {
       "author": "Wan et al.",
@@ -19454,7 +19393,7 @@ const LIBRARY_DATA = {
         "wec",
         "wind-waves"
       ],
-      "id": 970
+      "id": 967
     },
     {
       "author": "Ma et al.",
@@ -19474,7 +19413,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 971
+      "id": 968
     },
     {
       "author": "Ma et al.",
@@ -19494,7 +19433,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 972
+      "id": 969
     },
     {
       "author": "Malliouri et al.",
@@ -19513,7 +19452,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 973
+      "id": 970
     },
     {
       "author": "Manam and Sivanesan",
@@ -19530,7 +19469,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 974
+      "id": 971
     },
     {
       "author": "Masoumi",
@@ -19550,7 +19489,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wec"
       ],
-      "id": 975
+      "id": 972
     },
     {
       "author": "Molin, B.",
@@ -19569,7 +19508,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 976
+      "id": 973
     },
     {
       "author": "Molines et al.",
@@ -19590,7 +19529,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 977
+      "id": 974
     },
     {
       "author": "Nematollahi et al.",
@@ -19610,7 +19549,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 978
+      "id": 975
     },
     {
       "author": "Neshat et al.",
@@ -19628,7 +19567,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wec"
       ],
-      "id": 979
+      "id": 976
     },
     {
       "author": "Nouri et al.",
@@ -19647,7 +19586,7 @@ const LIBRARY_DATA = {
         "offshore",
         "platform"
       ],
-      "id": 980
+      "id": 977
     },
     {
       "author": "Portillo et al.",
@@ -19667,7 +19606,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wec"
       ],
-      "id": 981
+      "id": 978
     },
     {
       "author": "Santo et al.",
@@ -19687,7 +19626,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 982
+      "id": 979
     },
     {
       "author": "Ma et al.",
@@ -19707,7 +19646,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 983
+      "id": 980
     },
     {
       "author": "Shih et al",
@@ -19726,7 +19665,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 984
+      "id": 981
     },
     {
       "author": "Sun et al.",
@@ -19747,7 +19686,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 985
+      "id": 982
     },
     {
       "author": "Tabssum et al.",
@@ -19765,7 +19704,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 986
+      "id": 983
     },
     {
       "author": "Tao, Jianhua",
@@ -19785,7 +19724,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 987
+      "id": 984
     },
     {
       "author": "Topliss et al.",
@@ -19805,7 +19744,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 988
+      "id": 985
     },
     {
       "author": "Tseng et al.",
@@ -19823,7 +19762,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 989
+      "id": 986
     },
     {
       "author": "van Bergeijk et al.",
@@ -19843,7 +19782,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 990
+      "id": 987
     },
     {
       "author": "van Gent, Marcel R.A.",
@@ -19863,7 +19802,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 991
+      "id": 988
     },
     {
       "author": "Mohapatra et al.",
@@ -19881,7 +19820,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-interactions"
       ],
-      "id": 992
+      "id": 989
     },
     {
       "author": "Vijay et al.",
@@ -19899,7 +19838,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 993
+      "id": 990
     },
     {
       "author": "McDougal et al.",
@@ -19919,7 +19858,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 994
+      "id": 991
     },
     {
       "author": "Ramirez, Jorge",
@@ -19939,7 +19878,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 995
+      "id": 992
     },
     {
       "author": "Wuppukondur et al.",
@@ -19959,7 +19898,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 996
+      "id": 993
     },
     {
       "author": "Xie et al.",
@@ -19979,7 +19918,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 997
+      "id": 994
     },
     {
       "author": "Zhao et al.",
@@ -19999,7 +19938,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 998
+      "id": 995
     },
     {
       "author": "Zhao et al.",
@@ -20019,7 +19958,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 999
+      "id": 996
     },
     {
       "author": "Zhou et al.",
@@ -20042,7 +19981,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 1000
+      "id": 997
     },
     {
       "author": "Abreu et al.",
@@ -20060,7 +19999,7 @@ const LIBRARY_DATA = {
         "coastal",
         "ocean-waves"
       ],
-      "id": 1001
+      "id": 998
     },
     {
       "author": "",
@@ -20082,7 +20021,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 1002
+      "id": 999
     },
     {
       "author": "",
@@ -20104,7 +20043,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 1003
+      "id": 1000
     },
     {
       "author": "Carandell et al.",
@@ -20122,7 +20061,7 @@ const LIBRARY_DATA = {
         "field-data",
         "ocean-waves"
       ],
-      "id": 1004
+      "id": 1001
     },
     {
       "author": "Atkinson et al.",
@@ -20142,7 +20081,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 1005
+      "id": 1002
     },
     {
       "author": "Baldock and Torres-Freyermuth",
@@ -20162,7 +20101,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 1006
+      "id": 1003
     },
     {
       "author": "Baldock et al.",
@@ -20181,7 +20120,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 1007
+      "id": 1004
     },
     {
       "author": "Baldock et al.",
@@ -20198,7 +20137,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 1008
+      "id": 1005
     },
     {
       "author": "Bayle et al.",
@@ -20220,7 +20159,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1009
+      "id": 1006
     },
     {
       "author": "van Bemmelen et al.",
@@ -20239,7 +20178,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 1010
+      "id": 1007
     },
     {
       "author": "Bennis et al.",
@@ -20259,7 +20198,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-current"
       ],
-      "id": 1011
+      "id": 1008
     },
     {
       "author": "Birrien et al.",
@@ -20279,7 +20218,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "shallow-water"
       ],
-      "id": 1012
+      "id": 1009
     },
     {
       "author": "Cheng et al.",
@@ -20299,7 +20238,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1013
+      "id": 1010
     },
     {
       "author": "Sanjana et al.",
@@ -20319,7 +20258,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-breaking"
       ],
-      "id": 1014
+      "id": 1011
     },
     {
       "author": "Elgar et al.",
@@ -20338,7 +20277,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 1015
+      "id": 1012
     },
     {
       "author": "Gardner",
@@ -20359,7 +20298,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 1016
+      "id": 1013
     },
     {
       "author": "Hansen, J.Buhr",
@@ -20379,7 +20318,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 1017
+      "id": 1014
     },
     {
       "author": "Huntley et al.",
@@ -20399,7 +20338,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1018
+      "id": 1015
     },
     {
       "author": "Ijima, Takeshi",
@@ -20419,7 +20358,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wind-waves"
       ],
-      "id": 1019
+      "id": 1016
     },
     {
       "author": "Jaramillo et al.",
@@ -20438,7 +20377,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 1020
+      "id": 1017
     },
     {
       "author": "Kang et al.",
@@ -20459,7 +20398,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 1021
+      "id": 1018
     },
     {
       "author": "Karczewska et al.",
@@ -20479,7 +20418,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "varying-depth"
       ],
-      "id": 1022
+      "id": 1019
     },
     {
       "author": "Kamchatnov, Anatoly",
@@ -20499,7 +20438,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 1023
+      "id": 1020
     },
     {
       "author": "Lashley et al.",
@@ -20519,7 +20458,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 1024
+      "id": 1021
     },
     {
       "author": "Lee, Haegyun",
@@ -20539,7 +20478,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "varying-depth"
       ],
-      "id": 1025
+      "id": 1022
     },
     {
       "author": "Li et al.",
@@ -20559,7 +20498,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1026
+      "id": 1023
     },
     {
       "author": "Li et al.",
@@ -20579,7 +20518,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1027
+      "id": 1024
     },
     {
       "author": "Nayak et al.",
@@ -20599,7 +20538,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 1028
+      "id": 1025
     },
     {
       "author": "Sergeeva et al.",
@@ -20619,7 +20558,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "shallow-water"
       ],
-      "id": 1029
+      "id": 1026
     },
     {
       "author": "Power et al.",
@@ -20639,7 +20578,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-height-distribution"
       ],
-      "id": 1030
+      "id": 1027
     },
     {
       "author": "Power et al.",
@@ -20656,7 +20595,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 1031
+      "id": 1028
     },
     {
       "author": "Quataert et al.",
@@ -20678,7 +20617,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 1032
+      "id": 1029
     },
     {
       "author": "Reguero et al.",
@@ -20695,7 +20634,7 @@ const LIBRARY_DATA = {
         "coastal",
         "ocean-waves"
       ],
-      "id": 1033
+      "id": 1030
     },
     {
       "author": "Shaffer",
@@ -20714,7 +20653,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-height-distribution"
       ],
-      "id": 1034
+      "id": 1031
     },
     {
       "author": "Toro, Eleuterio F.",
@@ -20734,7 +20673,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 1035
+      "id": 1032
     },
     {
       "author": "Sreelakshmi et al.",
@@ -20754,7 +20693,7 @@ const LIBRARY_DATA = {
         "swell",
         "wave-propagation"
       ],
-      "id": 1036
+      "id": 1033
     },
     {
       "author": "Stringari et al.",
@@ -20774,7 +20713,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 1037
+      "id": 1034
     },
     {
       "author": "Thompson et al.",
@@ -20792,7 +20731,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1038
+      "id": 1035
     },
     {
       "author": "Thorell",
@@ -20812,7 +20751,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 1039
+      "id": 1036
     },
     {
       "author": "Wang and Geng",
@@ -20832,7 +20771,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 1040
+      "id": 1037
     },
     {
       "author": "Wang et al.",
@@ -20852,7 +20791,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "stokes-theory"
       ],
-      "id": 1041
+      "id": 1038
     },
     {
       "author": "",
@@ -20872,7 +20811,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1042
+      "id": 1039
     },
     {
       "author": "",
@@ -20892,7 +20831,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1043
+      "id": 1040
     },
     {
       "author": "",
@@ -20912,7 +20851,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1044
+      "id": 1041
     },
     {
       "author": "",
@@ -20932,7 +20871,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1045
+      "id": 1042
     },
     {
       "author": "Plueddemann, Al",
@@ -20952,7 +20891,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1046
+      "id": 1043
     },
     {
       "author": "",
@@ -20972,7 +20911,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1047
+      "id": 1044
     },
     {
       "author": "",
@@ -20992,7 +20931,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1048
+      "id": 1045
     },
     {
       "author": "Barros et al.",
@@ -21012,7 +20951,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 1049
+      "id": 1046
     },
     {
       "author": "",
@@ -21028,7 +20967,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1050
+      "id": 1047
     },
     {
       "author": "Brunton et al.",
@@ -21045,7 +20984,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1051
+      "id": 1048
     },
     {
       "author": "",
@@ -21065,7 +21004,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1052
+      "id": 1049
     },
     {
       "author": "Kelley et al.",
@@ -21085,7 +21024,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1053
+      "id": 1050
     },
     {
       "author": "Cooley and Tukey",
@@ -21105,7 +21044,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1054
+      "id": 1051
     },
     {
       "author": "Efron",
@@ -21125,7 +21064,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1055
+      "id": 1052
     },
     {
       "author": "Goswami et al.",
@@ -21141,7 +21080,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1056
+      "id": 1053
     },
     {
       "author": "Harris, F.J.",
@@ -21161,7 +21100,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 1057
+      "id": 1054
     },
     {
       "author": "Haselsteiner et al.",
@@ -21177,7 +21116,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1058
+      "id": 1055
     },
     {
       "author": "Lindgren, George",
@@ -21193,7 +21132,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1059
+      "id": 1056
     },
     {
       "author": "Lindgren, Georg",
@@ -21209,7 +21148,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1060
+      "id": 1057
     },
     {
       "author": "Mandal et al.",
@@ -21229,7 +21168,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1061
+      "id": 1058
     },
     {
       "author": "Elsayed, Mohamed A.K.",
@@ -21250,7 +21189,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wind-waves"
       ],
-      "id": 1062
+      "id": 1059
     },
     {
       "author": "",
@@ -21270,7 +21209,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1063
+      "id": 1060
     },
     {
       "author": "Tayfun, M. Aziz",
@@ -21290,7 +21229,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 1064
+      "id": 1061
     },
     {
       "author": "",
@@ -21310,7 +21249,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1065
+      "id": 1062
     },
     {
       "author": "",
@@ -21328,7 +21267,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1066
+      "id": 1063
     },
     {
       "author": "",
@@ -21346,7 +21285,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1067
+      "id": 1064
     },
     {
       "author": "Andersen, Eldrup, Frigaard",
@@ -21364,7 +21303,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1068
+      "id": 1065
     },
     {
       "author": "Athanassoulis, Belibassakis",
@@ -21384,7 +21323,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-propagation"
       ],
-      "id": 1069
+      "id": 1066
     },
     {
       "author": "",
@@ -21402,7 +21341,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1070
+      "id": 1067
     },
     {
       "author": "",
@@ -21420,7 +21359,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1071
+      "id": 1068
     },
     {
       "author": "",
@@ -21438,7 +21377,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1072
+      "id": 1069
     },
     {
       "author": "",
@@ -21456,7 +21395,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1073
+      "id": 1070
     },
     {
       "author": "DONGEREN et al.",
@@ -21477,7 +21416,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 1074
+      "id": 1071
     },
     {
       "author": "",
@@ -21495,7 +21434,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1075
+      "id": 1072
     },
     {
       "author": "Belibassakis et al.",
@@ -21517,7 +21456,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 1076
+      "id": 1073
     },
     {
       "author": "Bender et al.",
@@ -21537,7 +21476,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 1077
+      "id": 1074
     },
     {
       "author": "Vrbancich, Julian",
@@ -21554,7 +21493,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1078
+      "id": 1075
     },
     {
       "author": "Boccotti et al.",
@@ -21575,7 +21514,7 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wind-waves"
       ],
-      "id": 1079
+      "id": 1076
     },
     {
       "author": "Desmons et al.",
@@ -21595,7 +21534,7 @@ const LIBRARY_DATA = {
         "reef",
         "wave-breaking"
       ],
-      "id": 1080
+      "id": 1077
     },
     {
       "author": "Bolles et al.",
@@ -21615,7 +21554,7 @@ const LIBRARY_DATA = {
         "review",
         "statistical"
       ],
-      "id": 1081
+      "id": 1078
     },
     {
       "author": "",
@@ -21635,7 +21574,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-breaking"
       ],
-      "id": 1082
+      "id": 1079
     },
     {
       "author": "KARPMAN, V.I.",
@@ -21655,7 +21594,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1083
+      "id": 1080
     },
     {
       "author": "Chang et al.",
@@ -21676,7 +21615,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1084
+      "id": 1081
     },
     {
       "author": "Christou et al.",
@@ -21697,7 +21636,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-reflection"
       ],
-      "id": 1085
+      "id": 1082
     },
     {
       "author": "COOKER et al.",
@@ -21717,7 +21656,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-reflection"
       ],
-      "id": 1086
+      "id": 1083
     },
     {
       "author": "Craciunescu et al.",
@@ -21739,7 +21678,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-spectrum"
       ],
-      "id": 1087
+      "id": 1084
     },
     {
       "author": "Dean et al.",
@@ -21759,7 +21698,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-forces"
       ],
-      "id": 1088
+      "id": 1085
     },
     {
       "author": "Jones et al.",
@@ -21777,7 +21716,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1089
+      "id": 1086
     },
     {
       "author": "Dong et al.",
@@ -21798,7 +21737,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 1090
+      "id": 1087
     },
     {
       "author": "Draycott et al.",
@@ -21820,7 +21759,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1091
+      "id": 1088
     },
     {
       "author": "Elgar et al.",
@@ -21840,7 +21779,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 1092
+      "id": 1089
     },
     {
       "author": "Fenton et al.",
@@ -21861,7 +21800,7 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-propagation"
       ],
-      "id": 1093
+      "id": 1090
     },
     {
       "author": "Frigaard et al.",
@@ -21882,7 +21821,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1094
+      "id": 1091
     },
     {
       "author": "Frigaard et al.",
@@ -21903,7 +21842,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1095
+      "id": 1092
     },
     {
       "author": "Gaillard et al.",
@@ -21926,7 +21865,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1096
+      "id": 1093
     },
     {
       "author": "Goda & Abe",
@@ -21945,7 +21884,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1097
+      "id": 1094
     },
     {
       "author": "Goda et al.",
@@ -21966,7 +21905,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1098
+      "id": 1095
     },
     {
       "author": "Gorrell et al.",
@@ -21987,7 +21926,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1099
+      "id": 1096
     },
     {
       "author": "Gramstad et al.",
@@ -22010,7 +21949,7 @@ const LIBRARY_DATA = {
         "unidirectional",
         "varying-depth"
       ],
-      "id": 1100
+      "id": 1097
     },
     {
       "author": "Grimshaw et al.",
@@ -22029,7 +21968,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1101
+      "id": 1098
     },
     {
       "author": "Grue, John",
@@ -22049,7 +21988,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "varying-depth"
       ],
-      "id": 1102
+      "id": 1099
     },
     {
       "author": "Holthuijsen, Leo H.",
@@ -22068,7 +22007,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1103
+      "id": 1100
     },
     {
       "author": "Hsu et al.",
@@ -22088,7 +22027,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-forces"
       ],
-      "id": 1104
+      "id": 1101
     },
     {
       "author": "Huang et al.",
@@ -22110,7 +22049,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1105
+      "id": 1102
     },
     {
       "author": "Huang, M.-C.",
@@ -22130,7 +22069,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 1106
+      "id": 1103
     },
     {
       "author": "Huang, M.-C.",
@@ -22150,7 +22089,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 1107
+      "id": 1104
     },
     {
       "author": "Huang et al.",
@@ -22170,7 +22109,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1108
+      "id": 1105
     },
     {
       "author": "Hughes, Steven A.",
@@ -22191,7 +22130,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1109
+      "id": 1106
     },
     {
       "author": "Inch et al.",
@@ -22211,7 +22150,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1110
+      "id": 1107
     },
     {
       "author": "Iravani et al.",
@@ -22231,7 +22170,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 1111
+      "id": 1108
     },
     {
       "author": "Isaacson, Michael",
@@ -22252,7 +22191,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1112
+      "id": 1109
     },
     {
       "author": "",
@@ -22270,7 +22209,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1113
+      "id": 1110
     },
     {
       "author": "",
@@ -22288,7 +22227,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1114
+      "id": 1111
     },
     {
       "author": "Kazolea et al.",
@@ -22308,7 +22247,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1115
+      "id": 1112
     },
     {
       "author": "Kijewski & Kareem",
@@ -22328,7 +22267,7 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1116
+      "id": 1113
     },
     {
       "author": "Klopman et al.",
@@ -22348,7 +22287,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1117
+      "id": 1114
     },
     {
       "author": "Kuo et al.",
@@ -22368,7 +22307,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-reflection"
       ],
-      "id": 1118
+      "id": 1115
     },
     {
       "author": "Pitt et al.",
@@ -22388,7 +22327,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1119
+      "id": 1116
     },
     {
       "author": "Li et al.",
@@ -22408,7 +22347,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-propagation"
       ],
-      "id": 1120
+      "id": 1117
     },
     {
       "author": "Lin et al.",
@@ -22428,7 +22367,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1121
+      "id": 1118
     },
     {
       "author": "Liu et al.",
@@ -22450,7 +22389,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1122
+      "id": 1119
     },
     {
       "author": "Longuet-Higgins, M. S.",
@@ -22470,7 +22409,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "statistical"
       ],
-      "id": 1123
+      "id": 1120
     },
     {
       "author": "Longuet-Higgins et al.",
@@ -22490,7 +22429,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-current"
       ],
-      "id": 1124
+      "id": 1121
     },
     {
       "author": "Huuse et al.",
@@ -22509,7 +22448,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1125
+      "id": 1122
     },
     {
       "author": "Das et al.",
@@ -22528,7 +22467,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-interactions"
       ],
-      "id": 1126
+      "id": 1123
     },
     {
       "author": "Ma et al.",
@@ -22549,7 +22488,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1127
+      "id": 1124
     },
     {
       "author": "Ma et al.",
@@ -22572,7 +22511,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1128
+      "id": 1125
     },
     {
       "author": "Madsen et al.",
@@ -22593,7 +22532,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1129
+      "id": 1126
     },
     {
       "author": "Majda et al.",
@@ -22613,7 +22552,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "statistical"
       ],
-      "id": 1130
+      "id": 1127
     },
     {
       "author": "Mallayachari et al.",
@@ -22633,7 +22572,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-forces"
       ],
-      "id": 1131
+      "id": 1128
     },
     {
       "author": "Mansard et al.",
@@ -22654,7 +22593,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1132
+      "id": 1129
     },
     {
       "author": "Martins et al.",
@@ -22675,7 +22614,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1133
+      "id": 1130
     },
     {
       "author": "Massel",
@@ -22695,7 +22634,7 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1134
+      "id": 1131
     },
     {
       "author": "Medina",
@@ -22714,7 +22653,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1135
+      "id": 1132
     },
     {
       "author": "Mei",
@@ -22733,7 +22672,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-propagation"
       ],
-      "id": 1136
+      "id": 1133
     },
     {
       "author": "Naciri, Mei",
@@ -22751,7 +22690,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1137
+      "id": 1134
     },
     {
       "author": "Nallayarasu et al.",
@@ -22772,7 +22711,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 1138
+      "id": 1135
     },
     {
       "author": "",
@@ -22792,7 +22731,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1139
+      "id": 1136
     },
     {
       "author": "Babanin, Alex",
@@ -22811,7 +22750,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-breaking"
       ],
-      "id": 1140
+      "id": 1137
     },
     {
       "author": "Young, Ian",
@@ -22830,7 +22769,7 @@ const LIBRARY_DATA = {
         "reference",
         "wind-waves"
       ],
-      "id": 1141
+      "id": 1138
     },
     {
       "author": "Chalikov, Dmitry",
@@ -22849,7 +22788,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1142
+      "id": 1139
     },
     {
       "author": "Babanin, Alex",
@@ -22868,7 +22807,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-breaking"
       ],
-      "id": 1143
+      "id": 1140
     },
     {
       "author": "Babanin, Alex",
@@ -22887,7 +22826,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-breaking"
       ],
-      "id": 1144
+      "id": 1141
     },
     {
       "author": "",
@@ -22905,7 +22844,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1145
+      "id": 1142
     },
     {
       "author": "",
@@ -22923,7 +22862,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1146
+      "id": 1143
     },
     {
       "author": "",
@@ -22941,7 +22880,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1147
+      "id": 1144
     },
     {
       "author": "Babanin, Alex",
@@ -22960,7 +22899,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-breaking"
       ],
-      "id": 1148
+      "id": 1145
     },
     {
       "author": "Onorato et al.",
@@ -22980,7 +22919,7 @@ const LIBRARY_DATA = {
         "reference",
         "shallow-water"
       ],
-      "id": 1149
+      "id": 1146
     },
     {
       "author": "Pelinovsky et al.",
@@ -23000,7 +22939,7 @@ const LIBRARY_DATA = {
         "numerical",
         "random-waves"
       ],
-      "id": 1150
+      "id": 1147
     },
     {
       "author": "",
@@ -23018,7 +22957,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1151
+      "id": 1148
     },
     {
       "author": "Prabhakar et al.",
@@ -23038,7 +22977,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-forces"
       ],
-      "id": 1152
+      "id": 1149
     },
     {
       "author": "",
@@ -23058,7 +22997,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 1153
+      "id": 1150
     },
     {
       "author": "Romolo et al.",
@@ -23078,7 +23017,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "wave-groups"
       ],
-      "id": 1154
+      "id": 1151
     },
     {
       "author": "Sergeeva et al.",
@@ -23099,7 +23038,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "shallow-water"
       ],
-      "id": 1155
+      "id": 1152
     },
     {
       "author": "Spell et al.",
@@ -23124,7 +23063,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "unidirectional"
       ],
-      "id": 1156
+      "id": 1153
     },
     {
       "author": "Suh et al.",
@@ -23144,7 +23083,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1157
+      "id": 1154
     },
     {
       "author": "Suh, Park, Park",
@@ -23164,7 +23103,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-reflection"
       ],
-      "id": 1158
+      "id": 1155
     },
     {
       "author": "Sun et al.",
@@ -23183,7 +23122,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1159
+      "id": 1156
     },
     {
       "author": "",
@@ -23203,7 +23142,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1160
+      "id": 1157
     },
     {
       "author": "Thompson, Edward F.",
@@ -23223,7 +23162,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "spectral-analysis"
       ],
-      "id": 1161
+      "id": 1158
     },
     {
       "author": "",
@@ -23242,7 +23181,7 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1162
+      "id": 1159
     },
     {
       "author": "van Dongeren et al.",
@@ -23262,7 +23201,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-shoaling"
       ],
-      "id": 1163
+      "id": 1160
     },
     {
       "author": "Viotti, Dias",
@@ -23283,7 +23222,7 @@ const LIBRARY_DATA = {
         "numerical",
         "varying-depth"
       ],
-      "id": 1164
+      "id": 1161
     },
     {
       "author": "Wang et al.",
@@ -23303,7 +23242,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1165
+      "id": 1162
     },
     {
       "author": "",
@@ -23321,7 +23260,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1166
+      "id": 1163
     },
     {
       "author": "",
@@ -23339,7 +23278,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1167
+      "id": 1164
     },
     {
       "author": "",
@@ -23357,7 +23296,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1168
+      "id": 1165
     },
     {
       "author": "Wu et al.",
@@ -23378,7 +23317,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 1169
+      "id": 1166
     },
     {
       "author": "",
@@ -23397,7 +23336,7 @@ const LIBRARY_DATA = {
         "reference",
         "statistical"
       ],
-      "id": 1170
+      "id": 1167
     },
     {
       "author": "Zhang et al.",
@@ -23417,7 +23356,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1171
+      "id": 1168
     },
     {
       "author": "Zanuttigh et al.",
@@ -23437,7 +23376,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1172
+      "id": 1169
     },
     {
       "author": "Zanuttigh et al.",
@@ -23457,7 +23396,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1173
+      "id": 1170
     },
     {
       "author": "Zelt et al.",
@@ -23477,7 +23416,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1174
+      "id": 1171
     },
     {
       "author": "Zhang et al.",
@@ -23501,7 +23440,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "unidirectional"
       ],
-      "id": 1175
+      "id": 1172
     },
     {
       "author": "Zhang et al.",
@@ -23522,7 +23461,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 1176
+      "id": 1173
     },
     {
       "author": "Zhang et al.",
@@ -23544,7 +23483,7 @@ const LIBRARY_DATA = {
         "modelling",
         "offshore"
       ],
-      "id": 1177
+      "id": 1174
     },
     {
       "author": "",
@@ -23562,7 +23501,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1178
+      "id": 1175
     },
     {
       "author": "Zheng, Siming",
@@ -23582,7 +23521,7 @@ const LIBRARY_DATA = {
         "reference",
         "wec"
       ],
-      "id": 1179
+      "id": 1176
     },
     {
       "author": "Abedi",
@@ -23598,7 +23537,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1180
+      "id": 1177
     },
     {
       "author": "Abolghasemi",
@@ -23614,7 +23553,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1181
+      "id": 1178
     },
     {
       "author": "Acred",
@@ -23630,7 +23569,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1182
+      "id": 1179
     },
     {
       "author": "",
@@ -23649,7 +23588,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1183
+      "id": 1180
     },
     {
       "author": "Aknin",
@@ -23665,7 +23604,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1184
+      "id": 1181
     },
     {
       "author": "Zhang, Zhibo",
@@ -23681,7 +23620,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1185
+      "id": 1182
     },
     {
       "author": "Chauhan, V.P.S.",
@@ -23697,7 +23636,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1186
+      "id": 1183
     },
     {
       "author": "Archibald",
@@ -23713,7 +23652,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1187
+      "id": 1184
     },
     {
       "author": "Bachant",
@@ -23729,7 +23668,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1188
+      "id": 1185
     },
     {
       "author": "Baldock",
@@ -23745,7 +23684,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1189
+      "id": 1186
     },
     {
       "author": "Barba",
@@ -23761,7 +23700,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1190
+      "id": 1187
     },
     {
       "author": "Battjes, J.A.",
@@ -23781,7 +23720,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-propagation"
       ],
-      "id": 1191
+      "id": 1188
     },
     {
       "author": "Bentham",
@@ -23797,7 +23736,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1192
+      "id": 1189
     },
     {
       "author": "Black",
@@ -23813,7 +23752,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1193
+      "id": 1190
     },
     {
       "author": "Brownlee",
@@ -23829,7 +23768,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1194
+      "id": 1191
     },
     {
       "author": "Bruggemann",
@@ -23845,7 +23784,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1195
+      "id": 1192
     },
     {
       "author": "Bull",
@@ -23861,7 +23800,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1196
+      "id": 1193
     },
     {
       "author": "Chatelain",
@@ -23877,7 +23816,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1197
+      "id": 1194
     },
     {
       "author": "Chau",
@@ -23893,7 +23832,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1198
+      "id": 1195
     },
     {
       "author": "Christou",
@@ -23909,7 +23848,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1199
+      "id": 1196
     },
     {
       "author": "Coffey",
@@ -23925,7 +23864,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1200
+      "id": 1197
     },
     {
       "author": "Connick",
@@ -23941,7 +23880,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1201
+      "id": 1198
     },
     {
       "author": "Craske",
@@ -23957,7 +23896,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1202
+      "id": 1199
     },
     {
       "author": "Creech",
@@ -23973,7 +23912,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1203
+      "id": 1200
     },
     {
       "author": "",
@@ -23997,7 +23936,7 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1204
+      "id": 1201
     },
     {
       "author": "Economidou",
@@ -24013,7 +23952,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1205
+      "id": 1202
     },
     {
       "author": "Ely",
@@ -24029,7 +23968,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1206
+      "id": 1203
     },
     {
       "author": "Ezzamel",
@@ -24045,7 +23984,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1207
+      "id": 1204
     },
     {
       "author": "Farrell",
@@ -24061,7 +24000,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1208
+      "id": 1205
     },
     {
       "author": "Feng",
@@ -24077,7 +24016,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1209
+      "id": 1206
     },
     {
       "author": "Fernandes",
@@ -24093,7 +24032,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1210
+      "id": 1207
     },
     {
       "author": "Gibson",
@@ -24109,7 +24048,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1211
+      "id": 1208
     },
     {
       "author": "Gocmen",
@@ -24125,7 +24064,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1212
+      "id": 1209
     },
     {
       "author": "Grice",
@@ -24141,7 +24080,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1213
+      "id": 1210
     },
     {
       "author": "Mase et al.",
@@ -24161,7 +24100,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-runup"
       ],
-      "id": 1214
+      "id": 1211
     },
     {
       "author": "Groenendijk",
@@ -24181,7 +24120,7 @@ const LIBRARY_DATA = {
         "thesis",
         "wave-height-distribution"
       ],
-      "id": 1215
+      "id": 1212
     },
     {
       "author": "Mase et al.",
@@ -24201,7 +24140,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-runup"
       ],
-      "id": 1216
+      "id": 1213
     },
     {
       "author": "Hague",
@@ -24217,7 +24156,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1217
+      "id": 1214
     },
     {
       "author": "Haley-J",
@@ -24236,7 +24175,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1218
+      "id": 1215
     },
     {
       "author": "Haley",
@@ -24252,7 +24191,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1219
+      "id": 1216
     },
     {
       "author": "Heller",
@@ -24268,7 +24207,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1220
+      "id": 1217
     },
     {
       "author": "",
@@ -24290,7 +24229,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-shoaling"
       ],
-      "id": 1221
+      "id": 1218
     },
     {
       "author": "Huang",
@@ -24306,7 +24245,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1222
+      "id": 1219
     },
     {
       "author": "Inoue",
@@ -24322,7 +24261,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1223
+      "id": 1220
     },
     {
       "author": "James",
@@ -24338,7 +24277,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1224
+      "id": 1221
     },
     {
       "author": "Johannessen",
@@ -24354,7 +24293,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1225
+      "id": 1222
     },
     {
       "author": "",
@@ -24371,7 +24310,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "thesis"
       ],
-      "id": 1226
+      "id": 1223
     },
     {
       "author": "",
@@ -24385,7 +24324,7 @@ const LIBRARY_DATA = {
       "doi": "",
       "hasAnnotation": true,
       "tags": [],
-      "id": 1227
+      "id": 1224
     },
     {
       "author": "",
@@ -24402,7 +24341,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "thesis"
       ],
-      "id": 1228
+      "id": 1225
     },
     {
       "author": "",
@@ -24421,7 +24360,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1229
+      "id": 1226
     },
     {
       "author": "Kasiman",
@@ -24437,7 +24376,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1230
+      "id": 1227
     },
     {
       "author": "Katsardi",
@@ -24453,7 +24392,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1231
+      "id": 1228
     },
     {
       "author": "Kim",
@@ -24469,7 +24408,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1232
+      "id": 1229
     },
     {
       "author": "Kim",
@@ -24485,7 +24424,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1233
+      "id": 1230
     },
     {
       "author": "Kleusberg",
@@ -24501,7 +24440,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1234
+      "id": 1231
     },
     {
       "author": "Koumoutsakos",
@@ -24517,7 +24456,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1235
+      "id": 1232
     },
     {
       "author": "Latheef",
@@ -24533,7 +24472,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1236
+      "id": 1233
     },
     {
       "author": "Latheef",
@@ -24552,7 +24491,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1237
+      "id": 1234
     },
     {
       "author": "Lian",
@@ -24568,7 +24507,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1238
+      "id": 1235
     },
     {
       "author": "Liao",
@@ -24584,7 +24523,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1239
+      "id": 1236
     },
     {
       "author": "Lonfils",
@@ -24600,7 +24539,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1240
+      "id": 1237
     },
     {
       "author": "Lynch",
@@ -24616,7 +24555,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1241
+      "id": 1238
     },
     {
       "author": "Makri",
@@ -24632,7 +24571,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1242
+      "id": 1239
     },
     {
       "author": "Marcus",
@@ -24648,7 +24587,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1243
+      "id": 1240
     },
     {
       "author": "Masterton",
@@ -24664,7 +24603,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1244
+      "id": 1241
     },
     {
       "author": "",
@@ -24686,7 +24625,7 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1245
+      "id": 1242
     },
     {
       "author": "Mikkelsen",
@@ -24702,7 +24641,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1246
+      "id": 1243
     },
     {
       "author": "Milthaler",
@@ -24718,7 +24657,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1247
+      "id": 1244
     },
     {
       "author": "Morgenthal",
@@ -24734,7 +24673,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1248
+      "id": 1245
     },
     {
       "author": "Myrtroeen",
@@ -24750,7 +24689,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1249
+      "id": 1246
     },
     {
       "author": "Osalusi",
@@ -24766,7 +24705,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1250
+      "id": 1247
     },
     {
       "author": "Padilla",
@@ -24782,7 +24721,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1251
+      "id": 1248
     },
     {
       "author": "Pechlivanoglou",
@@ -24798,7 +24737,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1252
+      "id": 1249
     },
     {
       "author": "Peric",
@@ -24814,7 +24753,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1253
+      "id": 1250
     },
     {
       "author": "Radomski",
@@ -24830,7 +24769,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1254
+      "id": 1251
     },
     {
       "author": "Roos",
@@ -24846,7 +24785,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1255
+      "id": 1252
     },
     {
       "author": "Rossi",
@@ -24862,7 +24801,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1256
+      "id": 1253
     },
     {
       "author": "Rubel",
@@ -24878,7 +24817,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1257
+      "id": 1254
     },
     {
       "author": "Sarlak",
@@ -24894,7 +24833,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1258
+      "id": 1255
     },
     {
       "author": "Sheel",
@@ -24910,7 +24849,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1259
+      "id": 1256
     },
     {
       "author": "Sheikh",
@@ -24926,7 +24865,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1260
+      "id": 1257
     },
     {
       "author": "Shiels",
@@ -24942,7 +24881,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1261
+      "id": 1258
     },
     {
       "author": "Shrinivas",
@@ -24958,7 +24897,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1262
+      "id": 1259
     },
     {
       "author": "Sorensen",
@@ -24974,7 +24913,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1263
+      "id": 1260
     },
     {
       "author": "Spentza",
@@ -24990,7 +24929,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1264
+      "id": 1261
     },
     {
       "author": "Spinneken",
@@ -25006,7 +24945,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1265
+      "id": 1262
     },
     {
       "author": "Spinneken et al.",
@@ -25026,7 +24965,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 1266
+      "id": 1263
     },
     {
       "author": "Stock",
@@ -25042,7 +24981,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1267
+      "id": 1264
     },
     {
       "author": "Szopa",
@@ -25058,7 +24997,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1268
+      "id": 1265
     },
     {
       "author": "Tari",
@@ -25074,7 +25013,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1269
+      "id": 1266
     },
     {
       "author": "Tchieu",
@@ -25090,7 +25029,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1270
+      "id": 1267
     },
     {
       "author": "Thies",
@@ -25106,7 +25045,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1271
+      "id": 1268
     },
     {
       "author": "Vaidhyanathan",
@@ -25122,7 +25061,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1272
+      "id": 1269
     },
     {
       "author": "Walther",
@@ -25138,7 +25077,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1273
+      "id": 1270
     },
     {
       "author": "Wilson",
@@ -25154,7 +25093,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1274
+      "id": 1271
     },
     {
       "author": "Winchelmans",
@@ -25170,7 +25109,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1275
+      "id": 1272
     },
     {
       "author": "Wist et al.",
@@ -25190,7 +25129,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 1276
+      "id": 1273
     },
     {
       "author": "Zhi (Thesis)",
@@ -25210,7 +25149,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1277
+      "id": 1274
     },
     {
       "author": "Zve",
@@ -25226,7 +25165,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1278
+      "id": 1275
     },
     {
       "author": "",
@@ -25247,7 +25186,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1279
+      "id": 1276
     },
     {
       "author": "",
@@ -25270,7 +25209,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 1280
+      "id": 1277
     },
     {
       "author": "Fitoussi, F.",
@@ -25286,7 +25225,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1281
+      "id": 1278
     },
     {
       "author": "Parker et al.",
@@ -25302,7 +25241,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1282
+      "id": 1279
     },
     {
       "author": "",
@@ -25319,7 +25258,7 @@ const LIBRARY_DATA = {
         "analysis",
         "ocean-waves"
       ],
-      "id": 1283
+      "id": 1280
     },
     {
       "author": "Athannasoulis et al.",
@@ -25336,7 +25275,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1284
+      "id": 1281
     },
     {
       "author": "Barlow et al.",
@@ -25354,7 +25293,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1285
+      "id": 1282
     },
     {
       "author": "Byun et al.",
@@ -25371,7 +25310,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1286
+      "id": 1283
     },
     {
       "author": "Eskey, Felixa",
@@ -25387,7 +25326,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1287
+      "id": 1284
     },
     {
       "author": "Coon et al.",
@@ -25404,7 +25343,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1288
+      "id": 1285
     },
     {
       "author": "Das and Nizar",
@@ -25420,7 +25359,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1289
+      "id": 1286
     },
     {
       "author": "de Gast et al.",
@@ -25437,7 +25376,7 @@ const LIBRARY_DATA = {
         "comparison",
         "ocean-waves"
       ],
-      "id": 1290
+      "id": 1287
     },
     {
       "author": "",
@@ -25453,7 +25392,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1291
+      "id": 1288
     },
     {
       "author": "",
@@ -25469,7 +25408,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1292
+      "id": 1289
     },
     {
       "author": "Di Luccio et al.",
@@ -25487,7 +25426,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-runup"
       ],
-      "id": 1293
+      "id": 1290
     },
     {
       "author": "Farsani et al.",
@@ -25507,7 +25446,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1294
+      "id": 1291
     },
     {
       "author": "Girard et al",
@@ -25526,7 +25465,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-current"
       ],
-      "id": 1295
+      "id": 1292
     },
     {
       "author": "Harvey",
@@ -25543,7 +25482,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 1296
+      "id": 1293
     },
     {
       "author": "Janati and Azimi",
@@ -25559,7 +25498,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1297
+      "id": 1294
     },
     {
       "author": "Kouskoulas et al.",
@@ -25578,7 +25517,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 1298
+      "id": 1295
     },
     {
       "author": "Liu et al.",
@@ -25596,7 +25535,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1299
+      "id": 1296
     },
     {
       "author": "Liu et al.",
@@ -25614,7 +25553,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1300
+      "id": 1297
     },
     {
       "author": "",
@@ -25630,7 +25569,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1301
+      "id": 1298
     },
     {
       "author": "",
@@ -25646,7 +25585,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1302
+      "id": 1299
     },
     {
       "author": "Buarque Vieira-e-Silva et al.",
@@ -25663,7 +25602,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1303
+      "id": 1300
     },
     {
       "author": "Luo et al.",
@@ -25683,7 +25622,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1304
+      "id": 1301
     },
     {
       "author": "",
@@ -25699,7 +25638,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1305
+      "id": 1302
     },
     {
       "author": "",
@@ -25715,7 +25654,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1306
+      "id": 1303
     },
     {
       "author": "",
@@ -25731,7 +25670,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1307
+      "id": 1304
     },
     {
       "author": "",
@@ -25747,7 +25686,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1308
+      "id": 1305
     },
     {
       "author": "Miozzi et al.",
@@ -25767,26 +25706,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1309
-    },
-    {
-      "author": "Morris et al.",
-      "year": 2005,
-      "title": "Integrating LIDAR elevation data, multi‐spectral imagery and neural network modelling for marsh characterization",
-      "filename": "Morris et al. (2007)_Integrating LIDAR elevation data, multi-spectral imagery and neural network modelling for marsh characterization.pdf",
-      "category": "Miscellaneous",
-      "categoryShort": "Miscellaneous",
-      "color": "#BDBDBD",
-      "journal": "International Journal of Remote Sensing",
-      "doi": "10.1080/01431160500219018",
-      "hasAnnotation": false,
-      "tags": [
-        "machine-learning",
-        "modelling",
-        "ocean-waves",
-        "spectral-analysis"
-      ],
-      "id": 1310
+      "id": 1306
     },
     {
       "author": "Ohkitani et al.",
@@ -25804,7 +25724,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1311
+      "id": 1307
     },
     {
       "author": "Pekri et al.",
@@ -25820,7 +25740,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1312
+      "id": 1308
     },
     {
       "author": "Perrot-Minot et al.",
@@ -25836,7 +25756,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1313
+      "id": 1309
     },
     {
       "author": "Rainey, R. C. T.",
@@ -25854,7 +25774,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1314
+      "id": 1310
     },
     {
       "author": "Sánchez-Arcilla, Agustín",
@@ -25873,7 +25793,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 1315
+      "id": 1311
     },
     {
       "author": "",
@@ -25890,7 +25810,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1316
+      "id": 1312
     },
     {
       "author": "Stanisic et al.",
@@ -25909,7 +25829,7 @@ const LIBRARY_DATA = {
         "offshore",
         "storm"
       ],
-      "id": 1317
+      "id": 1313
     },
     {
       "author": "Adams, Jill",
@@ -25926,7 +25846,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 1318
+      "id": 1314
     },
     {
       "author": "",
@@ -25942,7 +25862,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1319
+      "id": 1315
     },
     {
       "author": "SU et al.",
@@ -25962,7 +25882,7 @@ const LIBRARY_DATA = {
         "offshore",
         "shallow-water"
       ],
-      "id": 1320
+      "id": 1316
     },
     {
       "author": "Sui et al.",
@@ -25981,7 +25901,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 1321
+      "id": 1317
     },
     {
       "author": "Taylor",
@@ -25998,7 +25918,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1322
+      "id": 1318
     },
     {
       "author": "",
@@ -26015,7 +25935,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 1323
+      "id": 1319
     },
     {
       "author": "",
@@ -26031,7 +25951,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1324
+      "id": 1320
     },
     {
       "author": "",
@@ -26047,7 +25967,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1325
+      "id": 1321
     },
     {
       "author": "Vallejos et al.",
@@ -26065,7 +25985,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-propagation"
       ],
-      "id": 1326
+      "id": 1322
     },
     {
       "author": "Vasudevan and Singh",
@@ -26084,7 +26004,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "varying-depth"
       ],
-      "id": 1327
+      "id": 1323
     },
     {
       "author": "Vrdoljak, Ljerka",
@@ -26104,7 +26024,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1328
+      "id": 1324
     },
     {
       "author": "Wang et al.",
@@ -26121,7 +26041,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 1329
+      "id": 1325
     },
     {
       "author": "Wang et al.",
@@ -26140,7 +26060,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 1330
+      "id": 1326
     },
     {
       "author": "Wang et al.",
@@ -26157,7 +26077,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 1331
+      "id": 1327
     },
     {
       "author": "Wang et al.",
@@ -26174,7 +26094,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1332
+      "id": 1328
     },
     {
       "author": "Wilson et al.",
@@ -26191,7 +26111,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1333
+      "id": 1329
     },
     {
       "author": "Xie et al.",
@@ -26210,7 +26130,7 @@ const LIBRARY_DATA = {
         "review",
         "varying-depth"
       ],
-      "id": 1334
+      "id": 1330
     },
     {
       "author": "Yetik et al.",
@@ -26229,7 +26149,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 1335
+      "id": 1331
     },
     {
       "author": "Towe et al.",
@@ -26249,7 +26169,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wind-waves"
       ],
-      "id": 1336
+      "id": 1332
     },
     {
       "author": "Du et al.",
@@ -26265,7 +26185,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1337
+      "id": 1333
     },
     {
       "author": "Zhou et al.",
@@ -26282,7 +26202,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1338
+      "id": 1334
     },
     {
       "author": "Zhu et al.",
@@ -26300,7 +26220,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1339
+      "id": 1335
     }
   ],
   "categories": [
@@ -26334,7 +26254,7 @@ const LIBRARY_DATA = {
     },
     {
       "id": "05_Wave_Propagation_and_Bathymetry",
-      "label": "Wave Propagation & Bathymetry",
+      "label": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "count": 447,
       "description": "Wave transformation over variable bathymetry, shoaling, refraction"
@@ -26946,7 +26866,7 @@ const LIBRARY_DATA = {
     {
       "name": "Huang",
       "fullname": "Huang, Zhenjia (Jerry)",
-      "count": 22,
+      "count": 21,
       "coauthors": {
         "Dong": 1,
         "Zhang": 1,
@@ -26971,8 +26891,6 @@ const LIBRARY_DATA = {
         "Bliven": 2,
         "Hwang": 1,
         "Wang": 1,
-        "Jiang": 1,
-        "Gao": 1,
         "Chu": 1,
         "Fan": 2,
         "Chen": 1,
@@ -27623,31 +27541,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Gao",
-      "fullname": "Gao, Junliang",
-      "count": 8,
-      "coauthors": {
-        "Wu": 1,
-        "Chen": 1,
-        "Liu": 1,
-        "Xu": 1,
-        "Zhao": 1,
-        "Wang": 3,
-        "Zhu": 2,
-        "Sun": 1,
-        "Liang": 1,
-        "Xiong": 1,
-        "You": 1,
-        "Li": 1,
-        "Jiang": 1,
-        "Huang": 1,
-        "Ma": 3,
-        "Dong": 2,
-        "Zang": 2,
-        "Zhou": 3
-      }
-    },
-    {
       "name": "Qi",
       "fullname": "Qi, Hongshuai",
       "count": 8,
@@ -27886,6 +27779,29 @@ const LIBRARY_DATA = {
         "Hagen": 1,
         "Ewans": 1,
         "Tromans": 1
+      }
+    },
+    {
+      "name": "Gao",
+      "fullname": "Gao, Junliang",
+      "count": 7,
+      "coauthors": {
+        "Wu": 1,
+        "Chen": 1,
+        "Liu": 1,
+        "Xu": 1,
+        "Zhao": 1,
+        "Wang": 3,
+        "Zhu": 2,
+        "Sun": 1,
+        "Liang": 1,
+        "Xiong": 1,
+        "You": 1,
+        "Li": 1,
+        "Ma": 3,
+        "Dong": 2,
+        "Zang": 2,
+        "Zhou": 3
       }
     },
     {
@@ -28241,25 +28157,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Jia",
-      "fullname": "Jia, Meijun",
-      "count": 6,
-      "coauthors": {
-        "Liu": 4,
-        "Onat": 1,
-        "Cifuentes-Lorenzen": 1,
-        "Ilia": 1,
-        "McCardell": 1,
-        "Fake": 1,
-        "O’Donnell": 1,
-        "Xu": 3,
-        "Li": 3,
-        "Chen": 1,
-        "Yao": 1,
-        "Guo": 1
-      }
-    },
-    {
       "name": "Feng",
       "fullname": "Feng, Xingya",
       "count": 6,
@@ -28405,26 +28302,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Jiang",
-      "fullname": "Jiang, Xiao-Hang",
-      "count": 6,
-      "coauthors": {
-        "Qu": 4,
-        "Sun": 5,
-        "Tang": 2,
-        "Deng": 4,
-        "Chen": 2,
-        "Wen": 1,
-        "Ren": 1,
-        "Kraatz": 3,
-        "Wu": 1,
-        "Gao": 1,
-        "Huang": 1,
-        "Zhao": 1,
-        "Mu": 1
-      }
-    },
-    {
       "name": "Andersen",
       "fullname": "Andersen, Thomas Lykke",
       "count": 6,
@@ -28462,6 +28339,25 @@ const LIBRARY_DATA = {
         "Barbaro": 2,
         "Mannino": 2,
         "Rotta": 1
+      }
+    },
+    {
+      "name": "Jia",
+      "fullname": "Jia, Meijun",
+      "count": 5,
+      "coauthors": {
+        "Liu": 4,
+        "Onat": 1,
+        "Cifuentes-Lorenzen": 1,
+        "Ilia": 1,
+        "McCardell": 1,
+        "Fake": 1,
+        "O’Donnell": 1,
+        "Xu": 3,
+        "Li": 3,
+        "Chen": 1,
+        "Yao": 1,
+        "Guo": 1
       }
     },
     {
@@ -28727,12 +28623,37 @@ const LIBRARY_DATA = {
         "Day": 3,
         "Johanning": 3
       }
+    },
+    {
+      "name": "van Dongeren",
+      "fullname": "van Dongeren, Ap R.",
+      "count": 5,
+      "coauthors": {
+        "Gawehn": 1,
+        "de Vries": 1,
+        "Swinkels": 1,
+        "Hoekstra": 1,
+        "Aarninkhof": 1,
+        "Friedman": 1,
+        "de Ridder": 1,
+        "Smit": 1,
+        "McCall": 2,
+        "Nederhoff": 1,
+        "Reniers": 2,
+        "Battjes": 1,
+        "Janssen": 1,
+        "van Noorloos": 1,
+        "Steenhauer": 1,
+        "Steenbergen": 1,
+        "Quataert": 1,
+        "Storlazzi": 1
+      }
     }
   ],
   "tags": [
     {
       "name": "ocean-waves",
-      "count": 829
+      "count": 826
     },
     {
       "name": "wave-propagation",
@@ -28764,19 +28685,19 @@ const LIBRARY_DATA = {
     },
     {
       "name": "nonlinear",
-      "count": 209
+      "count": 206
     },
     {
       "name": "experimental",
-      "count": 195
+      "count": 194
     },
     {
       "name": "linear",
-      "count": 190
+      "count": 187
     },
     {
       "name": "modelling",
-      "count": 177
+      "count": 176
     },
     {
       "name": "book-chapter",
@@ -28788,7 +28709,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "spectral-analysis",
-      "count": 118
+      "count": 117
     },
     {
       "name": "wave-interactions",
@@ -28819,16 +28740,16 @@ const LIBRARY_DATA = {
       "count": 86
     },
     {
-      "name": "rogue-waves",
-      "count": 86
-    },
-    {
       "name": "directional-spreading",
       "count": 84
     },
     {
+      "name": "rogue-waves",
+      "count": 84
+    },
+    {
       "name": "regular-waves",
-      "count": 83
+      "count": 82
     },
     {
       "name": "wave-groups",
@@ -28860,7 +28781,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "irregular-waves",
-      "count": 52
+      "count": 51
     },
     {
       "name": "intermediate-depth",
@@ -28888,7 +28809,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "wave-generation",
-      "count": 39
+      "count": 38
     },
     {
       "name": "wave-runup",
@@ -28927,12 +28848,12 @@ const LIBRARY_DATA = {
       "count": 20
     },
     {
-      "name": "nls",
-      "count": 18
-    },
-    {
       "name": "wave-kinematics",
       "count": 17
+    },
+    {
+      "name": "nls",
+      "count": 16
     },
     {
       "name": "stokes-theory",
@@ -28963,16 +28884,16 @@ const LIBRARY_DATA = {
       "count": 11
     },
     {
-      "name": "machine-learning",
-      "count": 11
-    },
-    {
       "name": "kdv",
       "count": 11
     },
     {
       "name": "wec",
       "count": 11
+    },
+    {
+      "name": "machine-learning",
+      "count": 10
     },
     {
       "name": "storm",
@@ -29038,11 +28959,11 @@ const LIBRARY_DATA = {
   "timeline": [
     {
       "year": 1929,
-      "Wave Propagation & Bathymetry": 1
+      "Wave Propagation & Complex Bathymetry": 1
     },
     {
       "year": 1940,
-      "Wave Propagation & Bathymetry": 1
+      "Wave Propagation & Complex Bathymetry": 1
     },
     {
       "year": 1952,
@@ -29054,42 +28975,42 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1954,
-      "Wave Propagation & Bathymetry": 2
+      "Wave Propagation & Complex Bathymetry": 2
     },
     {
       "year": 1958,
-      "Wave Propagation & Bathymetry": 1
+      "Wave Propagation & Complex Bathymetry": 1
     },
     {
       "year": 1960,
       "Nonlinear Wave Theory": 2,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Books": 1
     },
     {
       "year": 1961,
-      "Wave Propagation & Bathymetry": 1
+      "Wave Propagation & Complex Bathymetry": 1
     },
     {
       "year": 1962,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Shallow & Nearshore Waves": 1
     },
     {
       "year": 1963,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Wave Spectra & Directionality": 1,
       "Books": 1
     },
     {
       "year": 1964,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Wave-Structure Interactions": 1
     },
     {
       "year": 1965,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Signal Processing": 1
     },
     {
@@ -29098,22 +29019,22 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1968,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Books": 1
     },
     {
       "year": 1969,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Wave-Structure Interactions": 1
     },
     {
       "year": 1970,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Signal Processing": 1
     },
     {
       "year": 1971,
-      "Wave Propagation & Bathymetry": 1
+      "Wave Propagation & Complex Bathymetry": 1
     },
     {
       "year": 1972,
@@ -29125,21 +29046,21 @@ const LIBRARY_DATA = {
     {
       "year": 1974,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 2
+      "Wave Propagation & Complex Bathymetry": 2
     },
     {
       "year": 1975,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 4,
       "Books": 3
     },
     {
       "year": 1976,
-      "Wave Propagation & Bathymetry": 3
+      "Wave Propagation & Complex Bathymetry": 3
     },
     {
       "year": 1977,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Wave Spectra & Directionality": 1,
       "Books": 1
     },
@@ -29147,26 +29068,26 @@ const LIBRARY_DATA = {
       "year": 1978,
       "Wave Height Statistics": 1,
       "Wave Breaking & Dissipation": 2,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Signal Processing": 1
     },
     {
       "year": 1979,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 4,
       "Rogue & Extreme Waves": 1
     },
     {
       "year": 1980,
       "Wave Height Statistics": 3,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Reflection Analysis": 1,
       "Books": 4
     },
     {
       "year": 1981,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 4,
       "Wave Spectra & Directionality": 1,
       "Wave-Structure Interactions": 1
     },
@@ -29174,44 +29095,44 @@ const LIBRARY_DATA = {
       "year": 1982,
       "Wave Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Wave-Structure Interactions": 1
     },
     {
       "year": 1983,
       "Wave Height Statistics": 2,
-      "Wave Propagation & Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 4,
       "Wave Spectra & Directionality": 1,
       "Theses": 1
     },
     {
       "year": 1984,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Wave Spectra & Directionality": 1
     },
     {
       "year": 1985,
       "Wave Height Statistics": 3,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 5,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Wave Spectra & Directionality": 1
     },
     {
       "year": 1986,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Theses": 1
     },
     {
       "year": 1987,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Signal Processing": 1
     },
     {
       "year": 1988,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Theses": 3,
       "Miscellaneous": 1
     },
@@ -29220,14 +29141,14 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 2,
       "Crest Height Statistics": 1,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Wave Spectra & Directionality": 1,
       "Theses": 3
     },
     {
       "year": 1990,
       "Wave Height Statistics": 1,
-      "Wave Propagation & Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 4,
       "Shallow & Nearshore Waves": 1,
       "Theses": 1
     },
@@ -29235,14 +29156,14 @@ const LIBRARY_DATA = {
       "year": 1991,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 1,
       "Books": 2
     },
     {
       "year": 1992,
-      "Wave Propagation & Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 4,
       "Wave Spectra & Directionality": 1,
       "Books": 3,
       "Miscellaneous": 1
@@ -29250,7 +29171,7 @@ const LIBRARY_DATA = {
     {
       "year": 1993,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 6,
+      "Wave Propagation & Complex Bathymetry": 6,
       "Reflection Analysis": 2,
       "Wave-Structure Interactions": 1,
       "Signal Processing": 1,
@@ -29259,14 +29180,14 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1994,
-      "Wave Propagation & Bathymetry": 3,
+      "Wave Propagation & Complex Bathymetry": 3,
       "Numerical Modelling": 1,
       "Books": 1,
       "Theses": 3
     },
     {
       "year": 1995,
-      "Wave Propagation & Bathymetry": 5,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Reflection Analysis": 3,
       "Wave Spectra & Directionality": 2,
       "Numerical Modelling": 1,
@@ -29276,14 +29197,14 @@ const LIBRARY_DATA = {
       "year": 1996,
       "Wave Height Statistics": 2,
       "Nonlinear Wave Theory": 5,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Lab Generation": 1,
       "Numerical Modelling": 2,
       "Books": 2
     },
     {
       "year": 1997,
-      "Wave Propagation & Bathymetry": 7,
+      "Wave Propagation & Complex Bathymetry": 7,
       "Reflection Analysis": 1,
       "Numerical Modelling": 1,
       "Books": 2,
@@ -29292,7 +29213,7 @@ const LIBRARY_DATA = {
     {
       "year": 1998,
       "Wave Height Statistics": 2,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Wave Spectra & Directionality": 1,
       "Shallow & Nearshore Waves": 1,
       "Books": 1,
@@ -29302,7 +29223,7 @@ const LIBRARY_DATA = {
       "year": 1999,
       "Nonlinear Wave Theory": 3,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 5,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Reflection Analysis": 3,
       "Shallow & Nearshore Waves": 1,
       "Signal Processing": 1,
@@ -29313,7 +29234,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 4,
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 3,
+      "Wave Propagation & Complex Bathymetry": 3,
       "Numerical Modelling": 1,
       "Books": 1,
       "Theses": 2
@@ -29322,7 +29243,7 @@ const LIBRARY_DATA = {
       "year": 2001,
       "Wave Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 8,
+      "Wave Propagation & Complex Bathymetry": 8,
       "Reflection Analysis": 2,
       "Numerical Modelling": 1,
       "Signal Processing": 2,
@@ -29331,7 +29252,7 @@ const LIBRARY_DATA = {
     {
       "year": 2002,
       "Wave Height Statistics": 2,
-      "Wave Propagation & Bathymetry": 5,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Books": 3,
@@ -29341,7 +29262,7 @@ const LIBRARY_DATA = {
     {
       "year": 2003,
       "Crest Height Statistics": 1,
-      "Wave Propagation & Bathymetry": 5,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Lab Generation": 1,
@@ -29352,7 +29273,7 @@ const LIBRARY_DATA = {
     {
       "year": 2004,
       "Wave Height Statistics": 3,
-      "Wave Propagation & Bathymetry": 2,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Reflection Analysis": 2,
       "Rogue & Extreme Waves": 2,
       "Numerical Modelling": 2,
@@ -29364,18 +29285,18 @@ const LIBRARY_DATA = {
       "year": 2005,
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 6,
+      "Wave Propagation & Complex Bathymetry": 6,
       "Rogue & Extreme Waves": 1,
       "Books": 3,
       "Theses": 1,
-      "Miscellaneous": 2
+      "Miscellaneous": 1
     },
     {
       "year": 2006,
       "Wave Height Statistics": 1,
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 9,
+      "Wave Propagation & Complex Bathymetry": 9,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Signal Processing": 2,
@@ -29387,7 +29308,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 4,
       "Crest Height Statistics": 2,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 8,
+      "Wave Propagation & Complex Bathymetry": 8,
       "Numerical Modelling": 1,
       "Signal Processing": 1,
       "Books": 3,
@@ -29399,7 +29320,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 1,
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Bathymetry": 8,
+      "Wave Propagation & Complex Bathymetry": 8,
       "Reflection Analysis": 2,
       "Rogue & Extreme Waves": 1,
       "Numerical Modelling": 1,
@@ -29410,7 +29331,7 @@ const LIBRARY_DATA = {
       "year": 2009,
       "Wave Height Statistics": 2,
       "Nonlinear Wave Theory": 3,
-      "Wave Propagation & Bathymetry": 8,
+      "Wave Propagation & Complex Bathymetry": 8,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 2,
       "Lab Generation": 1,
@@ -29424,7 +29345,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 3,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 3,
-      "Wave Propagation & Bathymetry": 10,
+      "Wave Propagation & Complex Bathymetry": 10,
       "Reflection Analysis": 2,
       "Wave Spectra & Directionality": 3,
       "Lab Generation": 1,
@@ -29438,7 +29359,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 7,
+      "Wave Propagation & Complex Bathymetry": 7,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 2,
       "Numerical Modelling": 1,
@@ -29452,7 +29373,7 @@ const LIBRARY_DATA = {
       "year": 2012,
       "Nonlinear Wave Theory": 4,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 9,
+      "Wave Propagation & Complex Bathymetry": 9,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 2,
       "Wave-Structure Interactions": 1,
@@ -29466,7 +29387,7 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 7,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 3,
-      "Wave Propagation & Bathymetry": 11,
+      "Wave Propagation & Complex Bathymetry": 11,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Numerical Modelling": 1,
@@ -29482,7 +29403,7 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 13,
+      "Wave Propagation & Complex Bathymetry": 13,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 1,
       "Rogue & Extreme Waves": 2,
@@ -29497,7 +29418,7 @@ const LIBRARY_DATA = {
       "year": 2015,
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 2,
-      "Wave Propagation & Bathymetry": 11,
+      "Wave Propagation & Complex Bathymetry": 11,
       "Rogue & Extreme Waves": 3,
       "Lab Generation": 1,
       "Numerical Modelling": 1,
@@ -29510,10 +29431,10 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 3,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 2,
-      "Wave Propagation & Bathymetry": 7,
+      "Wave Propagation & Complex Bathymetry": 7,
       "Reflection Analysis": 2,
       "Wave Spectra & Directionality": 6,
-      "Rogue & Extreme Waves": 3,
+      "Rogue & Extreme Waves": 2,
       "Numerical Modelling": 3,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
@@ -29526,10 +29447,10 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 3,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 8,
-      "Wave Propagation & Bathymetry": 22,
+      "Wave Propagation & Complex Bathymetry": 22,
       "Reflection Analysis": 4,
       "Wave Spectra & Directionality": 6,
-      "Rogue & Extreme Waves": 6,
+      "Rogue & Extreme Waves": 5,
       "Numerical Modelling": 7,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
@@ -29544,7 +29465,7 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 3,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 4,
-      "Wave Propagation & Bathymetry": 13,
+      "Wave Propagation & Complex Bathymetry": 13,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 1,
       "Rogue & Extreme Waves": 6,
@@ -29561,7 +29482,7 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 8,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 5,
-      "Wave Propagation & Bathymetry": 19,
+      "Wave Propagation & Complex Bathymetry": 19,
       "Reflection Analysis": 4,
       "Wave Spectra & Directionality": 1,
       "Rogue & Extreme Waves": 10,
@@ -29578,7 +29499,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 9,
       "Crest Height Statistics": 4,
       "Wave Breaking & Dissipation": 11,
-      "Wave Propagation & Bathymetry": 104,
+      "Wave Propagation & Complex Bathymetry": 104,
       "Reflection Analysis": 5,
       "Wave Spectra & Directionality": 7,
       "Rogue & Extreme Waves": 13,
@@ -29597,10 +29518,10 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 5,
-      "Wave Propagation & Bathymetry": 32,
+      "Wave Propagation & Complex Bathymetry": 32,
       "Reflection Analysis": 5,
       "Rogue & Extreme Waves": 13,
-      "Lab Generation": 2,
+      "Lab Generation": 1,
       "Numerical Modelling": 5,
       "Wave-Structure Interactions": 3,
       "Shallow & Nearshore Waves": 6,
@@ -29612,7 +29533,7 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 2,
-      "Wave Propagation & Bathymetry": 9,
+      "Wave Propagation & Complex Bathymetry": 9,
       "Reflection Analysis": 2,
       "Wave Spectra & Directionality": 4,
       "Rogue & Extreme Waves": 2,
@@ -29627,7 +29548,7 @@ const LIBRARY_DATA = {
       "year": 2023,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Bathymetry": 5,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Wave Spectra & Directionality": 1,
       "Rogue & Extreme Waves": 2,
       "Numerical Modelling": 2,
@@ -29647,13 +29568,13 @@ const LIBRARY_DATA = {
     },
     {
       "year": 2025,
-      "Wave Propagation & Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Shallow & Nearshore Waves": 1,
       "Miscellaneous": 1
     },
     {
       "year": 2026,
-      "Wave Propagation & Bathymetry": 3
+      "Wave Propagation & Complex Bathymetry": 3
     }
   ],
   "tree": {
@@ -33699,7 +33620,7 @@ const LIBRARY_DATA = {
         "description": "Breaking criteria, energy dissipation models, breaking wave physics"
       },
       {
-        "name": "Wave Propagation & Bathymetry",
+        "name": "Wave Propagation & Complex Bathymetry",
         "children": [
           {
             "name": "Beji et al. (1993)",
@@ -43362,40 +43283,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Jia et al. (2016)",
-            "title": "Breathers and rogue waves for an eighth-order variable-coefficient nonlinear Schrödinger equation in an ocean or optical fiber",
-            "author": "Jia et al.",
-            "year": 2016,
-            "filename": "Jia et al. (2016)_Breathers and rogue waves for an eighth-order variable-coefficient nonlinear Schrödinger equation in an ocean or optical fiber.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nls",
-              "nonlinear",
-              "ocean-waves",
-              "rogue-waves"
-            ]
-          },
-          {
-            "name": "Jiang et al. (2017)",
-            "title": "Nonlinear wave solutions for an integrable sixth-order nonlinear Schrödinger equation in an optical fiber",
-            "author": "Jiang et al.",
-            "year": 2017,
-            "filename": "Jiang, Gao and Huang (2017)_Nonlinear wave solutions for an integrable sixth-order nonlinear Schrödinger equation in an optical fiber.pdf",
-            "journal": "Optik",
-            "doi": "10.1016/j.ijleo.2017.05.008",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nls",
-              "nonlinear",
-              "ocean-waves",
-              "rogue-waves"
-            ]
-          },
-          {
             "name": "Kokorina et al. (2019)",
             "title": "Lifetimes of Rogue Wave Events in Direct Numerical Simulations of Deep-Water Irregular Sea Waves",
             "author": "Kokorina et al.",
@@ -44400,24 +44287,6 @@ const LIBRARY_DATA = {
               "spectral-analysis",
               "wave-generation",
               "wave-spectrum"
-            ]
-          },
-          {
-            "name": "(2021)",
-            "title": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their(2)",
-            "author": "",
-            "year": 2021,
-            "filename": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their(2).pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "irregular-waves",
-              "linear",
-              "nonlinear",
-              "regular-waves",
-              "wave-generation"
             ]
           },
           {
@@ -51640,22 +51509,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Morris et al. (2005)",
-            "title": "Integrating LIDAR elevation data, multi‐spectral imagery and neural network modelling for marsh characterization",
-            "author": "Morris et al.",
-            "year": 2005,
-            "filename": "Morris et al. (2007)_Integrating LIDAR elevation data, multi-spectral imagery and neural network modelling for marsh characterization.pdf",
-            "journal": "International Journal of Remote Sensing",
-            "doi": "10.1080/01431160500219018",
-            "hasAnnotation": false,
-            "tags": [
-              "machine-learning",
-              "modelling",
-              "ocean-waves",
-              "spectral-analysis"
-            ]
-          },
-          {
             "name": "Ohkitani et al. (1992)",
             "title": "Triad interactions in a forced turbulence",
             "author": "Ohkitani et al.",
@@ -52090,9 +51943,9 @@ const LIBRARY_DATA = {
     ]
   },
   "stats": {
-    "totalPapers": 1340,
+    "totalPapers": 1336,
     "totalCategories": 17,
-    "totalAuthors": 1426,
+    "totalAuthors": 1420,
     "totalTags": 76,
     "yearRange": [
       1929,
