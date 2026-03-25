@@ -39,8 +39,8 @@ jobs:
           sed -i "s|Categories-[0-9]*-|Categories-${C}-|g" README.md
           sed -i "s|Tags-[0-9]*-|Tags-${T}-|g" README.md
 
-          # Update the ~N,NNN in the description text (rounded to nearest 100)
-          PAPERS_ROUND=$(python3 -c "print(f'{round(int(\"$PAPERS\"), -2):,}')")
+          # Update the ~N,NNN in the description text (rounded to nearest 50)
+          PAPERS_ROUND=$(python3 -c "n=int(\"$PAPERS\"); print(f'{round(n/50)*50:,}')")
           sed -i "s|~[0-9,]* papers in|~${PAPERS_ROUND} papers in|g" README.md
 
           # Count enriched papers (those with DOI) and update Data section
