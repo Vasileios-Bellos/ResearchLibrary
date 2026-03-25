@@ -25801,15 +25801,15 @@ const LIBRARY_DATA = {
       "id": 1308
     },
     {
-      "author": "He et al.",
-      "year": 2023,
-      "title": "Experimental investigation on the hydrodynamic characteristics of extreme wave groups over unidirectional sloping bathymetry",
+      "author": "",
+      "year": 2022,
+      "title": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry",
       "filename": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry.pdf",
       "category": "15_Supervision",
       "categoryShort": "Supervision",
       "color": "#CDDC39",
-      "journal": "Ocean Engineering",
-      "doi": "10.1016/j.oceaneng.2023.114982",
+      "journal": "",
+      "doi": "",
       "hasAnnotation": false,
       "tags": [
         "directional-spreading",
@@ -27820,8 +27820,44 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Chen",
+      "name": "Ma",
       "count": 30,
+      "coauthors": {
+        "He": 1,
+        "Dong": 19,
+        "Perlin": 2,
+        "Tai": 1,
+        "Niu": 3,
+        "Adcock": 1,
+        "Taylor": 1,
+        "Yan": 2,
+        "Janssen": 1,
+        "Duan": 2,
+        "Huang": 1,
+        "Liu": 2,
+        "Wu": 2,
+        "Eatock Taylor": 2,
+        "Shi": 1,
+        "Kirby": 1,
+        "Ma": 14,
+        "Zhang": 2,
+        "Benoit": 2,
+        "Wang": 4,
+        "Zang": 4,
+        "Li": 1,
+        "Sun": 1,
+        "Tan": 1,
+        "Gao": 3,
+        "Zhou": 4,
+        "Zhu": 2,
+        "Swan": 1,
+        "Deng": 1,
+        "Chang": 1
+      }
+    },
+    {
+      "name": "Chen",
+      "count": 29,
       "coauthors": {
         "Gao": 1,
         "Wu": 2,
@@ -27840,7 +27876,7 @@ const LIBRARY_DATA = {
         "Randall": 2,
         "Bi": 1,
         "Su": 1,
-        "Yang": 5,
+        "Yang": 4,
         "Lin": 1,
         "Mo": 1,
         "Kharif": 1,
@@ -27851,7 +27887,7 @@ const LIBRARY_DATA = {
         "Hillis": 1,
         "Morgan": 2,
         "Plummer": 1,
-        "He": 6,
+        "He": 4,
         "Vennes": 2,
         "Chen": 2,
         "Mitri": 2,
@@ -27886,46 +27922,9 @@ const LIBRARY_DATA = {
         "Guo": 2,
         "Jia": 1,
         "Du": 1,
-        "Dong": 1,
         "Luo": 1,
         "Huo": 1,
         "Xie": 1
-      }
-    },
-    {
-      "name": "Ma",
-      "count": 30,
-      "coauthors": {
-        "He": 1,
-        "Dong": 19,
-        "Perlin": 2,
-        "Tai": 1,
-        "Niu": 3,
-        "Adcock": 1,
-        "Taylor": 1,
-        "Yan": 2,
-        "Janssen": 1,
-        "Duan": 2,
-        "Huang": 1,
-        "Liu": 2,
-        "Wu": 2,
-        "Eatock Taylor": 2,
-        "Shi": 1,
-        "Kirby": 1,
-        "Ma": 14,
-        "Zhang": 2,
-        "Benoit": 2,
-        "Wang": 4,
-        "Zang": 4,
-        "Li": 1,
-        "Sun": 1,
-        "Tan": 1,
-        "Gao": 3,
-        "Zhou": 4,
-        "Zhu": 2,
-        "Swan": 1,
-        "Deng": 1,
-        "Chang": 1
       }
     },
     {
@@ -28058,10 +28057,10 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Dong",
-      "count": 20,
+      "count": 19,
       "coauthors": {
         "Huang": 1,
-        "He": 3,
+        "He": 1,
         "Ma": 19,
         "Perlin": 2,
         "Tai": 1,
@@ -28079,9 +28078,7 @@ const LIBRARY_DATA = {
         "Benoit": 1,
         "Gao": 2,
         "Zhou": 3,
-        "Han": 1,
-        "Chen": 1,
-        "Yang": 1
+        "Han": 1
       }
     },
     {
@@ -28135,9 +28132,9 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Yang",
-      "count": 17,
+      "count": 16,
       "coauthors": {
-        "Chen": 5,
+        "Chen": 4,
         "Lin": 1,
         "Kao": 1,
         "Raikar": 1,
@@ -28165,8 +28162,6 @@ const LIBRARY_DATA = {
         "Wen": 2,
         "Prislin": 2,
         "Hong": 1,
-        "He": 2,
-        "Dong": 1,
         "Xie": 2,
         "Yang": 2,
         "Zhao": 1,
@@ -28499,41 +28494,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "He",
-      "count": 11,
-      "coauthors": {
-        "Eeltink": 1,
-        "Branger": 1,
-        "Luneau": 1,
-        "Chabchoub": 1,
-        "Kasparian": 1,
-        "van den Bremer": 1,
-        "Sapsis": 1,
-        "Ma": 1,
-        "Dong": 3,
-        "Perlin": 1,
-        "Chen": 6,
-        "Vennes": 2,
-        "He": 4,
-        "Song": 2,
-        "Mitri": 2,
-        "Yao": 1,
-        "Tang": 1,
-        "Liu": 1,
-        "Guo": 2,
-        "Wang": 2,
-        "Cheng": 2,
-        "Humphrey": 1,
-        "Mo": 1,
-        "Fang": 1,
-        "Yang": 2,
-        "Zhu": 1,
-        "Karakus": 1,
-        "Cui": 1,
-        "Tao": 1
-      }
-    },
-    {
       "name": "Eldrup",
       "count": 11,
       "coauthors": {
@@ -28710,6 +28670,40 @@ const LIBRARY_DATA = {
         "Laucelli": 1,
         "Gironella": 1,
         "Hedges": 3
+      }
+    },
+    {
+      "name": "He",
+      "count": 9,
+      "coauthors": {
+        "Eeltink": 1,
+        "Branger": 1,
+        "Luneau": 1,
+        "Chabchoub": 1,
+        "Kasparian": 1,
+        "van den Bremer": 1,
+        "Sapsis": 1,
+        "Ma": 1,
+        "Dong": 1,
+        "Perlin": 1,
+        "Chen": 4,
+        "Vennes": 2,
+        "He": 2,
+        "Song": 2,
+        "Mitri": 2,
+        "Yao": 1,
+        "Tang": 1,
+        "Liu": 1,
+        "Guo": 2,
+        "Wang": 2,
+        "Cheng": 2,
+        "Humphrey": 1,
+        "Mo": 1,
+        "Fang": 1,
+        "Zhu": 1,
+        "Karakus": 1,
+        "Cui": 1,
+        "Tao": 1
       }
     },
     {
@@ -30692,7 +30686,7 @@ const LIBRARY_DATA = {
       "Lab Generation": 2,
       "Signal Processing": 2,
       "Books & References": 4,
-      "Supervision": 1,
+      "Supervision": 2,
       "Miscellaneous": 3
     },
     {
@@ -30706,7 +30700,6 @@ const LIBRARY_DATA = {
       "Wave-Structure Interactions": 3,
       "Shallow & Nearshore Waves": 1,
       "Books & References": 1,
-      "Supervision": 1,
       "Miscellaneous": 1
     },
     {
@@ -52737,13 +52730,13 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "He et al. (2023)",
-            "title": "Experimental investigation on the hydrodynamic characteristics of extreme wave groups over unidirectional sloping bathymetry",
-            "author": "He et al.",
-            "year": 2023,
+            "name": "(2022)",
+            "title": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry",
+            "author": "",
+            "year": 2022,
             "filename": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2023.114982",
+            "journal": "",
+            "doi": "",
             "hasAnnotation": false,
             "tags": [
               "directional-spreading",

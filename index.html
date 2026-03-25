@@ -1253,11 +1253,15 @@
         const treeLayout = d3.tree().size([height - 60, width - 400]);
         const root = d3.hierarchy(filteredTree);
 
-        // Collapse initially to category level
-        root.children?.forEach(child => {
-            child._children = child.children;
-            child.children = null;
-        });
+        // Collapse all levels initially
+        function collapseAll(node) {
+            if (node.children) {
+                node.children.forEach(collapseAll);
+                node._children = node.children;
+                node.children = null;
+            }
+        }
+        root.children?.forEach(collapseAll);
 
         treeLayout(root);
 
