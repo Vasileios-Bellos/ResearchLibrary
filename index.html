@@ -1351,7 +1351,7 @@
             .attr('width', width)
             .attr('height', height);
 
-        const treeMargin = Math.max(width < 600 ? 180 : 200, 180);
+        const treeMargin = width < 600 ? 60 : 150;
         const g = svg.append('g').attr('transform', `translate(${treeMargin}, 30)`);
 
         const treeLayout = d3.tree().size([height - 60, Math.max(width - treeMargin - 100, 200)]);
