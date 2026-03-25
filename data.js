@@ -24031,55 +24031,43 @@ const LIBRARY_DATA = {
       "id": 1202
     },
     {
-      "author": "",
-      "year": 2022,
-      "title": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH",
-      "filename": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH.pdf",
-      "category": "15_Supervision",
-      "categoryShort": "Supervision",
-      "color": "#CDDC39",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "numerical",
-        "random-waves",
-        "surf-zone",
-        "thesis",
-        "varying-depth",
-        "wave-propagation"
-      ],
-      "id": 1203
-    },
-    {
-      "author": "",
-      "year": 2022,
-      "title": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry",
-      "filename": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry.pdf",
-      "category": "15_Supervision",
-      "categoryShort": "Supervision",
-      "color": "#CDDC39",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "directional-spreading",
-        "experimental",
-        "extreme-events",
-        "offshore",
-        "unidirectional",
-        "varying-depth",
-        "wave-forces",
-        "wave-groups"
-      ],
-      "id": 1204
-    },
-    {
       "author": "Abedi",
       "year": 2013,
       "title": "Abedi",
       "filename": "Abedi2013.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1203
+    },
+    {
+      "author": "Abolghasemi",
+      "year": 2016,
+      "title": "Abolghasemi",
+      "filename": "Abolghasemi2016.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1204
+    },
+    {
+      "author": "Acred",
+      "year": 2014,
+      "title": "Acred",
+      "filename": "Acred2014.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24091,43 +24079,11 @@ const LIBRARY_DATA = {
       "id": 1205
     },
     {
-      "author": "Abolghasemi",
-      "year": 2016,
-      "title": "Abolghasemi",
-      "filename": "Abolghasemi2016.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1206
-    },
-    {
-      "author": "Acred",
-      "year": 2014,
-      "title": "Acred",
-      "filename": "Acred2014.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1207
-    },
-    {
       "author": "",
       "year": 0,
       "title": "AGThesis-tosubmit 1",
       "filename": "AGThesis-tosubmit 1.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24139,14 +24095,14 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1208
+      "id": 1206
     },
     {
       "author": "Aknin",
       "year": 2015,
       "title": "Aknin",
       "filename": "Aknin2015.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24155,14 +24111,14 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1209
+      "id": 1207
     },
     {
       "author": "Zhang, Zhibo",
       "year": 2018,
       "title": "revision highlighted",
       "filename": "Aknin2015_highlighted.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24171,14 +24127,14 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1210
+      "id": 1208
     },
     {
       "author": "Chauhan, V.P.S.",
       "year": 1988,
       "title": "Additive Versus Multiplicative Precorrections of Dairy Records for Some Environmental Effects in Sire Evaluation",
       "filename": "Allgayer2007_precorrections.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "Journal of Dairy Science",
@@ -24187,14 +24143,46 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1211
+      "id": 1209
     },
     {
       "author": "Archibald",
       "year": 2011,
       "title": "Archibald",
       "filename": "Archibald2011.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1210
+    },
+    {
+      "author": "Bachant",
+      "year": 2016,
+      "title": "Bachant",
+      "filename": "Bachant2016.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1211
+    },
+    {
+      "author": "Baldock",
+      "year": 1994,
+      "title": "Baldock",
+      "filename": "Baldock1994.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24206,11 +24194,11 @@ const LIBRARY_DATA = {
       "id": 1212
     },
     {
-      "author": "Bachant",
-      "year": 2016,
-      "title": "Bachant",
-      "filename": "Bachant2016.pdf",
-      "category": "16_Theses",
+      "author": "Barba",
+      "year": 2004,
+      "title": "Barba",
+      "filename": "Barba2004.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24222,43 +24210,11 @@ const LIBRARY_DATA = {
       "id": 1213
     },
     {
-      "author": "Baldock",
-      "year": 1994,
-      "title": "Baldock",
-      "filename": "Baldock1994.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1214
-    },
-    {
-      "author": "Barba",
-      "year": 2004,
-      "title": "Barba",
-      "filename": "Barba2004.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1215
-    },
-    {
       "author": "Battjes, J.A.",
       "year": 1972,
       "title": "Set-Up Due to Irregular Waves",
       "filename": "Battjes (1974) (Thesis)_Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "Coastal Engineering 1972",
@@ -24271,14 +24227,46 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-propagation"
       ],
-      "id": 1216
+      "id": 1214
     },
     {
       "author": "Bentham",
       "year": 2003,
       "title": "Bentham",
       "filename": "Bentham2003.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1215
+    },
+    {
+      "author": "Black",
+      "year": 1998,
+      "title": "Black",
+      "filename": "Black1998.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1216
+    },
+    {
+      "author": "Brownlee",
+      "year": 1988,
+      "title": "Brownlee",
+      "filename": "Brownlee1988.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24290,11 +24278,11 @@ const LIBRARY_DATA = {
       "id": 1217
     },
     {
-      "author": "Black",
-      "year": 1998,
-      "title": "Black",
-      "filename": "Black1998.pdf",
-      "category": "16_Theses",
+      "author": "Bruggemann",
+      "year": 2017,
+      "title": "Bruggemann",
+      "filename": "Bruggemann2017.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24306,11 +24294,11 @@ const LIBRARY_DATA = {
       "id": 1218
     },
     {
-      "author": "Brownlee",
-      "year": 1988,
-      "title": "Brownlee",
-      "filename": "Brownlee1988.pdf",
-      "category": "16_Theses",
+      "author": "Bull",
+      "year": 2013,
+      "title": "Bull",
+      "filename": "Bull2013.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24322,11 +24310,11 @@ const LIBRARY_DATA = {
       "id": 1219
     },
     {
-      "author": "Bruggemann",
-      "year": 2017,
-      "title": "Bruggemann",
-      "filename": "Bruggemann2017.pdf",
-      "category": "16_Theses",
+      "author": "Chatelain",
+      "year": 2005,
+      "title": "Chatelain",
+      "filename": "Chatelain2005.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24338,11 +24326,11 @@ const LIBRARY_DATA = {
       "id": 1220
     },
     {
-      "author": "Bull",
-      "year": 2013,
-      "title": "Bull",
-      "filename": "Bull2013.pdf",
-      "category": "16_Theses",
+      "author": "Chau",
+      "year": 1989,
+      "title": "Chau",
+      "filename": "Chau1989.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24354,11 +24342,11 @@ const LIBRARY_DATA = {
       "id": 1221
     },
     {
-      "author": "Chatelain",
-      "year": 2005,
-      "title": "Chatelain",
-      "filename": "Chatelain2005.pdf",
-      "category": "16_Theses",
+      "author": "Christou",
+      "year": 2009,
+      "title": "Christou",
+      "filename": "Christou2009.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24370,11 +24358,11 @@ const LIBRARY_DATA = {
       "id": 1222
     },
     {
-      "author": "Chau",
-      "year": 1989,
-      "title": "Chau",
-      "filename": "Chau1989.pdf",
-      "category": "16_Theses",
+      "author": "Coffey",
+      "year": 2006,
+      "title": "Coffey",
+      "filename": "Coffey2006.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24386,11 +24374,11 @@ const LIBRARY_DATA = {
       "id": 1223
     },
     {
-      "author": "Christou",
-      "year": 2009,
-      "title": "Christou",
-      "filename": "Christou2009.pdf",
-      "category": "16_Theses",
+      "author": "Connick",
+      "year": 2013,
+      "title": "Connick",
+      "filename": "Connick2013.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24402,11 +24390,11 @@ const LIBRARY_DATA = {
       "id": 1224
     },
     {
-      "author": "Coffey",
-      "year": 2006,
-      "title": "Coffey",
-      "filename": "Coffey2006.pdf",
-      "category": "16_Theses",
+      "author": "Craske",
+      "year": 2016,
+      "title": "Craske",
+      "filename": "Craske2016.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24418,11 +24406,11 @@ const LIBRARY_DATA = {
       "id": 1225
     },
     {
-      "author": "Connick",
-      "year": 2013,
-      "title": "Connick",
-      "filename": "Connick2013.pdf",
-      "category": "16_Theses",
+      "author": "Creech",
+      "year": 2009,
+      "title": "Creech",
+      "filename": "Creech2009.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24434,43 +24422,11 @@ const LIBRARY_DATA = {
       "id": 1226
     },
     {
-      "author": "Craske",
-      "year": 2016,
-      "title": "Craske",
-      "filename": "Craske2016.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1227
-    },
-    {
-      "author": "Creech",
-      "year": 2009,
-      "title": "Creech",
-      "filename": "Creech2009.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1228
-    },
-    {
       "author": "",
       "year": 2009,
       "title": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data",
       "filename": "Djunaidi (2009) (MSc Thesis)_Validation of extreme wave and crest height distribution Using laboratory simulation and field measurement data.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24487,14 +24443,46 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1229
+      "id": 1227
     },
     {
       "author": "Economidou",
       "year": 2009,
       "title": "Economidou",
       "filename": "Economidou2009.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1228
+    },
+    {
+      "author": "Ely",
+      "year": 2013,
+      "title": "Ely",
+      "filename": "Ely2013.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1229
+    },
+    {
+      "author": "Ezzamel",
+      "year": 2011,
+      "title": "Ezzamel",
+      "filename": "Ezzamel2011.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24506,11 +24494,11 @@ const LIBRARY_DATA = {
       "id": 1230
     },
     {
-      "author": "Ely",
-      "year": 2013,
-      "title": "Ely",
-      "filename": "Ely2013.pdf",
-      "category": "16_Theses",
+      "author": "Farrell",
+      "year": 2009,
+      "title": "Farrell",
+      "filename": "Farrell2009.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24522,11 +24510,11 @@ const LIBRARY_DATA = {
       "id": 1231
     },
     {
-      "author": "Ezzamel",
-      "year": 2011,
-      "title": "Ezzamel",
-      "filename": "Ezzamel2011.pdf",
-      "category": "16_Theses",
+      "author": "Feng",
+      "year": 2007,
+      "title": "Feng",
+      "filename": "Feng2007.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24538,11 +24526,11 @@ const LIBRARY_DATA = {
       "id": 1232
     },
     {
-      "author": "Farrell",
-      "year": 2009,
-      "title": "Farrell",
-      "filename": "Farrell2009.pdf",
-      "category": "16_Theses",
+      "author": "Fernandes",
+      "year": 1983,
+      "title": "Fernandes",
+      "filename": "Fernandes1983.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24554,11 +24542,11 @@ const LIBRARY_DATA = {
       "id": 1233
     },
     {
-      "author": "Feng",
-      "year": 2007,
-      "title": "Feng",
-      "filename": "Feng2007.pdf",
-      "category": "16_Theses",
+      "author": "Gibson",
+      "year": 2004,
+      "title": "Gibson",
+      "filename": "Gibson2004.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24570,11 +24558,11 @@ const LIBRARY_DATA = {
       "id": 1234
     },
     {
-      "author": "Fernandes",
-      "year": 1983,
-      "title": "Fernandes",
-      "filename": "Fernandes1983.pdf",
-      "category": "16_Theses",
+      "author": "Gocmen",
+      "year": 2016,
+      "title": "Gocmen",
+      "filename": "Gocmen2016.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24586,11 +24574,11 @@ const LIBRARY_DATA = {
       "id": 1235
     },
     {
-      "author": "Gibson",
-      "year": 2004,
-      "title": "Gibson",
-      "filename": "Gibson2004.pdf",
-      "category": "16_Theses",
+      "author": "Grice",
+      "year": 2013,
+      "title": "Grice",
+      "filename": "Grice2013.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24602,34 +24590,42 @@ const LIBRARY_DATA = {
       "id": 1236
     },
     {
-      "author": "Gocmen",
-      "year": 2016,
-      "title": "Gocmen",
-      "filename": "Gocmen2016.pdf",
-      "category": "16_Theses",
+      "author": "Mase et al.",
+      "year": 2004,
+      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
+      "filename": "Groenendijk (1989)_(MSc Thesis w. notations)_Shallow foreshore wave height statistics_notes.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
-      "journal": "",
-      "doi": "",
+      "journal": "Asian and Pacific Coasts 2003",
+      "doi": "10.1142/9789812703040_0076",
       "hasAnnotation": false,
       "tags": [
-        "ocean-waves"
+        "book-chapter",
+        "breakwater",
+        "random-waves",
+        "shallow-water",
+        "wave-runup"
       ],
       "id": 1237
     },
     {
-      "author": "Grice",
-      "year": 2013,
-      "title": "Grice",
-      "filename": "Grice2013.pdf",
-      "category": "16_Theses",
+      "author": "Groenendijk",
+      "year": 1989,
+      "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
+      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
       "doi": "",
       "hasAnnotation": false,
       "tags": [
-        "ocean-waves"
+        "book-chapter",
+        "shallow-water",
+        "statistical",
+        "thesis",
+        "wave-height-distribution"
       ],
       "id": 1238
     },
@@ -24637,8 +24633,8 @@ const LIBRARY_DATA = {
       "author": "Mase et al.",
       "year": 2004,
       "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
-      "filename": "Groenendijk (1989)_(MSc Thesis w. notations)_Shallow foreshore wave height statistics_notes.pdf",
-      "category": "16_Theses",
+      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "Asian and Pacific Coasts 2003",
@@ -24654,51 +24650,11 @@ const LIBRARY_DATA = {
       "id": 1239
     },
     {
-      "author": "Groenendijk",
-      "year": 1989,
-      "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
-      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "shallow-water",
-        "statistical",
-        "thesis",
-        "wave-height-distribution"
-      ],
-      "id": 1240
-    },
-    {
-      "author": "Mase et al.",
-      "year": 2004,
-      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
-      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "Asian and Pacific Coasts 2003",
-      "doi": "10.1142/9789812703040_0076",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "breakwater",
-        "random-waves",
-        "shallow-water",
-        "wave-runup"
-      ],
-      "id": 1241
-    },
-    {
       "author": "Hague",
       "year": 2006,
       "title": "Hague",
       "filename": "Hague2006.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24707,14 +24663,14 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1242
+      "id": 1240
     },
     {
       "author": "Haley-J",
       "year": 2016,
       "title": "PhD-Thesis",
       "filename": "Haley-J-2016-PhD-Thesis.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24726,14 +24682,14 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1243
+      "id": 1241
     },
     {
       "author": "Haley",
       "year": 2016,
       "title": "Haley",
       "filename": "Haley2016.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24742,14 +24698,14 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1244
+      "id": 1242
     },
     {
       "author": "Heller",
       "year": 2007,
       "title": "Heller",
       "filename": "Heller2007.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24758,14 +24714,14 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1245
+      "id": 1243
     },
     {
       "author": "",
       "year": 1993,
       "title": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory",
       "filename": "Henry (1993) (PhD Thesis)_Ocean wave height transformation model using surface roller theory.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24780,14 +24736,46 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-shoaling"
       ],
-      "id": 1246
+      "id": 1244
     },
     {
       "author": "Huang",
       "year": 1994,
       "title": "Huang",
       "filename": "Huang1994.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1245
+    },
+    {
+      "author": "Inoue",
+      "year": 2012,
+      "title": "Inoue",
+      "filename": "Inoue2012.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1246
+    },
+    {
+      "author": "James",
+      "year": 2000,
+      "title": "James",
+      "filename": "James2000.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24799,11 +24787,11 @@ const LIBRARY_DATA = {
       "id": 1247
     },
     {
-      "author": "Inoue",
-      "year": 2012,
-      "title": "Inoue",
-      "filename": "Inoue2012.pdf",
-      "category": "16_Theses",
+      "author": "Johannessen",
+      "year": 1997,
+      "title": "Johannessen",
+      "filename": "Johannessen1997.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24815,43 +24803,11 @@ const LIBRARY_DATA = {
       "id": 1248
     },
     {
-      "author": "James",
-      "year": 2000,
-      "title": "James",
-      "filename": "James2000.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1249
-    },
-    {
-      "author": "Johannessen",
-      "year": 1997,
-      "title": "Johannessen",
-      "filename": "Johannessen1997.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1250
-    },
-    {
       "author": "",
       "year": 0,
       "title": "Karmpadakis_Thesis",
       "filename": "Karmpadakis_Thesis.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24861,14 +24817,48 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "thesis"
       ],
-      "id": 1251
+      "id": 1249
     },
     {
       "author": "",
       "year": 0,
       "title": "Karmpadakis_Thesis_highlighted",
       "filename": "Karmpadakis_Thesis_highlighted.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": true,
+      "tags": [
+        "ocean-waves",
+        "thesis"
+      ],
+      "id": 1250
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Karmpadakis_Thesis_highlighted_reduced",
+      "filename": "Karmpadakis_Thesis_highlighted_reduced.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": true,
+      "tags": [
+        "ocean-waves",
+        "thesis"
+      ],
+      "id": 1251
+    },
+    {
+      "author": "",
+      "year": 0,
+      "title": "Karmpadakis_Thesis_hl",
+      "filename": "Karmpadakis_Thesis_hl.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24882,44 +24872,10 @@ const LIBRARY_DATA = {
     },
     {
       "author": "",
-      "year": 0,
-      "title": "Karmpadakis_Thesis_highlighted_reduced",
-      "filename": "Karmpadakis_Thesis_highlighted_reduced.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves",
-        "thesis"
-      ],
-      "id": 1253
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "Karmpadakis_Thesis_hl",
-      "filename": "Karmpadakis_Thesis_hl.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves",
-        "thesis"
-      ],
-      "id": 1254
-    },
-    {
-      "author": "",
       "year": 2020,
       "title": "PhD thesis",
       "filename": "Kasiman-EH-2017-PhD-Thesis.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24931,14 +24887,46 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1255
+      "id": 1253
     },
     {
       "author": "Kasiman",
       "year": 2017,
       "title": "Kasiman",
       "filename": "Kasiman2017.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1254
+    },
+    {
+      "author": "Katsardi",
+      "year": 2007,
+      "title": "Katsardi",
+      "filename": "Katsardi2007.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1255
+    },
+    {
+      "author": "Kim",
+      "year": 1988,
+      "title": "Kim",
+      "filename": "Kim1988.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24950,11 +24938,11 @@ const LIBRARY_DATA = {
       "id": 1256
     },
     {
-      "author": "Katsardi",
-      "year": 2007,
-      "title": "Katsardi",
-      "filename": "Katsardi2007.pdf",
-      "category": "16_Theses",
+      "author": "Kim",
+      "year": 2012,
+      "title": "Kim",
+      "filename": "Kim2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24966,11 +24954,11 @@ const LIBRARY_DATA = {
       "id": 1257
     },
     {
-      "author": "Kim",
-      "year": 1988,
-      "title": "Kim",
-      "filename": "Kim1988.pdf",
-      "category": "16_Theses",
+      "author": "Kleusberg",
+      "year": 2017,
+      "title": "Kleusberg",
+      "filename": "Kleusberg2017.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24982,11 +24970,11 @@ const LIBRARY_DATA = {
       "id": 1258
     },
     {
-      "author": "Kim",
-      "year": 2012,
-      "title": "Kim",
-      "filename": "Kim2012.pdf",
-      "category": "16_Theses",
+      "author": "Koumoutsakos",
+      "year": 1993,
+      "title": "Koumoutsakos",
+      "filename": "Koumoutsakos1993.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -24998,11 +24986,11 @@ const LIBRARY_DATA = {
       "id": 1259
     },
     {
-      "author": "Kleusberg",
-      "year": 2017,
-      "title": "Kleusberg",
-      "filename": "Kleusberg2017.pdf",
-      "category": "16_Theses",
+      "author": "Latheef",
+      "year": 2014,
+      "title": "Latheef",
+      "filename": "Latheef2014.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25014,43 +25002,11 @@ const LIBRARY_DATA = {
       "id": 1260
     },
     {
-      "author": "Koumoutsakos",
-      "year": 1993,
-      "title": "Koumoutsakos",
-      "filename": "Koumoutsakos1993.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1261
-    },
-    {
-      "author": "Latheef",
-      "year": 2014,
-      "title": "Latheef",
-      "filename": "Latheef2014.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1262
-    },
-    {
       "author": "Latheef",
       "year": 2014,
       "title": "Thesis",
       "filename": "Latheef2014_Thesis.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25062,14 +25018,46 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1263
+      "id": 1261
     },
     {
       "author": "Lian",
       "year": 2018,
       "title": "Lian",
       "filename": "Lian2018.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1262
+    },
+    {
+      "author": "Liao",
+      "year": 2000,
+      "title": "Liao",
+      "filename": "Liao2000.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1263
+    },
+    {
+      "author": "Lonfils",
+      "year": 2011,
+      "title": "Lonfils",
+      "filename": "Lonfils2011.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25081,11 +25069,11 @@ const LIBRARY_DATA = {
       "id": 1264
     },
     {
-      "author": "Liao",
-      "year": 2000,
-      "title": "Liao",
-      "filename": "Liao2000.pdf",
-      "category": "16_Theses",
+      "author": "Lynch",
+      "year": 2012,
+      "title": "Lynch",
+      "filename": "Lynch2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25097,11 +25085,11 @@ const LIBRARY_DATA = {
       "id": 1265
     },
     {
-      "author": "Lonfils",
-      "year": 2011,
-      "title": "Lonfils",
-      "filename": "Lonfils2011.pdf",
-      "category": "16_Theses",
+      "author": "Makri",
+      "year": 2018,
+      "title": "Makri",
+      "filename": "Makri2018.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25113,11 +25101,11 @@ const LIBRARY_DATA = {
       "id": 1266
     },
     {
-      "author": "Lynch",
-      "year": 2012,
-      "title": "Lynch",
-      "filename": "Lynch2012.pdf",
-      "category": "16_Theses",
+      "author": "Marcus",
+      "year": 1990,
+      "title": "Marcus",
+      "filename": "Marcus1990.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25129,11 +25117,11 @@ const LIBRARY_DATA = {
       "id": 1267
     },
     {
-      "author": "Makri",
-      "year": 2018,
-      "title": "Makri",
-      "filename": "Makri2018.pdf",
-      "category": "16_Theses",
+      "author": "Masterton",
+      "year": 2007,
+      "title": "Masterton",
+      "filename": "Masterton2007.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25145,43 +25133,11 @@ const LIBRARY_DATA = {
       "id": 1268
     },
     {
-      "author": "Marcus",
-      "year": 1990,
-      "title": "Marcus",
-      "filename": "Marcus1990.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1269
-    },
-    {
-      "author": "Masterton",
-      "year": 2007,
-      "title": "Masterton",
-      "filename": "Masterton2007.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1270
-    },
-    {
       "author": "",
       "year": 2020,
       "title": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory",
       "filename": "Mendes (2020) (PhD Thesis)_On the Statistics of Oceanic Rogue Waves in Finite Depth_Exceeding Probabilities, Physical Constraints and Extreme Value Theory.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25196,14 +25152,46 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1271
+      "id": 1269
     },
     {
       "author": "Mikkelsen",
       "year": 2003,
       "title": "Mikkelsen",
       "filename": "Mikkelsen2003.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1270
+    },
+    {
+      "author": "Milthaler",
+      "year": 2015,
+      "title": "Milthaler",
+      "filename": "Milthaler2015.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1271
+    },
+    {
+      "author": "Morgenthal",
+      "year": 2002,
+      "title": "Morgenthal",
+      "filename": "Morgenthal2002.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25215,11 +25203,11 @@ const LIBRARY_DATA = {
       "id": 1272
     },
     {
-      "author": "Milthaler",
-      "year": 2015,
-      "title": "Milthaler",
-      "filename": "Milthaler2015.pdf",
-      "category": "16_Theses",
+      "author": "Myrtroeen",
+      "year": 2012,
+      "title": "Myrtroeen",
+      "filename": "Myrtroeen2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25231,11 +25219,11 @@ const LIBRARY_DATA = {
       "id": 1273
     },
     {
-      "author": "Morgenthal",
-      "year": 2002,
-      "title": "Morgenthal",
-      "filename": "Morgenthal2002.pdf",
-      "category": "16_Theses",
+      "author": "Osalusi",
+      "year": 2010,
+      "title": "Osalusi",
+      "filename": "Osalusi2010.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25247,11 +25235,11 @@ const LIBRARY_DATA = {
       "id": 1274
     },
     {
-      "author": "Myrtroeen",
-      "year": 2012,
-      "title": "Myrtroeen",
-      "filename": "Myrtroeen2012.pdf",
-      "category": "16_Theses",
+      "author": "Padilla",
+      "year": 2019,
+      "title": "Padilla",
+      "filename": "Padilla2019.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25263,11 +25251,11 @@ const LIBRARY_DATA = {
       "id": 1275
     },
     {
-      "author": "Osalusi",
-      "year": 2010,
-      "title": "Osalusi",
-      "filename": "Osalusi2010.pdf",
-      "category": "16_Theses",
+      "author": "Pechlivanoglou",
+      "year": 2013,
+      "title": "Pechlivanoglou",
+      "filename": "Pechlivanoglou2013.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25279,11 +25267,11 @@ const LIBRARY_DATA = {
       "id": 1276
     },
     {
-      "author": "Padilla",
-      "year": 2019,
-      "title": "Padilla",
-      "filename": "Padilla2019.pdf",
-      "category": "16_Theses",
+      "author": "Peric",
+      "year": 2012,
+      "title": "Peric",
+      "filename": "Peric2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25295,11 +25283,11 @@ const LIBRARY_DATA = {
       "id": 1277
     },
     {
-      "author": "Pechlivanoglou",
-      "year": 2013,
-      "title": "Pechlivanoglou",
-      "filename": "Pechlivanoglou2013.pdf",
-      "category": "16_Theses",
+      "author": "Radomski",
+      "year": 2009,
+      "title": "Radomski",
+      "filename": "Radomski2009.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25311,11 +25299,11 @@ const LIBRARY_DATA = {
       "id": 1278
     },
     {
-      "author": "Peric",
-      "year": 2012,
-      "title": "Peric",
-      "filename": "Peric2012.pdf",
-      "category": "16_Theses",
+      "author": "Roos",
+      "year": 2011,
+      "title": "Roos",
+      "filename": "Roos2011.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25327,11 +25315,11 @@ const LIBRARY_DATA = {
       "id": 1279
     },
     {
-      "author": "Radomski",
-      "year": 2009,
-      "title": "Radomski",
-      "filename": "Radomski2009.pdf",
-      "category": "16_Theses",
+      "author": "Rossi",
+      "year": 2014,
+      "title": "Rossi",
+      "filename": "Rossi2014.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25343,11 +25331,11 @@ const LIBRARY_DATA = {
       "id": 1280
     },
     {
-      "author": "Roos",
-      "year": 2011,
-      "title": "Roos",
-      "filename": "Roos2011.pdf",
-      "category": "16_Theses",
+      "author": "Rubel",
+      "year": 2007,
+      "title": "Rubel",
+      "filename": "Rubel2007.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25359,11 +25347,11 @@ const LIBRARY_DATA = {
       "id": 1281
     },
     {
-      "author": "Rossi",
+      "author": "Sarlak",
       "year": 2014,
-      "title": "Rossi",
-      "filename": "Rossi2014.pdf",
-      "category": "16_Theses",
+      "title": "Sarlak",
+      "filename": "Sarlak2014.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25375,11 +25363,11 @@ const LIBRARY_DATA = {
       "id": 1282
     },
     {
-      "author": "Rubel",
-      "year": 2007,
-      "title": "Rubel",
-      "filename": "Rubel2007.pdf",
-      "category": "16_Theses",
+      "author": "Sheel",
+      "year": 2008,
+      "title": "Sheel",
+      "filename": "Sheel2008.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25391,11 +25379,11 @@ const LIBRARY_DATA = {
       "id": 1283
     },
     {
-      "author": "Sarlak",
-      "year": 2014,
-      "title": "Sarlak",
-      "filename": "Sarlak2014.pdf",
-      "category": "16_Theses",
+      "author": "Sheikh",
+      "year": 2004,
+      "title": "Sheikh",
+      "filename": "Sheikh2004.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25407,11 +25395,11 @@ const LIBRARY_DATA = {
       "id": 1284
     },
     {
-      "author": "Sheel",
-      "year": 2008,
-      "title": "Sheel",
-      "filename": "Sheel2008.pdf",
-      "category": "16_Theses",
+      "author": "Shiels",
+      "year": 1998,
+      "title": "Shiels",
+      "filename": "Shiels1998.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25423,11 +25411,11 @@ const LIBRARY_DATA = {
       "id": 1285
     },
     {
-      "author": "Sheikh",
-      "year": 2004,
-      "title": "Sheikh",
-      "filename": "Sheikh2004.pdf",
-      "category": "16_Theses",
+      "author": "Shrinivas",
+      "year": 2015,
+      "title": "Shrinivas",
+      "filename": "Shrinivas2015.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25439,11 +25427,11 @@ const LIBRARY_DATA = {
       "id": 1286
     },
     {
-      "author": "Shiels",
-      "year": 1998,
-      "title": "Shiels",
-      "filename": "Shiels1998.pdf",
-      "category": "16_Theses",
+      "author": "Sorensen",
+      "year": 1986,
+      "title": "Sorensen",
+      "filename": "Sorensen1986.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25455,11 +25443,11 @@ const LIBRARY_DATA = {
       "id": 1287
     },
     {
-      "author": "Shrinivas",
-      "year": 2015,
-      "title": "Shrinivas",
-      "filename": "Shrinivas2015.pdf",
-      "category": "16_Theses",
+      "author": "Spentza",
+      "year": 2011,
+      "title": "Spentza",
+      "filename": "Spentza2011.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25471,11 +25459,11 @@ const LIBRARY_DATA = {
       "id": 1288
     },
     {
-      "author": "Sorensen",
-      "year": 1986,
-      "title": "Sorensen",
-      "filename": "Sorensen1986.pdf",
-      "category": "16_Theses",
+      "author": "Spinneken",
+      "year": 2012,
+      "title": "Spinneken",
+      "filename": "Spinneken2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25487,11 +25475,11 @@ const LIBRARY_DATA = {
       "id": 1289
     },
     {
-      "author": "Spentza",
-      "year": 2011,
-      "title": "Spentza",
-      "filename": "Spentza2011.pdf",
-      "category": "16_Theses",
+      "author": "Spinneken",
+      "year": 2012,
+      "title": "reduced",
+      "filename": "Spinneken2012_reduced.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25503,43 +25491,11 @@ const LIBRARY_DATA = {
       "id": 1290
     },
     {
-      "author": "Spinneken",
-      "year": 2012,
-      "title": "Spinneken",
-      "filename": "Spinneken2012.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1291
-    },
-    {
-      "author": "Spinneken",
-      "year": 2012,
-      "title": "reduced",
-      "filename": "Spinneken2012_reduced.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1292
-    },
-    {
       "author": "Spinneken et al.",
       "year": 2010,
       "title": "The Operation of Force-controlled Absorbing Wave Machines",
       "filename": "Spinneken_Thesis.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "SNAME 29th American Towing Tank Conference",
@@ -25552,14 +25508,46 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 1293
+      "id": 1291
     },
     {
       "author": "Stock",
       "year": 2006,
       "title": "Stock",
       "filename": "Stock2006.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1292
+    },
+    {
+      "author": "Szopa",
+      "year": 2014,
+      "title": "Szopa",
+      "filename": "Szopa2014.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves"
+      ],
+      "id": 1293
+    },
+    {
+      "author": "Tari",
+      "year": 2012,
+      "title": "Tari",
+      "filename": "Tari2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25571,11 +25559,11 @@ const LIBRARY_DATA = {
       "id": 1294
     },
     {
-      "author": "Szopa",
-      "year": 2014,
-      "title": "Szopa",
-      "filename": "Szopa2014.pdf",
-      "category": "16_Theses",
+      "author": "Tchieu",
+      "year": 2010,
+      "title": "Tchieu",
+      "filename": "Tchieu2010.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25587,11 +25575,11 @@ const LIBRARY_DATA = {
       "id": 1295
     },
     {
-      "author": "Tari",
+      "author": "Thies",
       "year": 2012,
-      "title": "Tari",
-      "filename": "Tari2012.pdf",
-      "category": "16_Theses",
+      "title": "Thies",
+      "filename": "Thies2012.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25603,11 +25591,11 @@ const LIBRARY_DATA = {
       "id": 1296
     },
     {
-      "author": "Tchieu",
-      "year": 2010,
-      "title": "Tchieu",
-      "filename": "Tchieu2010.pdf",
-      "category": "16_Theses",
+      "author": "Vaidhyanathan",
+      "year": 1993,
+      "title": "Vaidhyanathan",
+      "filename": "Vaidhyanathan1993.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25619,11 +25607,11 @@ const LIBRARY_DATA = {
       "id": 1297
     },
     {
-      "author": "Thies",
-      "year": 2012,
-      "title": "Thies",
-      "filename": "Thies2012.pdf",
-      "category": "16_Theses",
+      "author": "Walther",
+      "year": 1994,
+      "title": "Walther",
+      "filename": "Walther1994.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25635,11 +25623,11 @@ const LIBRARY_DATA = {
       "id": 1298
     },
     {
-      "author": "Vaidhyanathan",
-      "year": 1993,
-      "title": "Vaidhyanathan",
-      "filename": "Vaidhyanathan1993.pdf",
-      "category": "16_Theses",
+      "author": "Wilson",
+      "year": 2009,
+      "title": "Wilson",
+      "filename": "Wilson2009.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25651,11 +25639,11 @@ const LIBRARY_DATA = {
       "id": 1299
     },
     {
-      "author": "Walther",
-      "year": 1994,
-      "title": "Walther",
-      "filename": "Walther1994.pdf",
-      "category": "16_Theses",
+      "author": "Winchelmans",
+      "year": 1989,
+      "title": "Winchelmans",
+      "filename": "Winchelmans1989.pdf",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25667,43 +25655,11 @@ const LIBRARY_DATA = {
       "id": 1300
     },
     {
-      "author": "Wilson",
-      "year": 2009,
-      "title": "Wilson",
-      "filename": "Wilson2009.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1301
-    },
-    {
-      "author": "Winchelmans",
-      "year": 1989,
-      "title": "Winchelmans",
-      "filename": "Winchelmans1989.pdf",
-      "category": "16_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1302
-    },
-    {
       "author": "Wist et al.",
       "year": 2004,
       "title": "Statistical properties of successive wave heights and successive wave periods",
       "filename": "Wist (2023) (Thesis)_Statistical properties of successive ocean wave parameters.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "Applied Ocean Research",
@@ -25716,14 +25672,14 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 1303
+      "id": 1301
     },
     {
       "author": "Zhi (Thesis)",
       "year": 2018,
       "title": "AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES",
       "filename": "Zhi (Thesis) (2018)_AN EXTENDED LEAST SQUARES METHOD TO SEPARATE THE INCIDENT AND REFLECTED WAVE FIELDS FOR LONG-CRESTED AND SHORT-CRESTED WAVES.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25736,14 +25692,14 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1304
+      "id": 1302
     },
     {
       "author": "Zve",
       "year": 2022,
       "title": "Zve",
       "filename": "Zve2022.pdf",
-      "category": "16_Theses",
+      "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
       "journal": "",
@@ -25751,6 +25707,50 @@ const LIBRARY_DATA = {
       "hasAnnotation": false,
       "tags": [
         "ocean-waves"
+      ],
+      "id": 1303
+    },
+    {
+      "author": "",
+      "year": 2022,
+      "title": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH",
+      "filename": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH.pdf",
+      "category": "16_Supervision",
+      "categoryShort": "Supervision",
+      "color": "#CDDC39",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "numerical",
+        "random-waves",
+        "surf-zone",
+        "thesis",
+        "varying-depth",
+        "wave-propagation"
+      ],
+      "id": 1304
+    },
+    {
+      "author": "",
+      "year": 2022,
+      "title": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry",
+      "filename": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry.pdf",
+      "category": "16_Supervision",
+      "categoryShort": "Supervision",
+      "color": "#CDDC39",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "directional-spreading",
+        "experimental",
+        "extreme-events",
+        "offshore",
+        "unidirectional",
+        "varying-depth",
+        "wave-forces",
+        "wave-groups"
       ],
       "id": 1305
     },
@@ -27472,18 +27472,18 @@ const LIBRARY_DATA = {
       "description": "Textbooks and handbooks"
     },
     {
-      "id": "15_Supervision",
-      "label": "Supervision",
-      "color": "#CDDC39",
-      "count": 2,
-      "description": "MSc/BSc supervised dissertations and projects"
-    },
-    {
-      "id": "16_Theses",
+      "id": "15_Theses",
       "label": "Theses",
       "color": "#795548",
       "count": 101,
       "description": "Doctoral and other research theses"
+    },
+    {
+      "id": "16_Supervision",
+      "label": "Supervision",
+      "color": "#CDDC39",
+      "count": 2,
+      "description": "MSc/BSc supervised dissertations and projects"
     },
     {
       "id": "Miscellaneous",
@@ -30717,8 +30717,8 @@ const LIBRARY_DATA = {
       "Lab Generation": 2,
       "Signal Processing": 2,
       "Books": 3,
-      "Supervision": 2,
       "Theses": 1,
+      "Supervision": 2,
       "Miscellaneous": 3
     },
     {
@@ -51302,52 +51302,6 @@ const LIBRARY_DATA = {
         "description": "Textbooks and handbooks"
       },
       {
-        "name": "Supervision",
-        "children": [
-          {
-            "name": "(2022)",
-            "title": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH",
-            "author": "",
-            "year": 2022,
-            "filename": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "numerical",
-              "random-waves",
-              "surf-zone",
-              "thesis",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "(2022)",
-            "title": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry",
-            "author": "",
-            "year": 2022,
-            "filename": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "directional-spreading",
-              "experimental",
-              "extreme-events",
-              "offshore",
-              "unidirectional",
-              "varying-depth",
-              "wave-forces",
-              "wave-groups"
-            ]
-          }
-        ],
-        "id": "15_Supervision",
-        "color": "#CDDC39",
-        "description": "MSc/BSc supervised dissertations and projects"
-      },
-      {
         "name": "Theses",
         "children": [
           {
@@ -52728,9 +52682,55 @@ const LIBRARY_DATA = {
             ]
           }
         ],
-        "id": "16_Theses",
+        "id": "15_Theses",
         "color": "#795548",
         "description": "Doctoral and other research theses"
+      },
+      {
+        "name": "Supervision",
+        "children": [
+          {
+            "name": "(2022)",
+            "title": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH",
+            "author": "",
+            "year": 2022,
+            "filename": "Ding (2022) (MSc Dissertation)_Numerical Simulation of Random Wave Propagation over a slope using SWASH.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "numerical",
+              "random-waves",
+              "surf-zone",
+              "thesis",
+              "varying-depth",
+              "wave-propagation"
+            ]
+          },
+          {
+            "name": "(2022)",
+            "title": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry",
+            "author": "",
+            "year": 2022,
+            "filename": "Pujari (2022) (MSc Dissertation)_Experimental Investigation of Wave Statistics over Sloping Bathymetry.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": false,
+            "tags": [
+              "directional-spreading",
+              "experimental",
+              "extreme-events",
+              "offshore",
+              "unidirectional",
+              "varying-depth",
+              "wave-forces",
+              "wave-groups"
+            ]
+          }
+        ],
+        "id": "16_Supervision",
+        "color": "#CDDC39",
+        "description": "MSc/BSc supervised dissertations and projects"
       },
       {
         "name": "Miscellaneous",
