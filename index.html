@@ -831,6 +831,9 @@
         selectedTags: new Set(),
         selectedPaper: null,
         searchQuery: '',
+        clusterSearch: '',
+        authorSearch: '',
+        authorMinPapers: 5,
         simulation: null,
     };
 
@@ -920,6 +923,8 @@
             btn.addEventListener('click', () => {
                 document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
+                state.clusterSearch = '';
+                state.authorSearch = '';
                 renderView(btn.dataset.view);
             });
         });
@@ -1393,6 +1398,7 @@
         const searchBox = document.createElement('input');
         searchBox.type = 'text';
         searchBox.placeholder = 'Search papers...';
+        searchBox.value = state.clusterSearch;
         Object.assign(searchBox.style, {
             position: 'absolute', top: '12px', left: '12px', zIndex: '10',
             padding: '6px 12px', width: '200px', borderRadius: '8px',
@@ -1497,9 +1503,10 @@
                 })
             );
 
-        // Category labels — dynamic, track cluster centroids
+        // Category labels — dynamic, track cluster centroids (only for categories with visible papers)
+        const visibleCats = new Set(nodes.map(n => n.category));
         const catLabels = g.selectAll('.cat-label')
-            .data(LIBRARY_DATA.categories.filter(c => state.selectedCategories.has(c.id)))
+            .data(LIBRARY_DATA.categories.filter(c => state.selectedCategories.has(c.id) && visibleCats.has(c.id)))
             .enter()
             .append('text')
             .attr('class', 'cat-label')
@@ -1537,6 +1544,7 @@
 
         // Search: highlight matching papers, dim the rest
         searchBox.addEventListener('input', () => {
+            state.clusterSearch = searchBox.value;
             const q = searchBox.value.toLowerCase().trim();
             if (!q) {
                 node.attr('fill-opacity', 1).attr('stroke-opacity', 0.5);
@@ -1556,6 +1564,8 @@
                 return (matchIdx.has(si) && matchIdx.has(ti)) ? 0.3 : 0.02;
             });
         });
+        // Re-apply search highlight if text was preserved
+        if (state.clusterSearch) searchBox.dispatchEvent(new Event('input'));
     }
 
     // ---- AUTHOR VIEW ----
@@ -1584,201 +1594,292 @@
         const paperIdsLookup = {};
         LIBRARY_DATA.authors.forEach(a => { fullnameLookup[a.name] = a.fullname; paperIdsLookup[a.name] = a.paperIds || []; });
 
-        const authors = Object.entries(authorCounts)
-            .filter(([_, count]) => count >= 3)
+        const allAuthors = Object.entries(authorCounts)
             .map(([name, count]) => ({ name, fullname: fullnameLookup[name] || name, count, paperIds: paperIdsLookup[name] || [], coauthors: coauthorLinks[name] || {} }))
-            .sort((a, b) => b.count - a.count)
-            .slice(0, 100);
+            .sort((a, b) => b.count - a.count);
+        const maxCount = allAuthors.length ? allAuthors[0].count : 1;
         const width = container.clientWidth;
         const height = container.clientHeight;
+
+        // Controls wrapper
+        const controls = document.createElement('div');
+        Object.assign(controls.style, {
+            position: 'absolute', top: '12px', left: '12px', zIndex: '10',
+            display: 'flex', flexDirection: 'column', gap: '6px',
+        });
+        container.appendChild(controls);
 
         // Author search box
         const searchBox = document.createElement('input');
         searchBox.type = 'text';
         searchBox.placeholder = 'Search authors...';
+        searchBox.value = state.authorSearch;
         Object.assign(searchBox.style, {
-            position: 'absolute', top: '12px', left: '12px', zIndex: '10',
-            padding: '6px 12px', width: '200px', borderRadius: '8px',
+            padding: '6px 12px', width: '240px', borderRadius: '8px',
             border: '1px solid #374151', background: '#1a2236', color: '#e5e7eb',
             fontSize: '12px', outline: 'none',
         });
-        container.appendChild(searchBox);
+        controls.appendChild(searchBox);
+
+        // Min papers slider
+        const sliderWrap = document.createElement('div');
+        Object.assign(sliderWrap.style, {
+            display: 'flex', alignItems: 'center', gap: '6px',
+            background: '#1a2236', borderRadius: '8px', padding: '6px 10px',
+            border: '1px solid #374151',
+        });
+        const sliderLabel = document.createElement('span');
+        sliderLabel.style.color = '#9ca3af';
+        sliderLabel.style.fontSize = '11px';
+        sliderLabel.style.whiteSpace = 'nowrap';
+        sliderLabel.textContent = 'Min. papers';
+        const slider = document.createElement('input');
+        slider.type = 'range';
+        slider.min = '1';
+        slider.max = String(Math.min(maxCount, 20));
+        slider.value = String(state.authorMinPapers);
+        slider.style.flex = '1';
+        slider.style.minWidth = '0';
+        slider.style.accentColor = '#3b82f6';
+        const sliderVal = document.createElement('span');
+        sliderVal.style.color = '#e5e7eb';
+        sliderVal.style.fontSize = '11px';
+        sliderVal.style.minWidth = '14px';
+        sliderVal.textContent = String(state.authorMinPapers);
+        sliderWrap.appendChild(sliderLabel);
+        sliderWrap.appendChild(slider);
+        sliderWrap.appendChild(sliderVal);
+        controls.appendChild(sliderWrap);
 
         const svg = d3.select(container)
             .append('svg')
             .attr('width', width)
             .attr('height', height);
 
-        const g = svg.append('g');
+        let currentSim = null;
 
-        // Build nodes
-        const authorMap = {};
-        authors.forEach((a, i) => { authorMap[a.name] = i; });
+        function buildGraph(minPapers) {
+            const authors = allAuthors.filter(a => a.count >= minPapers);
+            const g = svg.select('g').empty() ? svg.append('g') : svg.select('g');
+            g.selectAll('*').remove();
 
-        const nodes = authors.map(a => ({
-            name: a.name,
-            fullname: a.fullname || a.name,
-            count: a.count,
-            paperIds: a.paperIds,
-            radius: Math.sqrt(a.count) * 6 + 4,
-        }));
+            const authorMap = {};
+            authors.forEach((a, i) => { authorMap[a.name] = i; });
 
-        // Build co-author links
-        const links = [];
-        authors.forEach((a, i) => {
-            Object.entries(a.coauthors).forEach(([coauthor, weight]) => {
-                const j = authorMap[coauthor];
-                if (j !== undefined && j > i) {
-                    links.push({ source: i, target: j, weight });
-                }
-            });
-        });
+            const nodes = authors.map(a => ({
+                name: a.name,
+                fullname: a.fullname || a.name,
+                count: a.count,
+                paperIds: a.paperIds,
+                radius: Math.sqrt(a.count) * 6 + 4,
+            }));
 
-        const sim = d3.forceSimulation(nodes)
-            .force('link', d3.forceLink(links).distance(150).strength(0.02))
-            .force('charge', d3.forceManyBody().strength(-800).distanceMax(500))
-            .force('center', d3.forceCenter(width / 2, height / 2).strength(0.3))
-            .force('collision', d3.forceCollide(d => d.radius + 15));
-
-        const link = g.selectAll('.author-link')
-            .data(links)
-            .enter()
-            .append('line')
-            .attr('stroke', 'rgba(96, 165, 250, 0.5)')
-            .attr('stroke-width', d => Math.max(0.4, Math.sqrt(d.weight) * 0.5))
-            .attr('stroke-opacity', 1);
-
-        const node = g.selectAll('.author-node')
-            .data(nodes)
-            .enter()
-            .append('g')
-            .call(d3.drag()
-                .on('start', (event, d) => {
-                    if (!event.active) sim.alphaTarget(0.3).restart();
-                    d.fx = d.x; d.fy = d.y;
-                    hideTooltip();
-                })
-                .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; hideTooltip(); })
-                .on('end', (event, d) => {
-                    if (!event.active) sim.alphaTarget(0);
-                    d.fx = null; d.fy = null;
-                })
-            );
-
-        node.append('circle')
-            .attr('r', d => d.radius)
-            .attr('fill', '#3b82f6')
-            .attr('fill-opacity', 0.6)
-            .attr('stroke', '#60a5fa')
-            .attr('stroke-width', 1)
-            .style('cursor', 'pointer')
-            .on('mouseenter', (event, d) => {
-                showTooltip(event, d.fullname || d.name, `${d.count} papers`);
-            })
-            .on('mouseleave', () => hideTooltip())
-            .on('click', (event, d) => {
-                // Show author's papers in detail panel
-                const paperIdSet = d.paperIds ? new Set(d.paperIds) : new Set();
-                const authorPapers = LIBRARY_DATA.papers.filter(p => paperIdSet.has(p.id)).sort((a, b) => b.year - a.year);
-                const panel = document.getElementById('detailPanel');
-                panel.classList.remove('empty');
-                panel.innerHTML = `
-                    <div class="category-detail fade-in">
-                        <h2>${d.fullname || d.name}</h2>
-                        <div class="paper-count">${authorPapers.length} papers</div>
-                        <div class="related-section" style="margin-top:16px">
-                            <h3>Papers</h3>
-                            ${authorPapers.map(p => `
-                                <div class="related-item" style="border-left-color:${p.color}" onclick="selectPaper(${p.id})">
-                                    <span class="related-year">(${p.year || '?'})</span>
-                                    ${(p.title || p.filename).slice(0, 80)}${(p.title || p.filename).length > 80 ? '...' : ''}
-                                </div>
-                            `).join('')}
-                        </div>
-                    </div>
-                `;
+            const links = [];
+            authors.forEach((a, i) => {
+                Object.entries(a.coauthors).forEach(([coauthor, weight]) => {
+                    const j = authorMap[coauthor];
+                    if (j !== undefined && j > i) {
+                        links.push({ source: i, target: j, weight });
+                    }
+                });
             });
 
-        node.append('text')
-            .attr('text-anchor', 'middle')
-            .attr('dy', '0.35em')
-            .attr('fill', '#e5e7eb')
-            .attr('font-size', d => Math.max(8, Math.min(12, d.count * 1.5)) + 'px')
-            .attr('pointer-events', 'none')
-            .text(d => d.name.length > 15 ? d.name.slice(0, 12) + '...' : d.name);
+            if (currentSim) currentSim.stop();
+            const sim = d3.forceSimulation(nodes)
+                .force('link', d3.forceLink(links).distance(150).strength(0.02))
+                .force('charge', d3.forceManyBody().strength(-800).distanceMax(500))
+                .force('center', d3.forceCenter(width / 2, height / 2).strength(0.3))
+                .force('collision', d3.forceCollide(d => d.radius + 15));
+            currentSim = sim;
 
-        let userInteracted = false;
-        const zoomBehavior = d3.zoom().scaleExtent([0.1, 5])
-            .on('zoom', (event) => {
-                g.attr('transform', event.transform);
-                if (event.sourceEvent) userInteracted = true;
-            });
-        svg.call(zoomBehavior);
+            const link = g.selectAll('.author-link')
+                .data(links)
+                .enter()
+                .append('line')
+                .attr('stroke', 'rgba(96, 165, 250, 0.5)')
+                .attr('stroke-width', d => Math.max(0.4, Math.sqrt(d.weight) * 0.5))
+                .attr('stroke-opacity', 1);
 
-        sim.on('tick', () => {
-            link
-                .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-                .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
-            node.attr('transform', d => `translate(${d.x},${d.y})`);
-
-            // Auto-fit only until user zooms/drags
-            if (!userInteracted) {
-                const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
-                const minX = Math.min(...xs), maxX = Math.max(...xs);
-                const minY = Math.min(...ys), maxY = Math.max(...ys);
-                const maxR = Math.max(...nodes.map(n => n.radius)) + 10;
-                const bw = (maxX - minX) + maxR * 2 || 1;
-                const bh = (maxY - minY) + maxR * 2 || 1;
-                const scale = Math.min(width / bw, height / bh);
-                const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2;
-                svg.call(zoomBehavior.transform,
-                    d3.zoomIdentity.translate(width/2 - cx*scale, height/2 - cy*scale).scale(scale)
+            const node = g.selectAll('.author-node')
+                .data(nodes)
+                .enter()
+                .append('g')
+                .call(d3.drag()
+                    .on('start', (event, d) => {
+                        if (!event.active) sim.alphaTarget(0.3).restart();
+                        d.fx = d.x; d.fy = d.y;
+                        hideTooltip();
+                    })
+                    .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; hideTooltip(); })
+                    .on('end', (event, d) => {
+                        if (!event.active) sim.alphaTarget(0);
+                        d.fx = null; d.fy = null;
+                    })
                 );
-            }
-        });
 
-        // Author search: highlight matching author + connections, dim the rest
-        searchBox.addEventListener('input', () => {
-            const q = searchBox.value.toLowerCase().trim();
-            if (!q) {
-                // Reset all
+            node.append('circle')
+                .attr('r', d => d.radius)
+                .attr('fill', '#3b82f6')
+                .attr('fill-opacity', 0.6)
+                .attr('stroke', '#60a5fa')
+                .attr('stroke-width', 1)
+                .style('cursor', 'pointer')
+                .on('mouseenter', (event, d) => {
+                    showTooltip(event, d.fullname || d.name, `${d.count} papers`);
+                })
+                .on('mouseleave', () => hideTooltip())
+                .on('click', (event, d) => {
+                    event.stopPropagation();
+                    // Highlight this author + coauthors
+                    highlightAuthor(d.index);
+                    // Show papers in detail panel
+                    const paperIdSet = d.paperIds ? new Set(d.paperIds) : new Set();
+                    const authorPapers = LIBRARY_DATA.papers.filter(p => paperIdSet.has(p.id)).sort((a, b) => b.year - a.year);
+                    const panel = document.getElementById('detailPanel');
+                    panel.classList.remove('empty');
+                    panel.innerHTML = `
+                        <div class="category-detail fade-in">
+                            <h2>${d.fullname || d.name}</h2>
+                            <div class="paper-count">${authorPapers.length} papers</div>
+                            <div class="related-section" style="margin-top:16px">
+                                <h3>Papers</h3>
+                                ${authorPapers.map(p => `
+                                    <div class="related-item" style="border-left-color:${p.color}" onclick="selectPaper(${p.id})">
+                                        <span class="related-year">(${p.year || '?'})</span>
+                                        ${(p.title || p.filename).slice(0, 80)}${(p.title || p.filename).length > 80 ? '...' : ''}
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `;
+                });
+
+            node.append('text')
+                .attr('text-anchor', 'middle')
+                .attr('dy', '0.35em')
+                .attr('fill', '#e5e7eb')
+                .attr('font-size', d => Math.max(8, Math.min(12, d.count * 1.5)) + 'px')
+                .attr('pointer-events', 'none')
+                .text(d => d.name.length > 15 ? d.name.slice(0, 12) + '...' : d.name);
+
+            // Highlight a single author and their coauthors
+            function highlightAuthor(idx) {
+                const matchIdx = new Set([idx]);
+                const connectedIdx = new Set();
+                links.forEach(l => {
+                    const si = typeof l.source === 'object' ? l.source.index : l.source;
+                    const ti = typeof l.target === 'object' ? l.target.index : l.target;
+                    if (si === idx) connectedIdx.add(ti);
+                    if (ti === idx) connectedIdx.add(si);
+                });
+                const visibleIdx = new Set([...matchIdx, ...connectedIdx]);
+                node.select('circle')
+                    .attr('fill-opacity', (d, i) => visibleIdx.has(i) ? 0.8 : 0.08)
+                    .attr('stroke-opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.08);
+                node.select('text')
+                    .attr('opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.05);
+                link.attr('stroke-opacity', d => {
+                    const si = typeof d.source === 'object' ? d.source.index : d.source;
+                    const ti = typeof d.target === 'object' ? d.target.index : d.target;
+                    return (matchIdx.has(si) || matchIdx.has(ti)) && visibleIdx.has(si) && visibleIdx.has(ti) ? 0.5 : 0.02;
+                });
+            }
+
+            function resetHighlight() {
                 node.select('circle').attr('fill-opacity', 0.6).attr('stroke-opacity', 1);
                 node.select('text').attr('opacity', 1);
                 link.attr('stroke-opacity', 0.3);
-                return;
             }
 
-            const matchIdx = new Set();
-            const connectedIdx = new Set();
-
-            nodes.forEach((n, i) => {
-                if (n.name.toLowerCase().includes(q)) matchIdx.add(i);
+            // Click blank space to reset
+            svg.on('click', () => {
+                resetHighlight();
+                searchBox.value = '';
+                state.authorSearch = '';
             });
 
-            // Find connections of matched authors
-            links.forEach(l => {
-                const si = typeof l.source === 'object' ? l.source.index : l.source;
-                const ti = typeof l.target === 'object' ? l.target.index : l.target;
-                if (matchIdx.has(si)) connectedIdx.add(ti);
-                if (matchIdx.has(ti)) connectedIdx.add(si);
+            let userInteracted = false;
+            const zoomBehavior = d3.zoom().scaleExtent([0.1, 5])
+                .on('zoom', (event) => {
+                    g.attr('transform', event.transform);
+                    if (event.sourceEvent) userInteracted = true;
+                });
+            svg.call(zoomBehavior);
+
+            sim.on('tick', () => {
+                link
+                    .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+                    .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+                node.attr('transform', d => `translate(${d.x},${d.y})`);
+
+                if (!userInteracted) {
+                    const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
+                    const minX = Math.min(...xs), maxX = Math.max(...xs);
+                    const minY = Math.min(...ys), maxY = Math.max(...ys);
+                    const maxR = Math.max(...nodes.map(n => n.radius)) + 10;
+                    const bw = (maxX - minX) + maxR * 2 || 1;
+                    const bh = (maxY - minY) + maxR * 2 || 1;
+                    const scale = Math.min(width / bw, height / bh);
+                    const cx = (minX + maxX) / 2, cy = (minY + maxY) / 2;
+                    svg.call(zoomBehavior.transform,
+                        d3.zoomIdentity.translate(width/2 - cx*scale, height/2 - cy*scale).scale(scale)
+                    );
+                }
             });
 
-            const visibleIdx = new Set([...matchIdx, ...connectedIdx]);
+            // Author search: highlight matching author + connections, dim the rest
+            searchBox.addEventListener('input', () => {
+                state.authorSearch = searchBox.value;
+                const q = searchBox.value.toLowerCase().trim();
+                if (!q) {
+                    resetHighlight();
+                    return;
+                }
 
-            node.select('circle')
-                .attr('fill-opacity', (d, i) => visibleIdx.has(i) ? 0.8 : 0.08)
-                .attr('stroke-opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.08);
-            node.select('text')
-                .attr('opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.05);
-            link.attr('stroke-opacity', (d) => {
-                const si = typeof d.source === 'object' ? d.source.index : d.source;
-                const ti = typeof d.target === 'object' ? d.target.index : d.target;
-                return (matchIdx.has(si) || matchIdx.has(ti)) && visibleIdx.has(si) && visibleIdx.has(ti) ? 0.5 : 0.02;
+                const matchIdx = new Set();
+                nodes.forEach((n, i) => {
+                    if (n.name.toLowerCase().includes(q)) matchIdx.add(i);
+                });
+
+                const connectedIdx = new Set();
+                links.forEach(l => {
+                    const si = typeof l.source === 'object' ? l.source.index : l.source;
+                    const ti = typeof l.target === 'object' ? l.target.index : l.target;
+                    if (matchIdx.has(si)) connectedIdx.add(ti);
+                    if (matchIdx.has(ti)) connectedIdx.add(si);
+                });
+
+                const visibleIdx = new Set([...matchIdx, ...connectedIdx]);
+
+                node.select('circle')
+                    .attr('fill-opacity', (d, i) => visibleIdx.has(i) ? 0.8 : 0.08)
+                    .attr('stroke-opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.08);
+                node.select('text')
+                    .attr('opacity', (d, i) => visibleIdx.has(i) ? 1 : 0.05);
+                link.attr('stroke-opacity', (d) => {
+                    const si = typeof d.source === 'object' ? d.source.index : d.source;
+                    const ti = typeof d.target === 'object' ? d.target.index : d.target;
+                    return (matchIdx.has(si) || matchIdx.has(ti)) && visibleIdx.has(si) && visibleIdx.has(ti) ? 0.5 : 0.02;
+                });
             });
+
+            state.simulation = sim;
+        }
+
+        // Slider change rebuilds the graph
+        slider.addEventListener('change', () => {
+            state.authorMinPapers = parseInt(slider.value);
+            sliderVal.textContent = slider.value;
+            buildGraph(state.authorMinPapers);
+            searchBox.dispatchEvent(new Event('input'));
+        });
+        slider.addEventListener('input', () => {
+            sliderVal.textContent = slider.value;
         });
 
+        buildGraph(state.authorMinPapers);
+        if (state.authorSearch) searchBox.dispatchEvent(new Event('input'));
         searchBox.focus();
-        state.simulation = sim;
     }
 
     // ---- TIMELINE VIEW ----

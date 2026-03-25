@@ -3992,15 +3992,15 @@ const LIBRARY_DATA = {
       "id": 195
     },
     {
-      "author": "KHALILI et al.",
-      "year": 2024,
-      "title": "Breaking Wave Statistics In Short-Crested Seas",
+      "author": "Kirby and Derakhti",
+      "year": 2019,
+      "title": "Short-crested wave breaking",
       "filename": "Kirby and Derakhti (2019)_Short-crested wave breaking.pdf",
       "category": "04_Wave_Breaking_and_Dissipation",
       "categoryShort": "Wave Breaking & Dissipation",
       "color": "#F44336",
-      "journal": "CoastLab 2024: Physical Modelling in Coastal Engineering and Science",
-      "doi": "10.59490/coastlab.2024.774",
+      "journal": "",
+      "doi": "",
       "hasAnnotation": false,
       "tags": [
         "coastal",
@@ -7935,15 +7935,15 @@ const LIBRARY_DATA = {
       "id": 393
     },
     {
-      "author": "Christou et al.",
-      "year": 2008,
-      "title": "The interaction of surface water waves with submerged breakwaters",
+      "author": "",
+      "year": 0,
+      "title": "Karmpardakis_Swan_Latheef_Christou_Estimation_of_directional_spreading_within_surface_water_waves",
       "filename": "Karmpardakis_Swan_Latheef_Christou_Estimation_of_directional_spreading_within_surface_water_waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
       "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
-      "journal": "Coastal Engineering",
-      "doi": "10.1016/j.coastaleng.2008.02.014",
+      "journal": "",
+      "doi": "",
       "hasAnnotation": false,
       "tags": [
         "breakwater",
@@ -26346,6 +26346,157 @@ const LIBRARY_DATA = {
   ],
   "authors": [
     {
+      "name": "Liu",
+      "fullname": "Liu, Philip L. -F.",
+      "count": 50,
+      "paperIds": [
+        20,
+        41,
+        111,
+        120,
+        121,
+        198,
+        206,
+        227,
+        280,
+        286,
+        306,
+        395,
+        439,
+        483,
+        518,
+        536,
+        627,
+        644,
+        646,
+        648,
+        650,
+        658,
+        696,
+        747,
+        749,
+        751,
+        763,
+        769,
+        805,
+        821,
+        841,
+        879,
+        899,
+        900,
+        901,
+        902,
+        925,
+        929,
+        932,
+        947,
+        962,
+        963,
+        964,
+        1010,
+        1119,
+        1296,
+        1297,
+        1301,
+        1316,
+        1330
+      ],
+      "coauthors": {
+        "Gao": 1,
+        "Wu": 3,
+        "Chen": 6,
+        "Xu": 4,
+        "Zhao": 2,
+        "Wang": 12,
+        "Zhu": 2,
+        "Jia": 4,
+        "Onat": 1,
+        "Cifuentes-Lorenzen": 1,
+        "Ilia": 1,
+        "McCardell": 1,
+        "Fake": 1,
+        "O’Donnell": 1,
+        "Zhang": 6,
+        "Li": 13,
+        "Gatin": 1,
+        "Obhrai": 1,
+        "Ong": 1,
+        "Jasak": 1,
+        "Pujara": 1,
+        "Miller": 1,
+        "Park": 1,
+        "Baldock": 1,
+        "Lin": 1,
+        "Mo": 2,
+        "Xue": 3,
+        "Yue": 4,
+        "Duan": 3,
+        "Ma": 2,
+        "Huang": 1,
+        "Lan": 1,
+        "Xianyu": 1,
+        "Bi": 1,
+        "Irschik": 1,
+        "Oumeraci": 1,
+        "Qi": 1,
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 1,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Randell": 1,
+        "Vanem": 1,
+        "Jonathan": 1,
+        "Fang": 7,
+        "Dias": 1,
+        "Xü": 1,
+        "Yao": 2,
+        "He": 1,
+        "Tang": 2,
+        "Yin": 1,
+        "Zou": 1,
+        "Yu": 1,
+        "Hu": 1,
+        "Yang": 5,
+        "Zhai": 1,
+        "Jeng": 1,
+        "Dong": 1,
+        "Zang": 1,
+        "Sun": 2,
+        "Luo": 3,
+        "Zhou": 1,
+        "Jin": 1,
+        "Ducrozet": 1,
+        "Guo": 3,
+        "Yuan": 2,
+        "Qin": 1,
+        "Xie": 2,
+        "Zheng": 1,
+        "Rogers": 1,
+        "Babanin": 1,
+        "Young": 1,
+        "Romero": 1,
+        "Zieger": 1,
+        "Qiao": 1,
+        "Guan": 1,
+        "Dai": 1,
+        "Mu": 1,
+        "Yan": 2,
+        "Kennedy": 1,
+        "Tomiczek": 1,
+        "Westerink": 1,
+        "Xiao": 1,
+        "Wei": 1,
+        "Cheng": 1,
+        "Cao": 1,
+        "Huo": 1,
+        "Deng": 1,
+        "Su": 1
+      }
+    },
+    {
       "name": "Wang",
       "fullname": "Wang, Ying-guang",
       "count": 49,
@@ -26468,153 +26619,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Liu",
-      "fullname": "Liu, Philip L. -F.",
-      "count": 47,
-      "paperIds": [
-        20,
-        41,
-        111,
-        120,
-        121,
-        198,
-        206,
-        227,
-        280,
-        306,
-        395,
-        439,
-        483,
-        518,
-        536,
-        627,
-        646,
-        648,
-        650,
-        658,
-        696,
-        747,
-        749,
-        751,
-        763,
-        769,
-        805,
-        841,
-        879,
-        899,
-        900,
-        901,
-        902,
-        925,
-        929,
-        932,
-        947,
-        962,
-        963,
-        964,
-        1010,
-        1119,
-        1296,
-        1297,
-        1301,
-        1316,
-        1330
-      ],
-      "coauthors": {
-        "Gao": 1,
-        "Wu": 2,
-        "Chen": 6,
-        "Xu": 4,
-        "Zhao": 2,
-        "Wang": 12,
-        "Zhu": 2,
-        "Jia": 4,
-        "Onat": 1,
-        "Cifuentes-Lorenzen": 1,
-        "Ilia": 1,
-        "McCardell": 1,
-        "Fake": 1,
-        "O’Donnell": 1,
-        "Zhang": 6,
-        "Li": 13,
-        "Gatin": 1,
-        "Obhrai": 1,
-        "Ong": 1,
-        "Jasak": 1,
-        "Pujara": 1,
-        "Miller": 1,
-        "Park": 1,
-        "Baldock": 1,
-        "Lin": 1,
-        "Mo": 2,
-        "Duan": 3,
-        "Ma": 2,
-        "Huang": 1,
-        "Lan": 1,
-        "Xianyu": 1,
-        "Bi": 1,
-        "Irschik": 1,
-        "Oumeraci": 1,
-        "Qi": 1,
-        "Yue": 1,
-        "Ross": 1,
-        "Astrup": 1,
-        "Bitner-Gregersen": 1,
-        "Bunn": 1,
-        "Feld": 1,
-        "Gouldby": 1,
-        "Huseby": 1,
-        "Randell": 1,
-        "Vanem": 1,
-        "Jonathan": 1,
-        "Fang": 7,
-        "Dias": 1,
-        "Yao": 2,
-        "He": 1,
-        "Tang": 2,
-        "Yin": 1,
-        "Zou": 1,
-        "Yu": 1,
-        "Hu": 1,
-        "Yang": 5,
-        "Zhai": 1,
-        "Jeng": 1,
-        "Dong": 1,
-        "Zang": 1,
-        "Sun": 2,
-        "Luo": 3,
-        "Zhou": 1,
-        "Jin": 1,
-        "Ducrozet": 1,
-        "Guo": 3,
-        "Yuan": 2,
-        "Xue": 1,
-        "Qin": 1,
-        "Xie": 2,
-        "Zheng": 1,
-        "Rogers": 1,
-        "Babanin": 1,
-        "Young": 1,
-        "Romero": 1,
-        "Zieger": 1,
-        "Qiao": 1,
-        "Guan": 1,
-        "Dai": 1,
-        "Mu": 1,
-        "Yan": 2,
-        "Kennedy": 1,
-        "Tomiczek": 1,
-        "Westerink": 1,
-        "Xiao": 1,
-        "Wei": 1,
-        "Cheng": 1,
-        "Cao": 1,
-        "Huo": 1,
-        "Deng": 1,
-        "SU": 1
-      }
-    },
-    {
       "name": "Swan",
       "fullname": "Swan, Chris",
       "count": 42,
@@ -26642,7 +26646,6 @@ const LIBRARY_DATA = {
         362,
         369,
         392,
-        394,
         397,
         422,
         423,
@@ -26651,6 +26654,7 @@ const LIBRARY_DATA = {
         560,
         562,
         563,
+        587,
         588,
         589,
         679,
@@ -26665,7 +26669,7 @@ const LIBRARY_DATA = {
       "coauthors": {
         "Baldock": 3,
         "Karmpadakis": 7,
-        "Christou": 9,
+        "Christou": 8,
         "Gibson": 4,
         "Tromans": 2,
         "Katsardi": 5,
@@ -26681,10 +26685,11 @@ const LIBRARY_DATA = {
         "Ewans": 1,
         "Forristall": 1,
         "Johannessen": 1,
-        "Gudmestad": 1,
         "Masterton": 1,
         "Sheikh": 3,
         "Smith": 1,
+        "Bashir": 1,
+        "Gudmestad": 1,
         "van Langen": 1,
         "Ma": 1
       }
@@ -27052,6 +27057,77 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Taylor",
+      "fullname": "Taylor, R. Eatock",
+      "count": 26,
+      "paperIds": [
+        119,
+        152,
+        235,
+        250,
+        251,
+        379,
+        469,
+        490,
+        589,
+        624,
+        726,
+        772,
+        832,
+        844,
+        848,
+        849,
+        858,
+        870,
+        873,
+        943,
+        979,
+        1318
+      ],
+      "coauthors": {
+        "Whittaker": 1,
+        "Raby": 2,
+        "Fitzgerald": 7,
+        "Orszaghova": 2,
+        "Borthwick": 2,
+        "Adcock": 6,
+        "Yan": 1,
+        "Ma": 1,
+        "Janssen": 1,
+        "Bateman": 3,
+        "Swan": 4,
+        "Hunt": 1,
+        "Stansby": 1,
+        "Feng": 2,
+        "McAllister": 2,
+        "van den Bremer": 2,
+        "Mj": 1,
+        "Bredmose": 1,
+        "van Langen": 1,
+        "Walker": 3,
+        "Eatock Taylor": 1,
+        "Zang": 9,
+        "Draper": 1,
+        "Taylor": 8,
+        "Tang": 1,
+        "Day": 2,
+        "Dai": 2,
+        "Li": 1,
+        "Lin": 1,
+        "Xu": 1,
+        "Grice": 7,
+        "Chen": 2,
+        "Stagonas": 1,
+        "Santo": 2,
+        "Buldakov": 1,
+        "Simons": 1,
+        "Sun": 1,
+        "Morgan": 1,
+        "Tello Ruiz": 1,
+        "Chan": 1
+      }
+    },
+    {
       "name": "Baldock",
       "fullname": "Baldock, Tom E.",
       "count": 25,
@@ -27112,74 +27188,6 @@ const LIBRARY_DATA = {
         "Blenkinsopp": 1,
         "Turner": 1,
         "Birrien": 1
-      }
-    },
-    {
-      "name": "Taylor",
-      "fullname": "Taylor, R. Eatock",
-      "count": 25,
-      "paperIds": [
-        119,
-        152,
-        235,
-        250,
-        251,
-        469,
-        490,
-        589,
-        624,
-        726,
-        772,
-        832,
-        844,
-        848,
-        849,
-        858,
-        870,
-        873,
-        943,
-        979,
-        1318
-      ],
-      "coauthors": {
-        "Whittaker": 1,
-        "Raby": 2,
-        "Fitzgerald": 7,
-        "Orszaghova": 2,
-        "Borthwick": 1,
-        "Adcock": 6,
-        "Yan": 1,
-        "Ma": 1,
-        "Janssen": 1,
-        "Bateman": 3,
-        "Swan": 4,
-        "McAllister": 2,
-        "van den Bremer": 2,
-        "Mj": 1,
-        "Bredmose": 1,
-        "van Langen": 1,
-        "Walker": 3,
-        "Eatock Taylor": 1,
-        "Zang": 9,
-        "Draper": 1,
-        "Taylor": 8,
-        "Feng": 1,
-        "Tang": 1,
-        "Day": 2,
-        "Dai": 2,
-        "Li": 1,
-        "Lin": 1,
-        "Xu": 1,
-        "Grice": 7,
-        "Chen": 2,
-        "Stagonas": 1,
-        "Santo": 2,
-        "Buldakov": 1,
-        "Simons": 1,
-        "Sun": 1,
-        "Morgan": 1,
-        "Tello Ruiz": 1,
-        "Chan": 1
       }
     },
     {
@@ -27400,7 +27408,7 @@ const LIBRARY_DATA = {
     {
       "name": "Karmpadakis",
       "fullname": "Karmpadakis, Ioannis",
-      "count": 15,
+      "count": 16,
       "paperIds": [
         31,
         32,
@@ -27416,11 +27424,50 @@ const LIBRARY_DATA = {
         96,
         97,
         98,
-        99
+        99,
+        744
       ],
       "coauthors": {
         "Swan": 7,
         "Christou": 6
+      }
+    },
+    {
+      "name": "Battjes",
+      "fullname": "Battjes, Jurjen A",
+      "count": 15,
+      "paperIds": [
+        4,
+        5,
+        6,
+        174,
+        175,
+        176,
+        177,
+        231,
+        252,
+        255,
+        611,
+        871,
+        937,
+        1071,
+        1188
+      ],
+      "coauthors": {
+        "Groenendijk": 2,
+        "Janssen": 4,
+        "Stive": 1,
+        "Beji": 2,
+        "Dongeren": 2,
+        "Noorloos": 2,
+        "Steenhauer": 3,
+        "Reniers": 3,
+        "van Dongeren": 1,
+        "van Noorloos": 1,
+        "Steenbergen": 1,
+        "Bosboom": 1,
+        "Klopman": 1,
+        "Roelvink": 1
       }
     },
     {
@@ -27479,77 +27526,9 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Christou",
-      "fullname": "Christou, Marios",
-      "count": 14,
-      "paperIds": [
-        32,
-        34,
-        85,
-        89,
-        97,
-        98,
-        99,
-        292,
-        394,
-        679,
-        1082,
-        1084,
-        1166,
-        1196
-      ],
-      "coauthors": {
-        "Karmpadakis": 6,
-        "Swan": 9,
-        "Gibson": 1,
-        "Feld": 1,
-        "Craciunescu": 2,
-        "Gudmestad": 1,
-        "Hague": 2,
-        "Wu": 1,
-        "Randell": 1,
-        "Ewans": 1,
-        "Jonathan": 1
-      }
-    },
-    {
-      "name": "Battjes",
-      "fullname": "Battjes, Jurjen A",
-      "count": 13,
-      "paperIds": [
-        4,
-        5,
-        6,
-        174,
-        175,
-        176,
-        177,
-        231,
-        255,
-        611,
-        871,
-        937,
-        1188
-      ],
-      "coauthors": {
-        "Groenendijk": 2,
-        "Janssen": 2,
-        "Stive": 1,
-        "Beji": 2,
-        "van Dongeren": 1,
-        "van Noorloos": 1,
-        "Steenhauer": 1,
-        "Steenbergen": 1,
-        "Reniers": 1,
-        "Bosboom": 1,
-        "Klopman": 1,
-        "Roelvink": 1
-      }
-    },
-    {
       "name": "Wu",
       "fullname": "Wu, Thung-Yeh",
-      "count": 13,
+      "count": 14,
       "paperIds": [
         20,
         78,
@@ -27562,13 +27541,14 @@ const LIBRARY_DATA = {
         583,
         638,
         639,
+        821,
         955,
         1166
       ],
       "coauthors": {
         "Gao": 1,
         "Chen": 2,
-        "Liu": 2,
+        "Liu": 3,
         "Xu": 1,
         "Zhao": 1,
         "Wang": 1,
@@ -27581,7 +27561,7 @@ const LIBRARY_DATA = {
         "Chiu": 2,
         "Ma": 2,
         "Qi": 1,
-        "Yue": 1,
+        "Yue": 2,
         "Qu": 1,
         "Sun": 1,
         "Deng": 1,
@@ -27595,6 +27575,38 @@ const LIBRARY_DATA = {
         "Fan": 1,
         "Randell": 1,
         "Christou": 1,
+        "Ewans": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Christou",
+      "fullname": "Christou, Marios",
+      "count": 13,
+      "paperIds": [
+        32,
+        34,
+        85,
+        89,
+        97,
+        98,
+        99,
+        292,
+        679,
+        1082,
+        1084,
+        1166,
+        1196
+      ],
+      "coauthors": {
+        "Karmpadakis": 6,
+        "Swan": 8,
+        "Gibson": 1,
+        "Feld": 1,
+        "Craciunescu": 2,
+        "Hague": 2,
+        "Wu": 1,
+        "Randell": 1,
         "Ewans": 1,
         "Jonathan": 1
       }
@@ -27784,6 +27796,59 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Onorato",
+      "fullname": "Onorato, Miguel",
+      "count": 11,
+      "paperIds": [
+        15,
+        116,
+        242,
+        599,
+        760,
+        770,
+        782,
+        784,
+        801,
+        854,
+        1146
+      ],
+      "coauthors": {
+        "Fernandez": 1,
+        "Monbaliu": 2,
+        "Toffoli": 6,
+        "Bitner-Gregersen": 2,
+        "Babanin": 4,
+        "Cavaleri": 2,
+        "Waseda": 1,
+        "Benoit": 1,
+        "Residori": 1,
+        "Bortolozzo": 1,
+        "Montina": 1,
+        "Arecchi": 1,
+        "Chabchoub": 1,
+        "Kibler": 1,
+        "Finot": 1,
+        "Millot": 1,
+        "Dudley": 1,
+        "Dematteis": 1,
+        "Grafke": 1,
+        "Vanden-Eijnden": 1,
+        "El Koussaifi": 1,
+        "Tikan": 1,
+        "Randoux": 1,
+        "Suret": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Osborne": 2,
+        "Pakozdi": 1,
+        "Serio": 2,
+        "Stansberg": 1,
+        "Trulsen": 1,
+        "Ambrosi": 1
+      }
+    },
+    {
       "name": "Kim",
       "fullname": "Kim, Dong Hyawn",
       "count": 11,
@@ -27917,52 +27982,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Onorato",
-      "fullname": "Onorato, Miguel",
-      "count": 10,
-      "paperIds": [
-        15,
-        116,
-        242,
-        599,
-        760,
-        770,
-        782,
-        784,
-        801,
-        1146
-      ],
-      "coauthors": {
-        "Fernandez": 1,
-        "Monbaliu": 1,
-        "Toffoli": 5,
-        "Bitner-Gregersen": 2,
-        "Babanin": 4,
-        "Cavaleri": 1,
-        "Waseda": 1,
-        "Benoit": 1,
-        "Residori": 1,
-        "Bortolozzo": 1,
-        "Montina": 1,
-        "Arecchi": 1,
-        "Chabchoub": 1,
-        "Kibler": 1,
-        "Finot": 1,
-        "Millot": 1,
-        "Dudley": 1,
-        "Dematteis": 1,
-        "Grafke": 1,
-        "Vanden-Eijnden": 1,
-        "El Koussaifi": 1,
-        "Tikan": 1,
-        "Randoux": 1,
-        "Suret": 1,
-        "Ambrosi": 1,
-        "Osborne": 1,
-        "Serio": 1
-      }
-    },
-    {
       "name": "Longuet-Higgins",
       "fullname": "Longuet-Higgins, Michael Selwyn",
       "count": 10,
@@ -28014,6 +28033,51 @@ const LIBRARY_DATA = {
         "Bitner-Gregersen": 1,
         "Tan": 1,
         "Dong": 1
+      }
+    },
+    {
+      "name": "Toffoli",
+      "fullname": "Toffoli, Alessandro",
+      "count": 9,
+      "paperIds": [
+        15,
+        116,
+        170,
+        599,
+        600,
+        760,
+        801,
+        829,
+        854
+      ],
+      "coauthors": {
+        "Fernandez": 1,
+        "Onorato": 6,
+        "Monbaliu": 2,
+        "Bitner-Gregersen": 2,
+        "Babanin": 2,
+        "Alberello": 1,
+        "Chabchoub": 1,
+        "Monty": 1,
+        "Nelli": 1,
+        "Lee": 1,
+        "Elsnab": 1,
+        "Waseda": 1,
+        "Bitner‐Gregersen": 1,
+        "Benoit": 1,
+        "El Koussaifi": 1,
+        "Tikan": 1,
+        "Randoux": 1,
+        "Suret": 1,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Trulsen": 1
       }
     },
     {
@@ -28076,6 +28140,45 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Trulsen",
+      "fullname": "Trulsen, Karsten",
+      "count": 9,
+      "paperIds": [
+        162,
+        166,
+        167,
+        168,
+        424,
+        554,
+        606,
+        831,
+        854
+      ],
+      "coauthors": {
+        "Kliakhandler": 1,
+        "Dysthe": 1,
+        "Velarde": 1,
+        "Zeng": 4,
+        "Lawrence": 1,
+        "Gramstad": 4,
+        "Simanesew": 1,
+        "Krogstad": 1,
+        "Nieto Borge": 2,
+        "Aouf": 1,
+        "Lefèvre": 1,
+        "Onorato": 1,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Toffoli": 1
+      }
+    },
+    {
       "name": "Buldakov",
       "fullname": "Buldakov, Eugeny",
       "count": 9,
@@ -28101,6 +28204,52 @@ const LIBRARY_DATA = {
         "Santo": 1,
         "Taylor": 1,
         "Zang": 1
+      }
+    },
+    {
+      "name": "Janssen",
+      "fullname": "Janssen, Peter A. E. M.",
+      "count": 9,
+      "paperIds": [
+        176,
+        235,
+        252,
+        389,
+        521,
+        611,
+        798,
+        854,
+        1071
+      ],
+      "coauthors": {
+        "Battjes": 4,
+        "Adcock": 1,
+        "Taylor": 1,
+        "Yan": 1,
+        "Ma": 1,
+        "Dongeren": 2,
+        "Noorloos": 2,
+        "Steenhauer": 3,
+        "Reniers": 3,
+        "Raghukumar": 1,
+        "Chang": 1,
+        "Spada": 1,
+        "Jones": 1,
+        "Gans": 1,
+        "van Dongeren": 1,
+        "van Noorloos": 1,
+        "Steenbergen": 1,
+        "Onorato": 1,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Monbaliu": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Toffoli": 1,
+        "Trulsen": 1
       }
     },
     {
@@ -28219,41 +28368,6 @@ const LIBRARY_DATA = {
         "Sharma": 2,
         "Bender": 1,
         "Dalrymple": 1
-      }
-    },
-    {
-      "name": "Toffoli",
-      "fullname": "Toffoli, Alessandro",
-      "count": 8,
-      "paperIds": [
-        15,
-        116,
-        170,
-        599,
-        600,
-        760,
-        801,
-        829
-      ],
-      "coauthors": {
-        "Fernandez": 1,
-        "Onorato": 5,
-        "Monbaliu": 1,
-        "Bitner-Gregersen": 2,
-        "Babanin": 2,
-        "Alberello": 1,
-        "Chabchoub": 1,
-        "Monty": 1,
-        "Nelli": 1,
-        "Lee": 1,
-        "Elsnab": 1,
-        "Waseda": 1,
-        "Bitner‐Gregersen": 1,
-        "Benoit": 1,
-        "El Koussaifi": 1,
-        "Tikan": 1,
-        "Randoux": 1,
-        "Suret": 1
       }
     },
     {
@@ -28432,34 +28546,6 @@ const LIBRARY_DATA = {
         "Wang": 1,
         "Liu": 1,
         "Fang": 1
-      }
-    },
-    {
-      "name": "Trulsen",
-      "fullname": "Trulsen, Karsten",
-      "count": 8,
-      "paperIds": [
-        162,
-        166,
-        167,
-        168,
-        424,
-        554,
-        606,
-        831
-      ],
-      "coauthors": {
-        "Kliakhandler": 1,
-        "Dysthe": 1,
-        "Velarde": 1,
-        "Zeng": 4,
-        "Lawrence": 1,
-        "Gramstad": 3,
-        "Simanesew": 1,
-        "Krogstad": 1,
-        "Nieto Borge": 2,
-        "Aouf": 1,
-        "Lefèvre": 1
       }
     },
     {
@@ -28853,6 +28939,39 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Feng",
+      "fullname": "Feng, Xingya",
+      "count": 7,
+      "paperIds": [
+        135,
+        274,
+        322,
+        379,
+        844,
+        847,
+        1206
+      ],
+      "coauthors": {
+        "Casas-Prat": 1,
+        "Wang": 1,
+        "Mori": 1,
+        "Chan": 1,
+        "Shimura": 1,
+        "Hunt": 1,
+        "Taylor": 2,
+        "Borthwick": 1,
+        "Stansby": 1,
+        "Adcock": 1,
+        "Tang": 1,
+        "van den Bremer": 1,
+        "Day": 1,
+        "Dai": 1,
+        "Li": 1,
+        "Lin": 1,
+        "Xu": 1
+      }
+    },
+    {
       "name": "Spinneken",
       "fullname": "Spinneken, Johannes",
       "count": 7,
@@ -28988,6 +29107,30 @@ const LIBRARY_DATA = {
         "Liu": 1,
         "Sun": 1,
         "Xie": 1
+      }
+    },
+    {
+      "name": "Yue",
+      "fullname": "Yue, Dick K. P.",
+      "count": 7,
+      "paperIds": [
+        286,
+        407,
+        408,
+        518,
+        644,
+        821,
+        1168
+      ],
+      "coauthors": {
+        "Liu": 4,
+        "Xue": 2,
+        "Kim": 2,
+        "Qi": 1,
+        "Wu": 2,
+        "Xü": 1,
+        "Zhang": 1,
+        "Hong": 1
       }
     },
     {
@@ -29160,35 +29303,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Feng",
-      "fullname": "Feng, Xingya",
-      "count": 6,
-      "paperIds": [
-        135,
-        274,
-        322,
-        844,
-        847,
-        1206
-      ],
-      "coauthors": {
-        "Casas-Prat": 1,
-        "Wang": 1,
-        "Mori": 1,
-        "Chan": 1,
-        "Shimura": 1,
-        "Adcock": 1,
-        "Tang": 1,
-        "van den Bremer": 1,
-        "Day": 1,
-        "Dai": 1,
-        "Li": 1,
-        "Lin": 1,
-        "Xu": 1,
-        "Taylor": 1
-      }
-    },
-    {
       "name": "Fenton",
       "fullname": "Fenton, John D.",
       "count": 6,
@@ -29205,33 +29319,22 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Janssen",
-      "fullname": "Janssen, Peter A. E. M.",
+      "name": "Schäffer",
+      "fullname": "Schäffer, Hemming A.",
       "count": 6,
       "paperIds": [
-        176,
-        235,
-        389,
-        521,
-        611,
-        798
+        161,
+        217,
+        859,
+        860,
+        903,
+        904
       ],
       "coauthors": {
-        "Battjes": 2,
-        "Adcock": 1,
-        "Taylor": 1,
-        "Yan": 1,
-        "Ma": 1,
-        "Raghukumar": 1,
-        "Chang": 1,
-        "Spada": 1,
-        "Jones": 1,
-        "Gans": 1,
-        "van Dongeren": 1,
-        "van Noorloos": 1,
-        "Steenhauer": 1,
-        "Steenbergen": 1,
-        "Reniers": 1
+        "Steenberg": 2,
+        "Svendsen": 1,
+        "Madsen": 2,
+        "Bingham": 1
       }
     },
     {
@@ -29258,6 +29361,40 @@ const LIBRARY_DATA = {
         "Liu": 2,
         "Li": 1,
         "Cao": 1
+      }
+    },
+    {
+      "name": "Gramstad",
+      "fullname": "Gramstad, Odin",
+      "count": 6,
+      "paperIds": [
+        262,
+        424,
+        606,
+        831,
+        854,
+        1097
+      ],
+      "coauthors": {
+        "Bitner-Gregersen": 1,
+        "Magnusson": 1,
+        "Malila": 1,
+        "Lawrence": 1,
+        "Trulsen": 4,
+        "Nieto Borge": 1,
+        "Aouf": 1,
+        "Lefèvre": 1,
+        "Zeng": 1,
+        "Onorato": 1,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Toffoli": 1
       }
     },
     {
@@ -29374,6 +29511,33 @@ const LIBRARY_DATA = {
       ],
       "coauthors": {
         "Alsina": 4
+      }
+    },
+    {
+      "name": "Stansberg",
+      "fullname": "Stansberg, Carl Trygve",
+      "count": 6,
+      "paperIds": [
+        568,
+        569,
+        570,
+        571,
+        573,
+        854
+      ],
+      "coauthors": {
+        "Kristiansen": 1,
+        "Onorato": 1,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Toffoli": 1,
+        "Trulsen": 1
       }
     },
     {
@@ -29527,6 +29691,25 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Madsen",
+      "fullname": "Madsen, Per A.",
+      "count": 5,
+      "paperIds": [
+        147,
+        452,
+        903,
+        904,
+        1126
+      ],
+      "coauthors": {
+        "Sørensen": 2,
+        "Fuhrman": 1,
+        "Wang": 1,
+        "Schäffer": 2,
+        "Bingham": 1
+      }
+    },
+    {
       "name": "Skjelbreia",
       "fullname": "Skjelbreia, James E.",
       "count": 5,
@@ -29540,24 +29723,6 @@ const LIBRARY_DATA = {
       "coauthors": {
         "Hendrickson": 3,
         "Zelt": 2
-      }
-    },
-    {
-      "name": "Schäffer",
-      "fullname": "Schäffer, Hemming A.",
-      "count": 5,
-      "paperIds": [
-        161,
-        217,
-        859,
-        860,
-        904
-      ],
-      "coauthors": {
-        "Steenberg": 2,
-        "Svendsen": 1,
-        "Madsen": 1,
-        "Bingham": 1
       }
     },
     {
@@ -29651,6 +29816,24 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Belibassakis",
+      "fullname": "Belibassakis, Kostas",
+      "count": 5,
+      "paperIds": [
+        240,
+        256,
+        257,
+        421,
+        1073
+      ],
+      "coauthors": {
+        "Athanassoulis": 1,
+        "Touboul": 4,
+        "Laffitte": 1,
+        "Rey": 1
+      }
+    },
+    {
       "name": "Hu",
       "fullname": "Hu, Liangming",
       "count": 5,
@@ -29679,26 +29862,32 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Gramstad",
-      "fullname": "Gramstad, Odin",
+      "name": "Reniers",
+      "fullname": "Reniers, Ad J.H.M.",
       "count": 5,
       "paperIds": [
-        262,
-        424,
-        606,
-        831,
-        1097
+        252,
+        529,
+        611,
+        938,
+        1071
       ],
       "coauthors": {
-        "Bitner-Gregersen": 1,
-        "Magnusson": 1,
-        "Malila": 1,
-        "Lawrence": 1,
-        "Trulsen": 3,
-        "Nieto Borge": 1,
-        "Aouf": 1,
-        "Lefèvre": 1,
-        "Zeng": 1
+        "Dongeren": 2,
+        "Noorloos": 2,
+        "Steenhauer": 3,
+        "Battjes": 3,
+        "Janssen": 3,
+        "de Ridder": 1,
+        "Smit": 1,
+        "van Dongeren": 2,
+        "McCall": 2,
+        "Nederhoff": 1,
+        "van Noorloos": 1,
+        "Steenbergen": 1,
+        "de Beer": 1,
+        "Long": 1,
+        "Tissier": 1
       }
     },
     {
@@ -29884,6 +30073,17241 @@ const LIBRARY_DATA = {
         "Losada": 2,
         "Stagonas": 3,
         "Buldakov": 3
+      }
+    },
+    {
+      "name": "Yuan",
+      "fullname": "Yuan, Juan-Ming",
+      "count": 5,
+      "paperIds": [
+        377,
+        438,
+        487,
+        841,
+        1316
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Long": 1,
+        "Tung": 1,
+        "Donelan": 1,
+        "Lai": 1,
+        "Lin": 1,
+        "Kao": 1,
+        "Raikar": 1,
+        "Yang": 2,
+        "Chuang": 1,
+        "Syu": 1,
+        "Pan": 1,
+        "Nie": 1,
+        "Wang": 1,
+        "Gu": 1,
+        "Li": 1,
+        "Zhang": 1,
+        "Tang": 1,
+        "Xue": 1,
+        "Liu": 2,
+        "Qin": 1,
+        "Su": 1
+      }
+    },
+    {
+      "name": "Le Mehaute",
+      "fullname": "Le Mehaute, Bernard",
+      "count": 5,
+      "paperIds": [
+        425,
+        426,
+        427,
+        428,
+        432
+      ],
+      "coauthors": {
+        "Wang": 1,
+        "Webb": 1
+      }
+    },
+    {
+      "name": "Johanning",
+      "fullname": "Johanning, Lars",
+      "count": 5,
+      "paperIds": [
+        451,
+        680,
+        730,
+        997,
+        1088
+      ],
+      "coauthors": {
+        "Mackay": 1,
+        "Draycott": 3,
+        "Davey": 3,
+        "Ingram": 3,
+        "Day": 3,
+        "Zhou": 1,
+        "Ning": 1,
+        "Shi": 1,
+        "Liang": 1
+      }
+    },
+    {
+      "name": "Michallet",
+      "fullname": "Michallet, Hervé",
+      "count": 5,
+      "paperIds": [
+        458,
+        459,
+        460,
+        461,
+        755
+      ],
+      "coauthors": {
+        "Martins": 4,
+        "Bonneton": 4,
+        "Rocha": 1,
+        "Silva": 1
+      }
+    },
+    {
+      "name": "Jiang",
+      "fullname": "Jiang, Haoyu",
+      "count": 5,
+      "paperIds": [
+        519,
+        520,
+        583,
+        982,
+        996
+      ],
+      "coauthors": {
+        "Qu": 4,
+        "Sun": 5,
+        "Tang": 2,
+        "Deng": 4,
+        "Chen": 2,
+        "Wen": 1,
+        "Ren": 1,
+        "Kraatz": 3,
+        "Wu": 1,
+        "Zhao": 1,
+        "Mu": 1
+      }
+    },
+    {
+      "name": "Yao",
+      "fullname": "Yao, Jinyu",
+      "count": 5,
+      "paperIds": [
+        646,
+        647,
+        751,
+        926,
+        944
+      ],
+      "coauthors": {
+        "He": 1,
+        "Tang": 1,
+        "Liu": 2,
+        "Zhang": 2,
+        "Yang": 1,
+        "Becker": 1,
+        "Merrifield": 1,
+        "Chen": 1,
+        "Guo": 1,
+        "Jia": 1
+      }
+    },
+    {
+      "name": "Day",
+      "fullname": "Day, Sandy",
+      "count": 5,
+      "paperIds": [
+        680,
+        730,
+        844,
+        979,
+        1088
+      ],
+      "coauthors": {
+        "Draycott": 3,
+        "Davey": 3,
+        "Ingram": 3,
+        "Johanning": 3,
+        "Adcock": 1,
+        "Feng": 1,
+        "Tang": 1,
+        "van den Bremer": 1,
+        "Dai": 2,
+        "Li": 1,
+        "Lin": 1,
+        "Xu": 1,
+        "Taylor": 2,
+        "Santo": 1,
+        "Chan": 1
+      }
+    },
+    {
+      "name": "Grice",
+      "fullname": "Grice, J.",
+      "count": 5,
+      "paperIds": [
+        848,
+        849,
+        858,
+        943,
+        1210
+      ],
+      "coauthors": {
+        "Fitzgerald": 3,
+        "Taylor": 7,
+        "Zang": 4,
+        "Chen": 1,
+        "Sun": 1,
+        "Morgan": 1,
+        "Orszaghova": 1,
+        "Tello Ruiz": 1
+      }
+    },
+    {
+      "name": "Soares",
+      "fullname": "Soares, Carlos Guedes",
+      "count": 4,
+      "paperIds": [
+        1,
+        45,
+        661,
+        840
+      ],
+      "coauthors": {
+        "Arena": 1,
+        "Lucas": 1,
+        "Zhang": 2,
+        "Liao": 1,
+        "Shi": 2,
+        "Babanin": 1
+      }
+    },
+    {
+      "name": "Duan",
+      "fullname": "Duan, YongLiang",
+      "count": 4,
+      "paperIds": [
+        28,
+        306,
+        658
+      ],
+      "coauthors": {
+        "Hou": 1,
+        "Chen": 2,
+        "Qi": 1,
+        "Song": 1,
+        "Si": 1,
+        "Ma": 2,
+        "Huang": 2,
+        "Liu": 3,
+        "Duan": 2,
+        "Zhang": 1,
+        "Zhai": 1,
+        "Wang": 2,
+        "Jeng": 1
+      }
+    },
+    {
+      "name": "Mendez",
+      "fullname": "Mendez",
+      "count": 4,
+      "paperIds": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Myrhaug",
+      "fullname": "Myrhaug, D.S.",
+      "count": 4,
+      "paperIds": [
+        57,
+        412,
+        484,
+        1273
+      ],
+      "coauthors": {
+        "Fouques": 1,
+        "Kjeldsen": 2,
+        "Wist": 1,
+        "Rue": 1
+      }
+    },
+    {
+      "name": "Hughes",
+      "fullname": "Hughes, Michael G.",
+      "count": 4,
+      "paperIds": [
+        61,
+        742,
+        1027,
+        1106
+      ],
+      "coauthors": {
+        "Power": 2,
+        "Nielsen": 1,
+        "Aagaard": 2,
+        "Baldock": 2
+      }
+    },
+    {
+      "name": "Tromans",
+      "fullname": "Tromans, Peter S.",
+      "count": 4,
+      "paperIds": [
+        84,
+        369,
+        592,
+        604
+      ],
+      "coauthors": {
+        "Gibson": 1,
+        "Swan": 2,
+        "Hennig": 1,
+        "Scharnke": 1,
+        "Hagen": 1,
+        "Ewans": 1,
+        "Forristall": 1,
+        "Tang": 1,
+        "Adcock": 1,
+        "Hagemeijer": 1,
+        "Wassink": 1
+      }
+    },
+    {
+      "name": "Lian",
+      "fullname": "Lian, Gunnar",
+      "count": 4,
+      "paperIds": [
+        110,
+        435,
+        581,
+        1235
+      ],
+      "coauthors": {
+        "Vestbøstad": 1,
+        "Økland": 1,
+        "Stavang": 1,
+        "Storheim": 1
+      }
+    },
+    {
+      "name": "Fitzgerald",
+      "fullname": "Fitzgerald, C. J.",
+      "count": 4,
+      "paperIds": [
+        119,
+        848,
+        849,
+        858
+      ],
+      "coauthors": {
+        "Whittaker": 1,
+        "Raby": 1,
+        "Taylor": 7,
+        "Grice": 3,
+        "Zang": 3
+      }
+    },
+    {
+      "name": "Romolo",
+      "fullname": "Romolo, Alessandra",
+      "count": 4,
+      "paperIds": [
+        124,
+        717,
+        720,
+        1151
+      ],
+      "coauthors": {
+        "Arena": 4,
+        "Ascanelli": 1,
+        "Nava": 1,
+        "Pavone": 1,
+        "Voermans": 1,
+        "Laface": 1,
+        "Babanin": 1
+      }
+    },
+    {
+      "name": "Kasparian",
+      "fullname": "Kasparian, Jérôme",
+      "count": 4,
+      "paperIds": [
+        132,
+        472,
+        792,
+        816
+      ],
+      "coauthors": {
+        "Eeltink": 2,
+        "Branger": 2,
+        "Luneau": 1,
+        "He": 1,
+        "Chabchoub": 2,
+        "van den Bremer": 1,
+        "Sapsis": 1,
+        "Mendes": 2,
+        "Lemoine": 1,
+        "Kimmoun": 1,
+        "Kharif": 1,
+        "Carter": 1,
+        "Brunetti": 2,
+        "Scotti": 1
+      }
+    },
+    {
+      "name": "van den Bremer",
+      "fullname": "van den Bremer, Ton S.",
+      "count": 4,
+      "paperIds": [
+        132,
+        469,
+        511,
+        844
+      ],
+      "coauthors": {
+        "Eeltink": 1,
+        "Branger": 1,
+        "Luneau": 1,
+        "He": 1,
+        "Chabchoub": 1,
+        "Kasparian": 1,
+        "Sapsis": 1,
+        "McAllister": 1,
+        "Adcock": 3,
+        "Taylor": 2,
+        "Zheng": 1,
+        "Lin": 2,
+        "Li": 3,
+        "Feng": 1,
+        "Tang": 1,
+        "Day": 1,
+        "Dai": 1,
+        "Xu": 1
+      }
+    },
+    {
+      "name": "Sapsis",
+      "fullname": "Sapsis, Themistoklis P.",
+      "count": 4,
+      "paperIds": [
+        132,
+        290,
+        291,
+        820
+      ],
+      "coauthors": {
+        "Eeltink": 1,
+        "Branger": 1,
+        "Luneau": 1,
+        "He": 1,
+        "Chabchoub": 1,
+        "Kasparian": 1,
+        "van den Bremer": 1,
+        "Cousins": 2
+      }
+    },
+    {
+      "name": "Klopman",
+      "fullname": "Klopman, Gert",
+      "count": 4,
+      "paperIds": [
+        145,
+        692,
+        871,
+        1114
+      ],
+      "coauthors": {
+        "van Leeuwen": 1,
+        "Meer": 1,
+        "Bosboom": 1,
+        "Roelvink": 1,
+        "Battjes": 1
+      }
+    },
+    {
+      "name": "Ertekin",
+      "fullname": "Ertekin, R. Cengiz",
+      "count": 4,
+      "paperIds": [
+        153,
+        409,
+        433,
+        645
+      ],
+      "coauthors": {
+        "Hayatdavoodi": 2,
+        "Kim": 2,
+        "Kyoung": 1,
+        "Bai": 1,
+        "Li": 1,
+        "Yang": 1
+      }
+    },
+    {
+      "name": "Banner",
+      "fullname": "Banner, Michael L.",
+      "count": 4,
+      "paperIds": [
+        173,
+        184,
+        214,
+        215
+      ],
+      "coauthors": {
+        "Barthelemy": 2,
+        "Peirson": 3,
+        "Fedele": 1,
+        "Allis": 3,
+        "Dias": 1,
+        "Derakhti": 1,
+        "Kirby": 1,
+        "Grilli": 1,
+        "Thomson": 1,
+        "Saket": 2
+      }
+    },
+    {
+      "name": "Callaghan",
+      "fullname": "Callaghan, Adrian H.",
+      "count": 4,
+      "paperIds": [
+        181,
+        183,
+        204,
+        246
+      ],
+      "coauthors": {
+        "Deane": 1,
+        "Stokes": 1,
+        "Power": 1,
+        "Baldock": 2,
+        "Nielsen": 1,
+        "Shabani": 1,
+        "Hu": 1,
+        "Mumby": 1
+      }
+    },
+    {
+      "name": "Kirby",
+      "fullname": "Kirby, James T.",
+      "count": 4,
+      "paperIds": [
+        184,
+        196,
+        467,
+        924
+      ],
+      "coauthors": {
+        "Derakhti": 1,
+        "Banner": 1,
+        "Grilli": 2,
+        "Thomson": 1,
+        "Ma": 1,
+        "Shi": 1,
+        "Wei": 1,
+        "Subramanya": 1
+      }
+    },
+    {
+      "name": "Simons",
+      "fullname": "Simons, Richard",
+      "count": 4,
+      "paperIds": [
+        187,
+        566,
+        759,
+        873
+      ],
+      "coauthors": {
+        "Esandi": 1,
+        "Buldakov": 3,
+        "Stagonas": 4,
+        "Buldacov": 1,
+        "Chen": 1,
+        "Santo": 1,
+        "Taylor": 1,
+        "Zang": 1
+      }
+    },
+    {
+      "name": "Cai",
+      "fullname": "Cai, Feng",
+      "count": 4,
+      "paperIds": [
+        228,
+        229
+      ],
+      "coauthors": {
+        "Zhang": 4,
+        "Li": 4,
+        "Shi": 4,
+        "Zheng": 4,
+        "Cai": 4,
+        "Qi": 4
+      }
+    },
+    {
+      "name": "Cavaleri",
+      "fullname": "Cavaleri, Luigi",
+      "count": 4,
+      "paperIds": [
+        242,
+        497,
+        775,
+        854
+      ],
+      "coauthors": {
+        "Babanin": 1,
+        "Onorato": 2,
+        "Osborne": 2,
+        "Bergamasco": 2,
+        "Serio": 2,
+        "Bianco": 1,
+        "Drago": 1,
+        "Iovenitti": 1,
+        "Viezzoli": 1,
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Guimarães": 1,
+        "Schwendeman": 1,
+        "Sclavo": 1,
+        "Thomson": 1,
+        "Torsello": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Pakozdi": 1,
+        "Stansberg": 1,
+        "Toffoli": 1,
+        "Trulsen": 1
+      }
+    },
+    {
+      "name": "Touboul",
+      "fullname": "Touboul, Julien",
+      "count": 4,
+      "paperIds": [
+        256,
+        257,
+        421,
+        1073
+      ],
+      "coauthors": {
+        "Belibassakis": 4,
+        "Laffitte": 1,
+        "Rey": 1
+      }
+    },
+    {
+      "name": "Teng",
+      "fullname": "Teng, Bin",
+      "count": 4,
+      "paperIds": [
+        267,
+        376,
+        669,
+        710
+      ],
+      "coauthors": {
+        "Zhou": 3,
+        "Ning": 3,
+        "Bai": 3,
+        "Ni": 1
+      }
+    },
+    {
+      "name": "Chan",
+      "fullname": "Chan, Rodney",
+      "count": 4,
+      "paperIds": [
+        274,
+        295,
+        668,
+        979
+      ],
+      "coauthors": {
+        "Casas-Prat": 1,
+        "Wang": 1,
+        "Mori": 1,
+        "Feng": 1,
+        "Shimura": 1,
+        "Dao": 1,
+        "Xu": 1,
+        "Tkalich": 1,
+        "Zhou": 1,
+        "Melville": 1,
+        "Santo": 1,
+        "Taylor": 1,
+        "Dai": 1,
+        "Day": 1
+      }
+    },
+    {
+      "name": "Waseda",
+      "fullname": "Waseda, Takuji",
+      "count": 4,
+      "paperIds": [
+        276,
+        599,
+        764,
+        765
+      ],
+      "coauthors": {
+        "Chabchoub": 2,
+        "Hoffmann": 1,
+        "Tobisch": 1,
+        "Akhmediev": 1,
+        "Toffoli": 1,
+        "Babanin": 1,
+        "Onorato": 1,
+        "Fujimoto": 1,
+        "Kinoshita": 1,
+        "Tamura": 1
+      }
+    },
+    {
+      "name": "Rainey",
+      "fullname": "Rainey, R. C. T.",
+      "count": 4,
+      "paperIds": [
+        277,
+        522,
+        523,
+        1310
+      ],
+      "coauthors": {
+        "Chaplin": 1,
+        "Yemm": 1
+      }
+    },
+    {
+      "name": "Kharif",
+      "fullname": "Kharif, Christian",
+      "count": 4,
+      "paperIds": [
+        282,
+        413,
+        792,
+        823
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Zaleski": 1,
+        "Li": 1,
+        "Talipova": 2,
+        "Giovanangeli": 1,
+        "Eeltink": 1,
+        "Lemoine": 1,
+        "Branger": 1,
+        "Kimmoun": 1,
+        "Carter": 1,
+        "Chabchoub": 1,
+        "Brunetti": 1,
+        "Kasparian": 1,
+        "Slunyaev": 1,
+        "Pelinovsky": 1
+      }
+    },
+    {
+      "name": "Yu",
+      "fullname": "Yu, Caileen",
+      "count": 4,
+      "paperIds": [
+        283,
+        308,
+        650,
+        768
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Duncan": 1,
+        "Cox": 1,
+        "Barbosa": 1,
+        "Lomónaco": 1,
+        "Park": 1,
+        "Alam": 1,
+        "Hu": 1,
+        "Yang": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Ewans",
+      "fullname": "Ewans, Kevin C.",
+      "count": 4,
+      "paperIds": [
+        318,
+        369,
+        737,
+        1166
+      ],
+      "coauthors": {
+        "Hennig": 1,
+        "Scharnke": 1,
+        "Swan": 1,
+        "Hagen": 1,
+        "Tromans": 1,
+        "Forristall": 1,
+        "Wu": 1,
+        "Randell": 1,
+        "Christou": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Grue",
+      "fullname": "Grue, John",
+      "count": 4,
+      "paperIds": [
+        354,
+        355,
+        380,
+        1099
+      ],
+      "coauthors": {
+        "Osyka": 2,
+        "Huseby": 1
+      }
+    },
+    {
+      "name": "Hague",
+      "fullname": "Hague, C.H.",
+      "count": 4,
+      "paperIds": [
+        362,
+        679,
+        1082,
+        1214
+      ],
+      "coauthors": {
+        "Swan": 3,
+        "Christou": 2
+      }
+    },
+    {
+      "name": "Hofland",
+      "fullname": "Hofland, Bas",
+      "count": 4,
+      "paperIds": [
+        374,
+        375,
+        613,
+        933
+      ],
+      "coauthors": {
+        "Chen": 2,
+        "Altomare": 2,
+        "Oosterlo": 2,
+        "van Meerkerk": 1,
+        "Poelma": 1,
+        "Westerweel": 1,
+        "de Almeida": 1
+      }
+    },
+    {
+      "name": "Long",
+      "fullname": "Long, Steven R.",
+      "count": 4,
+      "paperIds": [
+        377,
+        740,
+        741,
+        938
+      ],
+      "coauthors": {
+        "Huang": 3,
+        "Tung": 2,
+        "Donelan": 1,
+        "Yuan": 1,
+        "Lai": 1,
+        "Yuen": 1,
+        "Bliven": 2,
+        "Hwang": 1,
+        "Wang": 1,
+        "de Beer": 1,
+        "McCall": 1,
+        "Tissier": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "Itay",
+      "fullname": "Itay, Uri",
+      "count": 4,
+      "paperIds": [
+        385,
+        386,
+        673,
+        674
+      ],
+      "coauthors": {
+        "Liberzon": 3
+      }
+    },
+    {
+      "name": "Johannessen",
+      "fullname": "Johannessen, Thomas B.",
+      "count": 4,
+      "paperIds": [
+        390,
+        391,
+        392,
+        1222
+      ],
+      "coauthors": {
+        "Lande": 1,
+        "Hagen": 1,
+        "Swan": 1
+      }
+    },
+    {
+      "name": "Sahoo",
+      "fullname": "Sahoo, T.",
+      "count": 4,
+      "paperIds": [
+        393,
+        921,
+        983,
+        989
+      ],
+      "coauthors": {
+        "Kar": 1,
+        "Meylan": 1,
+        "Vijay": 1,
+        "Neelamani": 1,
+        "Tabssum": 1,
+        "Kaligatla": 1,
+        "Mohapatra": 1
+      }
+    },
+    {
+      "name": "Talipova",
+      "fullname": "Talipova, T.",
+      "count": 4,
+      "paperIds": [
+        413,
+        823,
+        1026,
+        1152
+      ],
+      "coauthors": {
+        "Kharif": 2,
+        "Giovanangeli": 1,
+        "Slunyaev": 1,
+        "Pelinovsky": 3,
+        "Sergeeva": 2
+      }
+    },
+    {
+      "name": "Molin",
+      "fullname": "Molin, Bernard",
+      "count": 4,
+      "paperIds": [
+        456,
+        478,
+        479,
+        973
+      ],
+      "coauthors": {
+        "Malenica": 1,
+        "Kimmoun": 1,
+        "Remy": 1,
+        "Chatjigeorgiou": 1
+      }
+    },
+    {
+      "name": "Bonneton",
+      "fullname": "Bonneton, Philippe",
+      "count": 4,
+      "paperIds": [
+        458,
+        459,
+        460,
+        461
+      ],
+      "coauthors": {
+        "Martins": 4,
+        "Michallet": 4
+      }
+    },
+    {
+      "name": "Melville",
+      "fullname": "Melville, W. Kendall",
+      "count": 4,
+      "paperIds": [
+        471,
+        668,
+        745,
+        912
+      ],
+      "coauthors": {
+        "Zhou": 1,
+        "Chan": 1,
+        "Lenain": 1,
+        "Pizzo": 1,
+        "Deike": 1
+      }
+    },
+    {
+      "name": "Phillips",
+      "fullname": "Phillips, O. M.",
+      "count": 4,
+      "paperIds": [
+        506,
+        508,
+        509,
+        510
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Qu",
+      "fullname": "Qu, K.",
+      "count": 4,
+      "paperIds": [
+        519,
+        520,
+        583,
+        982
+      ],
+      "coauthors": {
+        "Sun": 4,
+        "Tang": 1,
+        "Jiang": 4,
+        "Deng": 4,
+        "Chen": 2,
+        "Wen": 1,
+        "Ren": 1,
+        "Kraatz": 3,
+        "Wu": 1
+      }
+    },
+    {
+      "name": "Wen",
+      "fullname": "Wen, Chih-Chung",
+      "count": 4,
+      "paperIds": [
+        520,
+        1101,
+        1173,
+        1174
+      ],
+      "coauthors": {
+        "Qu": 1,
+        "Ren": 1,
+        "Kraatz": 1,
+        "Sun": 1,
+        "Deng": 1,
+        "Jiang": 1,
+        "Hsu": 1,
+        "Zhang": 2,
+        "Yang": 2,
+        "Prislin": 2,
+        "Hong": 1
+      }
+    },
+    {
+      "name": "Sheikh",
+      "fullname": "Sheikh, Rizwan",
+      "count": 4,
+      "paperIds": [
+        552,
+        588,
+        918,
+        1257
+      ],
+      "coauthors": {
+        "Swan": 3
+      }
+    },
+    {
+      "name": "Srokosz",
+      "fullname": "Srokosz, M. A.",
+      "count": 4,
+      "paperIds": [
+        565,
+        779,
+        780,
+        781
+      ],
+      "coauthors": {
+        "Longuet-Higgins": 1,
+        "Cattrell": 3,
+        "Moat": 3,
+        "Marsh": 3
+      }
+    },
+    {
+      "name": "Suzuki",
+      "fullname": "Suzuki, Tomohiro",
+      "count": 4,
+      "paperIds": [
+        585,
+        945,
+        1021,
+        1095
+      ],
+      "coauthors": {
+        "Altomare": 3,
+        "Yasuda": 1,
+        "Verwaest": 2,
+        "Dan": 1,
+        "Spiesschaert": 1,
+        "Lashley": 1,
+        "Bricker": 1,
+        "van der Meer": 1,
+        "Goda": 1
+      }
+    },
+    {
+      "name": "Draycott",
+      "fullname": "Draycott, Samuel",
+      "count": 4,
+      "paperIds": [
+        680,
+        681,
+        730,
+        1088
+      ],
+      "coauthors": {
+        "Davey": 4,
+        "Ingram": 4,
+        "Day": 3,
+        "Johanning": 3,
+        "Steynor": 1
+      }
+    },
+    {
+      "name": "Brorsen",
+      "fullname": "Brorsen, Michael",
+      "count": 4,
+      "paperIds": [
+        684,
+        685,
+        1091,
+        1092
+      ],
+      "coauthors": {
+        "Frigaard": 4
+      }
+    },
+    {
+      "name": "Chou",
+      "fullname": "Chou, Chun-Ren",
+      "count": 4,
+      "paperIds": [
+        687,
+        688,
+        1102,
+        1105
+      ],
+      "coauthors": {
+        "Huang": 4,
+        "Yim": 4
+      }
+    },
+    {
+      "name": "Yim",
+      "fullname": "Yim, John Z.",
+      "count": 4,
+      "paperIds": [
+        687,
+        688,
+        1102,
+        1105
+      ],
+      "coauthors": {
+        "Huang": 4,
+        "Chou": 4
+      }
+    },
+    {
+      "name": "Medina",
+      "fullname": "Medina, Josep R.",
+      "count": 4,
+      "paperIds": [
+        708,
+        974,
+        1017,
+        1132
+      ],
+      "coauthors": {
+        "Molines": 1,
+        "Herrera": 1,
+        "Gómez-Martín": 1,
+        "Jaramillo": 1,
+        "González": 1,
+        "Turki": 1
+      }
+    },
+    {
+      "name": "Zanuttigh",
+      "fullname": "Zanuttigh, Barbara",
+      "count": 4,
+      "paperIds": [
+        722,
+        948,
+        1169,
+        1170
+      ],
+      "coauthors": {
+        "Lykke Andersen": 2,
+        "Formentin": 1,
+        "van der Meer": 1
+      }
+    },
+    {
+      "name": "Luo",
+      "fullname": "Luo, Hongying",
+      "count": 4,
+      "paperIds": [
+        749,
+        807,
+        902,
+        1301
+      ],
+      "coauthors": {
+        "Liu": 3,
+        "Li": 1,
+        "Koh": 1,
+        "Lee": 1,
+        "Lin": 1,
+        "Reeve": 1,
+        "Dai": 1,
+        "Mu": 1,
+        "Wang": 1,
+        "Chen": 1,
+        "Zhu": 1,
+        "Huo": 1,
+        "Deng": 1
+      }
+    },
+    {
+      "name": "Pelinovsky",
+      "fullname": "Pelinovsky, Efim",
+      "count": 4,
+      "paperIds": [
+        823,
+        1026,
+        1147,
+        1152
+      ],
+      "coauthors": {
+        "Slunyaev": 1,
+        "Kharif": 1,
+        "Talipova": 3,
+        "Sergeeva": 2,
+        "Sergeeva (Kokorina)": 1
+      }
+    },
+    {
+      "name": "Jang",
+      "fullname": "Jang, T.S.",
+      "count": 4,
+      "paperIds": [
+        850,
+        891,
+        892,
+        893
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tran",
+      "fullname": "Tran, Khiem Quang",
+      "count": 4,
+      "paperIds": [
+        919,
+        920
+      ],
+      "coauthors": {
+        "Duong": 4,
+        "Luu": 4,
+        "Tran": 4,
+        "Rattanapitikon": 4
+      }
+    },
+    {
+      "name": "Song",
+      "fullname": "Song, GuiTing",
+      "count": 3,
+      "paperIds": [
+        28,
+        368,
+        806
+      ],
+      "coauthors": {
+        "Hou": 1,
+        "Duan": 1,
+        "Chen": 3,
+        "Qi": 1,
+        "Si": 1,
+        "He": 2,
+        "Vennes": 1,
+        "Mitri": 1,
+        "Lu": 1,
+        "Zhou": 1,
+        "Qin": 1,
+        "Xie": 1,
+        "Lou": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Memos",
+      "fullname": "Memos, Constantine D.",
+      "count": 3,
+      "paperIds": [
+        49,
+        285,
+        970
+      ],
+      "coauthors": {
+        "Tzanis": 1,
+        "Chondros": 1,
+        "Malliouri": 1,
+        "Soukissian": 1,
+        "Tsoukala": 1
+      }
+    },
+    {
+      "name": "Rattanapitikon",
+      "fullname": "Rattanapitikon, Winyu",
+      "count": 3,
+      "paperIds": [
+        62,
+        919,
+        920
+      ],
+      "coauthors": {
+        "Shibayama": 1,
+        "Tran": 4,
+        "Duong": 2,
+        "Luu": 2
+      }
+    },
+    {
+      "name": "Stansell",
+      "fullname": "Stansell, Paul",
+      "count": 3,
+      "paperIds": [
+        65,
+        113,
+        824
+      ],
+      "coauthors": {
+        "Wolfram": 1,
+        "Linfoot": 1
+      }
+    },
+    {
+      "name": "Feld",
+      "fullname": "Feld, Graham",
+      "count": 3,
+      "paperIds": [
+        85,
+        536,
+        1332
+      ],
+      "coauthors": {
+        "Gibson": 1,
+        "Christou": 1,
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 2,
+        "Vanem": 1,
+        "Jonathan": 2,
+        "Towe": 1,
+        "Zanini": 1
+      }
+    },
+    {
+      "name": "de Lutio",
+      "fullname": "de Lutio, L.",
+      "count": 3,
+      "paperIds": [
+        100,
+        101,
+        102
+      ],
+      "coauthors": {
+        "Katsardi": 3,
+        "Swan": 3
+      }
+    },
+    {
+      "name": "Mandal",
+      "fullname": "Mandal, Sourav",
+      "count": 3,
+      "paperIds": [
+        103,
+        1058,
+        1123
+      ],
+      "coauthors": {
+        "Kumar": 1,
+        "Harikrishnan": 1,
+        "Das": 1,
+        "De": 1
+      }
+    },
+    {
+      "name": "Whittaker",
+      "fullname": "Whittaker, C.N.",
+      "count": 3,
+      "paperIds": [
+        118,
+        119,
+        837
+      ],
+      "coauthors": {
+        "Raby": 1,
+        "Fitzgerald": 1,
+        "Taylor": 1
+      }
+    },
+    {
+      "name": "Alkhalidi",
+      "fullname": "Alkhalidi, Mohamad A.",
+      "count": 3,
+      "paperIds": [
+        123,
+        595,
+        596
+      ],
+      "coauthors": {
+        "Tayfun": 3
+      }
+    },
+    {
+      "name": "Guza",
+      "fullname": "Guza, R. T.",
+      "count": 3,
+      "paperIds": [
+        137,
+        1089,
+        1096
+      ],
+      "coauthors": {
+        "Freilich": 1,
+        "Elgar": 2,
+        "Herbers": 1,
+        "Gorrell": 1,
+        "Raubenheimer": 1
+      }
+    },
+    {
+      "name": "Isaacson",
+      "fullname": "Isaacson, Michael De St Q.",
+      "count": 3,
+      "paperIds": [
+        140,
+        691,
+        1109
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Steenberg",
+      "fullname": "Steenberg, Cathrine M.",
+      "count": 3,
+      "paperIds": [
+        141,
+        161,
+        860
+      ],
+      "coauthors": {
+        "Jonsson": 1,
+        "Schäffer": 2
+      }
+    },
+    {
+      "name": "Kuznetsov",
+      "fullname": "Kuznetsov, Sergey",
+      "count": 3,
+      "paperIds": [
+        143,
+        144,
+        758
+      ],
+      "coauthors": {
+        "Saprykina": 3,
+        "Shtremel": 1,
+        "Volvaiker": 1
+      }
+    },
+    {
+      "name": "Saprykina",
+      "fullname": "Saprykina, Yana",
+      "count": 3,
+      "paperIds": [
+        143,
+        144,
+        758
+      ],
+      "coauthors": {
+        "Kuznetsov": 3,
+        "Shtremel": 1,
+        "Volvaiker": 1
+      }
+    },
+    {
+      "name": "Mei",
+      "fullname": "Mei, Chiang C.",
+      "count": 3,
+      "paperIds": [
+        150,
+        733,
+        1133
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Yang": 1,
+        "Gui": 1
+      }
+    },
+    {
+      "name": "Sharma",
+      "fullname": "Sharma, Abhishek",
+      "count": 3,
+      "paperIds": [
+        154,
+        550,
+        551
+      ],
+      "coauthors": {
+        "Dean": 2,
+        "Panchang": 1,
+        "Kaihatu": 1
+      }
+    },
+    {
+      "name": "Sergeeva",
+      "fullname": "Sergeeva, Anna",
+      "count": 3,
+      "paperIds": [
+        155,
+        1026,
+        1152
+      ],
+      "coauthors": {
+        "Shemer": 1,
+        "Liberzon": 1,
+        "Pelinovsky": 2,
+        "Talipova": 2
+      }
+    },
+    {
+      "name": "Hendrickson",
+      "fullname": "Hendrickson, James",
+      "count": 3,
+      "paperIds": [
+        157,
+        158,
+        329
+      ],
+      "coauthors": {
+        "Skjelbreia": 3
+      }
+    },
+    {
+      "name": "Randall",
+      "fullname": "Randall, Robert E.",
+      "count": 3,
+      "paperIds": [
+        169,
+        1153,
+        1172
+      ],
+      "coauthors": {
+        "Zhang": 3,
+        "Chen": 2,
+        "Ye": 2,
+        "Spell": 1
+      }
+    },
+    {
+      "name": "Peirson",
+      "fullname": "Peirson, William L.",
+      "count": 3,
+      "paperIds": [
+        173,
+        214,
+        215
+      ],
+      "coauthors": {
+        "Barthelemy": 2,
+        "Banner": 3,
+        "Fedele": 1,
+        "Allis": 3,
+        "Dias": 1,
+        "Saket": 2
+      }
+    },
+    {
+      "name": "Allis",
+      "fullname": "Allis, Michael J.",
+      "count": 3,
+      "paperIds": [
+        173,
+        214,
+        215
+      ],
+      "coauthors": {
+        "Barthelemy": 2,
+        "Banner": 3,
+        "Peirson": 3,
+        "Fedele": 1,
+        "Dias": 1,
+        "Saket": 2
+      }
+    },
+    {
+      "name": "Thomson",
+      "fullname": "Thomson, Jim",
+      "count": 3,
+      "paperIds": [
+        184,
+        545,
+        775
+      ],
+      "coauthors": {
+        "Derakhti": 1,
+        "Kirby": 1,
+        "Banner": 1,
+        "Grilli": 1,
+        "Schwendeman": 2,
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Guimarães": 1,
+        "Sclavo": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Svendsen",
+      "fullname": "Svendsen, Ib A.",
+      "count": 3,
+      "paperIds": [
+        217,
+        353,
+        913
+      ],
+      "coauthors": {
+        "Schäffer": 1,
+        "Grilli": 1,
+        "Skourup": 1,
+        "Peregrine": 1
+      }
+    },
+    {
+      "name": "Bonnefoy",
+      "fullname": "Bonnefoy, Félicien",
+      "count": 3,
+      "paperIds": [
+        219,
+        307,
+        817
+      ],
+      "coauthors": {
+        "Seiffert": 1,
+        "Ducrozet": 3,
+        "Perignon": 1,
+        "Michel": 1,
+        "Falcon": 1
+      }
+    },
+    {
+      "name": "Filipot",
+      "fullname": "Filipot, Jean-Francois",
+      "count": 3,
+      "paperIds": [
+        225,
+        597,
+        614
+      ],
+      "coauthors": {
+        "Varing": 2,
+        "Grilli": 1,
+        "Duarte": 2,
+        "Roeber": 2,
+        "Yates": 1,
+        "Thiébaut": 1,
+        "Maisondieu": 1,
+        "Damblans": 1,
+        "Droniou": 1,
+        "Guillou": 1,
+        "Delpey": 1,
+        "Guitton": 1,
+        "Collard": 1,
+        "Platzer": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Holthuijsen",
+      "fullname": "Holthuijsen, Leo H.",
+      "count": 3,
+      "paperIds": [
+        232,
+        515,
+        1100
+      ],
+      "coauthors": {
+        "Salmon": 1,
+        "Casas‐Prat": 1
+      }
+    },
+    {
+      "name": "Moore",
+      "fullname": "Moore, Nicholas J.",
+      "count": 3,
+      "paperIds": [
+        233,
+        1078,
+        1127
+      ],
+      "coauthors": {
+        "Bolles": 2,
+        "Majda": 2,
+        "Qi": 2,
+        "Speer": 1
+      }
+    },
+    {
+      "name": "Steenhauer",
+      "fullname": "Steenhauer, Kate",
+      "count": 3,
+      "paperIds": [
+        252,
+        611,
+        1071
+      ],
+      "coauthors": {
+        "Dongeren": 2,
+        "Noorloos": 2,
+        "Battjes": 3,
+        "Janssen": 3,
+        "Reniers": 3,
+        "van Dongeren": 1,
+        "van Noorloos": 1,
+        "Steenbergen": 1
+      }
+    },
+    {
+      "name": "Bergamasco",
+      "fullname": "Bergamasco, Filippo",
+      "count": 3,
+      "paperIds": [
+        259,
+        497,
+        775
+      ],
+      "coauthors": {
+        "Osborne": 1,
+        "Serio": 1,
+        "Bianco": 1,
+        "Cavaleri": 2,
+        "Drago": 1,
+        "Iovenitti": 1,
+        "Viezzoli": 1,
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Guimarães": 1,
+        "Schwendeman": 1,
+        "Sclavo": 1,
+        "Thomson": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Bullock",
+      "fullname": "Bullock, G. N.",
+      "count": 3,
+      "paperIds": [
+        268,
+        270,
+        271
+      ],
+      "coauthors": {
+        "Bredmose": 2,
+        "Hogg": 1,
+        "Crawford": 1,
+        "Hewson": 1,
+        "Walkden": 1,
+        "Bird": 1,
+        "Obhrai": 1,
+        "Peregrine": 1
+      }
+    },
+    {
+      "name": "Morgan",
+      "fullname": "Morgan, Gerald Charles John",
+      "count": 3,
+      "paperIds": [
+        284,
+        481,
+        943
+      ],
+      "coauthors": {
+        "Chen": 2,
+        "Zang": 3,
+        "Hillis": 1,
+        "Plummer": 1,
+        "Greaves": 1,
+        "Heath": 1,
+        "Whitlow": 1,
+        "Young": 1,
+        "Taylor": 1,
+        "Sun": 1,
+        "Grice": 1,
+        "Orszaghova": 1,
+        "Tello Ruiz": 1
+      }
+    },
+    {
+      "name": "Xue",
+      "fullname": "Xue, Hongxiang",
+      "count": 3,
+      "paperIds": [
+        286,
+        644,
+        841
+      ],
+      "coauthors": {
+        "Liu": 3,
+        "Yue": 2,
+        "Xü": 1,
+        "Zhang": 1,
+        "Yuan": 1,
+        "Tang": 1,
+        "Qin": 1
+      }
+    },
+    {
+      "name": "Cousins",
+      "fullname": "Cousins, Will",
+      "count": 3,
+      "paperIds": [
+        290,
+        291,
+        734
+      ],
+      "coauthors": {
+        "Sapsis": 2
+      }
+    },
+    {
+      "name": "Herbers",
+      "fullname": "Herbers, T. H. C.",
+      "count": 3,
+      "paperIds": [
+        370,
+        371,
+        1089
+      ],
+      "coauthors": {
+        "Burton": 2,
+        "Elgar": 1,
+        "Guza": 1
+      }
+    },
+    {
+      "name": "Lara",
+      "fullname": "Lara, Javier L.",
+      "count": 3,
+      "paperIds": [
+        372,
+        877,
+        966
+      ],
+      "coauthors": {
+        "Higuera": 2,
+        "Losada": 3,
+        "Lucio": 1,
+        "Tomás": 1,
+        "Camus": 1
+      }
+    },
+    {
+      "name": "Losada",
+      "fullname": "Losada, Inigo J.",
+      "count": 3,
+      "paperIds": [
+        372,
+        877,
+        966
+      ],
+      "coauthors": {
+        "Higuera": 2,
+        "Lara": 3,
+        "Lucio": 1,
+        "Tomás": 1,
+        "Camus": 1
+      }
+    },
+    {
+      "name": "Iafrati",
+      "fullname": "Iafrati, A.",
+      "count": 3,
+      "paperIds": [
+        381,
+        382,
+        383
+      ],
+      "coauthors": {
+        "De Vita": 1,
+        "Verzicco": 1,
+        "Di Mascio": 1,
+        "Campana": 1
+      }
+    },
+    {
+      "name": "Fuhrman",
+      "fullname": "Fuhrman, David R.",
+      "count": 3,
+      "paperIds": [
+        387,
+        452,
+        1317
+      ],
+      "coauthors": {
+        "Jacobsen": 1,
+        "Fredsøe": 1,
+        "Madsen": 1,
+        "Wang": 1,
+        "Sui": 1,
+        "Staunstrup": 1,
+        "Carstensen": 1
+      }
+    },
+    {
+      "name": "Marin",
+      "fullname": "Marin, François",
+      "count": 3,
+      "paperIds": [
+        403,
+        404,
+        771
+      ],
+      "coauthors": {
+        "Khoury": 2,
+        "Jarno": 2,
+        "Jarno-Druaux": 1,
+        "Abroug": 1,
+        "Abcha": 1,
+        "Dutykh": 1
+      }
+    },
+    {
+      "name": "Krogstad",
+      "fullname": "Krogstad, Harald E.",
+      "count": 3,
+      "paperIds": [
+        416,
+        417,
+        554
+      ],
+      "coauthors": {
+        "Simanesew": 1,
+        "Trulsen": 1,
+        "Nieto Borge": 1
+      }
+    },
+    {
+      "name": "Tao",
+      "fullname": "Tao, Longbin",
+      "count": 3,
+      "paperIds": [
+        450,
+        984,
+        1335
+      ],
+      "coauthors": {
+        "Lim": 1,
+        "Zhu": 1,
+        "He": 1,
+        "Karakus": 1,
+        "Cui": 1
+      }
+    },
+    {
+      "name": "Masterton",
+      "fullname": "Masterton, S.R.",
+      "count": 3,
+      "paperIds": [
+        463,
+        906,
+        1241
+      ],
+      "coauthors": {
+        "Swan": 1
+      }
+    },
+    {
+      "name": "Osborne",
+      "fullname": "Osborne, A. R.",
+      "count": 3,
+      "paperIds": [
+        497,
+        854,
+        1146
+      ],
+      "coauthors": {
+        "Bergamasco": 1,
+        "Serio": 3,
+        "Bianco": 1,
+        "Cavaleri": 2,
+        "Drago": 1,
+        "Iovenitti": 1,
+        "Viezzoli": 1,
+        "Onorato": 2,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Pakozdi": 1,
+        "Stansberg": 1,
+        "Toffoli": 1,
+        "Trulsen": 1,
+        "Ambrosi": 1
+      }
+    },
+    {
+      "name": "Serio",
+      "fullname": "Serio, M.",
+      "count": 3,
+      "paperIds": [
+        497,
+        854,
+        1146
+      ],
+      "coauthors": {
+        "Osborne": 3,
+        "Bergamasco": 1,
+        "Bianco": 1,
+        "Cavaleri": 2,
+        "Drago": 1,
+        "Iovenitti": 1,
+        "Viezzoli": 1,
+        "Onorato": 2,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Pakozdi": 1,
+        "Stansberg": 1,
+        "Toffoli": 1,
+        "Trulsen": 1,
+        "Ambrosi": 1
+      }
+    },
+    {
+      "name": "Bingham",
+      "fullname": "Bingham, Harry B.",
+      "count": 3,
+      "paperIds": [
+        503,
+        504,
+        904
+      ],
+      "coauthors": {
+        "Paulsen": 2,
+        "Bredmose": 2,
+        "Jacobsen": 1,
+        "Madsen": 1,
+        "Schäffer": 1
+      }
+    },
+    {
+      "name": "Kraatz",
+      "fullname": "Kraatz, S.",
+      "count": 3,
+      "paperIds": [
+        520,
+        583,
+        982
+      ],
+      "coauthors": {
+        "Qu": 3,
+        "Wen": 1,
+        "Ren": 1,
+        "Sun": 3,
+        "Deng": 3,
+        "Jiang": 3,
+        "Chen": 1,
+        "Wu": 1
+      }
+    },
+    {
+      "name": "McCall",
+      "fullname": "McCall, Robert T.",
+      "count": 3,
+      "paperIds": [
+        529,
+        938,
+        1029
+      ],
+      "coauthors": {
+        "de Ridder": 1,
+        "Smit": 1,
+        "van Dongeren": 2,
+        "Nederhoff": 1,
+        "Reniers": 2,
+        "de Beer": 1,
+        "Long": 1,
+        "Tissier": 1,
+        "Quataert": 1,
+        "Storlazzi": 1
+      }
+    },
+    {
+      "name": "Rienecker",
+      "fullname": "Rienecker, M. M.",
+      "count": 3,
+      "paperIds": [
+        531,
+        532,
+        1090
+      ],
+      "coauthors": {
+        "Fenton": 2
+      }
+    },
+    {
+      "name": "Randell",
+      "fullname": "Randell, David",
+      "count": 3,
+      "paperIds": [
+        536,
+        1166,
+        1332
+      ],
+      "coauthors": {
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 2,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Vanem": 1,
+        "Jonathan": 3,
+        "Wu": 1,
+        "Christou": 1,
+        "Ewans": 1,
+        "Towe": 1,
+        "Zanini": 1
+      }
+    },
+    {
+      "name": "Jonathan",
+      "fullname": "Jonathan, Philip",
+      "count": 3,
+      "paperIds": [
+        536,
+        1166,
+        1332
+      ],
+      "coauthors": {
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 2,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 3,
+        "Vanem": 1,
+        "Wu": 1,
+        "Christou": 1,
+        "Ewans": 1,
+        "Towe": 1,
+        "Zanini": 1
+      }
+    },
+    {
+      "name": "Das",
+      "fullname": "Das, Vikas K.",
+      "count": 3,
+      "paperIds": [
+        542,
+        1123,
+        1286
+      ],
+      "coauthors": {
+        "Sarkar": 1,
+        "Debnath": 1,
+        "Mazumder": 1,
+        "De": 1,
+        "Mandal": 1
+      }
+    },
+    {
+      "name": "Schlurmann",
+      "fullname": "Schlurmann, Torsten",
+      "count": 3,
+      "paperIds": [
+        543,
+        564,
+        861
+      ],
+      "coauthors": {
+        "Schendel": 1,
+        "Welzel": 1,
+        "Hsu": 1,
+        "Venkatachalam": 1,
+        "Agarwal": 1,
+        "Sriram": 1,
+        "Schimmels": 1
+      }
+    },
+    {
+      "name": "Slunyaev",
+      "fullname": "Slunyaev, Alexey",
+      "count": 3,
+      "paperIds": [
+        559,
+        800,
+        823
+      ],
+      "coauthors": {
+        "Kokorina": 1,
+        "Kharif": 1,
+        "Pelinovsky": 1,
+        "Talipova": 1
+      }
+    },
+    {
+      "name": "Cooker",
+      "fullname": "Cooker, M. J.",
+      "count": 3,
+      "paperIds": [
+        601,
+        985,
+        1083
+      ],
+      "coauthors": {
+        "Topliss": 2,
+        "Peregrine": 2,
+        "Weidman": 1,
+        "Bale": 1
+      }
+    },
+    {
+      "name": "Carter",
+      "fullname": "Carter, John D.",
+      "count": 3,
+      "paperIds": [
+        609,
+        732,
+        792
+      ],
+      "coauthors": {
+        "Tucker": 1,
+        "Challenor": 1,
+        "Govan": 1,
+        "Eeltink": 1,
+        "Lemoine": 1,
+        "Branger": 1,
+        "Kimmoun": 1,
+        "Kharif": 1,
+        "Chabchoub": 1,
+        "Brunetti": 1,
+        "Kasparian": 1
+      }
+    },
+    {
+      "name": "Walker",
+      "fullname": "Walker, D.A.G.",
+      "count": 3,
+      "paperIds": [
+        623,
+        624,
+        832
+      ],
+      "coauthors": {
+        "Headland": 1,
+        "Eatock Taylor": 1,
+        "Taylor": 3,
+        "Zang": 1
+      }
+    },
+    {
+      "name": "Liao",
+      "fullname": "Liao, Xinmei",
+      "count": 3,
+      "paperIds": [
+        661,
+        804,
+        1236
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Shi": 1,
+        "Babanin": 1,
+        "Soares": 1
+      }
+    },
+    {
+      "name": "Blenkinsopp",
+      "fullname": "Blenkinsopp, Christopher Edwin",
+      "count": 3,
+      "paperIds": [
+        707,
+        1006,
+        1130
+      ],
+      "coauthors": {
+        "Martins": 2,
+        "Almar": 2,
+        "Zang": 2,
+        "Bayle": 1,
+        "Beuzen": 1,
+        "Baldock": 1,
+        "Turner": 1
+      }
+    },
+    {
+      "name": "Suh",
+      "fullname": "Suh, Kyung Doug",
+      "count": 3,
+      "paperIds": [
+        719,
+        1154,
+        1155
+      ],
+      "coauthors": {
+        "Park": 3,
+        "Lee": 1
+      }
+    },
+    {
+      "name": "Thompson",
+      "fullname": "Thompson, Edward F.",
+      "count": 3,
+      "paperIds": [
+        728,
+        1035,
+        1158
+      ],
+      "coauthors": {
+        "Smith": 1
+      }
+    },
+    {
+      "name": "Cattrell",
+      "fullname": "Cattrell, A. D.",
+      "count": 3,
+      "paperIds": [
+        779,
+        780,
+        781
+      ],
+      "coauthors": {
+        "Srokosz": 3,
+        "Moat": 3,
+        "Marsh": 3
+      }
+    },
+    {
+      "name": "Moat",
+      "fullname": "Moat, B. I.",
+      "count": 3,
+      "paperIds": [
+        779,
+        780,
+        781
+      ],
+      "coauthors": {
+        "Cattrell": 3,
+        "Srokosz": 3,
+        "Marsh": 3
+      }
+    },
+    {
+      "name": "Marsh",
+      "fullname": "Marsh, R.",
+      "count": 3,
+      "paperIds": [
+        779,
+        780,
+        781
+      ],
+      "coauthors": {
+        "Cattrell": 3,
+        "Srokosz": 3,
+        "Moat": 3
+      }
+    },
+    {
+      "name": "Cheng",
+      "fullname": "Cheng, Sixue",
+      "count": 3,
+      "paperIds": [
+        794,
+        874,
+        1010
+      ],
+      "coauthors": {
+        "Guo": 1,
+        "Wang": 1,
+        "He": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Dai",
+      "fullname": "Dai, Saishuai",
+      "count": 3,
+      "paperIds": [
+        844,
+        902,
+        979
+      ],
+      "coauthors": {
+        "Adcock": 1,
+        "Feng": 1,
+        "Tang": 1,
+        "van den Bremer": 1,
+        "Day": 2,
+        "Li": 1,
+        "Lin": 1,
+        "Xu": 1,
+        "Taylor": 2,
+        "Luo": 1,
+        "Liu": 1,
+        "Mu": 1,
+        "Santo": 1,
+        "Chan": 1
+      }
+    },
+    {
+      "name": "Mohapatra",
+      "fullname": "Mohapatra, Sarat Chandra",
+      "count": 3,
+      "paperIds": [
+        909,
+        910,
+        989
+      ],
+      "coauthors": {
+        "Islam": 2,
+        "Guedes Soares": 2,
+        "Sahoo": 1
+      }
+    },
+    {
+      "name": "Hedges",
+      "fullname": "Hedges, T. S.",
+      "count": 3,
+      "paperIds": [
+        952,
+        1211,
+        1213
+      ],
+      "coauthors": {
+        "Mase": 3
+      }
+    },
+    {
+      "name": "Elgar",
+      "fullname": "Elgar, Steve",
+      "count": 3,
+      "paperIds": [
+        1012,
+        1089,
+        1096
+      ],
+      "coauthors": {
+        "Raubenheimer": 2,
+        "Herbers": 1,
+        "Guza": 2,
+        "Gorrell": 1
+      }
+    },
+    {
+      "name": "Ali",
+      "fullname": "Ali, Baharuddin",
+      "count": 2,
+      "paperIds": [
+        0,
+        16
+      ],
+      "coauthors": {
+        "Prasad": 1,
+        "Xiang": 1,
+        "Deo": 1,
+        "Firdaus": 1,
+        "Nasir": 1,
+        "Muryadin": 1
+      }
+    },
+    {
+      "name": "Fiamma",
+      "fullname": "Fiamma, Vincenzo",
+      "count": 2,
+      "paperIds": [
+        8,
+        1076
+      ],
+      "coauthors": {
+        "Boccotti": 2,
+        "Arena": 1,
+        "Barbaro": 1,
+        "Mannino": 1,
+        "Rotta": 1
+      }
+    },
+    {
+      "name": "Brodtkorb",
+      "fullname": "Brodtkorb",
+      "count": 2,
+      "paperIds": [
+        9,
+        10
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Fernandez",
+      "fullname": "Fernandez, Leandro",
+      "count": 2,
+      "paperIds": [
+        15,
+        793
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Monbaliu": 1,
+        "Toffoli": 1
+      }
+    },
+    {
+      "name": "Monbaliu",
+      "fullname": "Monbaliu, Jaak",
+      "count": 2,
+      "paperIds": [
+        15,
+        854
+      ],
+      "coauthors": {
+        "Fernandez": 1,
+        "Onorato": 2,
+        "Toffoli": 2,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Trulsen": 1
+      }
+    },
+    {
+      "name": "Hennig",
+      "fullname": "Hennig, Janou",
+      "count": 2,
+      "paperIds": [
+        26,
+        369
+      ],
+      "coauthors": {
+        "Scharnke": 2,
+        "Swan": 1,
+        "Hagen": 1,
+        "Ewans": 1,
+        "Tromans": 1,
+        "Forristall": 1
+      }
+    },
+    {
+      "name": "Scharnke",
+      "fullname": "Scharnke, Jule",
+      "count": 2,
+      "paperIds": [
+        26,
+        369
+      ],
+      "coauthors": {
+        "Hennig": 2,
+        "Swan": 1,
+        "Hagen": 1,
+        "Ewans": 1,
+        "Tromans": 1,
+        "Forristall": 1
+      }
+    },
+    {
+      "name": "Kang",
+      "fullname": "Kang, Azhen",
+      "count": 2,
+      "paperIds": [
+        30,
+        1018
+      ],
+      "coauthors": {
+        "Zhu": 1,
+        "Lin": 1,
+        "Ju": 1,
+        "Zhang": 2
+      }
+    },
+    {
+      "name": "Knobler",
+      "fullname": "Knobler, Sagi",
+      "count": 2,
+      "paperIds": [
+        38,
+        414
+      ],
+      "coauthors": {
+        "Bar": 1,
+        "Cohen": 1,
+        "Liberzon": 2,
+        "Fedele": 1
+      }
+    },
+    {
+      "name": "Jin",
+      "fullname": "Jin, Haipeng",
+      "count": 2,
+      "paperIds": [
+        40,
+        763
+      ],
+      "coauthors": {
+        "Li": 2,
+        "Zhao": 1,
+        "Wang": 1,
+        "Zhou": 1,
+        "Liu": 1,
+        "Ducrozet": 1
+      }
+    },
+    {
+      "name": "Longuet‐Higgins",
+      "fullname": "Longuet‐Higgins, Michael S.",
+      "count": 2,
+      "paperIds": [
+        43,
+        44
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Yasuda",
+      "fullname": "Yasuda, Tomohiro",
+      "count": 2,
+      "paperIds": [
+        56,
+        585
+      ],
+      "coauthors": {
+        "Mori": 1,
+        "Suzuki": 1,
+        "Altomare": 1,
+        "Verwaest": 1
+      }
+    },
+    {
+      "name": "Fouques",
+      "fullname": "Fouques, Se´bastien",
+      "count": 2,
+      "paperIds": [
+        57,
+        854
+      ],
+      "coauthors": {
+        "Myrhaug": 1,
+        "Onorato": 1,
+        "Cavaleri": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Osborne": 1,
+        "Pakozdi": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Toffoli": 1,
+        "Trulsen": 1
+      }
+    },
+    {
+      "name": "Nielsen",
+      "fullname": "Nielsen, Peter",
+      "count": 2,
+      "paperIds": [
+        61,
+        204
+      ],
+      "coauthors": {
+        "Power": 2,
+        "Hughes": 1,
+        "Aagaard": 1,
+        "Baldock": 2,
+        "Callaghan": 1
+      }
+    },
+    {
+      "name": "Aagaard",
+      "fullname": "Aagaard, Troels",
+      "count": 2,
+      "paperIds": [
+        61,
+        1027
+      ],
+      "coauthors": {
+        "Power": 2,
+        "Nielsen": 1,
+        "Hughes": 2,
+        "Baldock": 2
+      }
+    },
+    {
+      "name": "Thornton",
+      "fullname": "Thornton",
+      "count": 2,
+      "paperIds": [
+        70,
+        71
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wu et al",
+      "fullname": "Wu et al",
+      "count": 2,
+      "paperIds": [
+        75,
+        76
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ascanelli",
+      "fullname": "Ascanelli, Alfredo",
+      "count": 2,
+      "paperIds": [
+        80,
+        124
+      ],
+      "coauthors": {
+        "Arena": 2,
+        "Nava": 1,
+        "Pavone": 1,
+        "Romolo": 1
+      }
+    },
+    {
+      "name": "Kumar",
+      "fullname": "Kumar, V. Sanil",
+      "count": 2,
+      "paperIds": [
+        103,
+        886
+      ],
+      "coauthors": {
+        "Harikrishnan": 1,
+        "Mandal": 1,
+        "Amrutha": 1,
+        "Sandhya": 1,
+        "Nair": 1,
+        "Rathod": 1
+      }
+    },
+    {
+      "name": "Laface",
+      "fullname": "Laface, Valentina",
+      "count": 2,
+      "paperIds": [
+        105,
+        720
+      ],
+      "coauthors": {
+        "Voermans": 1,
+        "Babanin": 1,
+        "Romolo": 1,
+        "Arena": 1
+      }
+    },
+    {
+      "name": "Pascoal",
+      "fullname": "Pascoal, Ricardo",
+      "count": 2,
+      "paperIds": [
+        112,
+        333
+      ],
+      "coauthors": {
+        "Guedes Soares": 2,
+        "Fonseca": 1,
+        "Clauss": 1,
+        "Schmittner": 1
+      }
+    },
+    {
+      "name": "Raby",
+      "fullname": "Raby, Alison C.",
+      "count": 2,
+      "paperIds": [
+        119,
+        152
+      ],
+      "coauthors": {
+        "Whittaker": 1,
+        "Fitzgerald": 1,
+        "Taylor": 2,
+        "Orszaghova": 1,
+        "Borthwick": 1
+      }
+    },
+    {
+      "name": "Abroug",
+      "fullname": "Abroug, Iskander",
+      "count": 2,
+      "paperIds": [
+        122,
+        771
+      ],
+      "coauthors": {
+        "Matar": 1,
+        "Abcha": 2,
+        "Dutykh": 1,
+        "Jarno": 1,
+        "Marin": 1
+      }
+    },
+    {
+      "name": "Abcha",
+      "fullname": "Abcha, Nizar",
+      "count": 2,
+      "paperIds": [
+        122,
+        771
+      ],
+      "coauthors": {
+        "Abroug": 2,
+        "Matar": 1,
+        "Dutykh": 1,
+        "Jarno": 1,
+        "Marin": 1
+      }
+    },
+    {
+      "name": "Eeltink",
+      "fullname": "Eeltink, D.",
+      "count": 2,
+      "paperIds": [
+        132,
+        792
+      ],
+      "coauthors": {
+        "Branger": 2,
+        "Luneau": 1,
+        "He": 1,
+        "Chabchoub": 2,
+        "Kasparian": 2,
+        "van den Bremer": 1,
+        "Sapsis": 1,
+        "Lemoine": 1,
+        "Kimmoun": 1,
+        "Kharif": 1,
+        "Carter": 1,
+        "Brunetti": 1
+      }
+    },
+    {
+      "name": "Branger",
+      "fullname": "Branger, H.",
+      "count": 2,
+      "paperIds": [
+        132,
+        792
+      ],
+      "coauthors": {
+        "Eeltink": 2,
+        "Luneau": 1,
+        "He": 1,
+        "Chabchoub": 2,
+        "Kasparian": 2,
+        "van den Bremer": 1,
+        "Sapsis": 1,
+        "Lemoine": 1,
+        "Kimmoun": 1,
+        "Kharif": 1,
+        "Carter": 1,
+        "Brunetti": 1
+      }
+    },
+    {
+      "name": "Brennan",
+      "fullname": "Brennan, Joseph",
+      "count": 2,
+      "paperIds": [
+        138,
+        139
+      ],
+      "coauthors": {
+        "Dias": 2
+      }
+    },
+    {
+      "name": "Jonsson",
+      "fullname": "Jonsson, Ivar G.",
+      "count": 2,
+      "paperIds": [
+        141,
+        474
+      ],
+      "coauthors": {
+        "Steenberg": 1,
+        "Behrendt": 1
+      }
+    },
+    {
+      "name": "Dawson",
+      "fullname": "Dawson, T. H.",
+      "count": 2,
+      "paperIds": [
+        142,
+        296
+      ],
+      "coauthors": {
+        "Kriebel": 1
+      }
+    },
+    {
+      "name": "Sørensen",
+      "fullname": "Sørensen, Ole R.",
+      "count": 2,
+      "paperIds": [
+        147,
+        1126
+      ],
+      "coauthors": {
+        "Madsen": 2
+      }
+    },
+    {
+      "name": "Orszaghova",
+      "fullname": "Orszaghova, Jana",
+      "count": 2,
+      "paperIds": [
+        152,
+        943
+      ],
+      "coauthors": {
+        "Taylor": 2,
+        "Borthwick": 1,
+        "Raby": 1,
+        "Chen": 1,
+        "Zang": 1,
+        "Sun": 1,
+        "Morgan": 1,
+        "Grice": 1,
+        "Tello Ruiz": 1
+      }
+    },
+    {
+      "name": "Borthwick",
+      "fullname": "Borthwick, Alistair G. L.",
+      "count": 2,
+      "paperIds": [
+        152,
+        379
+      ],
+      "coauthors": {
+        "Orszaghova": 1,
+        "Taylor": 2,
+        "Raby": 1,
+        "Hunt": 1,
+        "Stansby": 1,
+        "Feng": 1
+      }
+    },
+    {
+      "name": "Hayatdavoodi",
+      "fullname": "Hayatdavoodi, Masoud",
+      "count": 2,
+      "paperIds": [
+        153,
+        433
+      ],
+      "coauthors": {
+        "Ertekin": 2,
+        "Kim": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Shemer",
+      "fullname": "Shemer, Lev",
+      "count": 2,
+      "paperIds": [
+        155,
+        895
+      ],
+      "coauthors": {
+        "Sergeeva": 1,
+        "Liberzon": 1,
+        "Khait": 1
+      }
+    },
+    {
+      "name": "Simanesew",
+      "fullname": "Simanesew, Abushet W.",
+      "count": 2,
+      "paperIds": [
+        156,
+        554
+      ],
+      "coauthors": {
+        "Krogstad": 1,
+        "Trulsen": 1,
+        "Nieto Borge": 1
+      }
+    },
+    {
+      "name": "Dysthe",
+      "fullname": "Dysthe, Kristian B.",
+      "count": 2,
+      "paperIds": [
+        162,
+        790
+      ],
+      "coauthors": {
+        "Trulsen": 1,
+        "Kliakhandler": 1,
+        "Velarde": 1
+      }
+    },
+    {
+      "name": "Vyzikas",
+      "fullname": "Vyzikas, Thomas",
+      "count": 2,
+      "paperIds": [
+        163,
+        164
+      ],
+      "coauthors": {
+        "Stagonas": 1,
+        "Buldakov": 1,
+        "Greaves": 1
+      }
+    },
+    {
+      "name": "Greaves",
+      "fullname": "Greaves, Deborah",
+      "count": 2,
+      "paperIds": [
+        164,
+        481
+      ],
+      "coauthors": {
+        "Vyzikas": 1,
+        "Stagonas": 1,
+        "Buldakov": 1,
+        "Morgan": 1,
+        "Zang": 1,
+        "Heath": 1,
+        "Whitlow": 1,
+        "Young": 1
+      }
+    },
+    {
+      "name": "Ye",
+      "fullname": "Ye, Mao",
+      "count": 2,
+      "paperIds": [
+        169,
+        1172
+      ],
+      "coauthors": {
+        "Zhang": 2,
+        "Chen": 2,
+        "Randall": 2
+      }
+    },
+    {
+      "name": "Barthelemy",
+      "fullname": "Barthelemy, Xavier",
+      "count": 2,
+      "paperIds": [
+        173,
+        215
+      ],
+      "coauthors": {
+        "Banner": 2,
+        "Peirson": 2,
+        "Fedele": 1,
+        "Allis": 2,
+        "Dias": 1,
+        "Saket": 1
+      }
+    },
+    {
+      "name": "Stive",
+      "fullname": "Stive, M. J. F.",
+      "count": 2,
+      "paperIds": [
+        177,
+        578
+      ],
+      "coauthors": {
+        "Battjes": 1
+      }
+    },
+    {
+      "name": "Stokes",
+      "fullname": "Stokes, M. Dale",
+      "count": 2,
+      "paperIds": [
+        183,
+        579
+      ],
+      "coauthors": {
+        "Deane": 1,
+        "Callaghan": 1
+      }
+    },
+    {
+      "name": "Duncan",
+      "fullname": "Duncan, J. H.",
+      "count": 2,
+      "paperIds": [
+        185,
+        308
+      ],
+      "coauthors": {
+        "Cox": 1,
+        "Barbosa": 1,
+        "Lomónaco": 1,
+        "Park": 1,
+        "Alam": 1,
+        "Yu": 1
+      }
+    },
+    {
+      "name": "Perlin",
+      "fullname": "Perlin, Marc",
+      "count": 2,
+      "paperIds": [
+        190,
+        222
+      ],
+      "coauthors": {
+        "He": 1,
+        "Ma": 2,
+        "Dong": 2,
+        "Tai": 1,
+        "Niu": 1
+      }
+    },
+    {
+      "name": "Kazolea",
+      "fullname": "Kazolea, M.",
+      "count": 2,
+      "paperIds": [
+        195,
+        1112
+      ],
+      "coauthors": {
+        "Delis": 1,
+        "Synolakis": 1
+      }
+    },
+    {
+      "name": "Gatin",
+      "fullname": "Gatin, Inno",
+      "count": 2,
+      "paperIds": [
+        198,
+        738
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Obhrai": 1,
+        "Ong": 1,
+        "Jasak": 2,
+        "Vukčević": 1
+      }
+    },
+    {
+      "name": "Obhrai",
+      "fullname": "Obhrai, Charlotte",
+      "count": 2,
+      "paperIds": [
+        198,
+        271
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Gatin": 1,
+        "Ong": 1,
+        "Jasak": 1,
+        "Bullock": 1,
+        "Peregrine": 1,
+        "Bredmose": 1
+      }
+    },
+    {
+      "name": "Jasak",
+      "fullname": "Jasak, Hrvoje",
+      "count": 2,
+      "paperIds": [
+        198,
+        738
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Gatin": 2,
+        "Obhrai": 1,
+        "Ong": 1,
+        "Vukčević": 1
+      }
+    },
+    {
+      "name": "Meylan",
+      "fullname": "Meylan, Michael H.",
+      "count": 2,
+      "paperIds": [
+        200,
+        393
+      ],
+      "coauthors": {
+        "Bennetts": 1,
+        "Peter": 1,
+        "Kar": 1,
+        "Sahoo": 1
+      }
+    },
+    {
+      "name": "Lim",
+      "fullname": "Lim, Ho-Joon",
+      "count": 2,
+      "paperIds": [
+        201,
+        450
+      ],
+      "coauthors": {
+        "Na": 1,
+        "Chang": 1,
+        "Tao": 1
+      }
+    },
+    {
+      "name": "Pujara",
+      "fullname": "Pujara, Nimish",
+      "count": 2,
+      "paperIds": [
+        206,
+        207
+      ],
+      "coauthors": {
+        "Miller": 1,
+        "Park": 1,
+        "Baldock": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Van Dorn",
+      "fullname": "Van Dorn, W. G.",
+      "count": 2,
+      "paperIds": [
+        209,
+        419
+      ],
+      "coauthors": {
+        "Pazan": 2
+      }
+    },
+    {
+      "name": "Pazan",
+      "fullname": "Pazan, S. E.",
+      "count": 2,
+      "paperIds": [
+        209,
+        419
+      ],
+      "coauthors": {
+        "Van Dorn": 2
+      }
+    },
+    {
+      "name": "Robertson",
+      "fullname": "Robertson, Bryson",
+      "count": 2,
+      "paperIds": [
+        211,
+        212
+      ],
+      "coauthors": {
+        "Gharabaghi": 2,
+        "Power": 2
+      }
+    },
+    {
+      "name": "Gharabaghi",
+      "fullname": "Gharabaghi, Bahram",
+      "count": 2,
+      "paperIds": [
+        211,
+        212
+      ],
+      "coauthors": {
+        "Robertson": 2,
+        "Power": 2
+      }
+    },
+    {
+      "name": "Saket",
+      "fullname": "Saket, Arvin",
+      "count": 2,
+      "paperIds": [
+        214,
+        215
+      ],
+      "coauthors": {
+        "Peirson": 2,
+        "Banner": 2,
+        "Allis": 2,
+        "Barthelemy": 1
+      }
+    },
+    {
+      "name": "De",
+      "fullname": "De, Soumen",
+      "count": 2,
+      "paperIds": [
+        216,
+        1123
+      ],
+      "coauthors": {
+        "Sasmal": 1,
+        "Das": 1,
+        "Mandal": 1
+      }
+    },
+    {
+      "name": "Seiffert",
+      "fullname": "Seiffert, Betsy R.",
+      "count": 2,
+      "paperIds": [
+        218,
+        219
+      ],
+      "coauthors": {
+        "Ducrozet": 2,
+        "Bonnefoy": 1
+      }
+    },
+    {
+      "name": "Stringari",
+      "fullname": "Stringari, C. E.",
+      "count": 2,
+      "paperIds": [
+        221,
+        1034
+      ],
+      "coauthors": {
+        "Power": 2,
+        "Harris": 1
+      }
+    },
+    {
+      "name": "Tai",
+      "fullname": "Tai, Shih-Chieh",
+      "count": 2,
+      "paperIds": [
+        222,
+        955
+      ],
+      "coauthors": {
+        "Ma": 1,
+        "Niu": 1,
+        "Dong": 1,
+        "Perlin": 1,
+        "Huang": 1,
+        "Chang": 1,
+        "Lin": 2,
+        "Fan": 1,
+        "Chiu": 1,
+        "Wu": 1
+      }
+    },
+    {
+      "name": "Niu",
+      "fullname": "Niu, Xuyang",
+      "count": 2,
+      "paperIds": [
+        222,
+        489
+      ],
+      "coauthors": {
+        "Tai": 1,
+        "Ma": 3,
+        "Dong": 2,
+        "Perlin": 1
+      }
+    },
+    {
+      "name": "Tian",
+      "fullname": "Tian, Zhigang",
+      "count": 2,
+      "paperIds": [
+        223,
+        819
+      ],
+      "coauthors": {
+        "Choi": 1,
+        "Peng": 1,
+        "Wang": 1,
+        "Zhang": 1
+      }
+    },
+    {
+      "name": "Choi",
+      "fullname": "Choi, Young-Myung",
+      "count": 2,
+      "paperIds": [
+        223,
+        875
+      ],
+      "coauthors": {
+        "Tian": 1,
+        "Kim": 1,
+        "Bouscasse": 1,
+        "Seng": 1,
+        "Gentaz": 1,
+        "Ferrant": 1
+      }
+    },
+    {
+      "name": "Varing",
+      "fullname": "Varing, Audrey",
+      "count": 2,
+      "paperIds": [
+        225,
+        614
+      ],
+      "coauthors": {
+        "Filipot": 2,
+        "Grilli": 1,
+        "Duarte": 1,
+        "Roeber": 2,
+        "Yates": 1,
+        "Delpey": 1,
+        "Guitton": 1,
+        "Collard": 1,
+        "Platzer": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Duarte",
+      "fullname": "Duarte, Rui",
+      "count": 2,
+      "paperIds": [
+        225,
+        597
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 2,
+        "Grilli": 1,
+        "Roeber": 1,
+        "Yates": 1,
+        "Thiébaut": 1,
+        "Maisondieu": 1,
+        "Damblans": 1,
+        "Droniou": 1,
+        "Guillou": 1
+      }
+    },
+    {
+      "name": "Roeber",
+      "fullname": "Roeber, Volker",
+      "count": 2,
+      "paperIds": [
+        225,
+        614
+      ],
+      "coauthors": {
+        "Varing": 2,
+        "Filipot": 2,
+        "Grilli": 1,
+        "Duarte": 1,
+        "Yates": 1,
+        "Delpey": 1,
+        "Guitton": 1,
+        "Collard": 1,
+        "Platzer": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Yates",
+      "fullname": "Yates, Marissa L.",
+      "count": 2,
+      "paperIds": [
+        225,
+        557
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 1,
+        "Grilli": 1,
+        "Duarte": 1,
+        "Roeber": 1,
+        "Simon": 1,
+        "Papoutsellis": 1,
+        "Benoit": 1
+      }
+    },
+    {
+      "name": "Beji",
+      "fullname": "Beji, S.",
+      "count": 2,
+      "paperIds": [
+        231,
+        255
+      ],
+      "coauthors": {
+        "Battjes": 2
+      }
+    },
+    {
+      "name": "Bolles",
+      "fullname": "Bolles, C. Tyler",
+      "count": 2,
+      "paperIds": [
+        233,
+        1078
+      ],
+      "coauthors": {
+        "Moore": 2,
+        "Majda": 1,
+        "Qi": 1,
+        "Speer": 1
+      }
+    },
+    {
+      "name": "Majda",
+      "fullname": "Majda, Andrew J.",
+      "count": 2,
+      "paperIds": [
+        233,
+        1127
+      ],
+      "coauthors": {
+        "Moore": 2,
+        "Bolles": 1,
+        "Qi": 2
+      }
+    },
+    {
+      "name": "Athanassoulis",
+      "fullname": "Athanassoulis, G. A.",
+      "count": 2,
+      "paperIds": [
+        240,
+        1066
+      ],
+      "coauthors": {
+        "Belibassakis": 1
+      }
+    },
+    {
+      "name": "Zakharov",
+      "fullname": "Zakharov, V. E.",
+      "count": 2,
+      "paperIds": [
+        243,
+        651
+      ],
+      "coauthors": {
+        "Badulin": 1
+      }
+    },
+    {
+      "name": "Dongeren",
+      "fullname": "Dongeren, Ap Van",
+      "count": 2,
+      "paperIds": [
+        252,
+        1071
+      ],
+      "coauthors": {
+        "Noorloos": 2,
+        "Steenhauer": 2,
+        "Battjes": 2,
+        "Janssen": 2,
+        "Reniers": 2
+      }
+    },
+    {
+      "name": "Noorloos",
+      "fullname": "Noorloos, Job Van",
+      "count": 2,
+      "paperIds": [
+        252,
+        1071
+      ],
+      "coauthors": {
+        "Dongeren": 2,
+        "Steenhauer": 2,
+        "Battjes": 2,
+        "Janssen": 2,
+        "Reniers": 2
+      }
+    },
+    {
+      "name": "Benetazzo",
+      "fullname": "Benetazzo, Alvise",
+      "count": 2,
+      "paperIds": [
+        258,
+        775
+      ],
+      "coauthors": {
+        "Barbariol": 1,
+        "Davison": 1,
+        "Ardhuin": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Guimarães": 1,
+        "Schwendeman": 1,
+        "Sclavo": 1,
+        "Thomson": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Bi",
+      "fullname": "Bi, Chun-Wei",
+      "count": 2,
+      "paperIds": [
+        260,
+        439
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Zhao": 2,
+        "Su": 1,
+        "Wang": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Su",
+      "fullname": "Su, Hui",
+      "count": 2,
+      "paperIds": [
+        260,
+        1316
+      ],
+      "coauthors": {
+        "Bi": 1,
+        "Chen": 1,
+        "Zhao": 1,
+        "Wang": 1,
+        "Yuan": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Sulisz",
+      "fullname": "Sulisz, Wojciech",
+      "count": 2,
+      "paperIds": [
+        261,
+        582
+      ],
+      "coauthors": {
+        "Biegowski": 1,
+        "Paprota": 1,
+        "Hudspeth": 1
+      }
+    },
+    {
+      "name": "Barbaro",
+      "fullname": "Barbaro, G.",
+      "count": 2,
+      "paperIds": [
+        264,
+        1076
+      ],
+      "coauthors": {
+        "Boccotti": 2,
+        "Mannino": 2,
+        "Fiamma": 1,
+        "Rotta": 1
+      }
+    },
+    {
+      "name": "Mannino",
+      "fullname": "Mannino, L.",
+      "count": 2,
+      "paperIds": [
+        264,
+        1076
+      ],
+      "coauthors": {
+        "Boccotti": 2,
+        "Barbaro": 2,
+        "Fiamma": 1,
+        "Rotta": 1
+      }
+    },
+    {
+      "name": "Merrifield",
+      "fullname": "Merrifield, Mark A.",
+      "count": 2,
+      "paperIds": [
+        272,
+        926
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Rueda": 1,
+        "Anderson": 1,
+        "Ruggiero": 1,
+        "Montaño": 1,
+        "Coco": 1,
+        "Méndez": 1,
+        "Yao": 1,
+        "Zhang": 1,
+        "Becker": 1
+      }
+    },
+    {
+      "name": "Hoffmann",
+      "fullname": "Hoffmann, Norbert",
+      "count": 2,
+      "paperIds": [
+        276,
+        406
+      ],
+      "coauthors": {
+        "Chabchoub": 2,
+        "Tobisch": 1,
+        "Waseda": 1,
+        "Akhmediev": 1,
+        "Kimmoun": 1,
+        "Hsu": 1
+      }
+    },
+    {
+      "name": "Mo",
+      "fullname": "Mo, Haihong",
+      "count": 2,
+      "paperIds": [
+        280,
+        483
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Lin": 1,
+        "Liu": 2,
+        "Irschik": 1,
+        "Oumeraci": 1
+      }
+    },
+    {
+      "name": "Chondros",
+      "fullname": "Chondros, Michalis K.",
+      "count": 2,
+      "paperIds": [
+        285,
+        500
+      ],
+      "coauthors": {
+        "Memos": 1,
+        "Papadimitriou": 1,
+        "Panagopoulos": 1,
+        "Tsoukala": 1
+      }
+    },
+    {
+      "name": "Craciunescu",
+      "fullname": "Craciunescu, Constantin Cosmin",
+      "count": 2,
+      "paperIds": [
+        292,
+        1084
+      ],
+      "coauthors": {
+        "Christou": 2
+      }
+    },
+    {
+      "name": "Cui",
+      "fullname": "Cui, Xuebin",
+      "count": 2,
+      "paperIds": [
+        293,
+        1335
+      ],
+      "coauthors": {
+        "Zhu": 1,
+        "He": 1,
+        "Karakus": 1,
+        "Tao": 1
+      }
+    },
+    {
+      "name": "Dalrymple",
+      "fullname": "Dalrymple, Robert A",
+      "count": 2,
+      "paperIds": [
+        294,
+        1085
+      ],
+      "coauthors": {
+        "Rogers": 1,
+        "Dean": 1
+      }
+    },
+    {
+      "name": "Rogers",
+      "fullname": "Rogers, W. Erick",
+      "count": 2,
+      "paperIds": [
+        294,
+        900
+      ],
+      "coauthors": {
+        "Dalrymple": 1,
+        "Liu": 1,
+        "Babanin": 1,
+        "Young": 1,
+        "Romero": 1,
+        "Zieger": 1,
+        "Qiao": 1,
+        "Guan": 1
+      }
+    },
+    {
+      "name": "Alam",
+      "fullname": "Alam, Mohammad-Reza",
+      "count": 2,
+      "paperIds": [
+        308,
+        477
+      ],
+      "coauthors": {
+        "Duncan": 1,
+        "Cox": 1,
+        "Barbosa": 1,
+        "Lomónaco": 1,
+        "Park": 1,
+        "Yu": 1,
+        "Mohaghegh": 1,
+        "Murthy": 1
+      }
+    },
+    {
+      "name": "Steynor",
+      "fullname": "Steynor, Jeffrey",
+      "count": 2,
+      "paperIds": [
+        338,
+        681
+      ],
+      "coauthors": {
+        "Gabl": 1,
+        "Forehand": 1,
+        "Davey": 2,
+        "Bruce": 1,
+        "Ingram": 2,
+        "Draycott": 1
+      }
+    },
+    {
+      "name": "Aarninkhof",
+      "fullname": "Aarninkhof, Stefan",
+      "count": 2,
+      "paperIds": [
+        341,
+        1007
+      ],
+      "coauthors": {
+        "Gawehn": 1,
+        "van Dongeren": 1,
+        "de Vries": 1,
+        "Swinkels": 1,
+        "Hoekstra": 1,
+        "Friedman": 1,
+        "van Bemmelen": 1,
+        "de Schipper": 1,
+        "Darnall": 1
+      }
+    },
+    {
+      "name": "Guillou",
+      "fullname": "Guillou, Nicolas",
+      "count": 2,
+      "paperIds": [
+        351,
+        597
+      ],
+      "coauthors": {
+        "Lavidas": 1,
+        "Chapalain": 1,
+        "Thiébaut": 1,
+        "Filipot": 1,
+        "Maisondieu": 1,
+        "Damblans": 1,
+        "Duarte": 1,
+        "Droniou": 1
+      }
+    },
+    {
+      "name": "Osyka",
+      "fullname": "Osyka, Bodgan",
+      "count": 2,
+      "paperIds": [
+        354,
+        355
+      ],
+      "coauthors": {
+        "Grue": 2
+      }
+    },
+    {
+      "name": "Han",
+      "fullname": "Han, Xinyu",
+      "count": 2,
+      "paperIds": [
+        364,
+        951
+      ],
+      "coauthors": {
+        "Zhao": 1,
+        "Wan": 1,
+        "Dong": 1
+      }
+    },
+    {
+      "name": "Wan",
+      "fullname": "Wan, Decheng",
+      "count": 2,
+      "paperIds": [
+        364,
+        967
+      ],
+      "coauthors": {
+        "Han": 1,
+        "Zhao": 1,
+        "Ren": 1,
+        "Zhang": 1
+      }
+    },
+    {
+      "name": "Deike",
+      "fullname": "Deike, Luc",
+      "count": 2,
+      "paperIds": [
+        365,
+        912
+      ],
+      "coauthors": {
+        "Haudin": 1,
+        "Cazaubiel": 1,
+        "Jamin": 1,
+        "Falcon": 1,
+        "Berhanu": 1,
+        "Pizzo": 1,
+        "Melville": 1
+      }
+    },
+    {
+      "name": "Falcon",
+      "fullname": "Falcon, Eric",
+      "count": 2,
+      "paperIds": [
+        365,
+        817
+      ],
+      "coauthors": {
+        "Haudin": 1,
+        "Cazaubiel": 1,
+        "Deike": 1,
+        "Jamin": 1,
+        "Berhanu": 1,
+        "Michel": 1,
+        "Bonnefoy": 1,
+        "Ducrozet": 1
+      }
+    },
+    {
+      "name": "Hagen",
+      "fullname": "Hagen, Øistein",
+      "count": 2,
+      "paperIds": [
+        369,
+        391
+      ],
+      "coauthors": {
+        "Hennig": 1,
+        "Scharnke": 1,
+        "Swan": 1,
+        "Ewans": 1,
+        "Tromans": 1,
+        "Forristall": 1,
+        "Johannessen": 1,
+        "Lande": 1
+      }
+    },
+    {
+      "name": "Burton",
+      "fullname": "Burton, M. C.",
+      "count": 2,
+      "paperIds": [
+        370,
+        371
+      ],
+      "coauthors": {
+        "Herbers": 2
+      }
+    },
+    {
+      "name": "Oosterlo",
+      "fullname": "Oosterlo, Patrick",
+      "count": 2,
+      "paperIds": [
+        374,
+        375
+      ],
+      "coauthors": {
+        "Hofland": 2,
+        "Chen": 2,
+        "Altomare": 2
+      }
+    },
+    {
+      "name": "Tung",
+      "fullname": "Tung, Chi‐Chao",
+      "count": 2,
+      "paperIds": [
+        377,
+        740
+      ],
+      "coauthors": {
+        "Huang": 2,
+        "Long": 2,
+        "Donelan": 1,
+        "Yuan": 1,
+        "Lai": 1,
+        "Yuen": 1,
+        "Bliven": 1
+      }
+    },
+    {
+      "name": "Huseby",
+      "fullname": "Huseby, Morten",
+      "count": 2,
+      "paperIds": [
+        380,
+        536
+      ],
+      "coauthors": {
+        "Grue": 1,
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 1,
+        "Gouldby": 1,
+        "Liu": 1,
+        "Randell": 1,
+        "Vanem": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Jacobsen",
+      "fullname": "Jacobsen, Niels G.",
+      "count": 2,
+      "paperIds": [
+        387,
+        503
+      ],
+      "coauthors": {
+        "Fuhrman": 1,
+        "Fredsøe": 1,
+        "Paulsen": 1,
+        "Bredmose": 1,
+        "Bingham": 1
+      }
+    },
+    {
+      "name": "McWilliams",
+      "fullname": "McWilliams, James C.",
+      "count": 2,
+      "paperIds": [
+        388,
+        533
+      ],
+      "coauthors": {
+        "Jagannathan": 1,
+        "Srinivasan": 1,
+        "Molemaker": 1,
+        "Stewart": 1,
+        "Romero": 1,
+        "Hypolite": 1
+      }
+    },
+    {
+      "name": "Stewart",
+      "fullname": "Stewart, Andrew L.",
+      "count": 2,
+      "paperIds": [
+        388,
+        1121
+      ],
+      "coauthors": {
+        "Jagannathan": 1,
+        "Srinivasan": 1,
+        "McWilliams": 1,
+        "Molemaker": 1,
+        "Longuet-Higgins": 1
+      }
+    },
+    {
+      "name": "Khoury",
+      "fullname": "Khoury, Alaa",
+      "count": 2,
+      "paperIds": [
+        403,
+        404
+      ],
+      "coauthors": {
+        "Jarno": 1,
+        "Marin": 2,
+        "Jarno-Druaux": 1
+      }
+    },
+    {
+      "name": "Jarno",
+      "fullname": "Jarno, Armelle",
+      "count": 2,
+      "paperIds": [
+        403,
+        771
+      ],
+      "coauthors": {
+        "Khoury": 1,
+        "Marin": 2,
+        "Abroug": 1,
+        "Abcha": 1,
+        "Dutykh": 1
+      }
+    },
+    {
+      "name": "Kjeldsen",
+      "fullname": "Kjeldsen, S.S.",
+      "count": 2,
+      "paperIds": [
+        412,
+        484
+      ],
+      "coauthors": {
+        "Myrhaug": 2
+      }
+    },
+    {
+      "name": "Chiu",
+      "fullname": "Chiu, Yung-Fang",
+      "count": 2,
+      "paperIds": [
+        430,
+        955
+      ],
+      "coauthors": {
+        "Lee": 1,
+        "Wu": 2,
+        "Lin": 3,
+        "Huang": 1,
+        "Chang": 1,
+        "Tai": 1,
+        "Fan": 1
+      }
+    },
+    {
+      "name": "Webb",
+      "fullname": "Webb, L.M.",
+      "count": 2,
+      "paperIds": [
+        432,
+        633
+      ],
+      "coauthors": {
+        "Le Mehaute": 1
+      }
+    },
+    {
+      "name": "McAllister",
+      "fullname": "McAllister, Mark L.",
+      "count": 2,
+      "paperIds": [
+        469,
+        490
+      ],
+      "coauthors": {
+        "Adcock": 2,
+        "van den Bremer": 1,
+        "Taylor": 2,
+        "Mj": 1,
+        "Bredmose": 1
+      }
+    },
+    {
+      "name": "Brocchini",
+      "fullname": "Brocchini, Maurizio",
+      "count": 2,
+      "paperIds": [
+        470,
+        1108
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Iravani": 1,
+        "Badiei": 1
+      }
+    },
+    {
+      "name": "Oumeraci",
+      "fullname": "Oumeraci, Hocine",
+      "count": 2,
+      "paperIds": [
+        483,
+        635
+      ],
+      "coauthors": {
+        "Mo": 1,
+        "Irschik": 1,
+        "Liu": 1,
+        "Wienke": 1
+      }
+    },
+    {
+      "name": "Papadimitriou",
+      "fullname": "Papadimitriou, Andreas",
+      "count": 2,
+      "paperIds": [
+        500,
+        752
+      ],
+      "coauthors": {
+        "Panagopoulos": 1,
+        "Chondros": 1,
+        "Tsoukala": 1
+      }
+    },
+    {
+      "name": "Tsoukala",
+      "fullname": "Tsoukala, Vasiliki K.",
+      "count": 2,
+      "paperIds": [
+        500,
+        970
+      ],
+      "coauthors": {
+        "Papadimitriou": 1,
+        "Panagopoulos": 1,
+        "Chondros": 1,
+        "Malliouri": 1,
+        "Memos": 1,
+        "Soukissian": 1
+      }
+    },
+    {
+      "name": "Paulsen",
+      "fullname": "Paulsen, Bo Terp",
+      "count": 2,
+      "paperIds": [
+        503,
+        504
+      ],
+      "coauthors": {
+        "Bredmose": 2,
+        "Bingham": 2,
+        "Jacobsen": 1
+      }
+    },
+    {
+      "name": "Gudmestad",
+      "fullname": "Gudmestad, Ove Tobias",
+      "count": 2,
+      "paperIds": [
+        514,
+        587
+      ],
+      "coauthors": {
+        "Jose": 1,
+        "Podrażka": 1,
+        "Cieślikiewicz": 1,
+        "Swan": 1,
+        "Bashir": 1
+      }
+    },
+    {
+      "name": "Ren",
+      "fullname": "Ren, Nianxin",
+      "count": 2,
+      "paperIds": [
+        520,
+        967
+      ],
+      "coauthors": {
+        "Qu": 1,
+        "Wen": 1,
+        "Kraatz": 1,
+        "Sun": 1,
+        "Deng": 1,
+        "Jiang": 1,
+        "Wan": 1,
+        "Zhang": 1
+      }
+    },
+    {
+      "name": "Jones",
+      "fullname": "Jones, Todd C.",
+      "count": 2,
+      "paperIds": [
+        521,
+        1086
+      ],
+      "coauthors": {
+        "Raghukumar": 1,
+        "Chang": 1,
+        "Spada": 1,
+        "Janssen": 1,
+        "Gans": 1,
+        "Bartlett": 1,
+        "Wang": 1
+      }
+    },
+    {
+      "name": "de Ridder",
+      "fullname": "de Ridder, Menno P.",
+      "count": 2,
+      "paperIds": [
+        527,
+        529
+      ],
+      "coauthors": {
+        "Kramer": 1,
+        "den Bieman": 1,
+        "Wenneker": 1,
+        "Smit": 1,
+        "van Dongeren": 1,
+        "McCall": 1,
+        "Nederhoff": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "Smit",
+      "fullname": "Smit, Pieter B.",
+      "count": 2,
+      "paperIds": [
+        529,
+        671
+      ],
+      "coauthors": {
+        "de Ridder": 1,
+        "van Dongeren": 1,
+        "McCall": 1,
+        "Nederhoff": 1,
+        "Reniers": 1,
+        "Zijlema": 1,
+        "Stelling": 1
+      }
+    },
+    {
+      "name": "Benassai",
+      "fullname": "Benassai, Guido",
+      "count": 2,
+      "paperIds": [
+        530,
+        1290
+      ],
+      "coauthors": {
+        "Riefolo": 1,
+        "Contestabile": 1,
+        "Dentale": 1,
+        "Di Luccio": 1,
+        "Mucerino": 1,
+        "Montella": 1,
+        "Conversano": 1,
+        "Pugliano": 1,
+        "Robustelli": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Romero",
+      "fullname": "Romero, Leonel",
+      "count": 2,
+      "paperIds": [
+        533,
+        900
+      ],
+      "coauthors": {
+        "Hypolite": 1,
+        "McWilliams": 1,
+        "Liu": 1,
+        "Rogers": 1,
+        "Babanin": 1,
+        "Young": 1,
+        "Zieger": 1,
+        "Qiao": 1,
+        "Guan": 1
+      }
+    },
+    {
+      "name": "Saha",
+      "fullname": "Saha, Sunanda",
+      "count": 2,
+      "paperIds": [
+        540,
+        574
+      ],
+      "coauthors": {
+        "Bora": 1,
+        "Shanmugasundaram": 1
+      }
+    },
+    {
+      "name": "Schwendeman",
+      "fullname": "Schwendeman, Michael S.",
+      "count": 2,
+      "paperIds": [
+        545,
+        775
+      ],
+      "coauthors": {
+        "Thomson": 2,
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Guimarães": 1,
+        "Sclavo": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Panchang",
+      "fullname": "Panchang, Vijay G.",
+      "count": 2,
+      "paperIds": [
+        550,
+        1025
+      ],
+      "coauthors": {
+        "Sharma": 1,
+        "Kaihatu": 1,
+        "Nayak": 1
+      }
+    },
+    {
+      "name": "Nieto Borge",
+      "fullname": "Nieto Borge, José Carlos",
+      "count": 2,
+      "paperIds": [
+        554,
+        606
+      ],
+      "coauthors": {
+        "Simanesew": 1,
+        "Krogstad": 1,
+        "Trulsen": 2,
+        "Gramstad": 1,
+        "Aouf": 1,
+        "Lefèvre": 1
+      }
+    },
+    {
+      "name": "Simarro",
+      "fullname": "Simarro, Gonzalo",
+      "count": 2,
+      "paperIds": [
+        555,
+        556
+      ],
+      "coauthors": {
+        "Orfila": 1,
+        "Galan": 1
+      }
+    },
+    {
+      "name": "Smith",
+      "fullname": "Smith, A.C.",
+      "count": 2,
+      "paperIds": [
+        560,
+        728
+      ],
+      "coauthors": {
+        "Swan": 1,
+        "Thompson": 1
+      }
+    },
+    {
+      "name": "Hudspeth",
+      "fullname": "Hudspeth, R.T.",
+      "count": 2,
+      "paperIds": [
+        582,
+        991
+      ],
+      "coauthors": {
+        "Sulisz": 1,
+        "McDougal": 1
+      }
+    },
+    {
+      "name": "Verwaest",
+      "fullname": "Verwaest, Toon",
+      "count": 2,
+      "paperIds": [
+        585,
+        945
+      ],
+      "coauthors": {
+        "Suzuki": 2,
+        "Altomare": 2,
+        "Yasuda": 1,
+        "Dan": 1,
+        "Spiesschaert": 1
+      }
+    },
+    {
+      "name": "Tanaka",
+      "fullname": "Tanaka, Hitoshi",
+      "count": 2,
+      "paperIds": [
+        591,
+        620
+      ],
+      "coauthors": {
+        "Tinh": 1,
+        "Sana": 1,
+        "Vinodh": 1
+      }
+    },
+    {
+      "name": "Topliss",
+      "fullname": "Topliss, M. E.",
+      "count": 2,
+      "paperIds": [
+        601,
+        985
+      ],
+      "coauthors": {
+        "Cooker": 2,
+        "Peregrine": 2
+      }
+    },
+    {
+      "name": "Tucker",
+      "fullname": "Tucker, M.J.",
+      "count": 2,
+      "paperIds": [
+        608,
+        609
+      ],
+      "coauthors": {
+        "Challenor": 1,
+        "Carter": 1
+      }
+    },
+    {
+      "name": "Viotti",
+      "fullname": "Viotti, C.",
+      "count": 2,
+      "paperIds": [
+        621,
+        1161
+      ],
+      "coauthors": {
+        "Dutykh": 1,
+        "Dias": 1
+      }
+    },
+    {
+      "name": "Dutykh",
+      "fullname": "Dutykh, Denys",
+      "count": 2,
+      "paperIds": [
+        621,
+        771
+      ],
+      "coauthors": {
+        "Viotti": 1,
+        "Dias": 1,
+        "Abroug": 1,
+        "Abcha": 1,
+        "Jarno": 1,
+        "Marin": 1
+      }
+    },
+    {
+      "name": "You",
+      "fullname": "You, Chi-Shian",
+      "count": 2,
+      "paperIds": [
+        643,
+        986
+      ],
+      "coauthors": {
+        "Xiong": 1,
+        "Li": 1,
+        "Gao": 1,
+        "Wang": 2,
+        "Tseng": 1,
+        "Tsai": 1
+      }
+    },
+    {
+      "name": "Jeng",
+      "fullname": "Jeng, Dong-Sheng",
+      "count": 2,
+      "paperIds": [
+        658,
+        666
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Zhai": 1,
+        "Wang": 2,
+        "Duan": 1,
+        "Chen": 1,
+        "Liu": 1,
+        "Zhou": 1,
+        "Qi": 1
+      }
+    },
+    {
+      "name": "Simmonds",
+      "fullname": "Simmonds, David",
+      "count": 2,
+      "paperIds": [
+        677,
+        1015
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Huntley": 1,
+        "Tatavarti": 1
+      }
+    },
+    {
+      "name": "Røge Eldrup",
+      "fullname": "Røge Eldrup, Mads",
+      "count": 2,
+      "paperIds": [
+        682,
+        683
+      ],
+      "coauthors": {
+        "Lykke Andersen": 2
+      }
+    },
+    {
+      "name": "Inch",
+      "fullname": "Inch, Kris",
+      "count": 2,
+      "paperIds": [
+        690,
+        1107
+      ],
+      "coauthors": {
+        "Davidson": 2,
+        "Masselink": 2,
+        "Russell": 2
+      }
+    },
+    {
+      "name": "Davidson",
+      "fullname": "Davidson, Mark",
+      "count": 2,
+      "paperIds": [
+        690,
+        1107
+      ],
+      "coauthors": {
+        "Inch": 2,
+        "Masselink": 2,
+        "Russell": 2
+      }
+    },
+    {
+      "name": "Masselink",
+      "fullname": "Masselink, Gerd",
+      "count": 2,
+      "paperIds": [
+        690,
+        1107
+      ],
+      "coauthors": {
+        "Inch": 2,
+        "Davidson": 2,
+        "Russell": 2
+      }
+    },
+    {
+      "name": "Russell",
+      "fullname": "Russell, Paul",
+      "count": 2,
+      "paperIds": [
+        690,
+        1107
+      ],
+      "coauthors": {
+        "Inch": 2,
+        "Davidson": 2,
+        "Masselink": 2
+      }
+    },
+    {
+      "name": "Ting",
+      "fullname": "Ting, Chao-Lung",
+      "count": 2,
+      "paperIds": [
+        693,
+        1117
+      ],
+      "coauthors": {
+        "Li": 2
+      }
+    },
+    {
+      "name": "Clavero",
+      "fullname": "Clavero, Maria",
+      "count": 2,
+      "paperIds": [
+        699,
+        703
+      ],
+      "coauthors": {
+        "Lykke Andersen": 2,
+        "Eldrup": 2
+      }
+    },
+    {
+      "name": "Mansard",
+      "fullname": "Mansard, E.P.D.",
+      "count": 2,
+      "paperIds": [
+        706,
+        1129
+      ],
+      "coauthors": {
+        "Funke": 2
+      }
+    },
+    {
+      "name": "Funke",
+      "fullname": "Funke, E.R.",
+      "count": 2,
+      "paperIds": [
+        706,
+        1129
+      ],
+      "coauthors": {
+        "Mansard": 2
+      }
+    },
+    {
+      "name": "Almar",
+      "fullname": "Almar, Rafael",
+      "count": 2,
+      "paperIds": [
+        707,
+        1130
+      ],
+      "coauthors": {
+        "Martins": 2,
+        "Blenkinsopp": 2,
+        "Zang": 2
+      }
+    },
+    {
+      "name": "Nallayarasu",
+      "fullname": "Nallayarasu, S.",
+      "count": 2,
+      "paperIds": [
+        709,
+        1135
+      ],
+      "coauthors": {
+        "Fatt": 1,
+        "Jothi Shankar": 1
+      }
+    },
+    {
+      "name": "Elsayed",
+      "fullname": "Elsayed, Mohamed A.K.",
+      "count": 2,
+      "paperIds": [
+        716,
+        1059
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Zelt",
+      "fullname": "Zelt, J.A.",
+      "count": 2,
+      "paperIds": [
+        724,
+        1171
+      ],
+      "coauthors": {
+        "Skjelbreia": 2
+      }
+    },
+    {
+      "name": "Ferrant",
+      "fullname": "Ferrant, Pierre",
+      "count": 2,
+      "paperIds": [
+        725,
+        875
+      ],
+      "coauthors": {
+        "Gouin": 1,
+        "Ducrozet": 1,
+        "Choi": 1,
+        "Kim": 1,
+        "Bouscasse": 1,
+        "Seng": 1,
+        "Gentaz": 1
+      }
+    },
+    {
+      "name": "Bliven",
+      "fullname": "Bliven, Larry F.",
+      "count": 2,
+      "paperIds": [
+        740,
+        741
+      ],
+      "coauthors": {
+        "Huang": 2,
+        "Long": 2,
+        "Tung": 1,
+        "Yuen": 1,
+        "Hwang": 1,
+        "Wang": 1
+      }
+    },
+    {
+      "name": "Henriques",
+      "fullname": "Henriques, João C.C.",
+      "count": 2,
+      "paperIds": [
+        754,
+        884
+      ],
+      "coauthors": {
+        "Ribeiro": 1,
+        "Campuzano": 1,
+        "Gato": 2,
+        "Falcão": 1,
+        "Giorgi": 1,
+        "Gomes": 1,
+        "Bracco": 1,
+        "Mattiazzo": 1
+      }
+    },
+    {
+      "name": "Gato",
+      "fullname": "Gato, Luís M.C.",
+      "count": 2,
+      "paperIds": [
+        754,
+        884
+      ],
+      "coauthors": {
+        "Ribeiro": 1,
+        "Henriques": 2,
+        "Campuzano": 1,
+        "Falcão": 1,
+        "Giorgi": 1,
+        "Gomes": 1,
+        "Bracco": 1,
+        "Mattiazzo": 1
+      }
+    },
+    {
+      "name": "Silva",
+      "fullname": "Silva, Rodolfo",
+      "count": 2,
+      "paperIds": [
+        755,
+        953
+      ],
+      "coauthors": {
+        "Rocha": 1,
+        "Michallet": 1,
+        "Hernández-Fontes": 1,
+        "Esperança": 1,
+        "Mendoza": 1,
+        "Sphaier": 1
+      }
+    },
+    {
+      "name": "Benjamin",
+      "fullname": "Benjamin, Thomas Brooke",
+      "count": 2,
+      "paperIds": [
+        776,
+        777
+      ],
+      "coauthors": {
+        "Feir": 1
+      }
+    },
+    {
+      "name": "Dudley",
+      "fullname": "Dudley, J.M.",
+      "count": 2,
+      "paperIds": [
+        782,
+        789
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Kibler": 1,
+        "Finot": 1,
+        "Millot": 1,
+        "Onorato": 1,
+        "Babanin": 1
+      }
+    },
+    {
+      "name": "Brunetti",
+      "fullname": "Brunetti, M.",
+      "count": 2,
+      "paperIds": [
+        792,
+        816
+      ],
+      "coauthors": {
+        "Eeltink": 1,
+        "Lemoine": 1,
+        "Branger": 1,
+        "Kimmoun": 1,
+        "Kharif": 1,
+        "Carter": 1,
+        "Chabchoub": 1,
+        "Kasparian": 2,
+        "Mendes": 1,
+        "Scotti": 1
+      }
+    },
+    {
+      "name": "Qin",
+      "fullname": "Qin, Jianmin",
+      "count": 2,
+      "paperIds": [
+        806,
+        841
+      ],
+      "coauthors": {
+        "Lu": 1,
+        "Zhou": 1,
+        "Song": 1,
+        "Xie": 1,
+        "Lou": 1,
+        "Li": 1,
+        "Zhang": 1,
+        "Yuan": 1,
+        "Tang": 1,
+        "Xue": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Luxmoore",
+      "fullname": "Luxmoore, Jamie F.",
+      "count": 2,
+      "paperIds": [
+        808,
+        809
+      ],
+      "coauthors": {
+        "Ilic": 2,
+        "Mori": 2
+      }
+    },
+    {
+      "name": "Ilic",
+      "fullname": "Ilic, Suzana",
+      "count": 2,
+      "paperIds": [
+        808,
+        809
+      ],
+      "coauthors": {
+        "Luxmoore": 2,
+        "Mori": 2
+      }
+    },
+    {
+      "name": "Scotti",
+      "fullname": "Scotti, A.",
+      "count": 2,
+      "paperIds": [
+        810,
+        816
+      ],
+      "coauthors": {
+        "Mendes": 2,
+        "Brunetti": 1,
+        "Kasparian": 1
+      }
+    },
+    {
+      "name": "Heller",
+      "fullname": "Heller, E J",
+      "count": 2,
+      "paperIds": [
+        839,
+        1217
+      ],
+      "coauthors": {
+        "Ying": 1,
+        "Zhuang": 1,
+        "Kaplan": 1
+      }
+    },
+    {
+      "name": "Santo",
+      "fullname": "Santo, H.",
+      "count": 2,
+      "paperIds": [
+        873,
+        979
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Stagonas": 1,
+        "Buldakov": 1,
+        "Simons": 1,
+        "Taylor": 2,
+        "Zang": 1,
+        "Dai": 1,
+        "Day": 1,
+        "Chan": 1
+      }
+    },
+    {
+      "name": "Fan",
+      "fullname": "Fan, Chia-Ming",
+      "count": 2,
+      "paperIds": [
+        888,
+        955
+      ],
+      "coauthors": {
+        "Huang": 2,
+        "Chu": 1,
+        "Chen": 1,
+        "Lyu": 1,
+        "Chang": 1,
+        "Tai": 1,
+        "Lin": 2,
+        "Chiu": 1,
+        "Wu": 1
+      }
+    },
+    {
+      "name": "Mu",
+      "fullname": "Mu, Gui",
+      "count": 2,
+      "paperIds": [
+        902,
+        996
+      ],
+      "coauthors": {
+        "Luo": 1,
+        "Dai": 1,
+        "Liu": 1,
+        "Zhao": 1,
+        "Sun": 1,
+        "Tang": 1,
+        "Jiang": 1
+      }
+    },
+    {
+      "name": "Islam",
+      "fullname": "Islam, Hafizul",
+      "count": 2,
+      "paperIds": [
+        909,
+        910
+      ],
+      "coauthors": {
+        "Mohapatra": 2,
+        "Guedes Soares": 2
+      }
+    },
+    {
+      "name": "Duong",
+      "fullname": "Duong, Nga Thanh",
+      "count": 2,
+      "paperIds": [
+        919,
+        920
+      ],
+      "coauthors": {
+        "Tran": 4,
+        "Luu": 2,
+        "Rattanapitikon": 2
+      }
+    },
+    {
+      "name": "Luu",
+      "fullname": "Luu, Loc Xuan",
+      "count": 2,
+      "paperIds": [
+        919,
+        920
+      ],
+      "coauthors": {
+        "Tran": 4,
+        "Duong": 2,
+        "Rattanapitikon": 2
+      }
+    },
+    {
+      "name": "Vijay",
+      "fullname": "Vijay, K. G.",
+      "count": 2,
+      "paperIds": [
+        921,
+        990
+      ],
+      "coauthors": {
+        "Neelamani": 1,
+        "Sahoo": 1,
+        "Venkateswarlu": 1,
+        "Karmakar": 1
+      }
+    },
+    {
+      "name": "Wei",
+      "fullname": "Wei, Handi",
+      "count": 2,
+      "paperIds": [
+        924,
+        947
+      ],
+      "coauthors": {
+        "Kirby": 1,
+        "Grilli": 1,
+        "Subramanya": 1,
+        "Fang": 1,
+        "Xiao": 1,
+        "Liu": 1,
+        "Guo": 1
+      }
+    },
+    {
+      "name": "Bettess",
+      "fullname": "Bettess, Jacqueline A.",
+      "count": 2,
+      "paperIds": [
+        940
+      ],
+      "coauthors": {
+        "Bettess": 2
+      }
+    },
+    {
+      "name": "Du",
+      "fullname": "Du, Junfeng",
+      "count": 2,
+      "paperIds": [
+        941,
+        1333
+      ],
+      "coauthors": {
+        "Chang": 1,
+        "Wang": 1,
+        "Li": 1,
+        "Yang": 1,
+        "Zhu": 1
+      }
+    },
+    {
+      "name": "Raubenheimer",
+      "fullname": "Raubenheimer, Britt",
+      "count": 2,
+      "paperIds": [
+        1012,
+        1096
+      ],
+      "coauthors": {
+        "Elgar": 2,
+        "Gorrell": 1,
+        "Guza": 1
+      }
+    },
+    {
+      "name": "van der Meer",
+      "fullname": "van der Meer, Jentsje W.",
+      "count": 2,
+      "paperIds": [
+        1021,
+        1170
+      ],
+      "coauthors": {
+        "Lashley": 1,
+        "Bricker": 1,
+        "Altomare": 1,
+        "Suzuki": 1,
+        "Zanuttigh": 1
+      }
+    },
+    {
+      "name": "Harris",
+      "fullname": "Harris, D.L.",
+      "count": 2,
+      "paperIds": [
+        1034,
+        1054
+      ],
+      "coauthors": {
+        "Stringari": 1,
+        "Power": 1
+      }
+    },
+    {
+      "name": "Lindgren",
+      "fullname": "Lindgren, George",
+      "count": 2,
+      "paperIds": [
+        1056,
+        1057
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sundar",
+      "fullname": "Sundar, V.",
+      "count": 2,
+      "paperIds": [
+        1128,
+        1149
+      ],
+      "coauthors": {
+        "Mallayachari": 1,
+        "Prabhakar": 1
+      }
+    },
+    {
+      "name": "Hong",
+      "fullname": "Hong, Keyyong",
+      "count": 2,
+      "paperIds": [
+        1168,
+        1173
+      ],
+      "coauthors": {
+        "Zhang": 2,
+        "Yue": 1,
+        "Yang": 1,
+        "Wen": 1,
+        "Prislin": 1
+      }
+    },
+    {
+      "name": "Prislin",
+      "fullname": "Prislin, I.",
+      "count": 2,
+      "paperIds": [
+        1173,
+        1174
+      ],
+      "coauthors": {
+        "Zhang": 2,
+        "Yang": 2,
+        "Wen": 2,
+        "Hong": 1
+      }
+    },
+    {
+      "name": "Wilson",
+      "fullname": "Wilson, Kaya M.",
+      "count": 2,
+      "paperIds": [
+        1271,
+        1329
+      ],
+      "coauthors": {
+        "Power": 1
+      }
+    },
+    {
+      "name": "Prasad",
+      "fullname": "Prasad, Ramendra",
+      "count": 1,
+      "paperIds": [
+        0
+      ],
+      "coauthors": {
+        "Ali": 1,
+        "Xiang": 1,
+        "Deo": 1
+      }
+    },
+    {
+      "name": "Xiang",
+      "fullname": "Xiang, Yong",
+      "count": 1,
+      "paperIds": [
+        0
+      ],
+      "coauthors": {
+        "Ali": 1,
+        "Prasad": 1,
+        "Deo": 1
+      }
+    },
+    {
+      "name": "Deo",
+      "fullname": "Deo, Ravinesh C.",
+      "count": 1,
+      "paperIds": [
+        0
+      ],
+      "coauthors": {
+        "Ali": 1,
+        "Prasad": 1,
+        "Xiang": 1
+      }
+    },
+    {
+      "name": "Caloiero",
+      "fullname": "Caloiero, Tommaso",
+      "count": 1,
+      "paperIds": [
+        11
+      ],
+      "coauthors": {
+        "Aristodemo": 1,
+        "Ferraro": 1
+      }
+    },
+    {
+      "name": "Aristodemo",
+      "fullname": "Aristodemo, Francesco",
+      "count": 1,
+      "paperIds": [
+        11
+      ],
+      "coauthors": {
+        "Caloiero": 1,
+        "Ferraro": 1
+      }
+    },
+    {
+      "name": "Ferraro",
+      "fullname": "Ferraro, Danilo Algieri",
+      "count": 1,
+      "paperIds": [
+        11
+      ],
+      "coauthors": {
+        "Caloiero": 1,
+        "Aristodemo": 1
+      }
+    },
+    {
+      "name": "Cuilin",
+      "fullname": "Cuilin",
+      "count": 1,
+      "paperIds": [
+        13
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Dally",
+      "fullname": "Dally, William R.",
+      "count": 1,
+      "paperIds": [
+        14
+      ],
+      "coauthors": {
+        "Dean": 1
+      }
+    },
+    {
+      "name": "Firdaus",
+      "fullname": "Firdaus, Nurman",
+      "count": 1,
+      "paperIds": [
+        16
+      ],
+      "coauthors": {
+        "Ali": 1,
+        "Nasir": 1,
+        "Muryadin": 1
+      }
+    },
+    {
+      "name": "Nasir",
+      "fullname": "Nasir, Mochammad",
+      "count": 1,
+      "paperIds": [
+        16
+      ],
+      "coauthors": {
+        "Firdaus": 1,
+        "Ali": 1,
+        "Muryadin": 1
+      }
+    },
+    {
+      "name": "Muryadin",
+      "fullname": "Muryadin, M",
+      "count": 1,
+      "paperIds": [
+        16
+      ],
+      "coauthors": {
+        "Firdaus": 1,
+        "Ali": 1,
+        "Nasir": 1
+      }
+    },
+    {
+      "name": "Hameed",
+      "fullname": "Hameed",
+      "count": 1,
+      "paperIds": [
+        25
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Hossain",
+      "fullname": "Hossain, Md Nur",
+      "count": 1,
+      "paperIds": [
+        27
+      ],
+      "coauthors": {
+        "Rahman": 1,
+        "Hoque": 1
+      }
+    },
+    {
+      "name": "Rahman",
+      "fullname": "Rahman, Motiur",
+      "count": 1,
+      "paperIds": [
+        27
+      ],
+      "coauthors": {
+        "Hossain": 1,
+        "Hoque": 1
+      }
+    },
+    {
+      "name": "Hoque",
+      "fullname": "Hoque, Ashabul",
+      "count": 1,
+      "paperIds": [
+        27
+      ],
+      "coauthors": {
+        "Hossain": 1,
+        "Rahman": 1
+      }
+    },
+    {
+      "name": "Hou",
+      "fullname": "Hou, YiJun",
+      "count": 1,
+      "paperIds": [
+        28
+      ],
+      "coauthors": {
+        "Duan": 1,
+        "Chen": 1,
+        "Qi": 1,
+        "Song": 1,
+        "Si": 1
+      }
+    },
+    {
+      "name": "Si",
+      "fullname": "Si, GuangCheng",
+      "count": 1,
+      "paperIds": [
+        28
+      ],
+      "coauthors": {
+        "Hou": 1,
+        "Duan": 1,
+        "Chen": 1,
+        "Qi": 1,
+        "Song": 1
+      }
+    },
+    {
+      "name": "Bar",
+      "fullname": "Bar, Daniel",
+      "count": 1,
+      "paperIds": [
+        38
+      ],
+      "coauthors": {
+        "Knobler": 1,
+        "Cohen": 1,
+        "Liberzon": 1
+      }
+    },
+    {
+      "name": "Cohen",
+      "fullname": "Cohen, Rotem",
+      "count": 1,
+      "paperIds": [
+        38
+      ],
+      "coauthors": {
+        "Knobler": 1,
+        "Bar": 1,
+        "Liberzon": 1
+      }
+    },
+    {
+      "name": "Lee et al",
+      "fullname": "Lee et al",
+      "count": 1,
+      "paperIds": [
+        39
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Onat",
+      "fullname": "Onat, Yaprak",
+      "count": 1,
+      "paperIds": [
+        41
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Jia": 1,
+        "Cifuentes-Lorenzen": 1,
+        "Ilia": 1,
+        "McCardell": 1,
+        "Fake": 1,
+        "O’Donnell": 1
+      }
+    },
+    {
+      "name": "Cifuentes-Lorenzen",
+      "fullname": "Cifuentes-Lorenzen, Alejandro",
+      "count": 1,
+      "paperIds": [
+        41
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Jia": 1,
+        "Onat": 1,
+        "Ilia": 1,
+        "McCardell": 1,
+        "Fake": 1,
+        "O’Donnell": 1
+      }
+    },
+    {
+      "name": "Ilia",
+      "fullname": "Ilia, Amin",
+      "count": 1,
+      "paperIds": [
+        41
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Jia": 1,
+        "Onat": 1,
+        "Cifuentes-Lorenzen": 1,
+        "McCardell": 1,
+        "Fake": 1,
+        "O’Donnell": 1
+      }
+    },
+    {
+      "name": "McCardell",
+      "fullname": "McCardell, Grant",
+      "count": 1,
+      "paperIds": [
+        41
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Jia": 1,
+        "Onat": 1,
+        "Cifuentes-Lorenzen": 1,
+        "Ilia": 1,
+        "Fake": 1,
+        "O’Donnell": 1
+      }
+    },
+    {
+      "name": "Fake",
+      "fullname": "Fake, Todd",
+      "count": 1,
+      "paperIds": [
+        41
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Jia": 1,
+        "Onat": 1,
+        "Cifuentes-Lorenzen": 1,
+        "Ilia": 1,
+        "McCardell": 1,
+        "O’Donnell": 1
+      }
+    },
+    {
+      "name": "O’Donnell",
+      "fullname": "O’Donnell, James",
+      "count": 1,
+      "paperIds": [
+        41
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Jia": 1,
+        "Onat": 1,
+        "Cifuentes-Lorenzen": 1,
+        "Ilia": 1,
+        "McCardell": 1,
+        "Fake": 1
+      }
+    },
+    {
+      "name": "Lucas",
+      "fullname": "Lucas, C",
+      "count": 1,
+      "paperIds": [
+        45
+      ],
+      "coauthors": {
+        "Soares": 1
+      }
+    },
+    {
+      "name": "Mai",
+      "fullname": "Mai, Stephan",
+      "count": 1,
+      "paperIds": [
+        46
+      ],
+      "coauthors": {
+        "Wilhelmi": 1,
+        "Barjenbruch": 1
+      }
+    },
+    {
+      "name": "Wilhelmi",
+      "fullname": "Wilhelmi, Jens",
+      "count": 1,
+      "paperIds": [
+        46
+      ],
+      "coauthors": {
+        "Mai": 1,
+        "Barjenbruch": 1
+      }
+    },
+    {
+      "name": "Barjenbruch",
+      "fullname": "Barjenbruch, Ulrich",
+      "count": 1,
+      "paperIds": [
+        46
+      ],
+      "coauthors": {
+        "Mai": 1,
+        "Wilhelmi": 1
+      }
+    },
+    {
+      "name": "Tzanis",
+      "fullname": "Tzanis, Kyriakos",
+      "count": 1,
+      "paperIds": [
+        49
+      ],
+      "coauthors": {
+        "Memos": 1
+      }
+    },
+    {
+      "name": "Mizuguchi",
+      "fullname": "Mizuguchi, Masaru",
+      "count": 1,
+      "paperIds": [
+        55
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Naess",
+      "fullname": "Naess, Arvid",
+      "count": 1,
+      "paperIds": [
+        58
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Nørgaard",
+      "fullname": "Nørgaard, Jørgen Quvang Harck",
+      "count": 1,
+      "paperIds": [
+        59
+      ],
+      "coauthors": {
+        "Lykke Andersen": 1
+      }
+    },
+    {
+      "name": "Shibayama",
+      "fullname": "Shibayama, Tomoya",
+      "count": 1,
+      "paperIds": [
+        62
+      ],
+      "coauthors": {
+        "Rattanapitikon": 1
+      }
+    },
+    {
+      "name": "Schubert",
+      "fullname": "Schubert",
+      "count": 1,
+      "paperIds": [
+        63
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shimada",
+      "fullname": "Shimada",
+      "count": 1,
+      "paperIds": [
+        64
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wolfram",
+      "fullname": "Wolfram, Julian",
+      "count": 1,
+      "paperIds": [
+        65
+      ],
+      "coauthors": {
+        "Stansell": 1,
+        "Linfoot": 1
+      }
+    },
+    {
+      "name": "Linfoot",
+      "fullname": "Linfoot, Brian",
+      "count": 1,
+      "paperIds": [
+        65
+      ],
+      "coauthors": {
+        "Stansell": 1,
+        "Wolfram": 1
+      }
+    },
+    {
+      "name": "Tuan",
+      "fullname": "Tuan, Thieu Quang",
+      "count": 1,
+      "paperIds": [
+        72
+      ],
+      "coauthors": {
+        "Cuong": 1
+      }
+    },
+    {
+      "name": "Cuong",
+      "fullname": "Cuong, Dinh Quang",
+      "count": 1,
+      "paperIds": [
+        72
+      ],
+      "coauthors": {
+        "Tuan": 1
+      }
+    },
+    {
+      "name": "Van Vledder",
+      "fullname": "Van Vledder",
+      "count": 1,
+      "paperIds": [
+        73
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shahul Hameed",
+      "fullname": "Shahul Hameed, T.S.",
+      "count": 1,
+      "paperIds": [
+        77
+      ],
+      "coauthors": {
+        "Baba": 1
+      }
+    },
+    {
+      "name": "Baba",
+      "fullname": "Baba, M.",
+      "count": 1,
+      "paperIds": [
+        77
+      ],
+      "coauthors": {
+        "Shahul Hameed": 1
+      }
+    },
+    {
+      "name": "Cho",
+      "fullname": "Cho, Yong Jun",
+      "count": 1,
+      "paperIds": [
+        81
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Foristall",
+      "fullname": "Foristall",
+      "count": 1,
+      "paperIds": [
+        82
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Greenhow",
+      "fullname": "Greenhow, Martin",
+      "count": 1,
+      "paperIds": [
+        87
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Harikrishnan",
+      "fullname": "Harikrishnan, S.",
+      "count": 1,
+      "paperIds": [
+        103
+      ],
+      "coauthors": {
+        "Kumar": 1,
+        "Mandal": 1
+      }
+    },
+    {
+      "name": "Kvingedal",
+      "fullname": "Kvingedal, Børge",
+      "count": 1,
+      "paperIds": [
+        104
+      ],
+      "coauthors": {
+        "Bruserud": 1,
+        "Nygaard": 1
+      }
+    },
+    {
+      "name": "Bruserud",
+      "fullname": "Bruserud, Kjersti",
+      "count": 1,
+      "paperIds": [
+        104
+      ],
+      "coauthors": {
+        "Kvingedal": 1,
+        "Nygaard": 1
+      }
+    },
+    {
+      "name": "Nygaard",
+      "fullname": "Nygaard, Einar",
+      "count": 1,
+      "paperIds": [
+        104
+      ],
+      "coauthors": {
+        "Kvingedal": 1,
+        "Bruserud": 1
+      }
+    },
+    {
+      "name": "Aziz Tayfun",
+      "fullname": "Aziz Tayfun, M.",
+      "count": 1,
+      "paperIds": [
+        114
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Matar",
+      "fullname": "Matar, Reine",
+      "count": 1,
+      "paperIds": [
+        122
+      ],
+      "coauthors": {
+        "Abroug": 1,
+        "Abcha": 1
+      }
+    },
+    {
+      "name": "Nava",
+      "fullname": "Nava, Vincenzo",
+      "count": 1,
+      "paperIds": [
+        124
+      ],
+      "coauthors": {
+        "Arena": 1,
+        "Ascanelli": 1,
+        "Pavone": 1,
+        "Romolo": 1
+      }
+    },
+    {
+      "name": "Pavone",
+      "fullname": "Pavone, Diego",
+      "count": 1,
+      "paperIds": [
+        124
+      ],
+      "coauthors": {
+        "Arena": 1,
+        "Ascanelli": 1,
+        "Nava": 1,
+        "Romolo": 1
+      }
+    },
+    {
+      "name": "Dalzell",
+      "fullname": "Dalzell, J.F.",
+      "count": 1,
+      "paperIds": [
+        130
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Luneau",
+      "fullname": "Luneau, C.",
+      "count": 1,
+      "paperIds": [
+        132
+      ],
+      "coauthors": {
+        "Eeltink": 1,
+        "Branger": 1,
+        "He": 1,
+        "Chabchoub": 1,
+        "Kasparian": 1,
+        "van den Bremer": 1,
+        "Sapsis": 1
+      }
+    },
+    {
+      "name": "Freilich",
+      "fullname": "Freilich, M. H.",
+      "count": 1,
+      "paperIds": [
+        137
+      ],
+      "coauthors": {
+        "Guza": 1
+      }
+    },
+    {
+      "name": "Kriebel",
+      "fullname": "Kriebel, D. L.",
+      "count": 1,
+      "paperIds": [
+        142
+      ],
+      "coauthors": {
+        "Dawson": 1
+      }
+    },
+    {
+      "name": "van Leeuwen",
+      "fullname": "van Leeuwen, Peter Jan",
+      "count": 1,
+      "paperIds": [
+        145
+      ],
+      "coauthors": {
+        "Klopman": 1
+      }
+    },
+    {
+      "name": "Ludu",
+      "fullname": "Ludu",
+      "count": 1,
+      "paperIds": [
+        146
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Marino",
+      "fullname": "Marino",
+      "count": 1,
+      "paperIds": [
+        149
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Nguyen",
+      "fullname": "Nguyen, Huy Q.",
+      "count": 1,
+      "paperIds": [
+        151
+      ],
+      "coauthors": {
+        "Strauss": 1
+      }
+    },
+    {
+      "name": "Strauss",
+      "fullname": "Strauss, Walter A.",
+      "count": 1,
+      "paperIds": [
+        151
+      ],
+      "coauthors": {
+        "Nguyen": 1
+      }
+    },
+    {
+      "name": "Kliakhandler",
+      "fullname": "Kliakhandler, Igor",
+      "count": 1,
+      "paperIds": [
+        162
+      ],
+      "coauthors": {
+        "Trulsen": 1,
+        "Dysthe": 1,
+        "Velarde": 1
+      }
+    },
+    {
+      "name": "Velarde",
+      "fullname": "Velarde, Manuel G.",
+      "count": 1,
+      "paperIds": [
+        162
+      ],
+      "coauthors": {
+        "Trulsen": 1,
+        "Kliakhandler": 1,
+        "Dysthe": 1
+      }
+    },
+    {
+      "name": "Low",
+      "fullname": "Low, Ying Min",
+      "count": 1,
+      "paperIds": [
+        165
+      ],
+      "coauthors": {
+        "Wang": 1
+      }
+    },
+    {
+      "name": "Alberello",
+      "fullname": "Alberello, Alberto",
+      "count": 1,
+      "paperIds": [
+        170
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Monty": 1,
+        "Nelli": 1,
+        "Lee": 1,
+        "Elsnab": 1,
+        "Toffoli": 1
+      }
+    },
+    {
+      "name": "Monty",
+      "fullname": "Monty, Jason P.",
+      "count": 1,
+      "paperIds": [
+        170
+      ],
+      "coauthors": {
+        "Alberello": 1,
+        "Chabchoub": 1,
+        "Nelli": 1,
+        "Lee": 1,
+        "Elsnab": 1,
+        "Toffoli": 1
+      }
+    },
+    {
+      "name": "Nelli",
+      "fullname": "Nelli, Filippo",
+      "count": 1,
+      "paperIds": [
+        170
+      ],
+      "coauthors": {
+        "Alberello": 1,
+        "Chabchoub": 1,
+        "Monty": 1,
+        "Lee": 1,
+        "Elsnab": 1,
+        "Toffoli": 1
+      }
+    },
+    {
+      "name": "Elsnab",
+      "fullname": "Elsnab, John",
+      "count": 1,
+      "paperIds": [
+        170
+      ],
+      "coauthors": {
+        "Alberello": 1,
+        "Chabchoub": 1,
+        "Monty": 1,
+        "Nelli": 1,
+        "Lee": 1,
+        "Toffoli": 1
+      }
+    },
+    {
+      "name": "Antunes do Carmo",
+      "fullname": "Antunes do Carmo",
+      "count": 1,
+      "paperIds": [
+        172
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Oltman-Shay",
+      "fullname": "Oltman-Shay, Joan",
+      "count": 1,
+      "paperIds": [
+        178
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Boswell",
+      "fullname": "Boswell, Hunter",
+      "count": 1,
+      "paperIds": [
+        179
+      ],
+      "coauthors": {
+        "Yan": 1,
+        "Mostert": 1
+      }
+    },
+    {
+      "name": "Mostert",
+      "fullname": "Mostert, Wouter",
+      "count": 1,
+      "paperIds": [
+        179
+      ],
+      "coauthors": {
+        "Boswell": 1,
+        "Yan": 1
+      }
+    },
+    {
+      "name": "Castro-Orgaz",
+      "fullname": "Castro-Orgaz",
+      "count": 1,
+      "paperIds": [
+        182
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Deane",
+      "fullname": "Deane, Grant B.",
+      "count": 1,
+      "paperIds": [
+        183
+      ],
+      "coauthors": {
+        "Stokes": 1,
+        "Callaghan": 1
+      }
+    },
+    {
+      "name": "Derakhti",
+      "fullname": "Derakhti, Morteza",
+      "count": 1,
+      "paperIds": [
+        184
+      ],
+      "coauthors": {
+        "Kirby": 1,
+        "Banner": 1,
+        "Grilli": 1,
+        "Thomson": 1
+      }
+    },
+    {
+      "name": "Duz",
+      "fullname": "Duz",
+      "count": 1,
+      "paperIds": [
+        186
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Esandi",
+      "fullname": "Esandi, Javier Murgoitio",
+      "count": 1,
+      "paperIds": [
+        187
+      ],
+      "coauthors": {
+        "Buldakov": 1,
+        "Simons": 1,
+        "Stagonas": 1
+      }
+    },
+    {
+      "name": "Ghiasian",
+      "fullname": "Ghiasian, Mohammad",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Carrick": 1,
+        "Bisson": 1,
+        "Haus": 1,
+        "Baker": 1,
+        "Lirman": 1,
+        "Rhode-Barbarigos": 1
+      }
+    },
+    {
+      "name": "Carrick",
+      "fullname": "Carrick, Jane",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Ghiasian": 1,
+        "Bisson": 1,
+        "Haus": 1,
+        "Baker": 1,
+        "Lirman": 1,
+        "Rhode-Barbarigos": 1
+      }
+    },
+    {
+      "name": "Bisson",
+      "fullname": "Bisson, Claire",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Ghiasian": 1,
+        "Carrick": 1,
+        "Haus": 1,
+        "Baker": 1,
+        "Lirman": 1,
+        "Rhode-Barbarigos": 1
+      }
+    },
+    {
+      "name": "Haus",
+      "fullname": "Haus, Brian K.",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Ghiasian": 1,
+        "Carrick": 1,
+        "Bisson": 1,
+        "Baker": 1,
+        "Lirman": 1,
+        "Rhode-Barbarigos": 1
+      }
+    },
+    {
+      "name": "Baker",
+      "fullname": "Baker, Andrew C.",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Ghiasian": 1,
+        "Carrick": 1,
+        "Bisson": 1,
+        "Haus": 1,
+        "Lirman": 1,
+        "Rhode-Barbarigos": 1
+      }
+    },
+    {
+      "name": "Lirman",
+      "fullname": "Lirman, Diego",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Ghiasian": 1,
+        "Carrick": 1,
+        "Bisson": 1,
+        "Haus": 1,
+        "Baker": 1,
+        "Rhode-Barbarigos": 1
+      }
+    },
+    {
+      "name": "Rhode-Barbarigos",
+      "fullname": "Rhode-Barbarigos, Landolf",
+      "count": 1,
+      "paperIds": [
+        188
+      ],
+      "coauthors": {
+        "Ghiasian": 1,
+        "Carrick": 1,
+        "Bisson": 1,
+        "Haus": 1,
+        "Baker": 1,
+        "Lirman": 1
+      }
+    },
+    {
+      "name": "Herman",
+      "fullname": "Herman, Agnieszka",
+      "count": 1,
+      "paperIds": [
+        191
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Iele",
+      "fullname": "Iele, Benedetta",
+      "count": 1,
+      "paperIds": [
+        192
+      ],
+      "coauthors": {
+        "Palleschi": 1,
+        "Gallerano": 1
+      }
+    },
+    {
+      "name": "Palleschi",
+      "fullname": "Palleschi, Federica",
+      "count": 1,
+      "paperIds": [
+        192
+      ],
+      "coauthors": {
+        "Iele": 1,
+        "Gallerano": 1
+      }
+    },
+    {
+      "name": "Gallerano",
+      "fullname": "Gallerano, Francesco",
+      "count": 1,
+      "paperIds": [
+        192
+      ],
+      "coauthors": {
+        "Iele": 1,
+        "Palleschi": 1
+      }
+    },
+    {
+      "name": "Kamphuis",
+      "fullname": "Kamphuis, J.W.",
+      "count": 1,
+      "paperIds": [
+        193
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Delis",
+      "fullname": "Delis, A.I.",
+      "count": 1,
+      "paperIds": [
+        195
+      ],
+      "coauthors": {
+        "Kazolea": 1,
+        "Synolakis": 1
+      }
+    },
+    {
+      "name": "Synolakis",
+      "fullname": "Synolakis, C.E.",
+      "count": 1,
+      "paperIds": [
+        195
+      ],
+      "coauthors": {
+        "Kazolea": 1,
+        "Delis": 1
+      }
+    },
+    {
+      "name": "Ong",
+      "fullname": "Ong, Muk Chen",
+      "count": 1,
+      "paperIds": [
+        198
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Gatin": 1,
+        "Obhrai": 1,
+        "Jasak": 1
+      }
+    },
+    {
+      "name": "Bennetts",
+      "fullname": "Bennetts, Luke G.",
+      "count": 1,
+      "paperIds": [
+        200
+      ],
+      "coauthors": {
+        "Meylan": 1,
+        "Peter": 1
+      }
+    },
+    {
+      "name": "Peter",
+      "fullname": "Peter, Malte A.",
+      "count": 1,
+      "paperIds": [
+        200
+      ],
+      "coauthors": {
+        "Meylan": 1,
+        "Bennetts": 1
+      }
+    },
+    {
+      "name": "Na",
+      "fullname": "Na, Byoungjoon",
+      "count": 1,
+      "paperIds": [
+        201
+      ],
+      "coauthors": {
+        "Chang": 1,
+        "Lim": 1
+      }
+    },
+    {
+      "name": "Pinzo",
+      "fullname": "Pinzo",
+      "count": 1,
+      "paperIds": [
+        202
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Plumerault",
+      "fullname": "Plumerault",
+      "count": 1,
+      "paperIds": [
+        203
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Miller",
+      "fullname": "Miller, Dylan",
+      "count": 1,
+      "paperIds": [
+        206
+      ],
+      "coauthors": {
+        "Pujara": 1,
+        "Park": 1,
+        "Baldock": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Ranasinghe",
+      "fullname": "Ranasinghe, R. S.",
+      "count": 1,
+      "paperIds": [
+        208
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Riedel",
+      "fullname": "Riedel, Hans Peter",
+      "count": 1,
+      "paperIds": [
+        210
+      ],
+      "coauthors": {
+        "Byrne": 1
+      }
+    },
+    {
+      "name": "Byrne",
+      "fullname": "Byrne, Anthony Paul",
+      "count": 1,
+      "paperIds": [
+        210
+      ],
+      "coauthors": {
+        "Riedel": 1
+      }
+    },
+    {
+      "name": "Sasmal",
+      "fullname": "Sasmal, Anjan",
+      "count": 1,
+      "paperIds": [
+        216
+      ],
+      "coauthors": {
+        "De": 1
+      }
+    },
+    {
+      "name": "van der Westhuysen",
+      "fullname": "van der Westhuysen, André J.",
+      "count": 1,
+      "paperIds": [
+        224
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Morison",
+      "fullname": "Morison, Jack R.",
+      "count": 1,
+      "paperIds": [
+        230
+      ],
+      "coauthors": {
+        "Crooke": 1
+      }
+    },
+    {
+      "name": "Crooke",
+      "fullname": "Crooke, R. C.",
+      "count": 1,
+      "paperIds": [
+        230
+      ],
+      "coauthors": {
+        "Morison": 1
+      }
+    },
+    {
+      "name": "Salmon",
+      "fullname": "Salmon, J.E.",
+      "count": 1,
+      "paperIds": [
+        232
+      ],
+      "coauthors": {
+        "Holthuijsen": 1
+      }
+    },
+    {
+      "name": "Aggarwal",
+      "fullname": "Aggarwal",
+      "count": 1,
+      "paperIds": [
+        236
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Alvise",
+      "fullname": "Alvise, Benetazzo",
+      "count": 1,
+      "paperIds": [
+        237
+      ],
+      "coauthors": {
+        "Francesco": 1,
+        "Filippo": 1,
+        "Sandro": 1,
+        "Mauro": 1
+      }
+    },
+    {
+      "name": "Francesco",
+      "fullname": "Francesco, Barbariol",
+      "count": 1,
+      "paperIds": [
+        237
+      ],
+      "coauthors": {
+        "Alvise": 1,
+        "Filippo": 1,
+        "Sandro": 1,
+        "Mauro": 1
+      }
+    },
+    {
+      "name": "Filippo",
+      "fullname": "Filippo, Bergamasco",
+      "count": 1,
+      "paperIds": [
+        237
+      ],
+      "coauthors": {
+        "Alvise": 1,
+        "Francesco": 1,
+        "Sandro": 1,
+        "Mauro": 1
+      }
+    },
+    {
+      "name": "Sandro",
+      "fullname": "Sandro, Carniel",
+      "count": 1,
+      "paperIds": [
+        237
+      ],
+      "coauthors": {
+        "Alvise": 1,
+        "Francesco": 1,
+        "Filippo": 1,
+        "Mauro": 1
+      }
+    },
+    {
+      "name": "Mauro",
+      "fullname": "Mauro, Sclavo",
+      "count": 1,
+      "paperIds": [
+        237
+      ],
+      "coauthors": {
+        "Alvise": 1,
+        "Francesco": 1,
+        "Filippo": 1,
+        "Sandro": 1
+      }
+    },
+    {
+      "name": "Badulin",
+      "fullname": "Badulin, S. I.",
+      "count": 1,
+      "paperIds": [
+        243
+      ],
+      "coauthors": {
+        "Zakharov": 1
+      }
+    },
+    {
+      "name": "Shabani",
+      "fullname": "Shabani, Behnam",
+      "count": 1,
+      "paperIds": [
+        246
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Callaghan": 1,
+        "Hu": 1,
+        "Mumby": 1
+      }
+    },
+    {
+      "name": "Mumby",
+      "fullname": "Mumby, Peter J.",
+      "count": 1,
+      "paperIds": [
+        246
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Shabani": 1,
+        "Callaghan": 1,
+        "Hu": 1
+      }
+    },
+    {
+      "name": "Baley",
+      "fullname": "Baley",
+      "count": 1,
+      "paperIds": [
+        248
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Abdussamie",
+      "fullname": "Abdussamie, Nagi",
+      "count": 1,
+      "paperIds": [
+        253
+      ],
+      "coauthors": {
+        "Thomas": 1,
+        "Amin": 1,
+        "Ojeda": 1
+      }
+    },
+    {
+      "name": "Thomas",
+      "fullname": "Thomas, Giles",
+      "count": 1,
+      "paperIds": [
+        253
+      ],
+      "coauthors": {
+        "Abdussamie": 1,
+        "Amin": 1,
+        "Ojeda": 1
+      }
+    },
+    {
+      "name": "Amin",
+      "fullname": "Amin, Walid",
+      "count": 1,
+      "paperIds": [
+        253
+      ],
+      "coauthors": {
+        "Abdussamie": 1,
+        "Thomas": 1,
+        "Ojeda": 1
+      }
+    },
+    {
+      "name": "Ojeda",
+      "fullname": "Ojeda, Roberto",
+      "count": 1,
+      "paperIds": [
+        253
+      ],
+      "coauthors": {
+        "Abdussamie": 1,
+        "Thomas": 1,
+        "Amin": 1
+      }
+    },
+    {
+      "name": "Barbariol",
+      "fullname": "Barbariol, Francesco",
+      "count": 1,
+      "paperIds": [
+        258
+      ],
+      "coauthors": {
+        "Benetazzo": 1,
+        "Davison": 1
+      }
+    },
+    {
+      "name": "Davison",
+      "fullname": "Davison, Silvio",
+      "count": 1,
+      "paperIds": [
+        258
+      ],
+      "coauthors": {
+        "Benetazzo": 1,
+        "Barbariol": 1
+      }
+    },
+    {
+      "name": "Biegowski",
+      "fullname": "Biegowski, Jarosław",
+      "count": 1,
+      "paperIds": [
+        261
+      ],
+      "coauthors": {
+        "Paprota": 1,
+        "Sulisz": 1
+      }
+    },
+    {
+      "name": "Paprota",
+      "fullname": "Paprota, Maciej",
+      "count": 1,
+      "paperIds": [
+        261
+      ],
+      "coauthors": {
+        "Biegowski": 1,
+        "Sulisz": 1
+      }
+    },
+    {
+      "name": "Magnusson",
+      "fullname": "Magnusson, Anne Karin",
+      "count": 1,
+      "paperIds": [
+        262
+      ],
+      "coauthors": {
+        "Bitner-Gregersen": 1,
+        "Gramstad": 1,
+        "Malila": 1
+      }
+    },
+    {
+      "name": "Malila",
+      "fullname": "Malila, Mika",
+      "count": 1,
+      "paperIds": [
+        262
+      ],
+      "coauthors": {
+        "Bitner-Gregersen": 1,
+        "Gramstad": 1,
+        "Magnusson": 1
+      }
+    },
+    {
+      "name": "Anonymous",
+      "fullname": "Anonymous",
+      "count": 1,
+      "paperIds": [
+        266
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Hogg",
+      "fullname": "Hogg, A. J.",
+      "count": 1,
+      "paperIds": [
+        268
+      ],
+      "coauthors": {
+        "Bredmose": 1,
+        "Bullock": 1
+      }
+    },
+    {
+      "name": "Buchner",
+      "fullname": "Buchner, Bas",
+      "count": 1,
+      "paperIds": [
+        269
+      ],
+      "coauthors": {
+        "Forristall": 1
+      }
+    },
+    {
+      "name": "Crawford",
+      "fullname": "Crawford, A.R",
+      "count": 1,
+      "paperIds": [
+        270
+      ],
+      "coauthors": {
+        "Bullock": 1,
+        "Hewson": 1,
+        "Walkden": 1,
+        "Bird": 1
+      }
+    },
+    {
+      "name": "Hewson",
+      "fullname": "Hewson, P.J",
+      "count": 1,
+      "paperIds": [
+        270
+      ],
+      "coauthors": {
+        "Bullock": 1,
+        "Crawford": 1,
+        "Walkden": 1,
+        "Bird": 1
+      }
+    },
+    {
+      "name": "Walkden",
+      "fullname": "Walkden, M.J.A",
+      "count": 1,
+      "paperIds": [
+        270
+      ],
+      "coauthors": {
+        "Bullock": 1,
+        "Crawford": 1,
+        "Hewson": 1,
+        "Bird": 1
+      }
+    },
+    {
+      "name": "Bird",
+      "fullname": "Bird, P.A.D",
+      "count": 1,
+      "paperIds": [
+        270
+      ],
+      "coauthors": {
+        "Bullock": 1,
+        "Crawford": 1,
+        "Hewson": 1,
+        "Walkden": 1
+      }
+    },
+    {
+      "name": "Cagigal",
+      "fullname": "Cagigal, Laura",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Rueda": 1,
+        "Anderson": 1,
+        "Ruggiero": 1,
+        "Merrifield": 1,
+        "Montaño": 1,
+        "Coco": 1,
+        "Méndez": 1
+      }
+    },
+    {
+      "name": "Rueda",
+      "fullname": "Rueda, Ana",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Anderson": 1,
+        "Ruggiero": 1,
+        "Merrifield": 1,
+        "Montaño": 1,
+        "Coco": 1,
+        "Méndez": 1
+      }
+    },
+    {
+      "name": "Anderson",
+      "fullname": "Anderson, Dylan",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Rueda": 1,
+        "Ruggiero": 1,
+        "Merrifield": 1,
+        "Montaño": 1,
+        "Coco": 1,
+        "Méndez": 1
+      }
+    },
+    {
+      "name": "Ruggiero",
+      "fullname": "Ruggiero, Peter",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Rueda": 1,
+        "Anderson": 1,
+        "Merrifield": 1,
+        "Montaño": 1,
+        "Coco": 1,
+        "Méndez": 1
+      }
+    },
+    {
+      "name": "Montaño",
+      "fullname": "Montaño, Jennifer",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Rueda": 1,
+        "Anderson": 1,
+        "Ruggiero": 1,
+        "Merrifield": 1,
+        "Coco": 1,
+        "Méndez": 1
+      }
+    },
+    {
+      "name": "Coco",
+      "fullname": "Coco, Giovanni",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Rueda": 1,
+        "Anderson": 1,
+        "Ruggiero": 1,
+        "Merrifield": 1,
+        "Montaño": 1,
+        "Méndez": 1
+      }
+    },
+    {
+      "name": "Méndez",
+      "fullname": "Méndez, Fernando J.",
+      "count": 1,
+      "paperIds": [
+        272
+      ],
+      "coauthors": {
+        "Cagigal": 1,
+        "Rueda": 1,
+        "Anderson": 1,
+        "Ruggiero": 1,
+        "Merrifield": 1,
+        "Montaño": 1,
+        "Coco": 1
+      }
+    },
+    {
+      "name": "Carneiro",
+      "fullname": "Carneiro",
+      "count": 1,
+      "paperIds": [
+        273
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Casas-Prat",
+      "fullname": "Casas-Prat, Mercè",
+      "count": 1,
+      "paperIds": [
+        274
+      ],
+      "coauthors": {
+        "Wang": 1,
+        "Mori": 1,
+        "Feng": 1,
+        "Chan": 1,
+        "Shimura": 1
+      }
+    },
+    {
+      "name": "Shimura",
+      "fullname": "Shimura, Tomoya",
+      "count": 1,
+      "paperIds": [
+        274
+      ],
+      "coauthors": {
+        "Casas-Prat": 1,
+        "Wang": 1,
+        "Mori": 1,
+        "Feng": 1,
+        "Chan": 1
+      }
+    },
+    {
+      "name": "Castelle",
+      "fullname": "Castelle",
+      "count": 1,
+      "paperIds": [
+        275
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tobisch",
+      "fullname": "Tobisch, E.",
+      "count": 1,
+      "paperIds": [
+        276
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Hoffmann": 1,
+        "Waseda": 1,
+        "Akhmediev": 1
+      }
+    },
+    {
+      "name": "Akhmediev",
+      "fullname": "Akhmediev, N.",
+      "count": 1,
+      "paperIds": [
+        276
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Hoffmann": 1,
+        "Tobisch": 1,
+        "Waseda": 1
+      }
+    },
+    {
+      "name": "Chaplin",
+      "fullname": "Chaplin, J. R.",
+      "count": 1,
+      "paperIds": [
+        277
+      ],
+      "coauthors": {
+        "Rainey": 1,
+        "Yemm": 1
+      }
+    },
+    {
+      "name": "Yemm",
+      "fullname": "Yemm, R. W.",
+      "count": 1,
+      "paperIds": [
+        277
+      ],
+      "coauthors": {
+        "Chaplin": 1,
+        "Rainey": 1
+      }
+    },
+    {
+      "name": "Zaleski",
+      "fullname": "Zaleski, Stéphane",
+      "count": 1,
+      "paperIds": [
+        282
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Kharif": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Hillis",
+      "fullname": "Hillis, A.J.",
+      "count": 1,
+      "paperIds": [
+        284
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Zang": 1,
+        "Morgan": 1,
+        "Plummer": 1
+      }
+    },
+    {
+      "name": "Plummer",
+      "fullname": "Plummer, A.R.",
+      "count": 1,
+      "paperIds": [
+        284
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Zang": 1,
+        "Hillis": 1,
+        "Morgan": 1
+      }
+    },
+    {
+      "name": "Caires",
+      "fullname": "Caires, Sofia",
+      "count": 1,
+      "paperIds": [
+        288
+      ],
+      "coauthors": {
+        "Van Gent": 1
+      }
+    },
+    {
+      "name": "Van Gent",
+      "fullname": "Van Gent, Marcel R.A.",
+      "count": 1,
+      "paperIds": [
+        288
+      ],
+      "coauthors": {
+        "Caires": 1
+      }
+    },
+    {
+      "name": "Dao",
+      "fullname": "Dao, M. H.",
+      "count": 1,
+      "paperIds": [
+        295
+      ],
+      "coauthors": {
+        "Xu": 1,
+        "Chan": 1,
+        "Tkalich": 1
+      }
+    },
+    {
+      "name": "Tkalich",
+      "fullname": "Tkalich, P.",
+      "count": 1,
+      "paperIds": [
+        295
+      ],
+      "coauthors": {
+        "Dao": 1,
+        "Xu": 1,
+        "Chan": 1
+      }
+    },
+    {
+      "name": "Demiray",
+      "fullname": "Demiray",
+      "count": 1,
+      "paperIds": [
+        298
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sree",
+      "fullname": "Sree, Dharma K.K.",
+      "count": 1,
+      "paperIds": [
+        299
+      ],
+      "coauthors": {
+        "Law": 1,
+        "Shen": 1
+      }
+    },
+    {
+      "name": "Law",
+      "fullname": "Law, Adrian Wing-Keung",
+      "count": 1,
+      "paperIds": [
+        299
+      ],
+      "coauthors": {
+        "Sree": 1,
+        "Shen": 1
+      }
+    },
+    {
+      "name": "Shen",
+      "fullname": "Shen, Hayley H.",
+      "count": 1,
+      "paperIds": [
+        299
+      ],
+      "coauthors": {
+        "Sree": 1,
+        "Law": 1
+      }
+    },
+    {
+      "name": "Di Cristo",
+      "fullname": "Di Cristo, Cristiana",
+      "count": 1,
+      "paperIds": [
+        300
+      ],
+      "coauthors": {
+        "Greco": 1,
+        "Iervolino": 1,
+        "Martino": 1,
+        "Vacca": 1
+      }
+    },
+    {
+      "name": "Greco",
+      "fullname": "Greco, Massimo",
+      "count": 1,
+      "paperIds": [
+        300
+      ],
+      "coauthors": {
+        "Di Cristo": 1,
+        "Iervolino": 1,
+        "Martino": 1,
+        "Vacca": 1
+      }
+    },
+    {
+      "name": "Iervolino",
+      "fullname": "Iervolino, Michele",
+      "count": 1,
+      "paperIds": [
+        300
+      ],
+      "coauthors": {
+        "Di Cristo": 1,
+        "Greco": 1,
+        "Martino": 1,
+        "Vacca": 1
+      }
+    },
+    {
+      "name": "Martino",
+      "fullname": "Martino, Riccardo",
+      "count": 1,
+      "paperIds": [
+        300
+      ],
+      "coauthors": {
+        "Di Cristo": 1,
+        "Greco": 1,
+        "Iervolino": 1,
+        "Vacca": 1
+      }
+    },
+    {
+      "name": "Vacca",
+      "fullname": "Vacca, Andrea",
+      "count": 1,
+      "paperIds": [
+        300
+      ],
+      "coauthors": {
+        "Di Cristo": 1,
+        "Greco": 1,
+        "Iervolino": 1,
+        "Martino": 1
+      }
+    },
+    {
+      "name": "Douglas",
+      "fullname": "Douglas",
+      "count": 1,
+      "paperIds": [
+        304
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Dreizis",
+      "fullname": "Dreizis",
+      "count": 1,
+      "paperIds": [
+        305
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Perignon",
+      "fullname": "Perignon, Yves",
+      "count": 1,
+      "paperIds": [
+        307
+      ],
+      "coauthors": {
+        "Ducrozet": 1,
+        "Bonnefoy": 1
+      }
+    },
+    {
+      "name": "Cox",
+      "fullname": "Cox, Daniel",
+      "count": 1,
+      "paperIds": [
+        308
+      ],
+      "coauthors": {
+        "Duncan": 1,
+        "Barbosa": 1,
+        "Lomónaco": 1,
+        "Park": 1,
+        "Alam": 1,
+        "Yu": 1
+      }
+    },
+    {
+      "name": "Barbosa",
+      "fullname": "Barbosa, Andre R.",
+      "count": 1,
+      "paperIds": [
+        308
+      ],
+      "coauthors": {
+        "Duncan": 1,
+        "Cox": 1,
+        "Lomónaco": 1,
+        "Park": 1,
+        "Alam": 1,
+        "Yu": 1
+      }
+    },
+    {
+      "name": "Lomónaco",
+      "fullname": "Lomónaco, Pedro",
+      "count": 1,
+      "paperIds": [
+        308
+      ],
+      "coauthors": {
+        "Duncan": 1,
+        "Cox": 1,
+        "Barbosa": 1,
+        "Park": 1,
+        "Alam": 1,
+        "Yu": 1
+      }
+    },
+    {
+      "name": "Kyozuka",
+      "fullname": "Kyozuka, Yusaku",
+      "count": 1,
+      "paperIds": [
+        309
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Esteva",
+      "fullname": "Esteva",
+      "count": 1,
+      "paperIds": [
+        316
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Herterich",
+      "fullname": "Herterich, James G.",
+      "count": 1,
+      "paperIds": [
+        319
+      ],
+      "coauthors": {
+        "Dias": 1
+      }
+    },
+    {
+      "name": "Faltinsen",
+      "fullname": "Faltinsen, O. M.",
+      "count": 1,
+      "paperIds": [
+        321
+      ],
+      "coauthors": {
+        "Newman": 1,
+        "Vinje": 1
+      }
+    },
+    {
+      "name": "Newman",
+      "fullname": "Newman, J. N.",
+      "count": 1,
+      "paperIds": [
+        321
+      ],
+      "coauthors": {
+        "Faltinsen": 1,
+        "Vinje": 1
+      }
+    },
+    {
+      "name": "Vinje",
+      "fullname": "Vinje, T.",
+      "count": 1,
+      "paperIds": [
+        321
+      ],
+      "coauthors": {
+        "Faltinsen": 1,
+        "Newman": 1
+      }
+    },
+    {
+      "name": "Manasseh",
+      "fullname": "Manasseh, Richard",
+      "count": 1,
+      "paperIds": [
+        325
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Figueredo",
+      "fullname": "Figueredo",
+      "count": 1,
+      "paperIds": [
+        330
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Fochesato",
+      "fullname": "Fochesato, Christophe",
+      "count": 1,
+      "paperIds": [
+        331
+      ],
+      "coauthors": {
+        "Grilli": 1,
+        "Dias": 1
+      }
+    },
+    {
+      "name": "Fonseca",
+      "fullname": "Fonseca, Nuno",
+      "count": 1,
+      "paperIds": [
+        333
+      ],
+      "coauthors": {
+        "Pascoal": 1,
+        "Guedes Soares": 1,
+        "Clauss": 1,
+        "Schmittner": 1
+      }
+    },
+    {
+      "name": "Clauss",
+      "fullname": "Clauss, G.",
+      "count": 1,
+      "paperIds": [
+        333
+      ],
+      "coauthors": {
+        "Fonseca": 1,
+        "Pascoal": 1,
+        "Guedes Soares": 1,
+        "Schmittner": 1
+      }
+    },
+    {
+      "name": "Schmittner",
+      "fullname": "Schmittner, C.",
+      "count": 1,
+      "paperIds": [
+        333
+      ],
+      "coauthors": {
+        "Fonseca": 1,
+        "Pascoal": 1,
+        "Guedes Soares": 1,
+        "Clauss": 1
+      }
+    },
+    {
+      "name": "Markeset",
+      "fullname": "Markeset, Tore",
+      "count": 1,
+      "paperIds": [
+        337
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Gabl",
+      "fullname": "Gabl, Roman",
+      "count": 1,
+      "paperIds": [
+        338
+      ],
+      "coauthors": {
+        "Steynor": 1,
+        "Forehand": 1,
+        "Davey": 1,
+        "Bruce": 1,
+        "Ingram": 1
+      }
+    },
+    {
+      "name": "Forehand",
+      "fullname": "Forehand, David I. M.",
+      "count": 1,
+      "paperIds": [
+        338
+      ],
+      "coauthors": {
+        "Gabl": 1,
+        "Steynor": 1,
+        "Davey": 1,
+        "Bruce": 1,
+        "Ingram": 1
+      }
+    },
+    {
+      "name": "Bruce",
+      "fullname": "Bruce, Tom",
+      "count": 1,
+      "paperIds": [
+        338
+      ],
+      "coauthors": {
+        "Gabl": 1,
+        "Steynor": 1,
+        "Forehand": 1,
+        "Davey": 1,
+        "Ingram": 1
+      }
+    },
+    {
+      "name": "García",
+      "fullname": "García, Deibi E.",
+      "count": 1,
+      "paperIds": [
+        340
+      ],
+      "coauthors": {
+        "Rodríguez": 1,
+        "Nieckele": 1,
+        "de Paula": 1
+      }
+    },
+    {
+      "name": "Rodríguez",
+      "fullname": "Rodríguez, Daniel",
+      "count": 1,
+      "paperIds": [
+        340
+      ],
+      "coauthors": {
+        "García": 1,
+        "Nieckele": 1,
+        "de Paula": 1
+      }
+    },
+    {
+      "name": "Nieckele",
+      "fullname": "Nieckele, Angela O.",
+      "count": 1,
+      "paperIds": [
+        340
+      ],
+      "coauthors": {
+        "García": 1,
+        "Rodríguez": 1,
+        "de Paula": 1
+      }
+    },
+    {
+      "name": "de Paula",
+      "fullname": "de Paula, Igor Braga",
+      "count": 1,
+      "paperIds": [
+        340
+      ],
+      "coauthors": {
+        "García": 1,
+        "Rodríguez": 1,
+        "Nieckele": 1
+      }
+    },
+    {
+      "name": "Gawehn",
+      "fullname": "Gawehn, Matthijs",
+      "count": 1,
+      "paperIds": [
+        341
+      ],
+      "coauthors": {
+        "van Dongeren": 1,
+        "de Vries": 1,
+        "Swinkels": 1,
+        "Hoekstra": 1,
+        "Aarninkhof": 1,
+        "Friedman": 1
+      }
+    },
+    {
+      "name": "de Vries",
+      "fullname": "de Vries, Sierd",
+      "count": 1,
+      "paperIds": [
+        341
+      ],
+      "coauthors": {
+        "Gawehn": 1,
+        "van Dongeren": 1,
+        "Swinkels": 1,
+        "Hoekstra": 1,
+        "Aarninkhof": 1,
+        "Friedman": 1
+      }
+    },
+    {
+      "name": "Swinkels",
+      "fullname": "Swinkels, Cilia",
+      "count": 1,
+      "paperIds": [
+        341
+      ],
+      "coauthors": {
+        "Gawehn": 1,
+        "van Dongeren": 1,
+        "de Vries": 1,
+        "Hoekstra": 1,
+        "Aarninkhof": 1,
+        "Friedman": 1
+      }
+    },
+    {
+      "name": "Hoekstra",
+      "fullname": "Hoekstra, Roderik",
+      "count": 1,
+      "paperIds": [
+        341
+      ],
+      "coauthors": {
+        "Gawehn": 1,
+        "van Dongeren": 1,
+        "de Vries": 1,
+        "Swinkels": 1,
+        "Aarninkhof": 1,
+        "Friedman": 1
+      }
+    },
+    {
+      "name": "Friedman",
+      "fullname": "Friedman, Joshua",
+      "count": 1,
+      "paperIds": [
+        341
+      ],
+      "coauthors": {
+        "Gawehn": 1,
+        "van Dongeren": 1,
+        "de Vries": 1,
+        "Swinkels": 1,
+        "Hoekstra": 1,
+        "Aarninkhof": 1
+      }
+    },
+    {
+      "name": "Gelfi",
+      "fullname": "Gelfi, Mustarakh",
+      "count": 1,
+      "paperIds": [
+        342
+      ],
+      "coauthors": {
+        "Kencana": 1,
+        "Achiari": 1
+      }
+    },
+    {
+      "name": "Kencana",
+      "fullname": "Kencana, Elsa Rizkiya",
+      "count": 1,
+      "paperIds": [
+        342
+      ],
+      "coauthors": {
+        "Gelfi": 1,
+        "Achiari": 1
+      }
+    },
+    {
+      "name": "Achiari",
+      "fullname": "Achiari, Hendra",
+      "count": 1,
+      "paperIds": [
+        342
+      ],
+      "coauthors": {
+        "Gelfi": 1,
+        "Kencana": 1
+      }
+    },
+    {
+      "name": "Gomez-Gesteira",
+      "fullname": "Gomez-Gesteira, Moncho",
+      "count": 1,
+      "paperIds": [
+        348
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Gonzalez-Flores",
+      "fullname": "Gonzalez-Flores",
+      "count": 1,
+      "paperIds": [
+        349
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Goteman",
+      "fullname": "Goteman",
+      "count": 1,
+      "paperIds": [
+        350
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Lavidas",
+      "fullname": "Lavidas, George",
+      "count": 1,
+      "paperIds": [
+        351
+      ],
+      "coauthors": {
+        "Guillou": 1,
+        "Chapalain": 1
+      }
+    },
+    {
+      "name": "Chapalain",
+      "fullname": "Chapalain, Georges",
+      "count": 1,
+      "paperIds": [
+        351
+      ],
+      "coauthors": {
+        "Guillou": 1,
+        "Lavidas": 1
+      }
+    },
+    {
+      "name": "Gramcianinov",
+      "fullname": "Gramcianinov, C.B.",
+      "count": 1,
+      "paperIds": [
+        352
+      ],
+      "coauthors": {
+        "Campos": 1,
+        "Guedes Soares": 1,
+        "Camargo": 1
+      }
+    },
+    {
+      "name": "Campos",
+      "fullname": "Campos, R.M.",
+      "count": 1,
+      "paperIds": [
+        352
+      ],
+      "coauthors": {
+        "Gramcianinov": 1,
+        "Guedes Soares": 1,
+        "Camargo": 1
+      }
+    },
+    {
+      "name": "Camargo",
+      "fullname": "Camargo, R. de",
+      "count": 1,
+      "paperIds": [
+        352
+      ],
+      "coauthors": {
+        "Gramcianinov": 1,
+        "Campos": 1,
+        "Guedes Soares": 1
+      }
+    },
+    {
+      "name": "Skourup",
+      "fullname": "Skourup, J.",
+      "count": 1,
+      "paperIds": [
+        353
+      ],
+      "coauthors": {
+        "Grilli": 1,
+        "Svendsen": 1
+      }
+    },
+    {
+      "name": "Boo",
+      "fullname": "Boo, S.Y.",
+      "count": 1,
+      "paperIds": [
+        356
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Guillouzouic",
+      "fullname": "Guillouzouic",
+      "count": 1,
+      "paperIds": [
+        358
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Gurbatov",
+      "fullname": "Gurbatov, S. N.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Bychkov": 1,
+        "Vyugin": 1,
+        "Gryaznova": 1,
+        "Deryabin": 1,
+        "Kurin": 1,
+        "Khilko": 1
+      }
+    },
+    {
+      "name": "Bychkov",
+      "fullname": "Bychkov, A. E.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Gurbatov": 1,
+        "Vyugin": 1,
+        "Gryaznova": 1,
+        "Deryabin": 1,
+        "Kurin": 1,
+        "Khilko": 1
+      }
+    },
+    {
+      "name": "Vyugin",
+      "fullname": "Vyugin, P. N.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Gurbatov": 1,
+        "Bychkov": 1,
+        "Gryaznova": 1,
+        "Deryabin": 1,
+        "Kurin": 1,
+        "Khilko": 1
+      }
+    },
+    {
+      "name": "Gryaznova",
+      "fullname": "Gryaznova, I. Yu.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Gurbatov": 1,
+        "Bychkov": 1,
+        "Vyugin": 1,
+        "Deryabin": 1,
+        "Kurin": 1,
+        "Khilko": 1
+      }
+    },
+    {
+      "name": "Deryabin",
+      "fullname": "Deryabin, M. S.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Gurbatov": 1,
+        "Bychkov": 1,
+        "Vyugin": 1,
+        "Gryaznova": 1,
+        "Kurin": 1,
+        "Khilko": 1
+      }
+    },
+    {
+      "name": "Kurin",
+      "fullname": "Kurin, V. V.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Gurbatov": 1,
+        "Bychkov": 1,
+        "Vyugin": 1,
+        "Gryaznova": 1,
+        "Deryabin": 1,
+        "Khilko": 1
+      }
+    },
+    {
+      "name": "Khilko",
+      "fullname": "Khilko, A. I.",
+      "count": 1,
+      "paperIds": [
+        359
+      ],
+      "coauthors": {
+        "Gurbatov": 1,
+        "Bychkov": 1,
+        "Vyugin": 1,
+        "Gryaznova": 1,
+        "Deryabin": 1,
+        "Kurin": 1
+      }
+    },
+    {
+      "name": "Hager",
+      "fullname": "Hager",
+      "count": 1,
+      "paperIds": [
+        361
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Haudin",
+      "fullname": "Haudin, Florence",
+      "count": 1,
+      "paperIds": [
+        365
+      ],
+      "coauthors": {
+        "Cazaubiel": 1,
+        "Deike": 1,
+        "Jamin": 1,
+        "Falcon": 1,
+        "Berhanu": 1
+      }
+    },
+    {
+      "name": "Cazaubiel",
+      "fullname": "Cazaubiel, Annette",
+      "count": 1,
+      "paperIds": [
+        365
+      ],
+      "coauthors": {
+        "Haudin": 1,
+        "Deike": 1,
+        "Jamin": 1,
+        "Falcon": 1,
+        "Berhanu": 1
+      }
+    },
+    {
+      "name": "Jamin",
+      "fullname": "Jamin, Timothée",
+      "count": 1,
+      "paperIds": [
+        365
+      ],
+      "coauthors": {
+        "Haudin": 1,
+        "Cazaubiel": 1,
+        "Deike": 1,
+        "Falcon": 1,
+        "Berhanu": 1
+      }
+    },
+    {
+      "name": "Berhanu",
+      "fullname": "Berhanu, Michael",
+      "count": 1,
+      "paperIds": [
+        365
+      ],
+      "coauthors": {
+        "Haudin": 1,
+        "Cazaubiel": 1,
+        "Deike": 1,
+        "Jamin": 1,
+        "Falcon": 1
+      }
+    },
+    {
+      "name": "Havelock",
+      "fullname": "Havelock, Thomas Henry",
+      "count": 1,
+      "paperIds": [
+        366
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Haver",
+      "fullname": "Haver, Sverre",
+      "count": 1,
+      "paperIds": [
+        367
+      ],
+      "coauthors": {
+        "Kleiven": 1
+      }
+    },
+    {
+      "name": "Kleiven",
+      "fullname": "Kleiven, Gudmund",
+      "count": 1,
+      "paperIds": [
+        367
+      ],
+      "coauthors": {
+        "Haver": 1
+      }
+    },
+    {
+      "name": "Vennes",
+      "fullname": "Vennes, Isaac",
+      "count": 1,
+      "paperIds": [
+        368
+      ],
+      "coauthors": {
+        "He": 2,
+        "Chen": 2,
+        "Song": 1,
+        "Mitri": 1
+      }
+    },
+    {
+      "name": "Mitri",
+      "fullname": "Mitri, Hani",
+      "count": 1,
+      "paperIds": [
+        368
+      ],
+      "coauthors": {
+        "He": 2,
+        "Chen": 2,
+        "Vennes": 1,
+        "Song": 1
+      }
+    },
+    {
+      "name": "Ho",
+      "fullname": "Ho, Hao-Che",
+      "count": 1,
+      "paperIds": [
+        373
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Muste": 1
+      }
+    },
+    {
+      "name": "Muste",
+      "fullname": "Muste, Marian",
+      "count": 1,
+      "paperIds": [
+        373
+      ],
+      "coauthors": {
+        "Ho": 1,
+        "Lin": 1
+      }
+    },
+    {
+      "name": "Donelan",
+      "fullname": "Donelan, Mark A.",
+      "count": 1,
+      "paperIds": [
+        377
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Long": 1,
+        "Tung": 1,
+        "Yuan": 1,
+        "Lai": 1
+      }
+    },
+    {
+      "name": "Lai",
+      "fullname": "Lai, Ronald J.",
+      "count": 1,
+      "paperIds": [
+        377
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Long": 1,
+        "Tung": 1,
+        "Donelan": 1,
+        "Yuan": 1
+      }
+    },
+    {
+      "name": "Hunt",
+      "fullname": "Hunt, Alison C.",
+      "count": 1,
+      "paperIds": [
+        379
+      ],
+      "coauthors": {
+        "Taylor": 1,
+        "Borthwick": 1,
+        "Stansby": 1,
+        "Feng": 1
+      }
+    },
+    {
+      "name": "Stansby",
+      "fullname": "Stansby, Peter K.",
+      "count": 1,
+      "paperIds": [
+        379
+      ],
+      "coauthors": {
+        "Hunt": 1,
+        "Taylor": 1,
+        "Borthwick": 1,
+        "Feng": 1
+      }
+    },
+    {
+      "name": "De Vita",
+      "fullname": "De Vita, F.",
+      "count": 1,
+      "paperIds": [
+        381
+      ],
+      "coauthors": {
+        "Iafrati": 1,
+        "Verzicco": 1
+      }
+    },
+    {
+      "name": "Verzicco",
+      "fullname": "Verzicco, R.",
+      "count": 1,
+      "paperIds": [
+        381
+      ],
+      "coauthors": {
+        "Iafrati": 1,
+        "De Vita": 1
+      }
+    },
+    {
+      "name": "Di Mascio",
+      "fullname": "Di Mascio, A.",
+      "count": 1,
+      "paperIds": [
+        383
+      ],
+      "coauthors": {
+        "Iafrati": 1,
+        "Campana": 1
+      }
+    },
+    {
+      "name": "Campana",
+      "fullname": "Campana, E. F.",
+      "count": 1,
+      "paperIds": [
+        383
+      ],
+      "coauthors": {
+        "Iafrati": 1,
+        "Di Mascio": 1
+      }
+    },
+    {
+      "name": "Issa",
+      "fullname": "Issa, R.I",
+      "count": 1,
+      "paperIds": [
+        384
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Fredsøe",
+      "fullname": "Fredsøe, Jørgen",
+      "count": 1,
+      "paperIds": [
+        387
+      ],
+      "coauthors": {
+        "Jacobsen": 1,
+        "Fuhrman": 1
+      }
+    },
+    {
+      "name": "Jagannathan",
+      "fullname": "Jagannathan, Arjun",
+      "count": 1,
+      "paperIds": [
+        388
+      ],
+      "coauthors": {
+        "Srinivasan": 1,
+        "McWilliams": 1,
+        "Molemaker": 1,
+        "Stewart": 1
+      }
+    },
+    {
+      "name": "Srinivasan",
+      "fullname": "Srinivasan, Kaushik",
+      "count": 1,
+      "paperIds": [
+        388
+      ],
+      "coauthors": {
+        "Jagannathan": 1,
+        "McWilliams": 1,
+        "Molemaker": 1,
+        "Stewart": 1
+      }
+    },
+    {
+      "name": "Molemaker",
+      "fullname": "Molemaker, M. Jeroen",
+      "count": 1,
+      "paperIds": [
+        388
+      ],
+      "coauthors": {
+        "Jagannathan": 1,
+        "Srinivasan": 1,
+        "McWilliams": 1,
+        "Stewart": 1
+      }
+    },
+    {
+      "name": "Lande",
+      "fullname": "Lande, Øystein",
+      "count": 1,
+      "paperIds": [
+        391
+      ],
+      "coauthors": {
+        "Johannessen": 1,
+        "Hagen": 1
+      }
+    },
+    {
+      "name": "Kar",
+      "fullname": "Kar, P.",
+      "count": 1,
+      "paperIds": [
+        393
+      ],
+      "coauthors": {
+        "Sahoo": 1,
+        "Meylan": 1
+      }
+    },
+    {
+      "name": "Lan",
+      "fullname": "Lan, Jian",
+      "count": 1,
+      "paperIds": [
+        395
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Xianyu": 1
+      }
+    },
+    {
+      "name": "Xianyu",
+      "fullname": "Xianyu, Chensong",
+      "count": 1,
+      "paperIds": [
+        395
+      ],
+      "coauthors": {
+        "Lan": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Kastinger",
+      "fullname": "Kastinger, Maximilian B. A.",
+      "count": 1,
+      "paperIds": [
+        396
+      ],
+      "coauthors": {
+        "Evers": 1,
+        "Boes": 1
+      }
+    },
+    {
+      "name": "Evers",
+      "fullname": "Evers, Frederic M.",
+      "count": 1,
+      "paperIds": [
+        396
+      ],
+      "coauthors": {
+        "Kastinger": 1,
+        "Boes": 1
+      }
+    },
+    {
+      "name": "Boes",
+      "fullname": "Boes, Robert M.",
+      "count": 1,
+      "paperIds": [
+        396
+      ],
+      "coauthors": {
+        "Kastinger": 1,
+        "Evers": 1
+      }
+    },
+    {
+      "name": "Kesserwani",
+      "fullname": "Kesserwani, Georges",
+      "count": 1,
+      "paperIds": [
+        398
+      ],
+      "coauthors": {
+        "Sharifian": 1
+      }
+    },
+    {
+      "name": "Sharifian",
+      "fullname": "Sharifian, Mohammad Kazem",
+      "count": 1,
+      "paperIds": [
+        398
+      ],
+      "coauthors": {
+        "Kesserwani": 1
+      }
+    },
+    {
+      "name": "Maltz",
+      "fullname": "Maltz, Frederick H",
+      "count": 1,
+      "paperIds": [
+        399
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Khajehtourian",
+      "fullname": "Khajehtourian",
+      "count": 1,
+      "paperIds": [
+        400
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Khalid",
+      "fullname": "Khalid",
+      "count": 1,
+      "paperIds": [
+        401
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Khayyer",
+      "fullname": "Khayyer, A.",
+      "count": 1,
+      "paperIds": [
+        402
+      ],
+      "coauthors": {
+        "Gotoh": 1,
+        "Shao": 1
+      }
+    },
+    {
+      "name": "Gotoh",
+      "fullname": "Gotoh, H.",
+      "count": 1,
+      "paperIds": [
+        402
+      ],
+      "coauthors": {
+        "Khayyer": 1,
+        "Shao": 1
+      }
+    },
+    {
+      "name": "Shao",
+      "fullname": "Shao, S.D.",
+      "count": 1,
+      "paperIds": [
+        402
+      ],
+      "coauthors": {
+        "Khayyer": 1,
+        "Gotoh": 1
+      }
+    },
+    {
+      "name": "Jarno-Druaux",
+      "fullname": "Jarno-Druaux, Armelle",
+      "count": 1,
+      "paperIds": [
+        404
+      ],
+      "coauthors": {
+        "Khoury": 1,
+        "Marin": 1
+      }
+    },
+    {
+      "name": "Kyoung",
+      "fullname": "Kyoung, J. H.",
+      "count": 1,
+      "paperIds": [
+        409
+      ],
+      "coauthors": {
+        "Kim": 1,
+        "Ertekin": 1,
+        "Bai": 1
+      }
+    },
+    {
+      "name": "O’Sullivan",
+      "fullname": "O’Sullivan, Jim",
+      "count": 1,
+      "paperIds": [
+        410
+      ],
+      "coauthors": {
+        "Kim": 1,
+        "Read": 1
+      }
+    },
+    {
+      "name": "Read",
+      "fullname": "Read, Alex",
+      "count": 1,
+      "paperIds": [
+        410
+      ],
+      "coauthors": {
+        "Kim": 1,
+        "O’Sullivan": 1
+      }
+    },
+    {
+      "name": "Kitaigorodskii",
+      "fullname": "Kitaigorodskii, S. A.",
+      "count": 1,
+      "paperIds": [
+        411
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Giovanangeli",
+      "fullname": "Giovanangeli, J. -P.",
+      "count": 1,
+      "paperIds": [
+        413
+      ],
+      "coauthors": {
+        "Talipova": 1,
+        "Kharif": 1
+      }
+    },
+    {
+      "name": "Krasitskii",
+      "fullname": "Krasitskii, Vladimir P.",
+      "count": 1,
+      "paperIds": [
+        415
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Méhauté",
+      "fullname": "Méhauté, Bernard",
+      "count": 1,
+      "paperIds": [
+        420
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Laffitte",
+      "fullname": "Laffitte, E.",
+      "count": 1,
+      "paperIds": [
+        421
+      ],
+      "coauthors": {
+        "Rey": 1,
+        "Touboul": 1,
+        "Belibassakis": 1
+      }
+    },
+    {
+      "name": "Rey",
+      "fullname": "Rey, V.",
+      "count": 1,
+      "paperIds": [
+        421
+      ],
+      "coauthors": {
+        "Laffitte": 1,
+        "Touboul": 1,
+        "Belibassakis": 1
+      }
+    },
+    {
+      "name": "Lawrence",
+      "fullname": "Lawrence, C.",
+      "count": 1,
+      "paperIds": [
+        424
+      ],
+      "coauthors": {
+        "Trulsen": 1,
+        "Gramstad": 1
+      }
+    },
+    {
+      "name": "Ayer",
+      "fullname": "Ayer, Robert M.",
+      "count": 1,
+      "paperIds": [
+        429
+      ],
+      "coauthors": {
+        "Lee": 1
+      }
+    },
+    {
+      "name": "Toyoda",
+      "fullname": "Toyoda, Masahiro",
+      "count": 1,
+      "paperIds": [
+        431
+      ],
+      "coauthors": {
+        "Eto": 1
+      }
+    },
+    {
+      "name": "Eto",
+      "fullname": "Eto, Daiki",
+      "count": 1,
+      "paperIds": [
+        431
+      ],
+      "coauthors": {
+        "Toyoda": 1
+      }
+    },
+    {
+      "name": "Vestbøstad",
+      "fullname": "Vestbøstad, Tone M.",
+      "count": 1,
+      "paperIds": [
+        435
+      ],
+      "coauthors": {
+        "Økland": 1,
+        "Lian": 1,
+        "Stavang": 1
+      }
+    },
+    {
+      "name": "Økland",
+      "fullname": "Økland, Ole David",
+      "count": 1,
+      "paperIds": [
+        435
+      ],
+      "coauthors": {
+        "Vestbøstad": 1,
+        "Lian": 1,
+        "Stavang": 1
+      }
+    },
+    {
+      "name": "Stavang",
+      "fullname": "Stavang, Terje Peder",
+      "count": 1,
+      "paperIds": [
+        435
+      ],
+      "coauthors": {
+        "Vestbøstad": 1,
+        "Økland": 1,
+        "Lian": 1
+      }
+    },
+    {
+      "name": "Kao",
+      "fullname": "Kao, Ming-Jer",
+      "count": 1,
+      "paperIds": [
+        438
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Raikar": 1,
+        "Yuan": 1,
+        "Yang": 1,
+        "Chuang": 1,
+        "Syu": 1,
+        "Pan": 1
+      }
+    },
+    {
+      "name": "Raikar",
+      "fullname": "Raikar, Rajkumar Venkatesh",
+      "count": 1,
+      "paperIds": [
+        438
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Kao": 1,
+        "Yuan": 1,
+        "Yang": 1,
+        "Chuang": 1,
+        "Syu": 1,
+        "Pan": 1
+      }
+    },
+    {
+      "name": "Chuang",
+      "fullname": "Chuang, Po-Yu",
+      "count": 1,
+      "paperIds": [
+        438
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Kao": 1,
+        "Raikar": 1,
+        "Yuan": 1,
+        "Yang": 1,
+        "Syu": 1,
+        "Pan": 1
+      }
+    },
+    {
+      "name": "Syu",
+      "fullname": "Syu, Jie-Ming",
+      "count": 1,
+      "paperIds": [
+        438
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Kao": 1,
+        "Raikar": 1,
+        "Yuan": 1,
+        "Yang": 1,
+        "Chuang": 1,
+        "Pan": 1
+      }
+    },
+    {
+      "name": "Pan",
+      "fullname": "Pan, Wei-Chih",
+      "count": 1,
+      "paperIds": [
+        438
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Kao": 1,
+        "Raikar": 1,
+        "Yuan": 1,
+        "Yang": 1,
+        "Chuang": 1,
+        "Syu": 1
+      }
+    },
+    {
+      "name": "Cokelet",
+      "fullname": "Cokelet, E. D.",
+      "count": 1,
+      "paperIds": [
+        444
+      ],
+      "coauthors": {
+        "Longuet-Higgins": 1
+      }
+    },
+    {
+      "name": "Mackay",
+      "fullname": "Mackay, Ed",
+      "count": 1,
+      "paperIds": [
+        451
+      ],
+      "coauthors": {
+        "Johanning": 1
+      }
+    },
+    {
+      "name": "Magkouris",
+      "fullname": "Magkouris",
+      "count": 1,
+      "paperIds": [
+        453
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Mahalingaiaha",
+      "fullname": "Mahalingaiaha, A.V.",
+      "count": 1,
+      "paperIds": [
+        454
+      ],
+      "coauthors": {
+        "Tayade": 1,
+        "Gokhale": 1,
+        "Kudale": 1
+      }
+    },
+    {
+      "name": "Tayade",
+      "fullname": "Tayade, B.R.",
+      "count": 1,
+      "paperIds": [
+        454
+      ],
+      "coauthors": {
+        "Mahalingaiaha": 1,
+        "Gokhale": 1,
+        "Kudale": 1
+      }
+    },
+    {
+      "name": "Gokhale",
+      "fullname": "Gokhale, N.V.",
+      "count": 1,
+      "paperIds": [
+        454
+      ],
+      "coauthors": {
+        "Mahalingaiaha": 1,
+        "Tayade": 1,
+        "Kudale": 1
+      }
+    },
+    {
+      "name": "Kudale",
+      "fullname": "Kudale, M.D.",
+      "count": 1,
+      "paperIds": [
+        454
+      ],
+      "coauthors": {
+        "Mahalingaiaha": 1,
+        "Tayade": 1,
+        "Gokhale": 1
+      }
+    },
+    {
+      "name": "Mai et al",
+      "fullname": "Mai et al",
+      "count": 1,
+      "paperIds": [
+        455
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Malenica",
+      "fullname": "Malenica, š.",
+      "count": 1,
+      "paperIds": [
+        456
+      ],
+      "coauthors": {
+        "Molin": 1
+      }
+    },
+    {
+      "name": "Mayer",
+      "fullname": "Mayer, A P",
+      "count": 1,
+      "paperIds": [
+        457
+      ],
+      "coauthors": {
+        "Lehner": 1
+      }
+    },
+    {
+      "name": "Lehner",
+      "fullname": "Lehner, M",
+      "count": 1,
+      "paperIds": [
+        457
+      ],
+      "coauthors": {
+        "Mayer": 1
+      }
+    },
+    {
+      "name": "Matemu",
+      "fullname": "Matemu, Christian",
+      "count": 1,
+      "paperIds": [
+        464
+      ],
+      "coauthors": {
+        "Crowley": 1,
+        "Resio": 1
+      }
+    },
+    {
+      "name": "Crowley",
+      "fullname": "Crowley, Raphael",
+      "count": 1,
+      "paperIds": [
+        464
+      ],
+      "coauthors": {
+        "Matemu": 1,
+        "Resio": 1
+      }
+    },
+    {
+      "name": "Resio",
+      "fullname": "Resio, Don",
+      "count": 1,
+      "paperIds": [
+        464
+      ],
+      "coauthors": {
+        "Matemu": 1,
+        "Crowley": 1
+      }
+    },
+    {
+      "name": "Melito",
+      "fullname": "Melito, Lorenzo",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Parlagreco",
+      "fullname": "Parlagreco, Luca",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Perugini",
+      "fullname": "Perugini, Eleonora",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Postacchini",
+      "fullname": "Postacchini, Matteo",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Devoti",
+      "fullname": "Devoti, Saverio",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Soldini",
+      "fullname": "Soldini, Luciano",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Zitti": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Zitti",
+      "fullname": "Zitti, Gianluca",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Liberti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Liberti",
+      "fullname": "Liberti, Luca",
+      "count": 1,
+      "paperIds": [
+        470
+      ],
+      "coauthors": {
+        "Melito": 1,
+        "Parlagreco": 1,
+        "Perugini": 1,
+        "Postacchini": 1,
+        "Devoti": 1,
+        "Soldini": 1,
+        "Zitti": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Meucci",
+      "fullname": "Meucci",
+      "count": 1,
+      "paperIds": [
+        473
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Behrendt",
+      "fullname": "Behrendt, Lars",
+      "count": 1,
+      "paperIds": [
+        474
+      ],
+      "coauthors": {
+        "Jonsson": 1
+      }
+    },
+    {
+      "name": "Whalin",
+      "fullname": "Whalin, Robert W.",
+      "count": 1,
+      "paperIds": [
+        475
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ming",
+      "fullname": "Ming",
+      "count": 1,
+      "paperIds": [
+        476
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Mohaghegh",
+      "fullname": "Mohaghegh, Fazlolah",
+      "count": 1,
+      "paperIds": [
+        477
+      ],
+      "coauthors": {
+        "Murthy": 1,
+        "Alam": 1
+      }
+    },
+    {
+      "name": "Murthy",
+      "fullname": "Murthy, Jayathi",
+      "count": 1,
+      "paperIds": [
+        477
+      ],
+      "coauthors": {
+        "Mohaghegh": 1,
+        "Alam": 1
+      }
+    },
+    {
+      "name": "Remy",
+      "fullname": "Remy, F.",
+      "count": 1,
+      "paperIds": [
+        479
+      ],
+      "coauthors": {
+        "Molin": 1,
+        "Kimmoun": 1,
+        "Chatjigeorgiou": 1
+      }
+    },
+    {
+      "name": "Chatjigeorgiou",
+      "fullname": "Chatjigeorgiou, I.K.",
+      "count": 1,
+      "paperIds": [
+        479
+      ],
+      "coauthors": {
+        "Molin": 1,
+        "Kimmoun": 1,
+        "Remy": 1
+      }
+    },
+    {
+      "name": "Monaghan",
+      "fullname": "Monaghan, J. J.",
+      "count": 1,
+      "paperIds": [
+        480
+      ],
+      "coauthors": {
+        "Kos": 1
+      }
+    },
+    {
+      "name": "Kos",
+      "fullname": "Kos, A.",
+      "count": 1,
+      "paperIds": [
+        480
+      ],
+      "coauthors": {
+        "Monaghan": 1
+      }
+    },
+    {
+      "name": "Heath",
+      "fullname": "Heath, Andrew",
+      "count": 1,
+      "paperIds": [
+        481
+      ],
+      "coauthors": {
+        "Morgan": 1,
+        "Zang": 1,
+        "Greaves": 1,
+        "Whitlow": 1,
+        "Young": 1
+      }
+    },
+    {
+      "name": "Whitlow",
+      "fullname": "Whitlow, Chris",
+      "count": 1,
+      "paperIds": [
+        481
+      ],
+      "coauthors": {
+        "Morgan": 1,
+        "Zang": 1,
+        "Greaves": 1,
+        "Heath": 1,
+        "Young": 1
+      }
+    },
+    {
+      "name": "Irschik",
+      "fullname": "Irschik, Kai",
+      "count": 1,
+      "paperIds": [
+        483
+      ],
+      "coauthors": {
+        "Mo": 1,
+        "Oumeraci": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Myslenkov",
+      "fullname": "Myslenkov, Stanislav",
+      "count": 1,
+      "paperIds": [
+        485
+      ],
+      "coauthors": {
+        "Platonov": 1,
+        "Kislov": 1,
+        "Silvestrova": 1,
+        "Medvedev": 1
+      }
+    },
+    {
+      "name": "Platonov",
+      "fullname": "Platonov, Vladimir",
+      "count": 1,
+      "paperIds": [
+        485
+      ],
+      "coauthors": {
+        "Myslenkov": 1,
+        "Kislov": 1,
+        "Silvestrova": 1,
+        "Medvedev": 1
+      }
+    },
+    {
+      "name": "Kislov",
+      "fullname": "Kislov, Alexander",
+      "count": 1,
+      "paperIds": [
+        485
+      ],
+      "coauthors": {
+        "Myslenkov": 1,
+        "Platonov": 1,
+        "Silvestrova": 1,
+        "Medvedev": 1
+      }
+    },
+    {
+      "name": "Silvestrova",
+      "fullname": "Silvestrova, Ksenia",
+      "count": 1,
+      "paperIds": [
+        485
+      ],
+      "coauthors": {
+        "Myslenkov": 1,
+        "Platonov": 1,
+        "Kislov": 1,
+        "Medvedev": 1
+      }
+    },
+    {
+      "name": "Medvedev",
+      "fullname": "Medvedev, Igor",
+      "count": 1,
+      "paperIds": [
+        485
+      ],
+      "coauthors": {
+        "Myslenkov": 1,
+        "Platonov": 1,
+        "Kislov": 1,
+        "Silvestrova": 1
+      }
+    },
+    {
+      "name": "New",
+      "fullname": "New, A. L.",
+      "count": 1,
+      "paperIds": [
+        486
+      ],
+      "coauthors": {
+        "McIver": 1,
+        "Peregrine": 1
+      }
+    },
+    {
+      "name": "McIver",
+      "fullname": "McIver, P.",
+      "count": 1,
+      "paperIds": [
+        486
+      ],
+      "coauthors": {
+        "New": 1,
+        "Peregrine": 1
+      }
+    },
+    {
+      "name": "Nie",
+      "fullname": "Nie, Baojie",
+      "count": 1,
+      "paperIds": [
+        487
+      ],
+      "coauthors": {
+        "Yang": 1,
+        "Wang": 1,
+        "Gu": 1,
+        "Yuan": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Gu",
+      "fullname": "Gu, Zhixing",
+      "count": 1,
+      "paperIds": [
+        487
+      ],
+      "coauthors": {
+        "Nie": 1,
+        "Yang": 1,
+        "Wang": 1,
+        "Yuan": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Mj",
+      "fullname": "Mj, Dripta",
+      "count": 1,
+      "paperIds": [
+        490
+      ],
+      "coauthors": {
+        "McAllister": 1,
+        "Bredmose": 1,
+        "Adcock": 1,
+        "Taylor": 1
+      }
+    },
+    {
+      "name": "Novakovic",
+      "fullname": "Novakovic",
+      "count": 1,
+      "paperIds": [
+        491
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Oberlies",
+      "fullname": "Oberlies, Robert",
+      "count": 1,
+      "paperIds": [
+        492
+      ],
+      "coauthors": {
+        "Khalifa": 1,
+        "Huang": 1,
+        "Hetland": 1,
+        "Younan": 1,
+        "Overstake": 1,
+        "Slocum": 1
+      }
+    },
+    {
+      "name": "Khalifa",
+      "fullname": "Khalifa, Jameel",
+      "count": 1,
+      "paperIds": [
+        492
+      ],
+      "coauthors": {
+        "Oberlies": 1,
+        "Huang": 1,
+        "Hetland": 1,
+        "Younan": 1,
+        "Overstake": 1,
+        "Slocum": 1
+      }
+    },
+    {
+      "name": "Hetland",
+      "fullname": "Hetland, Steinar",
+      "count": 1,
+      "paperIds": [
+        492
+      ],
+      "coauthors": {
+        "Oberlies": 1,
+        "Khalifa": 1,
+        "Huang": 1,
+        "Younan": 1,
+        "Overstake": 1,
+        "Slocum": 1
+      }
+    },
+    {
+      "name": "Younan",
+      "fullname": "Younan, Adel",
+      "count": 1,
+      "paperIds": [
+        492
+      ],
+      "coauthors": {
+        "Oberlies": 1,
+        "Khalifa": 1,
+        "Huang": 1,
+        "Hetland": 1,
+        "Overstake": 1,
+        "Slocum": 1
+      }
+    },
+    {
+      "name": "Overstake",
+      "fullname": "Overstake, Meghan",
+      "count": 1,
+      "paperIds": [
+        492
+      ],
+      "coauthors": {
+        "Oberlies": 1,
+        "Khalifa": 1,
+        "Huang": 1,
+        "Hetland": 1,
+        "Younan": 1,
+        "Slocum": 1
+      }
+    },
+    {
+      "name": "Slocum",
+      "fullname": "Slocum, Scott",
+      "count": 1,
+      "paperIds": [
+        492
+      ],
+      "coauthors": {
+        "Oberlies": 1,
+        "Khalifa": 1,
+        "Huang": 1,
+        "Hetland": 1,
+        "Younan": 1,
+        "Overstake": 1
+      }
+    },
+    {
+      "name": "Ochi",
+      "fullname": "Ochi, Michel K.",
+      "count": 1,
+      "paperIds": [
+        493
+      ],
+      "coauthors": {
+        "Hubble": 1
+      }
+    },
+    {
+      "name": "Hubble",
+      "fullname": "Hubble, E. Nadine",
+      "count": 1,
+      "paperIds": [
+        493
+      ],
+      "coauthors": {
+        "Ochi": 1
+      }
+    },
+    {
+      "name": "Oguzhan",
+      "fullname": "Oguzhan, Semire",
+      "count": 1,
+      "paperIds": [
+        494
+      ],
+      "coauthors": {
+        "Aksoy": 1
+      }
+    },
+    {
+      "name": "Aksoy",
+      "fullname": "Aksoy, Aysegul Ozgenc",
+      "count": 1,
+      "paperIds": [
+        494
+      ],
+      "coauthors": {
+        "Oguzhan": 1
+      }
+    },
+    {
+      "name": "Bianco",
+      "fullname": "Bianco, L.",
+      "count": 1,
+      "paperIds": [
+        497
+      ],
+      "coauthors": {
+        "Osborne": 1,
+        "Bergamasco": 1,
+        "Serio": 1,
+        "Cavaleri": 1,
+        "Drago": 1,
+        "Iovenitti": 1,
+        "Viezzoli": 1
+      }
+    },
+    {
+      "name": "Drago",
+      "fullname": "Drago, M.",
+      "count": 1,
+      "paperIds": [
+        497
+      ],
+      "coauthors": {
+        "Osborne": 1,
+        "Bergamasco": 1,
+        "Serio": 1,
+        "Bianco": 1,
+        "Cavaleri": 1,
+        "Iovenitti": 1,
+        "Viezzoli": 1
+      }
+    },
+    {
+      "name": "Iovenitti",
+      "fullname": "Iovenitti, L.",
+      "count": 1,
+      "paperIds": [
+        497
+      ],
+      "coauthors": {
+        "Osborne": 1,
+        "Bergamasco": 1,
+        "Serio": 1,
+        "Bianco": 1,
+        "Cavaleri": 1,
+        "Drago": 1,
+        "Viezzoli": 1
+      }
+    },
+    {
+      "name": "Viezzoli",
+      "fullname": "Viezzoli, D.",
+      "count": 1,
+      "paperIds": [
+        497
+      ],
+      "coauthors": {
+        "Osborne": 1,
+        "Bergamasco": 1,
+        "Serio": 1,
+        "Bianco": 1,
+        "Cavaleri": 1,
+        "Drago": 1,
+        "Iovenitti": 1
+      }
+    },
+    {
+      "name": "Panagou",
+      "fullname": "Panagou, Theodore",
+      "count": 1,
+      "paperIds": [
+        499
+      ],
+      "coauthors": {
+        "Oikonomou": 1,
+        "Hasiotis": 1,
+        "Velegrakis": 1
+      }
+    },
+    {
+      "name": "Oikonomou",
+      "fullname": "Oikonomou, Emmanouil",
+      "count": 1,
+      "paperIds": [
+        499
+      ],
+      "coauthors": {
+        "Panagou": 1,
+        "Hasiotis": 1,
+        "Velegrakis": 1
+      }
+    },
+    {
+      "name": "Hasiotis",
+      "fullname": "Hasiotis, Thomas",
+      "count": 1,
+      "paperIds": [
+        499
+      ],
+      "coauthors": {
+        "Panagou": 1,
+        "Oikonomou": 1,
+        "Velegrakis": 1
+      }
+    },
+    {
+      "name": "Velegrakis",
+      "fullname": "Velegrakis, Adonis F.",
+      "count": 1,
+      "paperIds": [
+        499
+      ],
+      "coauthors": {
+        "Panagou": 1,
+        "Oikonomou": 1,
+        "Hasiotis": 1
+      }
+    },
+    {
+      "name": "Panagopoulos",
+      "fullname": "Panagopoulos, Loukianos",
+      "count": 1,
+      "paperIds": [
+        500
+      ],
+      "coauthors": {
+        "Papadimitriou": 1,
+        "Chondros": 1,
+        "Tsoukala": 1
+      }
+    },
+    {
+      "name": "Patel",
+      "fullname": "Patel, Ravi P.",
+      "count": 1,
+      "paperIds": [
+        501
+      ],
+      "coauthors": {
+        "Nagababu": 1,
+        "Arun Kumar": 1,
+        "M.": 1,
+        "Kachhwaha": 1
+      }
+    },
+    {
+      "name": "Nagababu",
+      "fullname": "Nagababu, Garlapati",
+      "count": 1,
+      "paperIds": [
+        501
+      ],
+      "coauthors": {
+        "Patel": 1,
+        "Arun Kumar": 1,
+        "M.": 1,
+        "Kachhwaha": 1
+      }
+    },
+    {
+      "name": "Arun Kumar",
+      "fullname": "Arun Kumar, Surisetty V.V.",
+      "count": 1,
+      "paperIds": [
+        501
+      ],
+      "coauthors": {
+        "Patel": 1,
+        "Nagababu": 1,
+        "M.": 1,
+        "Kachhwaha": 1
+      }
+    },
+    {
+      "name": "M.",
+      "fullname": "M., Seemanth",
+      "count": 1,
+      "paperIds": [
+        501
+      ],
+      "coauthors": {
+        "Patel": 1,
+        "Nagababu": 1,
+        "Arun Kumar": 1,
+        "Kachhwaha": 1
+      }
+    },
+    {
+      "name": "Kachhwaha",
+      "fullname": "Kachhwaha, Surendra Singh",
+      "count": 1,
+      "paperIds": [
+        501
+      ],
+      "coauthors": {
+        "Patel": 1,
+        "Nagababu": 1,
+        "Arun Kumar": 1,
+        "M.": 1
+      }
+    },
+    {
+      "name": "Paulik",
+      "fullname": "Paulik, Ryan",
+      "count": 1,
+      "paperIds": [
+        502
+      ],
+      "coauthors": {
+        "Craig": 1,
+        "Popovich": 1
+      }
+    },
+    {
+      "name": "Craig",
+      "fullname": "Craig, Heather",
+      "count": 1,
+      "paperIds": [
+        502
+      ],
+      "coauthors": {
+        "Paulik": 1,
+        "Popovich": 1
+      }
+    },
+    {
+      "name": "Popovich",
+      "fullname": "Popovich, Benjamin",
+      "count": 1,
+      "paperIds": [
+        502
+      ],
+      "coauthors": {
+        "Paulik": 1,
+        "Craig": 1
+      }
+    },
+    {
+      "name": "Pawlowicz",
+      "fullname": "Pawlowicz, Rich",
+      "count": 1,
+      "paperIds": [
+        505
+      ],
+      "coauthors": {
+        "Beardsley": 1,
+        "Lentz": 1
+      }
+    },
+    {
+      "name": "Beardsley",
+      "fullname": "Beardsley, Bob",
+      "count": 1,
+      "paperIds": [
+        505
+      ],
+      "coauthors": {
+        "Pawlowicz": 1,
+        "Lentz": 1
+      }
+    },
+    {
+      "name": "Lentz",
+      "fullname": "Lentz, Steve",
+      "count": 1,
+      "paperIds": [
+        505
+      ],
+      "coauthors": {
+        "Pawlowicz": 1,
+        "Beardsley": 1
+      }
+    },
+    {
+      "name": "Mitsuyasu",
+      "fullname": "MITSUYASU, Hisashi",
+      "count": 1,
+      "paperIds": [
+        507
+      ],
+      "coauthors": {
+        "Honda": 1
+      }
+    },
+    {
+      "name": "Honda",
+      "fullname": "HONDA, Tadao",
+      "count": 1,
+      "paperIds": [
+        507
+      ],
+      "coauthors": {
+        "Mitsuyasu": 1
+      }
+    },
+    {
+      "name": "Plant",
+      "fullname": "Plant",
+      "count": 1,
+      "paperIds": [
+        513
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Jose",
+      "fullname": "Jose, Jithin",
+      "count": 1,
+      "paperIds": [
+        514
+      ],
+      "coauthors": {
+        "Podrażka": 1,
+        "Gudmestad": 1,
+        "Cieślikiewicz": 1
+      }
+    },
+    {
+      "name": "Podrażka",
+      "fullname": "Podrażka, Olga",
+      "count": 1,
+      "paperIds": [
+        514
+      ],
+      "coauthors": {
+        "Jose": 1,
+        "Gudmestad": 1,
+        "Cieślikiewicz": 1
+      }
+    },
+    {
+      "name": "Cieślikiewicz",
+      "fullname": "Cieślikiewicz, Witold",
+      "count": 1,
+      "paperIds": [
+        514
+      ],
+      "coauthors": {
+        "Jose": 1,
+        "Podrażka": 1,
+        "Gudmestad": 1
+      }
+    },
+    {
+      "name": "Casas‐Prat",
+      "fullname": "Casas‐Prat, Mercè",
+      "count": 1,
+      "paperIds": [
+        515
+      ],
+      "coauthors": {
+        "Holthuijsen": 1
+      }
+    },
+    {
+      "name": "Puolakka",
+      "fullname": "Puolakka, Otto",
+      "count": 1,
+      "paperIds": [
+        516
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Raghukumar",
+      "fullname": "Raghukumar, Kaustubha",
+      "count": 1,
+      "paperIds": [
+        521
+      ],
+      "coauthors": {
+        "Chang": 1,
+        "Spada": 1,
+        "Jones": 1,
+        "Janssen": 1,
+        "Gans": 1
+      }
+    },
+    {
+      "name": "Spada",
+      "fullname": "Spada, Frank",
+      "count": 1,
+      "paperIds": [
+        521
+      ],
+      "coauthors": {
+        "Raghukumar": 1,
+        "Chang": 1,
+        "Jones": 1,
+        "Janssen": 1,
+        "Gans": 1
+      }
+    },
+    {
+      "name": "Gans",
+      "fullname": "Gans, Andrew",
+      "count": 1,
+      "paperIds": [
+        521
+      ],
+      "coauthors": {
+        "Raghukumar": 1,
+        "Chang": 1,
+        "Spada": 1,
+        "Jones": 1,
+        "Janssen": 1
+      }
+    },
+    {
+      "name": "Rätsep",
+      "fullname": "Rätsep, Margus",
+      "count": 1,
+      "paperIds": [
+        524
+      ],
+      "coauthors": {
+        "Parnell": 1,
+        "Soomere": 1,
+        "Kruusmaa": 1,
+        "Ristolainen": 1,
+        "Tuhtan": 1
+      }
+    },
+    {
+      "name": "Parnell",
+      "fullname": "Parnell, Kevin E.",
+      "count": 1,
+      "paperIds": [
+        524
+      ],
+      "coauthors": {
+        "Rätsep": 1,
+        "Soomere": 1,
+        "Kruusmaa": 1,
+        "Ristolainen": 1,
+        "Tuhtan": 1
+      }
+    },
+    {
+      "name": "Soomere",
+      "fullname": "Soomere, Tarmo",
+      "count": 1,
+      "paperIds": [
+        524
+      ],
+      "coauthors": {
+        "Rätsep": 1,
+        "Parnell": 1,
+        "Kruusmaa": 1,
+        "Ristolainen": 1,
+        "Tuhtan": 1
+      }
+    },
+    {
+      "name": "Kruusmaa",
+      "fullname": "Kruusmaa, Maarja",
+      "count": 1,
+      "paperIds": [
+        524
+      ],
+      "coauthors": {
+        "Rätsep": 1,
+        "Parnell": 1,
+        "Soomere": 1,
+        "Ristolainen": 1,
+        "Tuhtan": 1
+      }
+    },
+    {
+      "name": "Ristolainen",
+      "fullname": "Ristolainen, Asko",
+      "count": 1,
+      "paperIds": [
+        524
+      ],
+      "coauthors": {
+        "Rätsep": 1,
+        "Parnell": 1,
+        "Soomere": 1,
+        "Kruusmaa": 1,
+        "Tuhtan": 1
+      }
+    },
+    {
+      "name": "Tuhtan",
+      "fullname": "Tuhtan, Jeffrey A.",
+      "count": 1,
+      "paperIds": [
+        524
+      ],
+      "coauthors": {
+        "Rätsep": 1,
+        "Parnell": 1,
+        "Soomere": 1,
+        "Kruusmaa": 1,
+        "Ristolainen": 1
+      }
+    },
+    {
+      "name": "Nieto-Reyes",
+      "fullname": "Nieto-Reyes, Alicia",
+      "count": 1,
+      "paperIds": [
+        526
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Kramer",
+      "fullname": "Kramer, Jan",
+      "count": 1,
+      "paperIds": [
+        527
+      ],
+      "coauthors": {
+        "de Ridder": 1,
+        "den Bieman": 1,
+        "Wenneker": 1
+      }
+    },
+    {
+      "name": "den Bieman",
+      "fullname": "den Bieman, Joost P.",
+      "count": 1,
+      "paperIds": [
+        527
+      ],
+      "coauthors": {
+        "de Ridder": 1,
+        "Kramer": 1,
+        "Wenneker": 1
+      }
+    },
+    {
+      "name": "Wenneker",
+      "fullname": "Wenneker, Ivo",
+      "count": 1,
+      "paperIds": [
+        527
+      ],
+      "coauthors": {
+        "de Ridder": 1,
+        "Kramer": 1,
+        "den Bieman": 1
+      }
+    },
+    {
+      "name": "Ridder et al",
+      "fullname": "Ridder et al",
+      "count": 1,
+      "paperIds": [
+        528
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Nederhoff",
+      "fullname": "Nederhoff, Kees",
+      "count": 1,
+      "paperIds": [
+        529
+      ],
+      "coauthors": {
+        "de Ridder": 1,
+        "Smit": 1,
+        "van Dongeren": 1,
+        "McCall": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "Riefolo",
+      "fullname": "Riefolo, Luigia",
+      "count": 1,
+      "paperIds": [
+        530
+      ],
+      "coauthors": {
+        "Contestabile": 1,
+        "Dentale": 1,
+        "Benassai": 1
+      }
+    },
+    {
+      "name": "Contestabile",
+      "fullname": "Contestabile, Pasquale",
+      "count": 1,
+      "paperIds": [
+        530
+      ],
+      "coauthors": {
+        "Riefolo": 1,
+        "Dentale": 1,
+        "Benassai": 1
+      }
+    },
+    {
+      "name": "Dentale",
+      "fullname": "Dentale, Fabio",
+      "count": 1,
+      "paperIds": [
+        530
+      ],
+      "coauthors": {
+        "Riefolo": 1,
+        "Contestabile": 1,
+        "Benassai": 1
+      }
+    },
+    {
+      "name": "Hypolite",
+      "fullname": "Hypolite, Delphine",
+      "count": 1,
+      "paperIds": [
+        533
+      ],
+      "coauthors": {
+        "Romero": 1,
+        "McWilliams": 1
+      }
+    },
+    {
+      "name": "Ross",
+      "fullname": "Ross, Emma",
+      "count": 1,
+      "paperIds": [
+        536
+      ],
+      "coauthors": {
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 1,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 1,
+        "Vanem": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Astrup",
+      "fullname": "Astrup, Ole Christian",
+      "count": 1,
+      "paperIds": [
+        536
+      ],
+      "coauthors": {
+        "Ross": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 1,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 1,
+        "Vanem": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Bunn",
+      "fullname": "Bunn, Nigel",
+      "count": 1,
+      "paperIds": [
+        536
+      ],
+      "coauthors": {
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Feld": 1,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 1,
+        "Vanem": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Gouldby",
+      "fullname": "Gouldby, Ben",
+      "count": 1,
+      "paperIds": [
+        536
+      ],
+      "coauthors": {
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 1,
+        "Vanem": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Vanem",
+      "fullname": "Vanem, Erik",
+      "count": 1,
+      "paperIds": [
+        536
+      ],
+      "coauthors": {
+        "Ross": 1,
+        "Astrup": 1,
+        "Bitner-Gregersen": 1,
+        "Bunn": 1,
+        "Feld": 1,
+        "Gouldby": 1,
+        "Huseby": 1,
+        "Liu": 1,
+        "Randell": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Ruckelshaus",
+      "fullname": "Ruckelshaus",
+      "count": 1,
+      "paperIds": [
+        537
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ruessink",
+      "fullname": "Ruessink",
+      "count": 1,
+      "paperIds": [
+        538
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Inamuro",
+      "fullname": "Inamuro, Takaji",
+      "count": 1,
+      "paperIds": [
+        539
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Bora",
+      "fullname": "Bora, Swaroop Nandan",
+      "count": 1,
+      "paperIds": [
+        540
+      ],
+      "coauthors": {
+        "Saha": 1
+      }
+    },
+    {
+      "name": "Sakai",
+      "fullname": "Sakai, Tetsuo",
+      "count": 1,
+      "paperIds": [
+        541
+      ],
+      "coauthors": {
+        "Iwagaki": 1
+      }
+    },
+    {
+      "name": "Iwagaki",
+      "fullname": "Iwagaki, Yuichi",
+      "count": 1,
+      "paperIds": [
+        541
+      ],
+      "coauthors": {
+        "Sakai": 1
+      }
+    },
+    {
+      "name": "Sarkar",
+      "fullname": "Sarkar, Subhadeep",
+      "count": 1,
+      "paperIds": [
+        542
+      ],
+      "coauthors": {
+        "Debnath": 1,
+        "Das": 1,
+        "Mazumder": 1
+      }
+    },
+    {
+      "name": "Debnath",
+      "fullname": "Debnath, Koustuv",
+      "count": 1,
+      "paperIds": [
+        542
+      ],
+      "coauthors": {
+        "Sarkar": 1,
+        "Das": 1,
+        "Mazumder": 1
+      }
+    },
+    {
+      "name": "Mazumder",
+      "fullname": "Mazumder, Bijoy S.",
+      "count": 1,
+      "paperIds": [
+        542
+      ],
+      "coauthors": {
+        "Sarkar": 1,
+        "Debnath": 1,
+        "Das": 1
+      }
+    },
+    {
+      "name": "Schendel",
+      "fullname": "Schendel, Alexander",
+      "count": 1,
+      "paperIds": [
+        543
+      ],
+      "coauthors": {
+        "Welzel": 1,
+        "Schlurmann": 1,
+        "Hsu": 1
+      }
+    },
+    {
+      "name": "Welzel",
+      "fullname": "Welzel, Mario",
+      "count": 1,
+      "paperIds": [
+        543
+      ],
+      "coauthors": {
+        "Schendel": 1,
+        "Schlurmann": 1,
+        "Hsu": 1
+      }
+    },
+    {
+      "name": "Schreirer",
+      "fullname": "Schreirer",
+      "count": 1,
+      "paperIds": [
+        544
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Selden",
+      "fullname": "Selden, Corday R.",
+      "count": 1,
+      "paperIds": [
+        546
+      ],
+      "coauthors": {
+        "Chappell": 1,
+        "Clayton": 1,
+        "Macías‐Tapia": 1,
+        "Bernhardt": 1,
+        "Mulholland": 1
+      }
+    },
+    {
+      "name": "Chappell",
+      "fullname": "Chappell, P. Dreux",
+      "count": 1,
+      "paperIds": [
+        546
+      ],
+      "coauthors": {
+        "Selden": 1,
+        "Clayton": 1,
+        "Macías‐Tapia": 1,
+        "Bernhardt": 1,
+        "Mulholland": 1
+      }
+    },
+    {
+      "name": "Clayton",
+      "fullname": "Clayton, Sophie",
+      "count": 1,
+      "paperIds": [
+        546
+      ],
+      "coauthors": {
+        "Selden": 1,
+        "Chappell": 1,
+        "Macías‐Tapia": 1,
+        "Bernhardt": 1,
+        "Mulholland": 1
+      }
+    },
+    {
+      "name": "Macías‐Tapia",
+      "fullname": "Macías‐Tapia, Alfonso",
+      "count": 1,
+      "paperIds": [
+        546
+      ],
+      "coauthors": {
+        "Selden": 1,
+        "Chappell": 1,
+        "Clayton": 1,
+        "Bernhardt": 1,
+        "Mulholland": 1
+      }
+    },
+    {
+      "name": "Bernhardt",
+      "fullname": "Bernhardt, Peter W.",
+      "count": 1,
+      "paperIds": [
+        546
+      ],
+      "coauthors": {
+        "Selden": 1,
+        "Chappell": 1,
+        "Clayton": 1,
+        "Macías‐Tapia": 1,
+        "Mulholland": 1
+      }
+    },
+    {
+      "name": "Mulholland",
+      "fullname": "Mulholland, Margaret R.",
+      "count": 1,
+      "paperIds": [
+        546
+      ],
+      "coauthors": {
+        "Selden": 1,
+        "Chappell": 1,
+        "Clayton": 1,
+        "Macías‐Tapia": 1,
+        "Bernhardt": 1
+      }
+    },
+    {
+      "name": "Sergievskaya",
+      "fullname": "Sergievskaya, Irina A.",
+      "count": 1,
+      "paperIds": [
+        547
+      ],
+      "coauthors": {
+        "Ermakov": 1,
+        "Ermoshkin": 1,
+        "Kapustin": 1,
+        "Kupaev": 1,
+        "Shomina": 1
+      }
+    },
+    {
+      "name": "Ermakov",
+      "fullname": "Ermakov, Stanislav A.",
+      "count": 1,
+      "paperIds": [
+        547
+      ],
+      "coauthors": {
+        "Sergievskaya": 1,
+        "Ermoshkin": 1,
+        "Kapustin": 1,
+        "Kupaev": 1,
+        "Shomina": 1
+      }
+    },
+    {
+      "name": "Ermoshkin",
+      "fullname": "Ermoshkin, Alexey V.",
+      "count": 1,
+      "paperIds": [
+        547
+      ],
+      "coauthors": {
+        "Sergievskaya": 1,
+        "Ermakov": 1,
+        "Kapustin": 1,
+        "Kupaev": 1,
+        "Shomina": 1
+      }
+    },
+    {
+      "name": "Kapustin",
+      "fullname": "Kapustin, Ivan A.",
+      "count": 1,
+      "paperIds": [
+        547
+      ],
+      "coauthors": {
+        "Sergievskaya": 1,
+        "Ermakov": 1,
+        "Ermoshkin": 1,
+        "Kupaev": 1,
+        "Shomina": 1
+      }
+    },
+    {
+      "name": "Kupaev",
+      "fullname": "Kupaev, Alexander V.",
+      "count": 1,
+      "paperIds": [
+        547
+      ],
+      "coauthors": {
+        "Sergievskaya": 1,
+        "Ermakov": 1,
+        "Ermoshkin": 1,
+        "Kapustin": 1,
+        "Shomina": 1
+      }
+    },
+    {
+      "name": "Shomina",
+      "fullname": "Shomina, Olga",
+      "count": 1,
+      "paperIds": [
+        547
+      ],
+      "coauthors": {
+        "Sergievskaya": 1,
+        "Ermakov": 1,
+        "Ermoshkin": 1,
+        "Kapustin": 1,
+        "Kupaev": 1
+      }
+    },
+    {
+      "name": "Seyffert",
+      "fullname": "Seyffert, H.C.",
+      "count": 1,
+      "paperIds": [
+        548
+      ],
+      "coauthors": {
+        "Kana": 1,
+        "Troesch": 1
+      }
+    },
+    {
+      "name": "Kana",
+      "fullname": "Kana, A.A.",
+      "count": 1,
+      "paperIds": [
+        548
+      ],
+      "coauthors": {
+        "Seyffert": 1,
+        "Troesch": 1
+      }
+    },
+    {
+      "name": "Troesch",
+      "fullname": "Troesch, A.W.",
+      "count": 1,
+      "paperIds": [
+        548
+      ],
+      "coauthors": {
+        "Seyffert": 1,
+        "Kana": 1
+      }
+    },
+    {
+      "name": "Le Méhauté",
+      "fullname": "Le Méhauté, Bernard",
+      "count": 1,
+      "paperIds": [
+        549
+      ],
+      "coauthors": {
+        "Divoky": 1,
+        "Lin": 1
+      }
+    },
+    {
+      "name": "Divoky",
+      "fullname": "Divoky, David",
+      "count": 1,
+      "paperIds": [
+        549
+      ],
+      "coauthors": {
+        "Le Méhauté": 1,
+        "Lin": 1
+      }
+    },
+    {
+      "name": "Kaihatu",
+      "fullname": "Kaihatu, James M.",
+      "count": 1,
+      "paperIds": [
+        550
+      ],
+      "coauthors": {
+        "Sharma": 1,
+        "Panchang": 1
+      }
+    },
+    {
+      "name": "Shōji",
+      "fullname": "Shōji, Mayumi",
+      "count": 1,
+      "paperIds": [
+        553
+      ],
+      "coauthors": {
+        "Okamoto": 1
+      }
+    },
+    {
+      "name": "Okamoto",
+      "fullname": "Okamoto, Hisashi",
+      "count": 1,
+      "paperIds": [
+        553
+      ],
+      "coauthors": {
+        "Shōji": 1
+      }
+    },
+    {
+      "name": "Orfila",
+      "fullname": "Orfila, Alejandro",
+      "count": 1,
+      "paperIds": [
+        556
+      ],
+      "coauthors": {
+        "Simarro": 1,
+        "Galan": 1
+      }
+    },
+    {
+      "name": "Galan",
+      "fullname": "Galan, Alvaro",
+      "count": 1,
+      "paperIds": [
+        556
+      ],
+      "coauthors": {
+        "Simarro": 1,
+        "Orfila": 1
+      }
+    },
+    {
+      "name": "Simon",
+      "fullname": "Simon, Bruno",
+      "count": 1,
+      "paperIds": [
+        557
+      ],
+      "coauthors": {
+        "Papoutsellis": 1,
+        "Benoit": 1,
+        "Yates": 1
+      }
+    },
+    {
+      "name": "Papoutsellis",
+      "fullname": "Papoutsellis, Christos E.",
+      "count": 1,
+      "paperIds": [
+        557
+      ],
+      "coauthors": {
+        "Simon": 1,
+        "Benoit": 1,
+        "Yates": 1
+      }
+    },
+    {
+      "name": "Skyner",
+      "fullname": "Skyner, David",
+      "count": 1,
+      "paperIds": [
+        558
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sobey",
+      "fullname": "Sobey, Rodney J.",
+      "count": 1,
+      "paperIds": [
+        561
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Venkatachalam",
+      "fullname": "Venkatachalam, Sriram",
+      "count": 1,
+      "paperIds": [
+        564
+      ],
+      "coauthors": {
+        "Agarwal": 1,
+        "Schlurmann": 1
+      }
+    },
+    {
+      "name": "Agarwal",
+      "fullname": "Agarwal, Shagun",
+      "count": 1,
+      "paperIds": [
+        564
+      ],
+      "coauthors": {
+        "Venkatachalam": 1,
+        "Schlurmann": 1
+      }
+    },
+    {
+      "name": "Kristiansen",
+      "fullname": "Kristiansen, Trygve",
+      "count": 1,
+      "paperIds": [
+        573
+      ],
+      "coauthors": {
+        "Stansberg": 1
+      }
+    },
+    {
+      "name": "Shanmugasundaram",
+      "fullname": "Shanmugasundaram, Gnanasekaran",
+      "count": 1,
+      "paperIds": [
+        574
+      ],
+      "coauthors": {
+        "Saha": 1
+      }
+    },
+    {
+      "name": "Stehno",
+      "fullname": "Stehno, Abigail",
+      "count": 1,
+      "paperIds": [
+        577
+      ],
+      "coauthors": {
+        "Melby": 1
+      }
+    },
+    {
+      "name": "Melby",
+      "fullname": "Melby, Jeffrey",
+      "count": 1,
+      "paperIds": [
+        577
+      ],
+      "coauthors": {
+        "Stehno": 1
+      }
+    },
+    {
+      "name": "Storheim",
+      "fullname": "Storheim, Martin",
+      "count": 1,
+      "paperIds": [
+        581
+      ],
+      "coauthors": {
+        "Lian": 1
+      }
+    },
+    {
+      "name": "Filip",
+      "fullname": "Filip, Grzegorz P.",
+      "count": 1,
+      "paperIds": [
+        584
+      ],
+      "coauthors": {
+        "Xu": 1,
+        "Maki": 1
+      }
+    },
+    {
+      "name": "Maki",
+      "fullname": "Maki, Kevin J.",
+      "count": 1,
+      "paperIds": [
+        584
+      ],
+      "coauthors": {
+        "Filip": 1,
+        "Xu": 1
+      }
+    },
+    {
+      "name": "Bashir",
+      "fullname": "Bashir, T.",
+      "count": 1,
+      "paperIds": [
+        587
+      ],
+      "coauthors": {
+        "Swan": 1,
+        "Gudmestad": 1
+      }
+    },
+    {
+      "name": "van Langen",
+      "fullname": "van Langen, H.",
+      "count": 1,
+      "paperIds": [
+        589
+      ],
+      "coauthors": {
+        "Swan": 1,
+        "Taylor": 1
+      }
+    },
+    {
+      "name": "Taklo",
+      "fullname": "Taklo",
+      "count": 1,
+      "paperIds": [
+        590
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tinh",
+      "fullname": "Tinh, Nguyen Xuan",
+      "count": 1,
+      "paperIds": [
+        591
+      ],
+      "coauthors": {
+        "Tanaka": 1,
+        "Sana": 1
+      }
+    },
+    {
+      "name": "Sana",
+      "fullname": "Sana, Ahmad",
+      "count": 1,
+      "paperIds": [
+        591
+      ],
+      "coauthors": {
+        "Tanaka": 1,
+        "Tinh": 1
+      }
+    },
+    {
+      "name": "Tavakoli",
+      "fullname": "Tavakoli",
+      "count": 1,
+      "paperIds": [
+        593
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tay",
+      "fullname": "Tay, Zhi Yung",
+      "count": 1,
+      "paperIds": [
+        594
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Thiébaut",
+      "fullname": "Thiébaut, Maxime",
+      "count": 1,
+      "paperIds": [
+        597
+      ],
+      "coauthors": {
+        "Filipot": 1,
+        "Maisondieu": 1,
+        "Damblans": 1,
+        "Duarte": 1,
+        "Droniou": 1,
+        "Guillou": 1
+      }
+    },
+    {
+      "name": "Maisondieu",
+      "fullname": "Maisondieu, Christophe",
+      "count": 1,
+      "paperIds": [
+        597
+      ],
+      "coauthors": {
+        "Thiébaut": 1,
+        "Filipot": 1,
+        "Damblans": 1,
+        "Duarte": 1,
+        "Droniou": 1,
+        "Guillou": 1
+      }
+    },
+    {
+      "name": "Damblans",
+      "fullname": "Damblans, Guillaume",
+      "count": 1,
+      "paperIds": [
+        597
+      ],
+      "coauthors": {
+        "Thiébaut": 1,
+        "Filipot": 1,
+        "Maisondieu": 1,
+        "Duarte": 1,
+        "Droniou": 1,
+        "Guillou": 1
+      }
+    },
+    {
+      "name": "Droniou",
+      "fullname": "Droniou, Eloi",
+      "count": 1,
+      "paperIds": [
+        597
+      ],
+      "coauthors": {
+        "Thiébaut": 1,
+        "Filipot": 1,
+        "Maisondieu": 1,
+        "Damblans": 1,
+        "Duarte": 1,
+        "Guillou": 1
+      }
+    },
+    {
+      "name": "Terziev",
+      "fullname": "Terziev, Momchil",
+      "count": 1,
+      "paperIds": [
+        598
+      ],
+      "coauthors": {
+        "Tezdogan": 1,
+        "Incecik": 1
+      }
+    },
+    {
+      "name": "Tezdogan",
+      "fullname": "Tezdogan, Tahsin",
+      "count": 1,
+      "paperIds": [
+        598
+      ],
+      "coauthors": {
+        "Terziev": 1,
+        "Incecik": 1
+      }
+    },
+    {
+      "name": "Incecik",
+      "fullname": "Incecik, Atilla",
+      "count": 1,
+      "paperIds": [
+        598
+      ],
+      "coauthors": {
+        "Terziev": 1,
+        "Tezdogan": 1
+      }
+    },
+    {
+      "name": "Bitner‐Gregersen",
+      "fullname": "Bitner‐Gregersen, Elzbieta M.",
+      "count": 1,
+      "paperIds": [
+        600
+      ],
+      "coauthors": {
+        "Toffoli": 1
+      }
+    },
+    {
+      "name": "Minnick",
+      "fullname": "Minnick, Lisa",
+      "count": 1,
+      "paperIds": [
+        603
+      ],
+      "coauthors": {
+        "Bassler": 1,
+        "Percival": 1,
+        "Hanyok": 1
+      }
+    },
+    {
+      "name": "Bassler",
+      "fullname": "Bassler, Christopher",
+      "count": 1,
+      "paperIds": [
+        603
+      ],
+      "coauthors": {
+        "Minnick": 1,
+        "Percival": 1,
+        "Hanyok": 1
+      }
+    },
+    {
+      "name": "Percival",
+      "fullname": "Percival, Scott",
+      "count": 1,
+      "paperIds": [
+        603
+      ],
+      "coauthors": {
+        "Minnick": 1,
+        "Bassler": 1,
+        "Hanyok": 1
+      }
+    },
+    {
+      "name": "Hanyok",
+      "fullname": "Hanyok, Lauren",
+      "count": 1,
+      "paperIds": [
+        603
+      ],
+      "coauthors": {
+        "Minnick": 1,
+        "Bassler": 1,
+        "Percival": 1
+      }
+    },
+    {
+      "name": "Hagemeijer",
+      "fullname": "Hagemeijer, P.M.",
+      "count": 1,
+      "paperIds": [
+        604
+      ],
+      "coauthors": {
+        "Tromans": 1,
+        "Wassink": 1
+      }
+    },
+    {
+      "name": "Wassink",
+      "fullname": "Wassink, H.R.",
+      "count": 1,
+      "paperIds": [
+        604
+      ],
+      "coauthors": {
+        "Tromans": 1,
+        "Hagemeijer": 1
+      }
+    },
+    {
+      "name": "Aouf",
+      "fullname": "Aouf, Lotfi",
+      "count": 1,
+      "paperIds": [
+        606
+      ],
+      "coauthors": {
+        "Trulsen": 1,
+        "Nieto Borge": 1,
+        "Gramstad": 1,
+        "Lefèvre": 1
+      }
+    },
+    {
+      "name": "Lefèvre",
+      "fullname": "Lefèvre, Jean–Michel",
+      "count": 1,
+      "paperIds": [
+        606
+      ],
+      "coauthors": {
+        "Trulsen": 1,
+        "Nieto Borge": 1,
+        "Gramstad": 1,
+        "Aouf": 1
+      }
+    },
+    {
+      "name": "Martin",
+      "fullname": "Martin, Calin I.",
+      "count": 1,
+      "paperIds": [
+        607
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Challenor",
+      "fullname": "Challenor, P.G.",
+      "count": 1,
+      "paperIds": [
+        609
+      ],
+      "coauthors": {
+        "Tucker": 1,
+        "Carter": 1
+      }
+    },
+    {
+      "name": "Ulutas",
+      "fullname": "Ulutas",
+      "count": 1,
+      "paperIds": [
+        610
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "van Noorloos",
+      "fullname": "van Noorloos, J.",
+      "count": 1,
+      "paperIds": [
+        611
+      ],
+      "coauthors": {
+        "van Dongeren": 1,
+        "Battjes": 1,
+        "Janssen": 1,
+        "Steenhauer": 1,
+        "Steenbergen": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "Steenbergen",
+      "fullname": "Steenbergen, G.",
+      "count": 1,
+      "paperIds": [
+        611
+      ],
+      "coauthors": {
+        "van Dongeren": 1,
+        "Battjes": 1,
+        "Janssen": 1,
+        "van Noorloos": 1,
+        "Steenhauer": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "van Haren",
+      "fullname": "van Haren, Hans",
+      "count": 1,
+      "paperIds": [
+        612
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "van Meerkerk",
+      "fullname": "van Meerkerk, M.",
+      "count": 1,
+      "paperIds": [
+        613
+      ],
+      "coauthors": {
+        "Poelma": 1,
+        "Hofland": 1,
+        "Westerweel": 1
+      }
+    },
+    {
+      "name": "Poelma",
+      "fullname": "Poelma, C.",
+      "count": 1,
+      "paperIds": [
+        613
+      ],
+      "coauthors": {
+        "van Meerkerk": 1,
+        "Hofland": 1,
+        "Westerweel": 1
+      }
+    },
+    {
+      "name": "Westerweel",
+      "fullname": "Westerweel, J.",
+      "count": 1,
+      "paperIds": [
+        613
+      ],
+      "coauthors": {
+        "van Meerkerk": 1,
+        "Poelma": 1,
+        "Hofland": 1
+      }
+    },
+    {
+      "name": "Delpey",
+      "fullname": "Delpey, Matthias",
+      "count": 1,
+      "paperIds": [
+        614
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 1,
+        "Guitton": 1,
+        "Collard": 1,
+        "Platzer": 1,
+        "Roeber": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Guitton",
+      "fullname": "Guitton, Gilles",
+      "count": 1,
+      "paperIds": [
+        614
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 1,
+        "Delpey": 1,
+        "Collard": 1,
+        "Platzer": 1,
+        "Roeber": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Collard",
+      "fullname": "Collard, Fabrice",
+      "count": 1,
+      "paperIds": [
+        614
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 1,
+        "Delpey": 1,
+        "Guitton": 1,
+        "Platzer": 1,
+        "Roeber": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Platzer",
+      "fullname": "Platzer, Paul",
+      "count": 1,
+      "paperIds": [
+        614
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 1,
+        "Delpey": 1,
+        "Guitton": 1,
+        "Collard": 1,
+        "Roeber": 1,
+        "Morichon": 1
+      }
+    },
+    {
+      "name": "Morichon",
+      "fullname": "Morichon, Denis",
+      "count": 1,
+      "paperIds": [
+        614
+      ],
+      "coauthors": {
+        "Varing": 1,
+        "Filipot": 1,
+        "Delpey": 1,
+        "Guitton": 1,
+        "Collard": 1,
+        "Platzer": 1,
+        "Roeber": 1
+      }
+    },
+    {
+      "name": "Oh",
+      "fullname": "Oh, S.",
+      "count": 1,
+      "paperIds": [
+        615
+      ],
+      "coauthors": {
+        "Okubo": 1,
+        "Tsuchiya": 1,
+        "Takeuchi": 1
+      }
+    },
+    {
+      "name": "Okubo",
+      "fullname": "Okubo, K.",
+      "count": 1,
+      "paperIds": [
+        615
+      ],
+      "coauthors": {
+        "Oh": 1,
+        "Tsuchiya": 1,
+        "Takeuchi": 1
+      }
+    },
+    {
+      "name": "Tsuchiya",
+      "fullname": "Tsuchiya, T.",
+      "count": 1,
+      "paperIds": [
+        615
+      ],
+      "coauthors": {
+        "Oh": 1,
+        "Okubo": 1,
+        "Takeuchi": 1
+      }
+    },
+    {
+      "name": "Takeuchi",
+      "fullname": "Takeuchi, N.",
+      "count": 1,
+      "paperIds": [
+        615
+      ],
+      "coauthors": {
+        "Oh": 1,
+        "Okubo": 1,
+        "Tsuchiya": 1
+      }
+    },
+    {
+      "name": "Vigsø",
+      "fullname": "Vigsø, Michael",
+      "count": 1,
+      "paperIds": [
+        617
+      ],
+      "coauthors": {
+        "Georgakis": 1
+      }
+    },
+    {
+      "name": "Georgakis",
+      "fullname": "Georgakis, Christos",
+      "count": 1,
+      "paperIds": [
+        617
+      ],
+      "coauthors": {
+        "Vigsø": 1
+      }
+    },
+    {
+      "name": "Vinagre",
+      "fullname": "Vinagre, Pedro Almeida",
+      "count": 1,
+      "paperIds": [
+        618
+      ],
+      "coauthors": {
+        "Simas": 1,
+        "Cruz": 1,
+        "Pinori": 1,
+        "Svenson": 1
+      }
+    },
+    {
+      "name": "Simas",
+      "fullname": "Simas, Teresa",
+      "count": 1,
+      "paperIds": [
+        618
+      ],
+      "coauthors": {
+        "Vinagre": 1,
+        "Cruz": 1,
+        "Pinori": 1,
+        "Svenson": 1
+      }
+    },
+    {
+      "name": "Cruz",
+      "fullname": "Cruz, Erica",
+      "count": 1,
+      "paperIds": [
+        618
+      ],
+      "coauthors": {
+        "Vinagre": 1,
+        "Simas": 1,
+        "Pinori": 1,
+        "Svenson": 1
+      }
+    },
+    {
+      "name": "Pinori",
+      "fullname": "Pinori, Emiliano",
+      "count": 1,
+      "paperIds": [
+        618
+      ],
+      "coauthors": {
+        "Vinagre": 1,
+        "Simas": 1,
+        "Cruz": 1,
+        "Svenson": 1
+      }
+    },
+    {
+      "name": "Svenson",
+      "fullname": "Svenson, Johan",
+      "count": 1,
+      "paperIds": [
+        618
+      ],
+      "coauthors": {
+        "Vinagre": 1,
+        "Simas": 1,
+        "Cruz": 1,
+        "Pinori": 1
+      }
+    },
+    {
+      "name": "Vinodh",
+      "fullname": "Vinodh, Talpe Liyanage Chanaka",
+      "count": 1,
+      "paperIds": [
+        620
+      ],
+      "coauthors": {
+        "Tanaka": 1
+      }
+    },
+    {
+      "name": "Headland",
+      "fullname": "Headland, John",
+      "count": 1,
+      "paperIds": [
+        623
+      ],
+      "coauthors": {
+        "Walker": 1
+      }
+    },
+    {
+      "name": "Schächter",
+      "fullname": "Schächter, Levi",
+      "count": 1,
+      "paperIds": [
+        632
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wheeler",
+      "fullname": "Wheeler, J.D.",
+      "count": 1,
+      "paperIds": [
+        634
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wienke",
+      "fullname": "Wienke, J.",
+      "count": 1,
+      "paperIds": [
+        635
+      ],
+      "coauthors": {
+        "Oumeraci": 1
+      }
+    },
+    {
+      "name": "Williams",
+      "fullname": "Williams",
+      "count": 1,
+      "paperIds": [
+        636
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wyatt",
+      "fullname": "Wyatt",
+      "count": 1,
+      "paperIds": [
+        640
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Xiong",
+      "fullname": "Xiong, Jilian",
+      "count": 1,
+      "paperIds": [
+        643
+      ],
+      "coauthors": {
+        "You": 1,
+        "Li": 1,
+        "Gao": 1,
+        "Wang": 2
+      }
+    },
+    {
+      "name": "Xü",
+      "fullname": "Xü, Hongbo",
+      "count": 1,
+      "paperIds": [
+        644
+      ],
+      "coauthors": {
+        "Xue": 1,
+        "Liu": 1,
+        "Yue": 1
+      }
+    },
+    {
+      "name": "Yin",
+      "fullname": "Yin, Zegao",
+      "count": 1,
+      "paperIds": [
+        648
+      ],
+      "coauthors": {
+        "Wang": 1,
+        "Liu": 1,
+        "Zou": 1
+      }
+    },
+    {
+      "name": "Zou",
+      "fullname": "Zou, Wei",
+      "count": 1,
+      "paperIds": [
+        648
+      ],
+      "coauthors": {
+        "Yin": 1,
+        "Wang": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "Zaki",
+      "fullname": "Zaki",
+      "count": 1,
+      "paperIds": [
+        652
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Mohd Zaki",
+      "fullname": "Mohd Zaki, N. I.",
+      "count": 1,
+      "paperIds": [
+        653
+      ],
+      "coauthors": {
+        "Abu Husain": 1,
+        "Najafian": 1
+      }
+    },
+    {
+      "name": "Abu Husain",
+      "fullname": "Abu Husain, M. K.",
+      "count": 1,
+      "paperIds": [
+        653
+      ],
+      "coauthors": {
+        "Mohd Zaki": 1,
+        "Najafian": 1
+      }
+    },
+    {
+      "name": "Najafian",
+      "fullname": "Najafian, G.",
+      "count": 1,
+      "paperIds": [
+        653
+      ],
+      "coauthors": {
+        "Mohd Zaki": 1,
+        "Abu Husain": 1
+      }
+    },
+    {
+      "name": "Hekkenberg",
+      "fullname": "Hekkenberg, Robert",
+      "count": 1,
+      "paperIds": [
+        654
+      ],
+      "coauthors": {
+        "Zeng": 1,
+        "Thill": 1,
+        "Hopman": 1
+      }
+    },
+    {
+      "name": "Thill",
+      "fullname": "Thill, Cornel",
+      "count": 1,
+      "paperIds": [
+        654
+      ],
+      "coauthors": {
+        "Zeng": 1,
+        "Hekkenberg": 1,
+        "Hopman": 1
+      }
+    },
+    {
+      "name": "Hopman",
+      "fullname": "Hopman, Hans",
+      "count": 1,
+      "paperIds": [
+        654
+      ],
+      "coauthors": {
+        "Zeng": 1,
+        "Hekkenberg": 1,
+        "Thill": 1
+      }
+    },
+    {
+      "name": "Zerbib",
+      "fullname": "Zerbib",
+      "count": 1,
+      "paperIds": [
+        655
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Zhai",
+      "fullname": "Zhai, Hualing",
+      "count": 1,
+      "paperIds": [
+        658
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Wang": 2,
+        "Duan": 1,
+        "Chen": 1,
+        "Liu": 1,
+        "Jeng": 1
+      }
+    },
+    {
+      "name": "Shang",
+      "fullname": "Shang, Zhi-quan",
+      "count": 1,
+      "paperIds": [
+        659
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Wang": 2
+      }
+    },
+    {
+      "name": "Zlotnik",
+      "fullname": "Zlotnik, Sergio",
+      "count": 1,
+      "paperIds": [
+        667
+      ],
+      "coauthors": {
+        "Zhou": 1,
+        "Li": 1,
+        "Wang": 1
+      }
+    },
+    {
+      "name": "Zijlema",
+      "fullname": "Zijlema, Marcel",
+      "count": 1,
+      "paperIds": [
+        671
+      ],
+      "coauthors": {
+        "Stelling": 1,
+        "Smit": 1
+      }
+    },
+    {
+      "name": "Stelling",
+      "fullname": "Stelling, Guus",
+      "count": 1,
+      "paperIds": [
+        671
+      ],
+      "coauthors": {
+        "Zijlema": 1,
+        "Smit": 1
+      }
+    },
+    {
+      "name": "Zuo",
+      "fullname": "Zuo, Feng-Yuan",
+      "count": 1,
+      "paperIds": [
+        672
+      ],
+      "coauthors": {
+        "Memmolo": 1
+      }
+    },
+    {
+      "name": "Memmolo",
+      "fullname": "Memmolo, Antonio",
+      "count": 1,
+      "paperIds": [
+        672
+      ],
+      "coauthors": {
+        "Zuo": 1
+      }
+    },
+    {
+      "name": "Grønbech",
+      "fullname": "Grønbech, John",
+      "count": 1,
+      "paperIds": [
+        686
+      ],
+      "coauthors": {
+        "Jensen": 1,
+        "Lykke Andersen": 1
+      }
+    },
+    {
+      "name": "Jensen",
+      "fullname": "Jensen, Thomas",
+      "count": 1,
+      "paperIds": [
+        686
+      ],
+      "coauthors": {
+        "Grønbech": 1,
+        "Lykke Andersen": 1
+      }
+    },
+    {
+      "name": "Meer",
+      "fullname": "Meer, Jentsje W. van der",
+      "count": 1,
+      "paperIds": [
+        692
+      ],
+      "coauthors": {
+        "Klopman": 1
+      }
+    },
+    {
+      "name": "Ni",
+      "fullname": "Ni, Yun-lin",
+      "count": 1,
+      "paperIds": [
+        710
+      ],
+      "coauthors": {
+        "Teng": 1
+      }
+    },
+    {
+      "name": "Serafino",
+      "fullname": "Serafino, Francesco",
+      "count": 1,
+      "paperIds": [
+        718
+      ],
+      "coauthors": {
+        "Bonamano": 1,
+        "de Mendoza": 1,
+        "Marcelli": 1
+      }
+    },
+    {
+      "name": "Bonamano",
+      "fullname": "Bonamano, Simone",
+      "count": 1,
+      "paperIds": [
+        718
+      ],
+      "coauthors": {
+        "Serafino": 1,
+        "de Mendoza": 1,
+        "Marcelli": 1
+      }
+    },
+    {
+      "name": "de Mendoza",
+      "fullname": "de Mendoza, Francesco Paladini",
+      "count": 1,
+      "paperIds": [
+        718
+      ],
+      "coauthors": {
+        "Serafino": 1,
+        "Bonamano": 1,
+        "Marcelli": 1
+      }
+    },
+    {
+      "name": "Marcelli",
+      "fullname": "Marcelli, Marco",
+      "count": 1,
+      "paperIds": [
+        718
+      ],
+      "coauthors": {
+        "Serafino": 1,
+        "Bonamano": 1,
+        "de Mendoza": 1
+      }
+    },
+    {
+      "name": "Voermans",
+      "fullname": "Voermans, Joey J.",
+      "count": 1,
+      "paperIds": [
+        720
+      ],
+      "coauthors": {
+        "Laface": 1,
+        "Babanin": 1,
+        "Romolo": 1,
+        "Arena": 1
+      }
+    },
+    {
+      "name": "Wennker",
+      "fullname": "Wennker",
+      "count": 1,
+      "paperIds": [
+        721
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Gouin",
+      "fullname": "Gouin, M.",
+      "count": 1,
+      "paperIds": [
+        725
+      ],
+      "coauthors": {
+        "Ducrozet": 1,
+        "Ferrant": 1
+      }
+    },
+    {
+      "name": "Teisson",
+      "fullname": "Teisson, Charles",
+      "count": 1,
+      "paperIds": [
+        729
+      ],
+      "coauthors": {
+        "Benoit": 1
+      }
+    },
+    {
+      "name": "Bouws",
+      "fullname": "Bouws, E.",
+      "count": 1,
+      "paperIds": [
+        731
+      ],
+      "coauthors": {
+        "Günther": 1,
+        "Rosenthal": 1,
+        "Vincent": 1
+      }
+    },
+    {
+      "name": "Günther",
+      "fullname": "Günther, H.",
+      "count": 1,
+      "paperIds": [
+        731
+      ],
+      "coauthors": {
+        "Bouws": 1,
+        "Rosenthal": 1,
+        "Vincent": 1
+      }
+    },
+    {
+      "name": "Rosenthal",
+      "fullname": "Rosenthal, W.",
+      "count": 1,
+      "paperIds": [
+        731
+      ],
+      "coauthors": {
+        "Bouws": 1,
+        "Günther": 1,
+        "Vincent": 1
+      }
+    },
+    {
+      "name": "Vincent",
+      "fullname": "Vincent, C. L.",
+      "count": 1,
+      "paperIds": [
+        731
+      ],
+      "coauthors": {
+        "Bouws": 1,
+        "Günther": 1,
+        "Rosenthal": 1
+      }
+    },
+    {
+      "name": "Govan",
+      "fullname": "Govan, Alex",
+      "count": 1,
+      "paperIds": [
+        732
+      ],
+      "coauthors": {
+        "Carter": 1
+      }
+    },
+    {
+      "name": "Gui",
+      "fullname": "Gui, Fukun",
+      "count": 1,
+      "paperIds": [
+        733
+      ],
+      "coauthors": {
+        "Mei": 1,
+        "Chen": 1,
+        "Yang": 1
+      }
+    },
+    {
+      "name": "Vukčević",
+      "fullname": "Vukčević, Vuko",
+      "count": 1,
+      "paperIds": [
+        738
+      ],
+      "coauthors": {
+        "Gatin": 1,
+        "Jasak": 1
+      }
+    },
+    {
+      "name": "Hasselmann",
+      "fullname": "Hasselmann, Dieter",
+      "count": 1,
+      "paperIds": [
+        739
+      ],
+      "coauthors": {
+        "Bösenberg": 1
+      }
+    },
+    {
+      "name": "Bösenberg",
+      "fullname": "Bösenberg, Jens",
+      "count": 1,
+      "paperIds": [
+        739
+      ],
+      "coauthors": {
+        "Hasselmann": 1
+      }
+    },
+    {
+      "name": "Yuen",
+      "fullname": "Yuen, Yeli",
+      "count": 1,
+      "paperIds": [
+        740
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Long": 1,
+        "Tung": 1,
+        "Bliven": 1
+      }
+    },
+    {
+      "name": "Hwang",
+      "fullname": "Hwang, Paul A.",
+      "count": 1,
+      "paperIds": [
+        741
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Wang": 1,
+        "Long": 1,
+        "Bliven": 1
+      }
+    },
+    {
+      "name": "Gřegoř",
+      "fullname": "Gřegoř, Adam",
+      "count": 1,
+      "paperIds": [
+        743
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Lenain",
+      "fullname": "Lenain, Luc",
+      "count": 1,
+      "paperIds": [
+        745
+      ],
+      "coauthors": {
+        "Melville": 1
+      }
+    },
+    {
+      "name": "Sheng",
+      "fullname": "Sheng, Jinyu",
+      "count": 1,
+      "paperIds": [
+        746
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Xing": 1
+      }
+    },
+    {
+      "name": "Xing",
+      "fullname": "Xing, Jiuxing",
+      "count": 1,
+      "paperIds": [
+        746
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Sheng": 1
+      }
+    },
+    {
+      "name": "Yang Li",
+      "fullname": "Yang Li",
+      "count": 1,
+      "paperIds": [
+        748
+      ],
+      "coauthors": {
+        "Huang Hu": 1
+      }
+    },
+    {
+      "name": "Huang Hu",
+      "fullname": "Huang Hu",
+      "count": 1,
+      "paperIds": [
+        748
+      ],
+      "coauthors": {
+        "Yang Li": 1
+      }
+    },
+    {
+      "name": "Nwogu",
+      "fullname": "Nwogu, Okey",
+      "count": 1,
+      "paperIds": [
+        750
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Pierson",
+      "fullname": "Pierson, Jr.",
+      "count": 1,
+      "paperIds": [
+        753
+      ],
+      "coauthors": {
+        "Willard J.": 1,
+        "Lionel": 1
+      }
+    },
+    {
+      "name": "Willard J.",
+      "fullname": "Willard J., Moskowitz",
+      "count": 1,
+      "paperIds": [
+        753
+      ],
+      "coauthors": {
+        "Pierson": 1,
+        "Lionel": 1
+      }
+    },
+    {
+      "name": "Lionel",
+      "fullname": "Lionel",
+      "count": 1,
+      "paperIds": [
+        753
+      ],
+      "coauthors": {
+        "Pierson": 1,
+        "Willard J.": 1
+      }
+    },
+    {
+      "name": "Ribeiro",
+      "fullname": "Ribeiro, P.J.C.",
+      "count": 1,
+      "paperIds": [
+        754
+      ],
+      "coauthors": {
+        "Henriques": 1,
+        "Campuzano": 1,
+        "Gato": 1,
+        "Falcão": 1
+      }
+    },
+    {
+      "name": "Campuzano",
+      "fullname": "Campuzano, F.J.",
+      "count": 1,
+      "paperIds": [
+        754
+      ],
+      "coauthors": {
+        "Ribeiro": 1,
+        "Henriques": 1,
+        "Gato": 1,
+        "Falcão": 1
+      }
+    },
+    {
+      "name": "Falcão",
+      "fullname": "Falcão, A.F.O.",
+      "count": 1,
+      "paperIds": [
+        754
+      ],
+      "coauthors": {
+        "Ribeiro": 1,
+        "Henriques": 1,
+        "Campuzano": 1,
+        "Gato": 1
+      }
+    },
+    {
+      "name": "Rocha",
+      "fullname": "Rocha, M.V.L.",
+      "count": 1,
+      "paperIds": [
+        755
+      ],
+      "coauthors": {
+        "Michallet": 1,
+        "Silva": 1
+      }
+    },
+    {
+      "name": "Rueda-Bayona",
+      "fullname": "Rueda-Bayona, Juan Gabriel",
+      "count": 1,
+      "paperIds": [
+        756
+      ],
+      "coauthors": {
+        "Guzmán": 1,
+        "Cabello Eras": 1
+      }
+    },
+    {
+      "name": "Guzmán",
+      "fullname": "Guzmán, Andrés",
+      "count": 1,
+      "paperIds": [
+        756
+      ],
+      "coauthors": {
+        "Rueda-Bayona": 1,
+        "Cabello Eras": 1
+      }
+    },
+    {
+      "name": "Cabello Eras",
+      "fullname": "Cabello Eras, Juan José",
+      "count": 1,
+      "paperIds": [
+        756
+      ],
+      "coauthors": {
+        "Rueda-Bayona": 1,
+        "Guzmán": 1
+      }
+    },
+    {
+      "name": "Rupali",
+      "fullname": "Rupali",
+      "count": 1,
+      "paperIds": [
+        757
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shtremel",
+      "fullname": "Shtremel, Margarita",
+      "count": 1,
+      "paperIds": [
+        758
+      ],
+      "coauthors": {
+        "Saprykina": 1,
+        "Volvaiker": 1,
+        "Kuznetsov": 1
+      }
+    },
+    {
+      "name": "Volvaiker",
+      "fullname": "Volvaiker, Samiksha",
+      "count": 1,
+      "paperIds": [
+        758
+      ],
+      "coauthors": {
+        "Saprykina": 1,
+        "Shtremel": 1,
+        "Kuznetsov": 1
+      }
+    },
+    {
+      "name": "Buldacov",
+      "fullname": "Buldacov, Eugeny",
+      "count": 1,
+      "paperIds": [
+        759
+      ],
+      "coauthors": {
+        "Stagonas": 1,
+        "Simons": 1
+      }
+    },
+    {
+      "name": "Ozawa",
+      "fullname": "Ozawa, Yusuke",
+      "count": 1,
+      "paperIds": [
+        762
+      ],
+      "coauthors": {
+        "Mase": 1
+      }
+    },
+    {
+      "name": "Fujimoto",
+      "fullname": "Fujimoto, Wataru",
+      "count": 1,
+      "paperIds": [
+        764
+      ],
+      "coauthors": {
+        "Waseda": 1,
+        "Chabchoub": 1
+      }
+    },
+    {
+      "name": "Kinoshita",
+      "fullname": "Kinoshita, Takeshi",
+      "count": 1,
+      "paperIds": [
+        765
+      ],
+      "coauthors": {
+        "Waseda": 1,
+        "Tamura": 1
+      }
+    },
+    {
+      "name": "Tamura",
+      "fullname": "Tamura, Hitoshi",
+      "count": 1,
+      "paperIds": [
+        765
+      ],
+      "coauthors": {
+        "Waseda": 1,
+        "Kinoshita": 1
+      }
+    },
+    {
+      "name": "Residori",
+      "fullname": "Residori, S.",
+      "count": 1,
+      "paperIds": [
+        770
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Bortolozzo": 1,
+        "Montina": 1,
+        "Arecchi": 1
+      }
+    },
+    {
+      "name": "Bortolozzo",
+      "fullname": "Bortolozzo, U.",
+      "count": 1,
+      "paperIds": [
+        770
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Residori": 1,
+        "Montina": 1,
+        "Arecchi": 1
+      }
+    },
+    {
+      "name": "Montina",
+      "fullname": "Montina, A.",
+      "count": 1,
+      "paperIds": [
+        770
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Residori": 1,
+        "Bortolozzo": 1,
+        "Arecchi": 1
+      }
+    },
+    {
+      "name": "Arecchi",
+      "fullname": "Arecchi, F.T.",
+      "count": 1,
+      "paperIds": [
+        770
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Residori": 1,
+        "Bortolozzo": 1,
+        "Montina": 1
+      }
+    },
+    {
+      "name": "Draper",
+      "fullname": "Draper, Scott",
+      "count": 1,
+      "paperIds": [
+        772
+      ],
+      "coauthors": {
+        "Adcock": 1,
+        "Taylor": 1
+      }
+    },
+    {
+      "name": "Ardhuin",
+      "fullname": "Ardhuin, Fabrice",
+      "count": 1,
+      "paperIds": [
+        775
+      ],
+      "coauthors": {
+        "Benetazzo": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Guimarães": 1,
+        "Schwendeman": 1,
+        "Sclavo": 1,
+        "Thomson": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Guimarães",
+      "fullname": "Guimarães, Pedro Veras",
+      "count": 1,
+      "paperIds": [
+        775
+      ],
+      "coauthors": {
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Schwendeman": 1,
+        "Sclavo": 1,
+        "Thomson": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Sclavo",
+      "fullname": "Sclavo, Mauro",
+      "count": 1,
+      "paperIds": [
+        775
+      ],
+      "coauthors": {
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Guimarães": 1,
+        "Schwendeman": 1,
+        "Thomson": 1,
+        "Torsello": 1
+      }
+    },
+    {
+      "name": "Torsello",
+      "fullname": "Torsello, Andrea",
+      "count": 1,
+      "paperIds": [
+        775
+      ],
+      "coauthors": {
+        "Benetazzo": 1,
+        "Ardhuin": 1,
+        "Bergamasco": 1,
+        "Cavaleri": 1,
+        "Guimarães": 1,
+        "Schwendeman": 1,
+        "Sclavo": 1,
+        "Thomson": 1
+      }
+    },
+    {
+      "name": "Feir",
+      "fullname": "Feir, J. E.",
+      "count": 1,
+      "paperIds": [
+        777
+      ],
+      "coauthors": {
+        "Benjamin": 1
+      }
+    },
+    {
+      "name": "Kibler",
+      "fullname": "Kibler, B.",
+      "count": 1,
+      "paperIds": [
+        782
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Finot": 1,
+        "Millot": 1,
+        "Onorato": 1,
+        "Dudley": 1,
+        "Babanin": 1
+      }
+    },
+    {
+      "name": "Finot",
+      "fullname": "Finot, C.",
+      "count": 1,
+      "paperIds": [
+        782
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Kibler": 1,
+        "Millot": 1,
+        "Onorato": 1,
+        "Dudley": 1,
+        "Babanin": 1
+      }
+    },
+    {
+      "name": "Millot",
+      "fullname": "Millot, G.",
+      "count": 1,
+      "paperIds": [
+        782
+      ],
+      "coauthors": {
+        "Chabchoub": 1,
+        "Kibler": 1,
+        "Finot": 1,
+        "Onorato": 1,
+        "Dudley": 1,
+        "Babanin": 1
+      }
+    },
+    {
+      "name": "Cueto",
+      "fullname": "Cueto",
+      "count": 1,
+      "paperIds": [
+        783
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Dematteis",
+      "fullname": "Dematteis, Giovanni",
+      "count": 1,
+      "paperIds": [
+        784
+      ],
+      "coauthors": {
+        "Grafke": 1,
+        "Onorato": 1,
+        "Vanden-Eijnden": 1
+      }
+    },
+    {
+      "name": "Grafke",
+      "fullname": "Grafke, Tobias",
+      "count": 1,
+      "paperIds": [
+        784
+      ],
+      "coauthors": {
+        "Dematteis": 1,
+        "Onorato": 1,
+        "Vanden-Eijnden": 1
+      }
+    },
+    {
+      "name": "Vanden-Eijnden",
+      "fullname": "Vanden-Eijnden, Eric",
+      "count": 1,
+      "paperIds": [
+        784
+      ],
+      "coauthors": {
+        "Dematteis": 1,
+        "Grafke": 1,
+        "Onorato": 1
+      }
+    },
+    {
+      "name": "Doeleman",
+      "fullname": "Doeleman",
+      "count": 1,
+      "paperIds": [
+        786
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Lemoine",
+      "fullname": "Lemoine, A.",
+      "count": 1,
+      "paperIds": [
+        792
+      ],
+      "coauthors": {
+        "Eeltink": 1,
+        "Branger": 1,
+        "Kimmoun": 1,
+        "Kharif": 1,
+        "Carter": 1,
+        "Chabchoub": 1,
+        "Brunetti": 1,
+        "Kasparian": 1
+      }
+    },
+    {
+      "name": "Hafner",
+      "fullname": "Hafner",
+      "count": 1,
+      "paperIds": [
+        796
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Helal",
+      "fullname": "Helal, M.A.",
+      "count": 1,
+      "paperIds": [
+        797
+      ],
+      "coauthors": {
+        "Seadawy": 1
+      }
+    },
+    {
+      "name": "Seadawy",
+      "fullname": "Seadawy, A.R.",
+      "count": 1,
+      "paperIds": [
+        797
+      ],
+      "coauthors": {
+        "Helal": 1
+      }
+    },
+    {
+      "name": "Kashima",
+      "fullname": "Kashima, Hiroaki",
+      "count": 1,
+      "paperIds": [
+        799
+      ],
+      "coauthors": {
+        "Hirayama": 1,
+        "Mori": 1
+      }
+    },
+    {
+      "name": "Hirayama",
+      "fullname": "Hirayama, Katsuya",
+      "count": 1,
+      "paperIds": [
+        799
+      ],
+      "coauthors": {
+        "Kashima": 1,
+        "Mori": 1
+      }
+    },
+    {
+      "name": "Kokorina",
+      "fullname": "Kokorina, Anna",
+      "count": 1,
+      "paperIds": [
+        800
+      ],
+      "coauthors": {
+        "Slunyaev": 1
+      }
+    },
+    {
+      "name": "El Koussaifi",
+      "fullname": "El Koussaifi, R.",
+      "count": 1,
+      "paperIds": [
+        801
+      ],
+      "coauthors": {
+        "Tikan": 1,
+        "Toffoli": 1,
+        "Randoux": 1,
+        "Suret": 1,
+        "Onorato": 1
+      }
+    },
+    {
+      "name": "Tikan",
+      "fullname": "Tikan, A.",
+      "count": 1,
+      "paperIds": [
+        801
+      ],
+      "coauthors": {
+        "El Koussaifi": 1,
+        "Toffoli": 1,
+        "Randoux": 1,
+        "Suret": 1,
+        "Onorato": 1
+      }
+    },
+    {
+      "name": "Randoux",
+      "fullname": "Randoux, S.",
+      "count": 1,
+      "paperIds": [
+        801
+      ],
+      "coauthors": {
+        "El Koussaifi": 1,
+        "Tikan": 1,
+        "Toffoli": 1,
+        "Suret": 1,
+        "Onorato": 1
+      }
+    },
+    {
+      "name": "Suret",
+      "fullname": "Suret, P.",
+      "count": 1,
+      "paperIds": [
+        801
+      ],
+      "coauthors": {
+        "El Koussaifi": 1,
+        "Tikan": 1,
+        "Toffoli": 1,
+        "Randoux": 1,
+        "Onorato": 1
+      }
+    },
+    {
+      "name": "Lu",
+      "fullname": "Lu, Lin",
+      "count": 1,
+      "paperIds": [
+        806
+      ],
+      "coauthors": {
+        "Zhou": 1,
+        "Qin": 1,
+        "Song": 1,
+        "Xie": 1,
+        "Lou": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Lou",
+      "fullname": "Lou, Xiaofan",
+      "count": 1,
+      "paperIds": [
+        806
+      ],
+      "coauthors": {
+        "Lu": 1,
+        "Zhou": 1,
+        "Qin": 1,
+        "Song": 1,
+        "Xie": 1,
+        "Li": 1
+      }
+    },
+    {
+      "name": "Koh",
+      "fullname": "Koh, Chan Ghee",
+      "count": 1,
+      "paperIds": [
+        807
+      ],
+      "coauthors": {
+        "Luo": 1,
+        "Lee": 1,
+        "Lin": 1,
+        "Reeve": 1
+      }
+    },
+    {
+      "name": "Reeve",
+      "fullname": "Reeve, Dominic E.",
+      "count": 1,
+      "paperIds": [
+        807
+      ],
+      "coauthors": {
+        "Luo": 1,
+        "Koh": 1,
+        "Lee": 1,
+        "Lin": 1
+      }
+    },
+    {
+      "name": "Michel",
+      "fullname": "Michel, Guillaume",
+      "count": 1,
+      "paperIds": [
+        817
+      ],
+      "coauthors": {
+        "Bonnefoy": 1,
+        "Ducrozet": 1,
+        "Falcon": 1
+      }
+    },
+    {
+      "name": "Peng",
+      "fullname": "Peng, Wei-Qi",
+      "count": 1,
+      "paperIds": [
+        819
+      ],
+      "coauthors": {
+        "Tian": 1,
+        "Wang": 1,
+        "Zhang": 1
+      }
+    },
+    {
+      "name": "Sehic",
+      "fullname": "Sehic",
+      "count": 1,
+      "paperIds": [
+        822
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Teutsch",
+      "fullname": "Teutsch",
+      "count": 1,
+      "paperIds": [
+        828
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Zaman",
+      "fullname": "Zaman, Hasanat",
+      "count": 1,
+      "paperIds": [
+        830
+      ],
+      "coauthors": {
+        "Akinturk": 1
+      }
+    },
+    {
+      "name": "Akinturk",
+      "fullname": "Akinturk, Ayhan",
+      "count": 1,
+      "paperIds": [
+        830
+      ],
+      "coauthors": {
+        "Zaman": 1
+      }
+    },
+    {
+      "name": "Watanabe",
+      "fullname": "Watanabe",
+      "count": 1,
+      "paperIds": [
+        836
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ying",
+      "fullname": "Ying, L H",
+      "count": 1,
+      "paperIds": [
+        839
+      ],
+      "coauthors": {
+        "Zhuang": 1,
+        "Heller": 1,
+        "Kaplan": 1
+      }
+    },
+    {
+      "name": "Zhuang",
+      "fullname": "Zhuang, Z",
+      "count": 1,
+      "paperIds": [
+        839
+      ],
+      "coauthors": {
+        "Ying": 1,
+        "Heller": 1,
+        "Kaplan": 1
+      }
+    },
+    {
+      "name": "Kaplan",
+      "fullname": "Kaplan, L",
+      "count": 1,
+      "paperIds": [
+        839
+      ],
+      "coauthors": {
+        "Ying": 1,
+        "Zhuang": 1,
+        "Heller": 1
+      }
+    },
+    {
+      "name": "Tan",
+      "fullname": "Tan, Ting",
+      "count": 1,
+      "paperIds": [
+        843
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Ma": 1,
+        "Dong": 1,
+        "Benoit": 1
+      }
+    },
+    {
+      "name": "Malek-Mohammadi",
+      "fullname": "Malek-Mohammadi",
+      "count": 1,
+      "paperIds": [
+        851
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Mortimer",
+      "fullname": "Mortimer",
+      "count": 1,
+      "paperIds": [
+        852
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Nikseresht",
+      "fullname": "Nikseresht",
+      "count": 1,
+      "paperIds": [
+        853
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Pakozdi",
+      "fullname": "Pakozdi, C.",
+      "count": 1,
+      "paperIds": [
+        854
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Cavaleri": 1,
+        "Fouques": 1,
+        "Gramstad": 1,
+        "Janssen": 1,
+        "Monbaliu": 1,
+        "Osborne": 1,
+        "Serio": 1,
+        "Stansberg": 1,
+        "Toffoli": 1,
+        "Trulsen": 1
+      }
+    },
+    {
+      "name": "Pierella",
+      "fullname": "Pierella",
+      "count": 1,
+      "paperIds": [
+        856
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sriram",
+      "fullname": "Sriram, V.",
+      "count": 1,
+      "paperIds": [
+        861
+      ],
+      "coauthors": {
+        "Schlurmann": 1,
+        "Schimmels": 1
+      }
+    },
+    {
+      "name": "Schimmels",
+      "fullname": "Schimmels, S.",
+      "count": 1,
+      "paperIds": [
+        861
+      ],
+      "coauthors": {
+        "Sriram": 1,
+        "Schlurmann": 1
+      }
+    },
+    {
+      "name": "Grayson",
+      "fullname": "Grayson, R.",
+      "count": 1,
+      "paperIds": [
+        868
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Torr": 1,
+        "Power": 1
+      }
+    },
+    {
+      "name": "Torr",
+      "fullname": "Torr, B.",
+      "count": 1,
+      "paperIds": [
+        868
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Grayson": 1,
+        "Power": 1
+      }
+    },
+    {
+      "name": "Bosboom",
+      "fullname": "Bosboom, J.",
+      "count": 1,
+      "paperIds": [
+        871
+      ],
+      "coauthors": {
+        "Klopman": 1,
+        "Roelvink": 1,
+        "Battjes": 1
+      }
+    },
+    {
+      "name": "Roelvink",
+      "fullname": "Roelvink, J.A.",
+      "count": 1,
+      "paperIds": [
+        871
+      ],
+      "coauthors": {
+        "Bosboom": 1,
+        "Klopman": 1,
+        "Battjes": 1
+      }
+    },
+    {
+      "name": "Bouscasse",
+      "fullname": "Bouscasse, Benjamin",
+      "count": 1,
+      "paperIds": [
+        875
+      ],
+      "coauthors": {
+        "Choi": 1,
+        "Kim": 1,
+        "Seng": 1,
+        "Gentaz": 1,
+        "Ferrant": 1
+      }
+    },
+    {
+      "name": "Seng",
+      "fullname": "Seng, Sopheak",
+      "count": 1,
+      "paperIds": [
+        875
+      ],
+      "coauthors": {
+        "Choi": 1,
+        "Kim": 1,
+        "Bouscasse": 1,
+        "Gentaz": 1,
+        "Ferrant": 1
+      }
+    },
+    {
+      "name": "Gentaz",
+      "fullname": "Gentaz, Lionel",
+      "count": 1,
+      "paperIds": [
+        875
+      ],
+      "coauthors": {
+        "Choi": 1,
+        "Kim": 1,
+        "Bouscasse": 1,
+        "Seng": 1,
+        "Ferrant": 1
+      }
+    },
+    {
+      "name": "Dang",
+      "fullname": "Dang, Bao-Loi",
+      "count": 1,
+      "paperIds": [
+        876
+      ],
+      "coauthors": {
+        "Nguyen-Xuan": 1,
+        "Abdel Wahab": 1
+      }
+    },
+    {
+      "name": "Nguyen-Xuan",
+      "fullname": "Nguyen-Xuan, H.",
+      "count": 1,
+      "paperIds": [
+        876
+      ],
+      "coauthors": {
+        "Dang": 1,
+        "Abdel Wahab": 1
+      }
+    },
+    {
+      "name": "Abdel Wahab",
+      "fullname": "Abdel Wahab, Magd",
+      "count": 1,
+      "paperIds": [
+        876
+      ],
+      "coauthors": {
+        "Dang": 1,
+        "Nguyen-Xuan": 1
+      }
+    },
+    {
+      "name": "Donahue",
+      "fullname": "Donahue",
+      "count": 1,
+      "paperIds": [
+        878
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Giorgi",
+      "fullname": "Giorgi, Giuseppe",
+      "count": 1,
+      "paperIds": [
+        884
+      ],
+      "coauthors": {
+        "Gomes": 1,
+        "Henriques": 1,
+        "Gato": 1,
+        "Bracco": 1,
+        "Mattiazzo": 1
+      }
+    },
+    {
+      "name": "Gomes",
+      "fullname": "Gomes, Rui P.F.",
+      "count": 1,
+      "paperIds": [
+        884
+      ],
+      "coauthors": {
+        "Giorgi": 1,
+        "Henriques": 1,
+        "Gato": 1,
+        "Bracco": 1,
+        "Mattiazzo": 1
+      }
+    },
+    {
+      "name": "Bracco",
+      "fullname": "Bracco, Giovanni",
+      "count": 1,
+      "paperIds": [
+        884
+      ],
+      "coauthors": {
+        "Giorgi": 1,
+        "Gomes": 1,
+        "Henriques": 1,
+        "Gato": 1,
+        "Mattiazzo": 1
+      }
+    },
+    {
+      "name": "Mattiazzo",
+      "fullname": "Mattiazzo, Giuliana",
+      "count": 1,
+      "paperIds": [
+        884
+      ],
+      "coauthors": {
+        "Giorgi": 1,
+        "Gomes": 1,
+        "Henriques": 1,
+        "Gato": 1,
+        "Bracco": 1
+      }
+    },
+    {
+      "name": "Amrutha",
+      "fullname": "Amrutha, M.M.",
+      "count": 1,
+      "paperIds": [
+        886
+      ],
+      "coauthors": {
+        "Kumar": 1,
+        "Sandhya": 1,
+        "Nair": 1,
+        "Rathod": 1
+      }
+    },
+    {
+      "name": "Sandhya",
+      "fullname": "Sandhya, K.G.",
+      "count": 1,
+      "paperIds": [
+        886
+      ],
+      "coauthors": {
+        "Amrutha": 1,
+        "Kumar": 1,
+        "Nair": 1,
+        "Rathod": 1
+      }
+    },
+    {
+      "name": "Nair",
+      "fullname": "Nair, T.M. Balakrishnan",
+      "count": 1,
+      "paperIds": [
+        886
+      ],
+      "coauthors": {
+        "Amrutha": 1,
+        "Kumar": 1,
+        "Sandhya": 1,
+        "Rathod": 1
+      }
+    },
+    {
+      "name": "Rathod",
+      "fullname": "Rathod, J.L.",
+      "count": 1,
+      "paperIds": [
+        886
+      ],
+      "coauthors": {
+        "Amrutha": 1,
+        "Kumar": 1,
+        "Sandhya": 1,
+        "Nair": 1
+      }
+    },
+    {
+      "name": "Chu",
+      "fullname": "Chu, Chi-Nan",
+      "count": 1,
+      "paperIds": [
+        888
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Fan": 1,
+        "Chen": 1,
+        "Lyu": 1
+      }
+    },
+    {
+      "name": "Lyu",
+      "fullname": "Lyu, Hongguan",
+      "count": 1,
+      "paperIds": [
+        888
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "Chu": 1,
+        "Fan": 1,
+        "Chen": 1
+      }
+    },
+    {
+      "name": "Leiteritz",
+      "fullname": "Leiteritz, Raphael",
+      "count": 1,
+      "paperIds": [
+        889
+      ],
+      "coauthors": {
+        "Hurler": 1,
+        "Pfluger": 1
+      }
+    },
+    {
+      "name": "Hurler",
+      "fullname": "Hurler, Marcel",
+      "count": 1,
+      "paperIds": [
+        889
+      ],
+      "coauthors": {
+        "Leiteritz": 1,
+        "Pfluger": 1
+      }
+    },
+    {
+      "name": "Pfluger",
+      "fullname": "Pfluger, Dirk",
+      "count": 1,
+      "paperIds": [
+        889
+      ],
+      "coauthors": {
+        "Leiteritz": 1,
+        "Hurler": 1
+      }
+    },
+    {
+      "name": "Izquierdo",
+      "fullname": "Izquierdo, Urko",
+      "count": 1,
+      "paperIds": [
+        890
+      ],
+      "coauthors": {
+        "Esteban": 1,
+        "Blanco": 1,
+        "Albaina": 1,
+        "Peña": 1
+      }
+    },
+    {
+      "name": "Esteban",
+      "fullname": "Esteban, Gustavo Adolfo",
+      "count": 1,
+      "paperIds": [
+        890
+      ],
+      "coauthors": {
+        "Izquierdo": 1,
+        "Blanco": 1,
+        "Albaina": 1,
+        "Peña": 1
+      }
+    },
+    {
+      "name": "Blanco",
+      "fullname": "Blanco, Jesús María",
+      "count": 1,
+      "paperIds": [
+        890
+      ],
+      "coauthors": {
+        "Izquierdo": 1,
+        "Esteban": 1,
+        "Albaina": 1,
+        "Peña": 1
+      }
+    },
+    {
+      "name": "Albaina",
+      "fullname": "Albaina, Iñigo",
+      "count": 1,
+      "paperIds": [
+        890
+      ],
+      "coauthors": {
+        "Izquierdo": 1,
+        "Esteban": 1,
+        "Blanco": 1,
+        "Peña": 1
+      }
+    },
+    {
+      "name": "Peña",
+      "fullname": "Peña, Alberto",
+      "count": 1,
+      "paperIds": [
+        890
+      ],
+      "coauthors": {
+        "Izquierdo": 1,
+        "Esteban": 1,
+        "Blanco": 1,
+        "Albaina": 1
+      }
+    },
+    {
+      "name": "Khait",
+      "fullname": "Khait, A.",
+      "count": 1,
+      "paperIds": [
+        895
+      ],
+      "coauthors": {
+        "Shemer": 1
+      }
+    },
+    {
+      "name": "Zieger",
+      "fullname": "Zieger, Stefan",
+      "count": 1,
+      "paperIds": [
+        900
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Rogers": 1,
+        "Babanin": 1,
+        "Young": 1,
+        "Romero": 1,
+        "Qiao": 1,
+        "Guan": 1
+      }
+    },
+    {
+      "name": "Qiao",
+      "fullname": "Qiao, Fangli",
+      "count": 1,
+      "paperIds": [
+        900
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Rogers": 1,
+        "Babanin": 1,
+        "Young": 1,
+        "Romero": 1,
+        "Zieger": 1,
+        "Guan": 1
+      }
+    },
+    {
+      "name": "Guan",
+      "fullname": "Guan, Changlong",
+      "count": 1,
+      "paperIds": [
+        900
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Rogers": 1,
+        "Babanin": 1,
+        "Young": 1,
+        "Romero": 1,
+        "Zieger": 1,
+        "Qiao": 1
+      }
+    },
+    {
+      "name": "Marchesi",
+      "fullname": "Marchesi, Eliseo",
+      "count": 1,
+      "paperIds": [
+        905
+      ],
+      "coauthors": {
+        "Negri": 1,
+        "Malavasi": 1
+      }
+    },
+    {
+      "name": "Negri",
+      "fullname": "Negri, Marco",
+      "count": 1,
+      "paperIds": [
+        905
+      ],
+      "coauthors": {
+        "Marchesi": 1,
+        "Malavasi": 1
+      }
+    },
+    {
+      "name": "Malavasi",
+      "fullname": "Malavasi, Stefano",
+      "count": 1,
+      "paperIds": [
+        905
+      ],
+      "coauthors": {
+        "Marchesi": 1,
+        "Negri": 1
+      }
+    },
+    {
+      "name": "Mean",
+      "fullname": "Mean, Sovanna",
+      "count": 1,
+      "paperIds": [
+        907
+      ],
+      "coauthors": {
+        "Unami": 1,
+        "Fujihara": 1
+      }
+    },
+    {
+      "name": "Unami",
+      "fullname": "Unami, Koichi",
+      "count": 1,
+      "paperIds": [
+        907
+      ],
+      "coauthors": {
+        "Mean": 1,
+        "Fujihara": 1
+      }
+    },
+    {
+      "name": "Fujihara",
+      "fullname": "Fujihara, Masayuki",
+      "count": 1,
+      "paperIds": [
+        907
+      ],
+      "coauthors": {
+        "Mean": 1,
+        "Unami": 1
+      }
+    },
+    {
+      "name": "Miquel",
+      "fullname": "Miquel, Adria Moreno",
+      "count": 1,
+      "paperIds": [
+        908
+      ],
+      "coauthors": {
+        "Kamath": 1,
+        "Alagan Chella": 1,
+        "Archetti": 1,
+        "Bihs": 1
+      }
+    },
+    {
+      "name": "Kamath",
+      "fullname": "Kamath, Arun",
+      "count": 1,
+      "paperIds": [
+        908
+      ],
+      "coauthors": {
+        "Miquel": 1,
+        "Alagan Chella": 1,
+        "Archetti": 1,
+        "Bihs": 1
+      }
+    },
+    {
+      "name": "Alagan Chella",
+      "fullname": "Alagan Chella, Mayilvahanan",
+      "count": 1,
+      "paperIds": [
+        908
+      ],
+      "coauthors": {
+        "Miquel": 1,
+        "Kamath": 1,
+        "Archetti": 1,
+        "Bihs": 1
+      }
+    },
+    {
+      "name": "Archetti",
+      "fullname": "Archetti, Renata",
+      "count": 1,
+      "paperIds": [
+        908
+      ],
+      "coauthors": {
+        "Miquel": 1,
+        "Kamath": 1,
+        "Alagan Chella": 1,
+        "Bihs": 1
+      }
+    },
+    {
+      "name": "Bihs",
+      "fullname": "Bihs, Hans",
+      "count": 1,
+      "paperIds": [
+        908
+      ],
+      "coauthors": {
+        "Miquel": 1,
+        "Kamath": 1,
+        "Alagan Chella": 1,
+        "Archetti": 1
+      }
+    },
+    {
+      "name": "Pizzo",
+      "fullname": "Pizzo, Nick",
+      "count": 1,
+      "paperIds": [
+        912
+      ],
+      "coauthors": {
+        "Melville": 1,
+        "Deike": 1
+      }
+    },
+    {
+      "name": "Pradlhan",
+      "fullname": "Pradlhan",
+      "count": 1,
+      "paperIds": [
+        914
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sedigh",
+      "fullname": "Sedigh",
+      "count": 1,
+      "paperIds": [
+        915
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shrineash",
+      "fullname": "Shrineash",
+      "count": 1,
+      "paperIds": [
+        916
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Neelamani",
+      "fullname": "Neelamani, S.",
+      "count": 1,
+      "paperIds": [
+        921
+      ],
+      "coauthors": {
+        "Vijay": 1,
+        "Sahoo": 1
+      }
+    },
+    {
+      "name": "de Vos",
+      "fullname": "de Vos, Marc",
+      "count": 1,
+      "paperIds": [
+        922
+      ],
+      "coauthors": {
+        "Vichi": 1,
+        "Rautenbach": 1
+      }
+    },
+    {
+      "name": "Vichi",
+      "fullname": "Vichi, Marcello",
+      "count": 1,
+      "paperIds": [
+        922
+      ],
+      "coauthors": {
+        "de Vos": 1,
+        "Rautenbach": 1
+      }
+    },
+    {
+      "name": "Rautenbach",
+      "fullname": "Rautenbach, Christo",
+      "count": 1,
+      "paperIds": [
+        922
+      ],
+      "coauthors": {
+        "de Vos": 1,
+        "Vichi": 1
+      }
+    },
+    {
+      "name": "Subramanya",
+      "fullname": "Subramanya, Ravishankar",
+      "count": 1,
+      "paperIds": [
+        924
+      ],
+      "coauthors": {
+        "Wei": 1,
+        "Kirby": 1,
+        "Grilli": 1
+      }
+    },
+    {
+      "name": "Becker",
+      "fullname": "Becker, Janet M.",
+      "count": 1,
+      "paperIds": [
+        926
+      ],
+      "coauthors": {
+        "Yao": 1,
+        "Zhang": 1,
+        "Merrifield": 1
+      }
+    },
+    {
+      "name": "Kennedy",
+      "fullname": "Kennedy, Andrew B.",
+      "count": 1,
+      "paperIds": [
+        929
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Tomiczek": 1,
+        "Yang": 1,
+        "Liu": 1,
+        "Westerink": 1
+      }
+    },
+    {
+      "name": "Tomiczek",
+      "fullname": "Tomiczek, Tori",
+      "count": 1,
+      "paperIds": [
+        929
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Kennedy": 1,
+        "Yang": 1,
+        "Liu": 1,
+        "Westerink": 1
+      }
+    },
+    {
+      "name": "Westerink",
+      "fullname": "Westerink, Joannes J.",
+      "count": 1,
+      "paperIds": [
+        929
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Kennedy": 1,
+        "Tomiczek": 1,
+        "Yang": 1,
+        "Liu": 1
+      }
+    },
+    {
+      "name": "de Almeida",
+      "fullname": "de Almeida, Ermano",
+      "count": 1,
+      "paperIds": [
+        933
+      ],
+      "coauthors": {
+        "Hofland": 1
+      }
+    },
+    {
+      "name": "Laucelli",
+      "fullname": "Laucelli, Daniele B.",
+      "count": 1,
+      "paperIds": [
+        934
+      ],
+      "coauthors": {
+        "Altomare": 1,
+        "Mase": 1,
+        "Gironella": 1
+      }
+    },
+    {
+      "name": "Gironella",
+      "fullname": "Gironella, Xavi",
+      "count": 1,
+      "paperIds": [
+        934
+      ],
+      "coauthors": {
+        "Altomare": 1,
+        "Laucelli": 1,
+        "Mase": 1
+      }
+    },
+    {
+      "name": "Al-Ani",
+      "fullname": "Al-Ani, Mustafa",
+      "count": 1,
+      "paperIds": [
+        936
+      ],
+      "coauthors": {
+        "Belmont": 1,
+        "Christmas": 1
+      }
+    },
+    {
+      "name": "Belmont",
+      "fullname": "Belmont, Michael",
+      "count": 1,
+      "paperIds": [
+        936
+      ],
+      "coauthors": {
+        "Al-Ani": 1,
+        "Christmas": 1
+      }
+    },
+    {
+      "name": "Christmas",
+      "fullname": "Christmas, Jacqueline",
+      "count": 1,
+      "paperIds": [
+        936
+      ],
+      "coauthors": {
+        "Al-Ani": 1,
+        "Belmont": 1
+      }
+    },
+    {
+      "name": "de Beer",
+      "fullname": "de Beer, A.F.",
+      "count": 1,
+      "paperIds": [
+        938
+      ],
+      "coauthors": {
+        "McCall": 1,
+        "Long": 1,
+        "Tissier": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "Tissier",
+      "fullname": "Tissier, M.F.S.",
+      "count": 1,
+      "paperIds": [
+        938
+      ],
+      "coauthors": {
+        "de Beer": 1,
+        "McCall": 1,
+        "Long": 1,
+        "Reniers": 1
+      }
+    },
+    {
+      "name": "Bertram",
+      "fullname": "Bertram, D.V.",
+      "count": 1,
+      "paperIds": [
+        939
+      ],
+      "coauthors": {
+        "Tarighaleslami": 1,
+        "Walmsley": 1,
+        "Atkins": 1,
+        "Glasgow": 1
+      }
+    },
+    {
+      "name": "Tarighaleslami",
+      "fullname": "Tarighaleslami, A.H.",
+      "count": 1,
+      "paperIds": [
+        939
+      ],
+      "coauthors": {
+        "Bertram": 1,
+        "Walmsley": 1,
+        "Atkins": 1,
+        "Glasgow": 1
+      }
+    },
+    {
+      "name": "Walmsley",
+      "fullname": "Walmsley, M.R.W.",
+      "count": 1,
+      "paperIds": [
+        939
+      ],
+      "coauthors": {
+        "Bertram": 1,
+        "Tarighaleslami": 1,
+        "Atkins": 1,
+        "Glasgow": 1
+      }
+    },
+    {
+      "name": "Atkins",
+      "fullname": "Atkins, M.J.",
+      "count": 1,
+      "paperIds": [
+        939
+      ],
+      "coauthors": {
+        "Bertram": 1,
+        "Tarighaleslami": 1,
+        "Walmsley": 1,
+        "Glasgow": 1
+      }
+    },
+    {
+      "name": "Glasgow",
+      "fullname": "Glasgow, G.D.E.",
+      "count": 1,
+      "paperIds": [
+        939
+      ],
+      "coauthors": {
+        "Bertram": 1,
+        "Tarighaleslami": 1,
+        "Walmsley": 1,
+        "Atkins": 1
+      }
+    },
+    {
+      "name": "Tello Ruiz",
+      "fullname": "Tello Ruiz, M.",
+      "count": 1,
+      "paperIds": [
+        943
+      ],
+      "coauthors": {
+        "Chen": 1,
+        "Zang": 1,
+        "Taylor": 1,
+        "Sun": 1,
+        "Morgan": 1,
+        "Grice": 1,
+        "Orszaghova": 1
+      }
+    },
+    {
+      "name": "Dan",
+      "fullname": "Dan, Sebastian",
+      "count": 1,
+      "paperIds": [
+        945
+      ],
+      "coauthors": {
+        "Altomare": 1,
+        "Suzuki": 1,
+        "Spiesschaert": 1,
+        "Verwaest": 1
+      }
+    },
+    {
+      "name": "Spiesschaert",
+      "fullname": "Spiesschaert, Tim",
+      "count": 1,
+      "paperIds": [
+        945
+      ],
+      "coauthors": {
+        "Dan": 1,
+        "Altomare": 1,
+        "Suzuki": 1,
+        "Verwaest": 1
+      }
+    },
+    {
+      "name": "Uhlirova",
+      "fullname": "Uhlirova, Lenka",
+      "count": 1,
+      "paperIds": [
+        946
+      ],
+      "coauthors": {
+        "Jendželovský": 1
+      }
+    },
+    {
+      "name": "Jendželovský",
+      "fullname": "Jendželovský, Norbert",
+      "count": 1,
+      "paperIds": [
+        946
+      ],
+      "coauthors": {
+        "Uhlirova": 1
+      }
+    },
+    {
+      "name": "Xiao",
+      "fullname": "Xiao, Longfei",
+      "count": 1,
+      "paperIds": [
+        947
+      ],
+      "coauthors": {
+        "Fang": 1,
+        "Wei": 1,
+        "Liu": 1,
+        "Guo": 1
+      }
+    },
+    {
+      "name": "Formentin",
+      "fullname": "Formentin, Sara Mizar",
+      "count": 1,
+      "paperIds": [
+        948
+      ],
+      "coauthors": {
+        "Zanuttigh": 1
+      }
+    },
+    {
+      "name": "Frantzis",
+      "fullname": "Frantzis, C.",
+      "count": 1,
+      "paperIds": [
+        949
+      ],
+      "coauthors": {
+        "Grigoriadis": 1,
+        "Dimas": 1
+      }
+    },
+    {
+      "name": "Grigoriadis",
+      "fullname": "Grigoriadis, D.G.E.",
+      "count": 1,
+      "paperIds": [
+        949
+      ],
+      "coauthors": {
+        "Frantzis": 1,
+        "Dimas": 1
+      }
+    },
+    {
+      "name": "Dimas",
+      "fullname": "Dimas, A.A.",
+      "count": 1,
+      "paperIds": [
+        949
+      ],
+      "coauthors": {
+        "Frantzis": 1,
+        "Grigoriadis": 1
+      }
+    },
+    {
+      "name": "Hernández-Fontes",
+      "fullname": "Hernández-Fontes, Jassiel V.",
+      "count": 1,
+      "paperIds": [
+        953
+      ],
+      "coauthors": {
+        "Esperança": 1,
+        "Silva": 1,
+        "Mendoza": 1,
+        "Sphaier": 1
+      }
+    },
+    {
+      "name": "Esperança",
+      "fullname": "Esperança, Paulo T.T.",
+      "count": 1,
+      "paperIds": [
+        953
+      ],
+      "coauthors": {
+        "Hernández-Fontes": 1,
+        "Silva": 1,
+        "Mendoza": 1,
+        "Sphaier": 1
+      }
+    },
+    {
+      "name": "Mendoza",
+      "fullname": "Mendoza, Edgar",
+      "count": 1,
+      "paperIds": [
+        953
+      ],
+      "coauthors": {
+        "Hernández-Fontes": 1,
+        "Esperança": 1,
+        "Silva": 1,
+        "Sphaier": 1
+      }
+    },
+    {
+      "name": "Sphaier",
+      "fullname": "Sphaier, Sergio H.",
+      "count": 1,
+      "paperIds": [
+        953
+      ],
+      "coauthors": {
+        "Hernández-Fontes": 1,
+        "Esperança": 1,
+        "Silva": 1,
+        "Mendoza": 1
+      }
+    },
+    {
+      "name": "Baniotopoulos",
+      "fullname": "Baniotopoulos, Charalampos",
+      "count": 1,
+      "paperIds": [
+        954
+      ],
+      "coauthors": {
+        "Hu": 1,
+        "Yang": 1,
+        "Wang": 1,
+        "Deng": 1
+      }
+    },
+    {
+      "name": "Jeong",
+      "fullname": "Jeong, Ho-Jin",
+      "count": 1,
+      "paperIds": [
+        956
+      ],
+      "coauthors": {
+        "Koo": 1,
+        "Kim": 1
+      }
+    },
+    {
+      "name": "Koo",
+      "fullname": "Koo, Weoncheol",
+      "count": 1,
+      "paperIds": [
+        956
+      ],
+      "coauthors": {
+        "Jeong": 1,
+        "Kim": 1
+      }
+    },
+    {
+      "name": "Brosset",
+      "fullname": "Brosset, Laurent",
+      "count": 1,
+      "paperIds": [
+        957
+      ],
+      "coauthors": {
+        "Kimmoun": 1
+      }
+    },
+    {
+      "name": "Koley",
+      "fullname": "Koley",
+      "count": 1,
+      "paperIds": [
+        958
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Konispoliatis",
+      "fullname": "Konispoliatis, Dimitrios",
+      "count": 1,
+      "paperIds": [
+        959
+      ],
+      "coauthors": {
+        "Mavrakos": 1
+      }
+    },
+    {
+      "name": "Mavrakos",
+      "fullname": "Mavrakos, Spyridon",
+      "count": 1,
+      "paperIds": [
+        959
+      ],
+      "coauthors": {
+        "Konispoliatis": 1
+      }
+    },
+    {
+      "name": "Donnelly",
+      "fullname": "Donnelly, P.",
+      "count": 1,
+      "paperIds": [
+        960
+      ],
+      "coauthors": {
+        "Boivin": 1
+      }
+    },
+    {
+      "name": "Boivin",
+      "fullname": "Boivin, Richard",
+      "count": 1,
+      "paperIds": [
+        960
+      ],
+      "coauthors": {
+        "Donnelly": 1
+      }
+    },
+    {
+      "name": "Lancaster",
+      "fullname": "Lancaster, Orrin",
+      "count": 1,
+      "paperIds": [
+        961
+      ],
+      "coauthors": {
+        "Cossu": 1,
+        "Baldock": 1
+      }
+    },
+    {
+      "name": "Cossu",
+      "fullname": "Cossu, Remo",
+      "count": 1,
+      "paperIds": [
+        961
+      ],
+      "coauthors": {
+        "Lancaster": 1,
+        "Baldock": 1
+      }
+    },
+    {
+      "name": "Lucio",
+      "fullname": "Lucio, D.",
+      "count": 1,
+      "paperIds": [
+        966
+      ],
+      "coauthors": {
+        "Tomás": 1,
+        "Lara": 1,
+        "Camus": 1,
+        "Losada": 1
+      }
+    },
+    {
+      "name": "Tomás",
+      "fullname": "Tomás, A.",
+      "count": 1,
+      "paperIds": [
+        966
+      ],
+      "coauthors": {
+        "Lucio": 1,
+        "Lara": 1,
+        "Camus": 1,
+        "Losada": 1
+      }
+    },
+    {
+      "name": "Camus",
+      "fullname": "Camus, P.",
+      "count": 1,
+      "paperIds": [
+        966
+      ],
+      "coauthors": {
+        "Lucio": 1,
+        "Tomás": 1,
+        "Lara": 1,
+        "Losada": 1
+      }
+    },
+    {
+      "name": "Malliouri",
+      "fullname": "Malliouri, Dimitra I.",
+      "count": 1,
+      "paperIds": [
+        970
+      ],
+      "coauthors": {
+        "Memos": 1,
+        "Soukissian": 1,
+        "Tsoukala": 1
+      }
+    },
+    {
+      "name": "Soukissian",
+      "fullname": "Soukissian, Takvor H.",
+      "count": 1,
+      "paperIds": [
+        970
+      ],
+      "coauthors": {
+        "Malliouri": 1,
+        "Memos": 1,
+        "Tsoukala": 1
+      }
+    },
+    {
+      "name": "Manam",
+      "fullname": "Manam",
+      "count": 1,
+      "paperIds": [
+        971
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Masoumi",
+      "fullname": "Masoumi",
+      "count": 1,
+      "paperIds": [
+        972
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Molines",
+      "fullname": "Molines, Jorge",
+      "count": 1,
+      "paperIds": [
+        974
+      ],
+      "coauthors": {
+        "Herrera": 1,
+        "Gómez-Martín": 1,
+        "Medina": 1
+      }
+    },
+    {
+      "name": "Herrera",
+      "fullname": "Herrera, Maria P.",
+      "count": 1,
+      "paperIds": [
+        974
+      ],
+      "coauthors": {
+        "Molines": 1,
+        "Gómez-Martín": 1,
+        "Medina": 1
+      }
+    },
+    {
+      "name": "Gómez-Martín",
+      "fullname": "Gómez-Martín, M. Esther",
+      "count": 1,
+      "paperIds": [
+        974
+      ],
+      "coauthors": {
+        "Molines": 1,
+        "Herrera": 1,
+        "Medina": 1
+      }
+    },
+    {
+      "name": "Nematollahi",
+      "fullname": "Nematollahi, Mahmood",
+      "count": 1,
+      "paperIds": [
+        975
+      ],
+      "coauthors": {
+        "Moghim": 1
+      }
+    },
+    {
+      "name": "Moghim",
+      "fullname": "Moghim, Mohammad Navid",
+      "count": 1,
+      "paperIds": [
+        975
+      ],
+      "coauthors": {
+        "Nematollahi": 1
+      }
+    },
+    {
+      "name": "Neshat",
+      "fullname": "Neshat, Mehdi",
+      "count": 1,
+      "paperIds": [
+        976
+      ],
+      "coauthors": {
+        "Alexander": 1,
+        "Sergiienko": 1,
+        "Wagner": 1
+      }
+    },
+    {
+      "name": "Alexander",
+      "fullname": "Alexander, Bradley",
+      "count": 1,
+      "paperIds": [
+        976
+      ],
+      "coauthors": {
+        "Neshat": 1,
+        "Sergiienko": 1,
+        "Wagner": 1
+      }
+    },
+    {
+      "name": "Sergiienko",
+      "fullname": "Sergiienko, Nataliia Y.",
+      "count": 1,
+      "paperIds": [
+        976
+      ],
+      "coauthors": {
+        "Neshat": 1,
+        "Alexander": 1,
+        "Wagner": 1
+      }
+    },
+    {
+      "name": "Wagner",
+      "fullname": "Wagner, Markus",
+      "count": 1,
+      "paperIds": [
+        976
+      ],
+      "coauthors": {
+        "Neshat": 1,
+        "Alexander": 1,
+        "Sergiienko": 1
+      }
+    },
+    {
+      "name": "Nouri",
+      "fullname": "Nouri, Saliha",
+      "count": 1,
+      "paperIds": [
+        977
+      ],
+      "coauthors": {
+        "Hafsia": 1,
+        "Boulaaras": 1,
+        "Allahem": 1,
+        "Alkhalaf": 1,
+        "Vazquez": 1
+      }
+    },
+    {
+      "name": "Hafsia",
+      "fullname": "Hafsia, Zouhair",
+      "count": 1,
+      "paperIds": [
+        977
+      ],
+      "coauthors": {
+        "Nouri": 1,
+        "Boulaaras": 1,
+        "Allahem": 1,
+        "Alkhalaf": 1,
+        "Vazquez": 1
+      }
+    },
+    {
+      "name": "Boulaaras",
+      "fullname": "Boulaaras, Salah Mahmoud",
+      "count": 1,
+      "paperIds": [
+        977
+      ],
+      "coauthors": {
+        "Nouri": 1,
+        "Hafsia": 1,
+        "Allahem": 1,
+        "Alkhalaf": 1,
+        "Vazquez": 1
+      }
+    },
+    {
+      "name": "Allahem",
+      "fullname": "Allahem, Ali",
+      "count": 1,
+      "paperIds": [
+        977
+      ],
+      "coauthors": {
+        "Nouri": 1,
+        "Hafsia": 1,
+        "Boulaaras": 1,
+        "Alkhalaf": 1,
+        "Vazquez": 1
+      }
+    },
+    {
+      "name": "Alkhalaf",
+      "fullname": "Alkhalaf, Salem",
+      "count": 1,
+      "paperIds": [
+        977
+      ],
+      "coauthors": {
+        "Nouri": 1,
+        "Hafsia": 1,
+        "Boulaaras": 1,
+        "Allahem": 1,
+        "Vazquez": 1
+      }
+    },
+    {
+      "name": "Vazquez",
+      "fullname": "Vazquez, Aldo Munoz",
+      "count": 1,
+      "paperIds": [
+        977
+      ],
+      "coauthors": {
+        "Nouri": 1,
+        "Hafsia": 1,
+        "Boulaaras": 1,
+        "Allahem": 1,
+        "Alkhalaf": 1
+      }
+    },
+    {
+      "name": "Portillo",
+      "fullname": "Portillo",
+      "count": 1,
+      "paperIds": [
+        978
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shih et al",
+      "fullname": "Shih et al",
+      "count": 1,
+      "paperIds": [
+        981
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tabssum",
+      "fullname": "Tabssum, S.",
+      "count": 1,
+      "paperIds": [
+        983
+      ],
+      "coauthors": {
+        "Kaligatla": 1,
+        "Sahoo": 1
+      }
+    },
+    {
+      "name": "Kaligatla",
+      "fullname": "Kaligatla, R. B.",
+      "count": 1,
+      "paperIds": [
+        983
+      ],
+      "coauthors": {
+        "Tabssum": 1,
+        "Sahoo": 1
+      }
+    },
+    {
+      "name": "Tseng",
+      "fullname": "Tseng, I-Fan",
+      "count": 1,
+      "paperIds": [
+        986
+      ],
+      "coauthors": {
+        "You": 1,
+        "Tsai": 1
+      }
+    },
+    {
+      "name": "Tsai",
+      "fullname": "Tsai, Chia-Cheng",
+      "count": 1,
+      "paperIds": [
+        986
+      ],
+      "coauthors": {
+        "Tseng": 1,
+        "You": 1
+      }
+    },
+    {
+      "name": "van Bergeijk",
+      "fullname": "van Bergeijk",
+      "count": 1,
+      "paperIds": [
+        987
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "van Gent",
+      "fullname": "van Gent, Marcel R.A.",
+      "count": 1,
+      "paperIds": [
+        988
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Venkateswarlu",
+      "fullname": "Venkateswarlu, V.",
+      "count": 1,
+      "paperIds": [
+        990
+      ],
+      "coauthors": {
+        "Vijay": 1,
+        "Karmakar": 1
+      }
+    },
+    {
+      "name": "Karmakar",
+      "fullname": "Karmakar, D.",
+      "count": 1,
+      "paperIds": [
+        990
+      ],
+      "coauthors": {
+        "Vijay": 1,
+        "Venkateswarlu": 1
+      }
+    },
+    {
+      "name": "McDougal",
+      "fullname": "McDougal, W.",
+      "count": 1,
+      "paperIds": [
+        991
+      ],
+      "coauthors": {
+        "Hudspeth": 1
+      }
+    },
+    {
+      "name": "Ramirez",
+      "fullname": "Ramirez, Jorge",
+      "count": 1,
+      "paperIds": [
+        992
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wuppukondur",
+      "fullname": "Wuppukondur, Ananth",
+      "count": 1,
+      "paperIds": [
+        993
+      ],
+      "coauthors": {
+        "Baldock": 1
+      }
+    },
+    {
+      "name": "Abreu",
+      "fullname": "Abreu, Tiago",
+      "count": 1,
+      "paperIds": [
+        998
+      ],
+      "coauthors": {
+        "Parreño-Mas": 1,
+        "Pinto-Faria": 1
+      }
+    },
+    {
+      "name": "Parreño-Mas",
+      "fullname": "Parreño-Mas, Benjamín",
+      "count": 1,
+      "paperIds": [
+        998
+      ],
+      "coauthors": {
+        "Abreu": 1,
+        "Pinto-Faria": 1
+      }
+    },
+    {
+      "name": "Pinto-Faria",
+      "fullname": "Pinto-Faria, José",
+      "count": 1,
+      "paperIds": [
+        998
+      ],
+      "coauthors": {
+        "Abreu": 1,
+        "Parreño-Mas": 1
+      }
+    },
+    {
+      "name": "Carandell",
+      "fullname": "Carandell, Matias",
+      "count": 1,
+      "paperIds": [
+        1001
+      ],
+      "coauthors": {
+        "Toma": 1,
+        "Artero": 1,
+        "Gasulla": 1,
+        "Del Rio": 1
+      }
+    },
+    {
+      "name": "Toma",
+      "fullname": "Toma, Daniel Mihai",
+      "count": 1,
+      "paperIds": [
+        1001
+      ],
+      "coauthors": {
+        "Carandell": 1,
+        "Artero": 1,
+        "Gasulla": 1,
+        "Del Rio": 1
+      }
+    },
+    {
+      "name": "Artero",
+      "fullname": "Artero, Carola",
+      "count": 1,
+      "paperIds": [
+        1001
+      ],
+      "coauthors": {
+        "Carandell": 1,
+        "Toma": 1,
+        "Gasulla": 1,
+        "Del Rio": 1
+      }
+    },
+    {
+      "name": "Gasulla",
+      "fullname": "Gasulla, Manel",
+      "count": 1,
+      "paperIds": [
+        1001
+      ],
+      "coauthors": {
+        "Carandell": 1,
+        "Toma": 1,
+        "Artero": 1,
+        "Del Rio": 1
+      }
+    },
+    {
+      "name": "Del Rio",
+      "fullname": "Del Rio, Joaquin",
+      "count": 1,
+      "paperIds": [
+        1001
+      ],
+      "coauthors": {
+        "Carandell": 1,
+        "Toma": 1,
+        "Artero": 1,
+        "Gasulla": 1
+      }
+    },
+    {
+      "name": "Atkinson",
+      "fullname": "Atkinson, Alexander L.",
+      "count": 1,
+      "paperIds": [
+        1002
+      ],
+      "coauthors": {
+        "Baldock": 1
+      }
+    },
+    {
+      "name": "Holmes",
+      "fullname": "Holmes, P.",
+      "count": 1,
+      "paperIds": [
+        1004
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Bunker": 1,
+        "Van Weert": 1
+      }
+    },
+    {
+      "name": "Bunker",
+      "fullname": "Bunker, S.",
+      "count": 1,
+      "paperIds": [
+        1004
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Holmes": 1,
+        "Van Weert": 1
+      }
+    },
+    {
+      "name": "Van Weert",
+      "fullname": "Van Weert, P.",
+      "count": 1,
+      "paperIds": [
+        1004
+      ],
+      "coauthors": {
+        "Baldock": 1,
+        "Holmes": 1,
+        "Bunker": 1
+      }
+    },
+    {
+      "name": "Bayle",
+      "fullname": "Bayle, Paul Maxime",
+      "count": 1,
+      "paperIds": [
+        1006
+      ],
+      "coauthors": {
+        "Beuzen": 1,
+        "Blenkinsopp": 1,
+        "Baldock": 1,
+        "Turner": 1
+      }
+    },
+    {
+      "name": "Beuzen",
+      "fullname": "Beuzen, Tomas",
+      "count": 1,
+      "paperIds": [
+        1006
+      ],
+      "coauthors": {
+        "Bayle": 1,
+        "Blenkinsopp": 1,
+        "Baldock": 1,
+        "Turner": 1
+      }
+    },
+    {
+      "name": "Turner",
+      "fullname": "Turner, Ian Lloyd",
+      "count": 1,
+      "paperIds": [
+        1006
+      ],
+      "coauthors": {
+        "Bayle": 1,
+        "Beuzen": 1,
+        "Blenkinsopp": 1,
+        "Baldock": 1
+      }
+    },
+    {
+      "name": "van Bemmelen",
+      "fullname": "van Bemmelen, C.W.T.",
+      "count": 1,
+      "paperIds": [
+        1007
+      ],
+      "coauthors": {
+        "de Schipper": 1,
+        "Darnall": 1,
+        "Aarninkhof": 1
+      }
+    },
+    {
+      "name": "de Schipper",
+      "fullname": "de Schipper, M.A.",
+      "count": 1,
+      "paperIds": [
+        1007
+      ],
+      "coauthors": {
+        "van Bemmelen": 1,
+        "Darnall": 1,
+        "Aarninkhof": 1
+      }
+    },
+    {
+      "name": "Darnall",
+      "fullname": "Darnall, J.",
+      "count": 1,
+      "paperIds": [
+        1007
+      ],
+      "coauthors": {
+        "van Bemmelen": 1,
+        "de Schipper": 1,
+        "Aarninkhof": 1
+      }
+    },
+    {
+      "name": "Bennis",
+      "fullname": "Bennis",
+      "count": 1,
+      "paperIds": [
+        1008
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Birrien",
+      "fullname": "Birrien, Florent",
+      "count": 1,
+      "paperIds": [
+        1009
+      ],
+      "coauthors": {
+        "Baldock": 1
+      }
+    },
+    {
+      "name": "Sanjana",
+      "fullname": "Sanjana, M C",
+      "count": 1,
+      "paperIds": [
+        1011
+      ],
+      "coauthors": {
+        "Latha": 1,
+        "Dincy E": 1
+      }
+    },
+    {
+      "name": "Latha",
+      "fullname": "Latha, G",
+      "count": 1,
+      "paperIds": [
+        1011
+      ],
+      "coauthors": {
+        "Sanjana": 1,
+        "Dincy E": 1
+      }
+    },
+    {
+      "name": "Dincy E",
+      "fullname": "Dincy E, Z",
+      "count": 1,
+      "paperIds": [
+        1011
+      ],
+      "coauthors": {
+        "Sanjana": 1,
+        "Latha": 1
+      }
+    },
+    {
+      "name": "Gardner",
+      "fullname": "Gardner",
+      "count": 1,
+      "paperIds": [
+        1013
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Hansen",
+      "fullname": "Hansen, J.Buhr",
+      "count": 1,
+      "paperIds": [
+        1014
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Huntley",
+      "fullname": "Huntley, David A.",
+      "count": 1,
+      "paperIds": [
+        1015
+      ],
+      "coauthors": {
+        "Simmonds": 1,
+        "Tatavarti": 1
+      }
+    },
+    {
+      "name": "Tatavarti",
+      "fullname": "Tatavarti, Rao",
+      "count": 1,
+      "paperIds": [
+        1015
+      ],
+      "coauthors": {
+        "Huntley": 1,
+        "Simmonds": 1
+      }
+    },
+    {
+      "name": "Ijima",
+      "fullname": "Ijima, Takeshi",
+      "count": 1,
+      "paperIds": [
+        1016
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Jaramillo",
+      "fullname": "Jaramillo, Camilo",
+      "count": 1,
+      "paperIds": [
+        1017
+      ],
+      "coauthors": {
+        "González": 1,
+        "Medina": 1,
+        "Turki": 1
+      }
+    },
+    {
+      "name": "González",
+      "fullname": "González, Mauricio",
+      "count": 1,
+      "paperIds": [
+        1017
+      ],
+      "coauthors": {
+        "Jaramillo": 1,
+        "Medina": 1,
+        "Turki": 1
+      }
+    },
+    {
+      "name": "Turki",
+      "fullname": "Turki, Imen",
+      "count": 1,
+      "paperIds": [
+        1017
+      ],
+      "coauthors": {
+        "Jaramillo": 1,
+        "González": 1,
+        "Medina": 1
+      }
+    },
+    {
+      "name": "Ju",
+      "fullname": "Ju, Jiannwen",
+      "count": 1,
+      "paperIds": [
+        1018
+      ],
+      "coauthors": {
+        "Kang": 1,
+        "Zhu": 1,
+        "Lin": 1,
+        "Zhang": 2
+      }
+    },
+    {
+      "name": "Karczewska",
+      "fullname": "Karczewska, Anna",
+      "count": 1,
+      "paperIds": [
+        1019
+      ],
+      "coauthors": {
+        "Rozmej": 1
+      }
+    },
+    {
+      "name": "Rozmej",
+      "fullname": "Rozmej, Piotr",
+      "count": 1,
+      "paperIds": [
+        1019
+      ],
+      "coauthors": {
+        "Karczewska": 1
+      }
+    },
+    {
+      "name": "Kamchatnov",
+      "fullname": "Kamchatnov, Anatoly",
+      "count": 1,
+      "paperIds": [
+        1020
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Lashley",
+      "fullname": "Lashley, Christopher H.",
+      "count": 1,
+      "paperIds": [
+        1021
+      ],
+      "coauthors": {
+        "Bricker": 1,
+        "van der Meer": 1,
+        "Altomare": 1,
+        "Suzuki": 1
+      }
+    },
+    {
+      "name": "Bricker",
+      "fullname": "Bricker, Jeremy D.",
+      "count": 1,
+      "paperIds": [
+        1021
+      ],
+      "coauthors": {
+        "Lashley": 1,
+        "van der Meer": 1,
+        "Altomare": 1,
+        "Suzuki": 1
+      }
+    },
+    {
+      "name": "Mandli",
+      "fullname": "Mandli, Kyle T.",
+      "count": 1,
+      "paperIds": [
+        1023
+      ],
+      "coauthors": {
+        "Li": 1
+      }
+    },
+    {
+      "name": "Nayak",
+      "fullname": "Nayak, Sashikant",
+      "count": 1,
+      "paperIds": [
+        1025
+      ],
+      "coauthors": {
+        "Panchang": 1
+      }
+    },
+    {
+      "name": "Quataert",
+      "fullname": "Quataert, Ellen",
+      "count": 1,
+      "paperIds": [
+        1029
+      ],
+      "coauthors": {
+        "Storlazzi": 1,
+        "van Dongeren": 1,
+        "McCall": 1
+      }
+    },
+    {
+      "name": "Storlazzi",
+      "fullname": "Storlazzi, Curt",
+      "count": 1,
+      "paperIds": [
+        1029
+      ],
+      "coauthors": {
+        "Quataert": 1,
+        "van Dongeren": 1,
+        "McCall": 1
+      }
+    },
+    {
+      "name": "Reguero",
+      "fullname": "Reguero",
+      "count": 1,
+      "paperIds": [
+        1030
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shaffer",
+      "fullname": "Shaffer",
+      "count": 1,
+      "paperIds": [
+        1031
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Toro",
+      "fullname": "Toro, Eleuterio F.",
+      "count": 1,
+      "paperIds": [
+        1032
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sreelakshmi",
+      "fullname": "Sreelakshmi, S.",
+      "count": 1,
+      "paperIds": [
+        1033
+      ],
+      "coauthors": {
+        "Bhaskaran": 1
+      }
+    },
+    {
+      "name": "Bhaskaran",
+      "fullname": "Bhaskaran, Prasad K.",
+      "count": 1,
+      "paperIds": [
+        1033
+      ],
+      "coauthors": {
+        "Sreelakshmi": 1
+      }
+    },
+    {
+      "name": "Thorell",
+      "fullname": "Thorell",
+      "count": 1,
+      "paperIds": [
+        1036
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Plueddemann",
+      "fullname": "Plueddemann, Al",
+      "count": 1,
+      "paperIds": [
+        1043
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Barros",
+      "fullname": "Barros, J.",
+      "count": 1,
+      "paperIds": [
+        1046
+      ],
+      "coauthors": {
+        "Diego": 1
+      }
+    },
+    {
+      "name": "Diego",
+      "fullname": "Diego, R.I.",
+      "count": 1,
+      "paperIds": [
+        1046
+      ],
+      "coauthors": {
+        "Barros": 1
+      }
+    },
+    {
+      "name": "Brunton",
+      "fullname": "Brunton",
+      "count": 1,
+      "paperIds": [
+        1048
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Kelley",
+      "fullname": "Kelley, Dan",
+      "count": 1,
+      "paperIds": [
+        1050
+      ],
+      "coauthors": {
+        "Richards": 1
+      }
+    },
+    {
+      "name": "Richards",
+      "fullname": "Richards, Clark",
+      "count": 1,
+      "paperIds": [
+        1050
+      ],
+      "coauthors": {
+        "Kelley": 1
+      }
+    },
+    {
+      "name": "Cooley",
+      "fullname": "Cooley",
+      "count": 1,
+      "paperIds": [
+        1051
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Efron",
+      "fullname": "Efron",
+      "count": 1,
+      "paperIds": [
+        1052
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Goswami",
+      "fullname": "Goswami",
+      "count": 1,
+      "paperIds": [
+        1053
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Haselsteiner",
+      "fullname": "Haselsteiner",
+      "count": 1,
+      "paperIds": [
+        1055
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Bender",
+      "fullname": "Bender, Christopher J.",
+      "count": 1,
+      "paperIds": [
+        1074
+      ],
+      "coauthors": {
+        "Dean": 1
+      }
+    },
+    {
+      "name": "Vrbancich",
+      "fullname": "Vrbancich, Julian",
+      "count": 1,
+      "paperIds": [
+        1075
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Rotta",
+      "fullname": "Rotta, A.",
+      "count": 1,
+      "paperIds": [
+        1076
+      ],
+      "coauthors": {
+        "Boccotti": 1,
+        "Barbaro": 1,
+        "Fiamma": 1,
+        "Mannino": 1
+      }
+    },
+    {
+      "name": "Desmons",
+      "fullname": "Desmons, Florian",
+      "count": 1,
+      "paperIds": [
+        1077
+      ],
+      "coauthors": {
+        "Lubin": 1
+      }
+    },
+    {
+      "name": "Lubin",
+      "fullname": "Lubin, Pierre",
+      "count": 1,
+      "paperIds": [
+        1077
+      ],
+      "coauthors": {
+        "Desmons": 1
+      }
+    },
+    {
+      "name": "Speer",
+      "fullname": "Speer, Kevin",
+      "count": 1,
+      "paperIds": [
+        1078
+      ],
+      "coauthors": {
+        "Bolles": 1,
+        "Moore": 1
+      }
+    },
+    {
+      "name": "Karpman",
+      "fullname": "Karpman, V.I.",
+      "count": 1,
+      "paperIds": [
+        1080
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Weidman",
+      "fullname": "Weidman, P. D.",
+      "count": 1,
+      "paperIds": [
+        1083
+      ],
+      "coauthors": {
+        "Cooker": 1,
+        "Bale": 1
+      }
+    },
+    {
+      "name": "Bale",
+      "fullname": "Bale, D. S.",
+      "count": 1,
+      "paperIds": [
+        1083
+      ],
+      "coauthors": {
+        "Cooker": 1,
+        "Weidman": 1
+      }
+    },
+    {
+      "name": "Bartlett",
+      "fullname": "Bartlett, James C.",
+      "count": 1,
+      "paperIds": [
+        1086
+      ],
+      "coauthors": {
+        "Jones": 1,
+        "Wang": 1
+      }
+    },
+    {
+      "name": "Gaillard",
+      "fullname": "Gaillard, Pierre",
+      "count": 1,
+      "paperIds": [
+        1093
+      ],
+      "coauthors": {
+        "Gauthier": 1,
+        "Holly": 1
+      }
+    },
+    {
+      "name": "Gauthier",
+      "fullname": "Gauthier, Michel",
+      "count": 1,
+      "paperIds": [
+        1093
+      ],
+      "coauthors": {
+        "Gaillard": 1,
+        "Holly": 1
+      }
+    },
+    {
+      "name": "Holly",
+      "fullname": "Holly, Forrest",
+      "count": 1,
+      "paperIds": [
+        1093
+      ],
+      "coauthors": {
+        "Gaillard": 1,
+        "Gauthier": 1
+      }
+    },
+    {
+      "name": "Gorrell",
+      "fullname": "Gorrell, L.",
+      "count": 1,
+      "paperIds": [
+        1096
+      ],
+      "coauthors": {
+        "Raubenheimer": 1,
+        "Elgar": 1,
+        "Guza": 1
+      }
+    },
+    {
+      "name": "Grimshaw",
+      "fullname": "Grimshaw",
+      "count": 1,
+      "paperIds": [
+        1098
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Iravani",
+      "fullname": "Iravani, Nikta",
+      "count": 1,
+      "paperIds": [
+        1108
+      ],
+      "coauthors": {
+        "Badiei": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Badiei",
+      "fullname": "Badiei, Peyman",
+      "count": 1,
+      "paperIds": [
+        1108
+      ],
+      "coauthors": {
+        "Iravani": 1,
+        "Brocchini": 1
+      }
+    },
+    {
+      "name": "Kijewski",
+      "fullname": "Kijewski",
+      "count": 1,
+      "paperIds": [
+        1113
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Kuo",
+      "fullname": "Kuo, C.A.",
+      "count": 1,
+      "paperIds": [
+        1115
+      ],
+      "coauthors": {
+        "Hwung": 1,
+        "Chien": 1
+      }
+    },
+    {
+      "name": "Hwung",
+      "fullname": "Hwung, H.H.",
+      "count": 1,
+      "paperIds": [
+        1115
+      ],
+      "coauthors": {
+        "Kuo": 1,
+        "Chien": 1
+      }
+    },
+    {
+      "name": "Chien",
+      "fullname": "Chien, C.H.",
+      "count": 1,
+      "paperIds": [
+        1115
+      ],
+      "coauthors": {
+        "Kuo": 1,
+        "Hwung": 1
+      }
+    },
+    {
+      "name": "Pitt",
+      "fullname": "Pitt, Jordan P.A.",
+      "count": 1,
+      "paperIds": [
+        1116
+      ],
+      "coauthors": {
+        "Zoppou": 1,
+        "Roberts": 1
+      }
+    },
+    {
+      "name": "Zoppou",
+      "fullname": "Zoppou, Christopher",
+      "count": 1,
+      "paperIds": [
+        1116
+      ],
+      "coauthors": {
+        "Pitt": 1,
+        "Roberts": 1
+      }
+    },
+    {
+      "name": "Roberts",
+      "fullname": "Roberts, Stephen G.",
+      "count": 1,
+      "paperIds": [
+        1116
+      ],
+      "coauthors": {
+        "Pitt": 1,
+        "Zoppou": 1
+      }
+    },
+    {
+      "name": "Huuse",
+      "fullname": "Huuse, M",
+      "count": 1,
+      "paperIds": [
+        1122
+      ],
+      "coauthors": {
+        "Lykke-Andersen": 1,
+        "Michelsen": 1
+      }
+    },
+    {
+      "name": "Lykke-Andersen",
+      "fullname": "Lykke-Andersen, H",
+      "count": 1,
+      "paperIds": [
+        1122
+      ],
+      "coauthors": {
+        "Huuse": 1,
+        "Michelsen": 1
+      }
+    },
+    {
+      "name": "Michelsen",
+      "fullname": "Michelsen, O",
+      "count": 1,
+      "paperIds": [
+        1122
+      ],
+      "coauthors": {
+        "Huuse": 1,
+        "Lykke-Andersen": 1
+      }
+    },
+    {
+      "name": "Mallayachari",
+      "fullname": "Mallayachari, V.",
+      "count": 1,
+      "paperIds": [
+        1128
+      ],
+      "coauthors": {
+        "Sundar": 1
+      }
+    },
+    {
+      "name": "Massel",
+      "fullname": "Massel",
+      "count": 1,
+      "paperIds": [
+        1131
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Naciri",
+      "fullname": "Naciri",
+      "count": 1,
+      "paperIds": [
+        1134
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Fatt",
+      "fullname": "Fatt, Cheong Hin",
+      "count": 1,
+      "paperIds": [
+        1135
+      ],
+      "coauthors": {
+        "Nallayarasu": 1,
+        "Jothi Shankar": 1
+      }
+    },
+    {
+      "name": "Jothi Shankar",
+      "fullname": "Jothi Shankar, N.",
+      "count": 1,
+      "paperIds": [
+        1135
+      ],
+      "coauthors": {
+        "Nallayarasu": 1,
+        "Fatt": 1
+      }
+    },
+    {
+      "name": "Chalikov",
+      "fullname": "Chalikov, Dmitry",
+      "count": 1,
+      "paperIds": [
+        1139
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ambrosi",
+      "fullname": "Ambrosi, D.",
+      "count": 1,
+      "paperIds": [
+        1146
+      ],
+      "coauthors": {
+        "Onorato": 1,
+        "Osborne": 1,
+        "Serio": 1
+      }
+    },
+    {
+      "name": "Sergeeva (Kokorina)",
+      "fullname": "Sergeeva (Kokorina), Anna",
+      "count": 1,
+      "paperIds": [
+        1147
+      ],
+      "coauthors": {
+        "Pelinovsky": 1
+      }
+    },
+    {
+      "name": "Prabhakar",
+      "fullname": "Prabhakar, V.",
+      "count": 1,
+      "paperIds": [
+        1149
+      ],
+      "coauthors": {
+        "Sundar": 1
+      }
+    },
+    {
+      "name": "Spell",
+      "fullname": "Spell, C.A.",
+      "count": 1,
+      "paperIds": [
+        1153
+      ],
+      "coauthors": {
+        "Zhang": 1,
+        "Randall": 1
+      }
+    },
+    {
+      "name": "Weng",
+      "fullname": "Weng, Wen-Kai",
+      "count": 1,
+      "paperIds": [
+        1162
+      ],
+      "coauthors": {
+        "Wang": 1,
+        "Hsu": 1,
+        "Ou": 1
+      }
+    },
+    {
+      "name": "Ou",
+      "fullname": "Ou, Shan-Hwei",
+      "count": 1,
+      "paperIds": [
+        1162
+      ],
+      "coauthors": {
+        "Wang": 1,
+        "Hsu": 1,
+        "Weng": 1
+      }
+    },
+    {
+      "name": "Abedi",
+      "fullname": "Abedi",
+      "count": 1,
+      "paperIds": [
+        1177
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Abolghasemi",
+      "fullname": "Abolghasemi",
+      "count": 1,
+      "paperIds": [
+        1178
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Acred",
+      "fullname": "Acred",
+      "count": 1,
+      "paperIds": [
+        1179
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Aknin",
+      "fullname": "Aknin",
+      "count": 1,
+      "paperIds": [
+        1181
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Chauhan",
+      "fullname": "Chauhan, V.P.S.",
+      "count": 1,
+      "paperIds": [
+        1183
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Archibald",
+      "fullname": "Archibald",
+      "count": 1,
+      "paperIds": [
+        1184
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Bachant",
+      "fullname": "Bachant",
+      "count": 1,
+      "paperIds": [
+        1185
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Barba",
+      "fullname": "Barba",
+      "count": 1,
+      "paperIds": [
+        1187
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Bentham",
+      "fullname": "Bentham",
+      "count": 1,
+      "paperIds": [
+        1189
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Black",
+      "fullname": "Black",
+      "count": 1,
+      "paperIds": [
+        1190
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Brownlee",
+      "fullname": "Brownlee",
+      "count": 1,
+      "paperIds": [
+        1191
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Bruggemann",
+      "fullname": "Bruggemann",
+      "count": 1,
+      "paperIds": [
+        1192
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Bull",
+      "fullname": "Bull",
+      "count": 1,
+      "paperIds": [
+        1193
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Chatelain",
+      "fullname": "Chatelain",
+      "count": 1,
+      "paperIds": [
+        1194
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Chau",
+      "fullname": "Chau",
+      "count": 1,
+      "paperIds": [
+        1195
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Coffey",
+      "fullname": "Coffey",
+      "count": 1,
+      "paperIds": [
+        1197
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Connick",
+      "fullname": "Connick",
+      "count": 1,
+      "paperIds": [
+        1198
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Craske",
+      "fullname": "Craske",
+      "count": 1,
+      "paperIds": [
+        1199
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Creech",
+      "fullname": "Creech",
+      "count": 1,
+      "paperIds": [
+        1200
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Economidou",
+      "fullname": "Economidou",
+      "count": 1,
+      "paperIds": [
+        1202
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ely",
+      "fullname": "Ely",
+      "count": 1,
+      "paperIds": [
+        1203
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Ezzamel",
+      "fullname": "Ezzamel",
+      "count": 1,
+      "paperIds": [
+        1204
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Farrell",
+      "fullname": "Farrell",
+      "count": 1,
+      "paperIds": [
+        1205
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Fernandes",
+      "fullname": "Fernandes",
+      "count": 1,
+      "paperIds": [
+        1207
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Gocmen",
+      "fullname": "Gocmen",
+      "count": 1,
+      "paperIds": [
+        1209
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Haley-J",
+      "fullname": "Haley-J",
+      "count": 1,
+      "paperIds": [
+        1215
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Haley",
+      "fullname": "Haley",
+      "count": 1,
+      "paperIds": [
+        1216
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Inoue",
+      "fullname": "Inoue",
+      "count": 1,
+      "paperIds": [
+        1220
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "James",
+      "fullname": "James",
+      "count": 1,
+      "paperIds": [
+        1221
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Kasiman",
+      "fullname": "Kasiman",
+      "count": 1,
+      "paperIds": [
+        1227
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Kleusberg",
+      "fullname": "Kleusberg",
+      "count": 1,
+      "paperIds": [
+        1231
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Koumoutsakos",
+      "fullname": "Koumoutsakos",
+      "count": 1,
+      "paperIds": [
+        1232
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Lonfils",
+      "fullname": "Lonfils",
+      "count": 1,
+      "paperIds": [
+        1237
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Lynch",
+      "fullname": "Lynch",
+      "count": 1,
+      "paperIds": [
+        1238
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Makri",
+      "fullname": "Makri",
+      "count": 1,
+      "paperIds": [
+        1239
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Marcus",
+      "fullname": "Marcus",
+      "count": 1,
+      "paperIds": [
+        1240
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Mikkelsen",
+      "fullname": "Mikkelsen",
+      "count": 1,
+      "paperIds": [
+        1243
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Milthaler",
+      "fullname": "Milthaler",
+      "count": 1,
+      "paperIds": [
+        1244
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Morgenthal",
+      "fullname": "Morgenthal",
+      "count": 1,
+      "paperIds": [
+        1245
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Myrtroeen",
+      "fullname": "Myrtroeen",
+      "count": 1,
+      "paperIds": [
+        1246
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Osalusi",
+      "fullname": "Osalusi",
+      "count": 1,
+      "paperIds": [
+        1247
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Pechlivanoglou",
+      "fullname": "Pechlivanoglou",
+      "count": 1,
+      "paperIds": [
+        1249
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Peric",
+      "fullname": "Peric",
+      "count": 1,
+      "paperIds": [
+        1250
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Radomski",
+      "fullname": "Radomski",
+      "count": 1,
+      "paperIds": [
+        1251
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Roos",
+      "fullname": "Roos",
+      "count": 1,
+      "paperIds": [
+        1252
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Rossi",
+      "fullname": "Rossi",
+      "count": 1,
+      "paperIds": [
+        1253
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Rubel",
+      "fullname": "Rubel",
+      "count": 1,
+      "paperIds": [
+        1254
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sarlak",
+      "fullname": "Sarlak",
+      "count": 1,
+      "paperIds": [
+        1255
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sheel",
+      "fullname": "Sheel",
+      "count": 1,
+      "paperIds": [
+        1256
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shiels",
+      "fullname": "Shiels",
+      "count": 1,
+      "paperIds": [
+        1258
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Shrinivas",
+      "fullname": "Shrinivas",
+      "count": 1,
+      "paperIds": [
+        1259
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sorensen",
+      "fullname": "Sorensen",
+      "count": 1,
+      "paperIds": [
+        1260
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Spentza",
+      "fullname": "Spentza",
+      "count": 1,
+      "paperIds": [
+        1261
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Stock",
+      "fullname": "Stock",
+      "count": 1,
+      "paperIds": [
+        1264
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Szopa",
+      "fullname": "Szopa",
+      "count": 1,
+      "paperIds": [
+        1265
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tari",
+      "fullname": "Tari",
+      "count": 1,
+      "paperIds": [
+        1266
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Tchieu",
+      "fullname": "Tchieu",
+      "count": 1,
+      "paperIds": [
+        1267
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Thies",
+      "fullname": "Thies",
+      "count": 1,
+      "paperIds": [
+        1268
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Vaidhyanathan",
+      "fullname": "Vaidhyanathan",
+      "count": 1,
+      "paperIds": [
+        1269
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Walther",
+      "fullname": "Walther",
+      "count": 1,
+      "paperIds": [
+        1270
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Winchelmans",
+      "fullname": "Winchelmans",
+      "count": 1,
+      "paperIds": [
+        1272
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Wist",
+      "fullname": "Wist, Hanne T.",
+      "count": 1,
+      "paperIds": [
+        1273
+      ],
+      "coauthors": {
+        "Myrhaug": 1,
+        "Rue": 1
+      }
+    },
+    {
+      "name": "Rue",
+      "fullname": "Rue, Håvard",
+      "count": 1,
+      "paperIds": [
+        1273
+      ],
+      "coauthors": {
+        "Wist": 1,
+        "Myrhaug": 1
+      }
+    },
+    {
+      "name": "Zhi (Thesis)",
+      "fullname": "Zhi (Thesis)",
+      "count": 1,
+      "paperIds": [
+        1274
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Zve",
+      "fullname": "Zve",
+      "count": 1,
+      "paperIds": [
+        1275
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Fitoussi",
+      "fullname": "Fitoussi, F.",
+      "count": 1,
+      "paperIds": [
+        1278
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Parker",
+      "fullname": "Parker, Charles Thomas",
+      "count": 1,
+      "paperIds": [
+        1279
+      ],
+      "coauthors": {
+        "Garrity": 1
+      }
+    },
+    {
+      "name": "Garrity",
+      "fullname": "Garrity, George M",
+      "count": 1,
+      "paperIds": [
+        1279
+      ],
+      "coauthors": {
+        "Parker": 1
+      }
+    },
+    {
+      "name": "Athannasoulis",
+      "fullname": "Athannasoulis",
+      "count": 1,
+      "paperIds": [
+        1281
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Barlow",
+      "fullname": "Barlow",
+      "count": 1,
+      "paperIds": [
+        1282
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Byun",
+      "fullname": "Byun",
+      "count": 1,
+      "paperIds": [
+        1283
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Eskey",
+      "fullname": "Eskey, Felixa",
+      "count": 1,
+      "paperIds": [
+        1284
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Coon",
+      "fullname": "Coon, Ethan T.",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Moulton": 1,
+        "Kikinzon": 1,
+        "Berndt": 1,
+        "Manzini": 1,
+        "Garimella": 1,
+        "Lipnikov": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Moulton",
+      "fullname": "Moulton, J. David",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Kikinzon": 1,
+        "Berndt": 1,
+        "Manzini": 1,
+        "Garimella": 1,
+        "Lipnikov": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Kikinzon",
+      "fullname": "Kikinzon, Evgeny",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Moulton": 1,
+        "Berndt": 1,
+        "Manzini": 1,
+        "Garimella": 1,
+        "Lipnikov": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Berndt",
+      "fullname": "Berndt, Markus",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Moulton": 1,
+        "Kikinzon": 1,
+        "Manzini": 1,
+        "Garimella": 1,
+        "Lipnikov": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Manzini",
+      "fullname": "Manzini, Gianmarco",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Moulton": 1,
+        "Kikinzon": 1,
+        "Berndt": 1,
+        "Garimella": 1,
+        "Lipnikov": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Garimella",
+      "fullname": "Garimella, Rao",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Moulton": 1,
+        "Kikinzon": 1,
+        "Berndt": 1,
+        "Manzini": 1,
+        "Lipnikov": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Lipnikov",
+      "fullname": "Lipnikov, Konstantin",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Moulton": 1,
+        "Kikinzon": 1,
+        "Berndt": 1,
+        "Manzini": 1,
+        "Garimella": 1,
+        "Painter": 1
+      }
+    },
+    {
+      "name": "Painter",
+      "fullname": "Painter, Scott L.",
+      "count": 1,
+      "paperIds": [
+        1285
+      ],
+      "coauthors": {
+        "Coon": 1,
+        "Moulton": 1,
+        "Kikinzon": 1,
+        "Berndt": 1,
+        "Manzini": 1,
+        "Garimella": 1,
+        "Lipnikov": 1
+      }
+    },
+    {
+      "name": "de Gast",
+      "fullname": "de Gast, Tom",
+      "count": 1,
+      "paperIds": [
+        1287
+      ],
+      "coauthors": {
+        "Hicks": 1,
+        "van den Eijnden": 1,
+        "Vardon": 1
+      }
+    },
+    {
+      "name": "Hicks",
+      "fullname": "Hicks, Michael A.",
+      "count": 1,
+      "paperIds": [
+        1287
+      ],
+      "coauthors": {
+        "de Gast": 1,
+        "van den Eijnden": 1,
+        "Vardon": 1
+      }
+    },
+    {
+      "name": "van den Eijnden",
+      "fullname": "van den Eijnden, Abraham P.",
+      "count": 1,
+      "paperIds": [
+        1287
+      ],
+      "coauthors": {
+        "de Gast": 1,
+        "Hicks": 1,
+        "Vardon": 1
+      }
+    },
+    {
+      "name": "Vardon",
+      "fullname": "Vardon, Philip J.",
+      "count": 1,
+      "paperIds": [
+        1287
+      ],
+      "coauthors": {
+        "de Gast": 1,
+        "Hicks": 1,
+        "van den Eijnden": 1
+      }
+    },
+    {
+      "name": "Di Luccio",
+      "fullname": "Di Luccio, D.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Benassai": 1,
+        "Mucerino": 1,
+        "Montella": 1,
+        "Conversano": 1,
+        "Pugliano": 1,
+        "Robustelli": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Mucerino",
+      "fullname": "Mucerino, L.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Di Luccio": 1,
+        "Benassai": 1,
+        "Montella": 1,
+        "Conversano": 1,
+        "Pugliano": 1,
+        "Robustelli": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Montella",
+      "fullname": "Montella, R.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Di Luccio": 1,
+        "Benassai": 1,
+        "Mucerino": 1,
+        "Conversano": 1,
+        "Pugliano": 1,
+        "Robustelli": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Conversano",
+      "fullname": "Conversano, F.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Di Luccio": 1,
+        "Benassai": 1,
+        "Mucerino": 1,
+        "Montella": 1,
+        "Pugliano": 1,
+        "Robustelli": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Pugliano",
+      "fullname": "Pugliano, G.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Di Luccio": 1,
+        "Benassai": 1,
+        "Mucerino": 1,
+        "Montella": 1,
+        "Conversano": 1,
+        "Robustelli": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Robustelli",
+      "fullname": "Robustelli, U.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Di Luccio": 1,
+        "Benassai": 1,
+        "Mucerino": 1,
+        "Montella": 1,
+        "Conversano": 1,
+        "Pugliano": 1,
+        "Budillon": 1
+      }
+    },
+    {
+      "name": "Budillon",
+      "fullname": "Budillon, G.",
+      "count": 1,
+      "paperIds": [
+        1290
+      ],
+      "coauthors": {
+        "Di Luccio": 1,
+        "Benassai": 1,
+        "Mucerino": 1,
+        "Montella": 1,
+        "Conversano": 1,
+        "Pugliano": 1,
+        "Robustelli": 1
+      }
+    },
+    {
+      "name": "Farsani",
+      "fullname": "Farsani",
+      "count": 1,
+      "paperIds": [
+        1291
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Girard et al",
+      "fullname": "Girard et al",
+      "count": 1,
+      "paperIds": [
+        1292
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Harvey",
+      "fullname": "Harvey",
+      "count": 1,
+      "paperIds": [
+        1293
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Janati",
+      "fullname": "Janati",
+      "count": 1,
+      "paperIds": [
+        1294
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Kouskoulas",
+      "fullname": "Kouskoulas, David M.",
+      "count": 1,
+      "paperIds": [
+        1295
+      ],
+      "coauthors": {
+        "Toledo": 1
+      }
+    },
+    {
+      "name": "Toledo",
+      "fullname": "Toledo, Yaron",
+      "count": 1,
+      "paperIds": [
+        1295
+      ],
+      "coauthors": {
+        "Kouskoulas": 1
+      }
+    },
+    {
+      "name": "Cao",
+      "fullname": "Cao, Jinxin",
+      "count": 1,
+      "paperIds": [
+        1297
+      ],
+      "coauthors": {
+        "Liu": 1,
+        "Yan": 1,
+        "Wang": 2
+      }
+    },
+    {
+      "name": "Buarque Vieira-e-Silva",
+      "fullname": "Buarque Vieira-e-Silva, André Luiz",
+      "count": 1,
+      "paperIds": [
+        1300
+      ],
+      "coauthors": {
+        "dos Santos Brito": 1,
+        "Magalhães Simões": 1,
+        "Teichrieb": 1
+      }
+    },
+    {
+      "name": "dos Santos Brito",
+      "fullname": "dos Santos Brito, Caio José",
+      "count": 1,
+      "paperIds": [
+        1300
+      ],
+      "coauthors": {
+        "Buarque Vieira-e-Silva": 1,
+        "Magalhães Simões": 1,
+        "Teichrieb": 1
+      }
+    },
+    {
+      "name": "Magalhães Simões",
+      "fullname": "Magalhães Simões, Francisco Paulo",
+      "count": 1,
+      "paperIds": [
+        1300
+      ],
+      "coauthors": {
+        "Buarque Vieira-e-Silva": 1,
+        "dos Santos Brito": 1,
+        "Teichrieb": 1
+      }
+    },
+    {
+      "name": "Teichrieb",
+      "fullname": "Teichrieb, Veronica",
+      "count": 1,
+      "paperIds": [
+        1300
+      ],
+      "coauthors": {
+        "Buarque Vieira-e-Silva": 1,
+        "dos Santos Brito": 1,
+        "Magalhães Simões": 1
+      }
+    },
+    {
+      "name": "Huo",
+      "fullname": "Huo, Zhibin",
+      "count": 1,
+      "paperIds": [
+        1301
+      ],
+      "coauthors": {
+        "Luo": 1,
+        "Wang": 1,
+        "Chen": 1,
+        "Zhu": 1,
+        "Liu": 1,
+        "Deng": 1
+      }
+    },
+    {
+      "name": "Miozzi",
+      "fullname": "Miozzi, Massimo",
+      "count": 1,
+      "paperIds": [
+        1306
+      ],
+      "coauthors": {
+        "Romano": 1
+      }
+    },
+    {
+      "name": "Romano",
+      "fullname": "Romano, Giovanni Paolo",
+      "count": 1,
+      "paperIds": [
+        1306
+      ],
+      "coauthors": {
+        "Miozzi": 1
+      }
+    },
+    {
+      "name": "Ohkitani",
+      "fullname": "Ohkitani, Koji",
+      "count": 1,
+      "paperIds": [
+        1307
+      ],
+      "coauthors": {
+        "Kida": 1
+      }
+    },
+    {
+      "name": "Kida",
+      "fullname": "Kida, Shigeo",
+      "count": 1,
+      "paperIds": [
+        1307
+      ],
+      "coauthors": {
+        "Ohkitani": 1
+      }
+    },
+    {
+      "name": "Pekri",
+      "fullname": "Pekri, Marina",
+      "count": 1,
+      "paperIds": [
+        1308
+      ],
+      "coauthors": {
+        "Danezis": 1
+      }
+    },
+    {
+      "name": "Danezis",
+      "fullname": "Danezis, Chris",
+      "count": 1,
+      "paperIds": [
+        1308
+      ],
+      "coauthors": {
+        "Pekri": 1
+      }
+    },
+    {
+      "name": "Perrot-Minot",
+      "fullname": "Perrot-Minot",
+      "count": 1,
+      "paperIds": [
+        1309
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sánchez-Arcilla",
+      "fullname": "Sánchez-Arcilla, Agustín",
+      "count": 1,
+      "paperIds": [
+        1311
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Stanisic",
+      "fullname": "Stanisic, Dunja",
+      "count": 1,
+      "paperIds": [
+        1313
+      ],
+      "coauthors": {
+        "Efthymiou": 1,
+        "White": 1,
+        "Kimiaei": 1
+      }
+    },
+    {
+      "name": "Efthymiou",
+      "fullname": "Efthymiou, Mike",
+      "count": 1,
+      "paperIds": [
+        1313
+      ],
+      "coauthors": {
+        "Stanisic": 1,
+        "White": 1,
+        "Kimiaei": 1
+      }
+    },
+    {
+      "name": "White",
+      "fullname": "White, David J.",
+      "count": 1,
+      "paperIds": [
+        1313
+      ],
+      "coauthors": {
+        "Stanisic": 1,
+        "Efthymiou": 1,
+        "Kimiaei": 1
+      }
+    },
+    {
+      "name": "Kimiaei",
+      "fullname": "Kimiaei, Mehrdad",
+      "count": 1,
+      "paperIds": [
+        1313
+      ],
+      "coauthors": {
+        "Stanisic": 1,
+        "Efthymiou": 1,
+        "White": 1
+      }
+    },
+    {
+      "name": "Adams",
+      "fullname": "Adams, Jill",
+      "count": 1,
+      "paperIds": [
+        1314
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Sui",
+      "fullname": "Sui, Titi",
+      "count": 1,
+      "paperIds": [
+        1317
+      ],
+      "coauthors": {
+        "Staunstrup": 1,
+        "Carstensen": 1,
+        "Fuhrman": 1
+      }
+    },
+    {
+      "name": "Staunstrup",
+      "fullname": "Staunstrup, Leon Heine",
+      "count": 1,
+      "paperIds": [
+        1317
+      ],
+      "coauthors": {
+        "Sui": 1,
+        "Carstensen": 1,
+        "Fuhrman": 1
+      }
+    },
+    {
+      "name": "Carstensen",
+      "fullname": "Carstensen, Stefan",
+      "count": 1,
+      "paperIds": [
+        1317
+      ],
+      "coauthors": {
+        "Sui": 1,
+        "Staunstrup": 1,
+        "Fuhrman": 1
+      }
+    },
+    {
+      "name": "Vallejos",
+      "fullname": "Vallejos, Pablo",
+      "count": 1,
+      "paperIds": [
+        1322
+      ],
+      "coauthors": {
+        "Johnson": 1,
+        "Hellsten": 1
+      }
+    },
+    {
+      "name": "Johnson",
+      "fullname": "Johnson, Thomas",
+      "count": 1,
+      "paperIds": [
+        1322
+      ],
+      "coauthors": {
+        "Vallejos": 1,
+        "Hellsten": 1
+      }
+    },
+    {
+      "name": "Hellsten",
+      "fullname": "Hellsten, Torbjörn",
+      "count": 1,
+      "paperIds": [
+        1322
+      ],
+      "coauthors": {
+        "Vallejos": 1,
+        "Johnson": 1
+      }
+    },
+    {
+      "name": "Vasudevan",
+      "fullname": "Vasudevan",
+      "count": 1,
+      "paperIds": [
+        1323
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Vrdoljak",
+      "fullname": "Vrdoljak, Ljerka",
+      "count": 1,
+      "paperIds": [
+        1324
+      ],
+      "coauthors": {}
+    },
+    {
+      "name": "Yetik",
+      "fullname": "Yetik, Özge",
+      "count": 1,
+      "paperIds": [
+        1331
+      ],
+      "coauthors": {
+        "Mahir": 1
+      }
+    },
+    {
+      "name": "Mahir",
+      "fullname": "Mahir, Necati",
+      "count": 1,
+      "paperIds": [
+        1331
+      ],
+      "coauthors": {
+        "Yetik": 1
+      }
+    },
+    {
+      "name": "Towe",
+      "fullname": "Towe, Ross",
+      "count": 1,
+      "paperIds": [
+        1332
+      ],
+      "coauthors": {
+        "Zanini": 1,
+        "Randell": 1,
+        "Feld": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Zanini",
+      "fullname": "Zanini, Elena",
+      "count": 1,
+      "paperIds": [
+        1332
+      ],
+      "coauthors": {
+        "Towe": 1,
+        "Randell": 1,
+        "Feld": 1,
+        "Jonathan": 1
+      }
+    },
+    {
+      "name": "Karakus",
+      "fullname": "Karakus, Murat",
+      "count": 1,
+      "paperIds": [
+        1335
+      ],
+      "coauthors": {
+        "Zhu": 1,
+        "He": 1,
+        "Cui": 1,
+        "Tao": 1
       }
     }
   ],
@@ -30557,7 +47981,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 1,
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Complex Bathymetry": 8,
+      "Wave Propagation & Complex Bathymetry": 7,
       "Reflection Analysis": 2,
       "Rogue & Extreme Waves": 1,
       "Numerical Modelling": 1,
@@ -30718,7 +48142,7 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 5,
       "Crest Height Statistics": 8,
       "Nonlinear Wave Theory": 2,
-      "Wave Breaking & Dissipation": 5,
+      "Wave Breaking & Dissipation": 6,
       "Wave Propagation & Complex Bathymetry": 19,
       "Reflection Analysis": 4,
       "Wave Spectra & Directionality": 1,
@@ -30796,7 +48220,6 @@ const LIBRARY_DATA = {
     },
     {
       "year": 2024,
-      "Wave Breaking & Dissipation": 1,
       "Rogue & Extreme Waves": 1,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
@@ -34248,13 +51671,13 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "KHALILI et al. (2024)",
-            "title": "Breaking Wave Statistics In Short-Crested Seas",
-            "author": "KHALILI et al.",
-            "year": 2024,
+            "name": "Kirby and Derakhti (2019)",
+            "title": "Short-crested wave breaking",
+            "author": "Kirby and Derakhti",
+            "year": 2019,
             "filename": "Kirby and Derakhti (2019)_Short-crested wave breaking.pdf",
-            "journal": "CoastLab 2024: Physical Modelling in Coastal Engineering and Science",
-            "doi": "10.59490/coastlab.2024.774",
+            "journal": "",
+            "doi": "",
             "hasAnnotation": false,
             "tags": [
               "coastal",
@@ -37641,13 +55064,13 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Christou et al. (2008)",
-            "title": "The interaction of surface water waves with submerged breakwaters",
-            "author": "Christou et al.",
-            "year": 2008,
+            "name": "Karmpardakis_Swan_Latheef_Christou_Estimation_o...",
+            "title": "Karmpardakis_Swan_Latheef_Christou_Estimation_of_directional_spreading_within_surface_water_waves",
+            "author": "",
+            "year": 0,
             "filename": "Karmpardakis_Swan_Latheef_Christou_Estimation_of_directional_spreading_within_surface_water_waves.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2008.02.014",
+            "journal": "",
+            "doi": "",
             "hasAnnotation": false,
             "tags": [
               "breakwater",
@@ -53182,7 +70605,7 @@ const LIBRARY_DATA = {
   "stats": {
     "totalPapers": 1336,
     "totalCategories": 17,
-    "totalAuthors": 1419,
+    "totalAuthors": 1383,
     "totalTags": 76,
     "yearRange": [
       1929,
