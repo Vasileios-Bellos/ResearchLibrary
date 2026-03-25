@@ -1579,9 +1579,13 @@
             });
         });
 
+        // Build fullname lookup from LIBRARY_DATA
+        const fullnameLookup = {};
+        LIBRARY_DATA.authors.forEach(a => { fullnameLookup[a.name] = a.fullname; });
+
         const authors = Object.entries(authorCounts)
             .filter(([_, count]) => count >= 3)
-            .map(([name, count]) => ({ name, count, coauthors: coauthorLinks[name] || {} }))
+            .map(([name, count]) => ({ name, fullname: fullnameLookup[name] || name, count, coauthors: coauthorLinks[name] || {} }))
             .sort((a, b) => b.count - a.count)
             .slice(0, 100);
         const width = container.clientWidth;
