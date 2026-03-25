@@ -949,22 +949,26 @@
 
         // Year range — updateRangeHighlight is defined at top level below
 
-        document.getElementById('yearMin').addEventListener('input', (e) => {
+        function onYearSlider(e, isMin) {
             const val = parseInt(e.target.value);
-            if (val > state.yearRange[1]) { e.target.value = state.yearRange[1]; return; }
-            state.yearRange[0] = val;
-            document.getElementById('yearMinLabel').textContent = val;
+            if (isMin && val > state.yearRange[1]) { e.target.value = state.yearRange[1]; return; }
+            if (!isMin && val < state.yearRange[0]) { e.target.value = state.yearRange[0]; return; }
+            state.yearRange[isMin ? 0 : 1] = val;
+            document.getElementById(isMin ? 'yearMinLabel' : 'yearMaxLabel').textContent = val;
             updateRangeHighlight();
-            renderView(state.currentView);
-        });
+            // For clusters/network, defer re-render to mouseup
+            if (state.currentView !== 'network' && state.currentView !== 'authors') {
+                renderView(state.currentView);
+            }
+        }
 
-        document.getElementById('yearMax').addEventListener('input', (e) => {
-            const val = parseInt(e.target.value);
-            if (val < state.yearRange[0]) { e.target.value = state.yearRange[0]; return; }
-            state.yearRange[1] = val;
-            document.getElementById('yearMaxLabel').textContent = val;
-            updateRangeHighlight();
-            renderView(state.currentView);
+        document.getElementById('yearMin').addEventListener('input', (e) => onYearSlider(e, true));
+        document.getElementById('yearMax').addEventListener('input', (e) => onYearSlider(e, false));
+        document.getElementById('yearMin').addEventListener('change', () => {
+            if (state.currentView === 'network' || state.currentView === 'authors') renderView(state.currentView);
+        });
+        document.getElementById('yearMax').addEventListener('change', () => {
+            if (state.currentView === 'network' || state.currentView === 'authors') renderView(state.currentView);
         });
     }
 

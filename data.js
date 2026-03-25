@@ -24822,6 +24822,20 @@ const LIBRARY_DATA = {
     {
       "author": "",
       "year": 0,
+      "title": "Karmpadakis_Thesis_annotated",
+      "filename": "Karmpadakis_Thesis_annotated.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": true,
+      "tags": [],
+      "id": 1250
+    },
+    {
+      "author": "",
+      "year": 0,
       "title": "Karmpadakis_Thesis_highlighted",
       "filename": "Karmpadakis_Thesis_highlighted.pdf",
       "category": "15_Theses",
@@ -24834,7 +24848,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "thesis"
       ],
-      "id": 1250
+      "id": 1251
     },
     {
       "author": "",
@@ -24853,7 +24867,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1251
+      "id": 1252
     },
     {
       "author": "Kasiman",
@@ -24869,7 +24883,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1252
+      "id": 1253
     },
     {
       "author": "Katsardi",
@@ -24885,7 +24899,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1253
+      "id": 1254
     },
     {
       "author": "Kim",
@@ -24901,7 +24915,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1254
+      "id": 1255
     },
     {
       "author": "Kim",
@@ -24917,7 +24931,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1255
+      "id": 1256
     },
     {
       "author": "Kleusberg",
@@ -24933,7 +24947,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1256
+      "id": 1257
     },
     {
       "author": "Koumoutsakos",
@@ -24949,7 +24963,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1257
+      "id": 1258
     },
     {
       "author": "Latheef",
@@ -24965,7 +24979,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1258
+      "id": 1259
     },
     {
       "author": "Latheef",
@@ -24984,7 +24998,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1259
+      "id": 1260
     },
     {
       "author": "Lian",
@@ -25000,7 +25014,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1260
+      "id": 1261
     },
     {
       "author": "Liao",
@@ -25016,7 +25030,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1261
+      "id": 1262
     },
     {
       "author": "Lonfils",
@@ -25032,7 +25046,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1262
+      "id": 1263
     },
     {
       "author": "Lynch",
@@ -25048,7 +25062,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1263
+      "id": 1264
     },
     {
       "author": "Makri",
@@ -25064,7 +25078,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1264
+      "id": 1265
     },
     {
       "author": "Marcus",
@@ -25080,7 +25094,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1265
+      "id": 1266
     },
     {
       "author": "Masterton",
@@ -25096,7 +25110,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1266
+      "id": 1267
     },
     {
       "author": "",
@@ -25118,7 +25132,7 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1267
+      "id": 1268
     },
     {
       "author": "Mikkelsen",
@@ -25134,7 +25148,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1268
+      "id": 1269
     },
     {
       "author": "Milthaler",
@@ -25150,7 +25164,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1269
+      "id": 1270
     },
     {
       "author": "Morgenthal",
@@ -25166,7 +25180,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1270
+      "id": 1271
     },
     {
       "author": "Myrtroeen",
@@ -25182,7 +25196,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1271
+      "id": 1272
     },
     {
       "author": "Osalusi",
@@ -25198,7 +25212,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1272
+      "id": 1273
     },
     {
       "author": "Padilla",
@@ -25214,7 +25228,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1273
+      "id": 1274
     },
     {
       "author": "Pechlivanoglou",
@@ -25230,7 +25244,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1274
+      "id": 1275
     },
     {
       "author": "Peric",
@@ -25246,7 +25260,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1275
+      "id": 1276
     },
     {
       "author": "Radomski",
@@ -25262,7 +25276,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1276
+      "id": 1277
     },
     {
       "author": "Roos",
@@ -25278,7 +25292,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1277
+      "id": 1278
     },
     {
       "author": "Rossi",
@@ -25294,7 +25308,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1278
+      "id": 1279
     },
     {
       "author": "Rubel",
@@ -25310,7 +25324,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1279
+      "id": 1280
     },
     {
       "author": "Sarlak",
@@ -25326,7 +25340,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1280
+      "id": 1281
     },
     {
       "author": "Sheel",
@@ -25342,7 +25356,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1281
+      "id": 1282
     },
     {
       "author": "Sheikh",
@@ -25358,7 +25372,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1282
+      "id": 1283
     },
     {
       "author": "Shiels",
@@ -25374,7 +25388,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1283
+      "id": 1284
     },
     {
       "author": "Shrinivas",
@@ -25390,7 +25404,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1284
+      "id": 1285
     },
     {
       "author": "Sorensen",
@@ -25406,7 +25420,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1285
+      "id": 1286
     },
     {
       "author": "Spentza",
@@ -25422,7 +25436,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1286
+      "id": 1287
     },
     {
       "author": "Spinneken",
@@ -25438,7 +25452,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1287
+      "id": 1288
     },
     {
       "author": "Spinneken et al.",
@@ -25458,7 +25472,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 1288
+      "id": 1289
     },
     {
       "author": "Stock",
@@ -25474,7 +25488,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1289
+      "id": 1290
     },
     {
       "author": "Szopa",
@@ -25490,7 +25504,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1290
+      "id": 1291
     },
     {
       "author": "Tari",
@@ -25506,7 +25520,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1291
+      "id": 1292
     },
     {
       "author": "Tchieu",
@@ -25522,7 +25536,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1292
+      "id": 1293
     },
     {
       "author": "Thies",
@@ -25538,7 +25552,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1293
+      "id": 1294
     },
     {
       "author": "Vaidhyanathan",
@@ -25554,7 +25568,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1294
+      "id": 1295
     },
     {
       "author": "Walther",
@@ -25570,7 +25584,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1295
+      "id": 1296
     },
     {
       "author": "Wilson",
@@ -25586,7 +25600,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1296
+      "id": 1297
     },
     {
       "author": "Winchelmans",
@@ -25602,7 +25616,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1297
+      "id": 1298
     },
     {
       "author": "Wist et al.",
@@ -25622,7 +25636,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 1298
+      "id": 1299
     },
     {
       "author": "Zhi (Thesis)",
@@ -25642,7 +25656,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1299
+      "id": 1300
     },
     {
       "author": "Zve",
@@ -25658,7 +25672,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1300
+      "id": 1301
     },
     {
       "author": "",
@@ -25679,7 +25693,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1301
+      "id": 1302
     },
     {
       "author": "",
@@ -25702,7 +25716,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 1302
+      "id": 1303
     },
     {
       "author": "Fitoussi, F.",
@@ -25718,7 +25732,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1303
+      "id": 1304
     },
     {
       "author": "Parker et al.",
@@ -25734,7 +25748,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1304
+      "id": 1305
     },
     {
       "author": "Aleixo et al.",
@@ -25751,7 +25765,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 1305
+      "id": 1306
     },
     {
       "author": "",
@@ -25768,7 +25782,7 @@ const LIBRARY_DATA = {
         "analysis",
         "ocean-waves"
       ],
-      "id": 1306
+      "id": 1307
     },
     {
       "author": "Athannasoulis et al.",
@@ -25785,7 +25799,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1307
+      "id": 1308
     },
     {
       "author": "Babaei et al.",
@@ -25804,7 +25818,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1308
+      "id": 1309
     },
     {
       "author": "Barlow et al.",
@@ -25822,7 +25836,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1309
+      "id": 1310
     },
     {
       "author": "Bosma",
@@ -25838,7 +25852,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1310
+      "id": 1311
     },
     {
       "author": "Bulusu e t al.",
@@ -25854,7 +25868,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1311
+      "id": 1312
     },
     {
       "author": "Byun et al.",
@@ -25871,7 +25885,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1312
+      "id": 1313
     },
     {
       "author": "Caprio et al.",
@@ -25887,7 +25901,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1313
+      "id": 1314
     },
     {
       "author": "Stokke, Olav Schram",
@@ -25903,7 +25917,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1314
+      "id": 1315
     },
     {
       "author": "Eskey, Felixa",
@@ -25919,7 +25933,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1315
+      "id": 1316
     },
     {
       "author": "Coon et al.",
@@ -25936,7 +25950,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1316
+      "id": 1317
     },
     {
       "author": "Curto, Juan José",
@@ -25953,7 +25967,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 1317
+      "id": 1318
     },
     {
       "author": "Das and Nizar",
@@ -25969,7 +25983,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1318
+      "id": 1319
     },
     {
       "author": "de Gast et al.",
@@ -25986,7 +26000,7 @@ const LIBRARY_DATA = {
         "comparison",
         "ocean-waves"
       ],
-      "id": 1319
+      "id": 1320
     },
     {
       "author": "DeCourcy et al.",
@@ -26005,7 +26019,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 1320
+      "id": 1321
     },
     {
       "author": "",
@@ -26021,7 +26035,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1321
+      "id": 1322
     },
     {
       "author": "",
@@ -26037,7 +26051,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1322
+      "id": 1323
     },
     {
       "author": "Deng et al.",
@@ -26055,7 +26069,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 1323
+      "id": 1324
     },
     {
       "author": "Di Luccio et al.",
@@ -26073,7 +26087,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-runup"
       ],
-      "id": 1324
+      "id": 1325
     },
     {
       "author": "Figueira de Morisson Faria et al.",
@@ -26091,7 +26105,7 @@ const LIBRARY_DATA = {
         "review",
         "wave-generation"
       ],
-      "id": 1325
+      "id": 1326
     },
     {
       "author": "Farsani et al.",
@@ -26111,7 +26125,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1326
+      "id": 1327
     },
     {
       "author": "Girard et al",
@@ -26130,7 +26144,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-current"
       ],
-      "id": 1327
+      "id": 1328
     },
     {
       "author": "Gomez-Heras et al.",
@@ -26148,7 +26162,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 1328
+      "id": 1329
     },
     {
       "author": "Gu et al.",
@@ -26168,7 +26182,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 1329
+      "id": 1330
     },
     {
       "author": "",
@@ -26184,7 +26198,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1330
+      "id": 1331
     },
     {
       "author": "Harvey",
@@ -26201,7 +26215,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 1331
+      "id": 1332
     },
     {
       "author": "Henshaw et al.",
@@ -26218,7 +26232,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 1332
+      "id": 1333
     },
     {
       "author": "Janati and Azimi",
@@ -26234,7 +26248,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1333
+      "id": 1334
     },
     {
       "author": "Jang",
@@ -26252,7 +26266,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1334
+      "id": 1335
     },
     {
       "author": "Jeon et al.",
@@ -26270,7 +26284,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1335
+      "id": 1336
     },
     {
       "author": "Amir Khan et al.",
@@ -26286,7 +26300,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1336
+      "id": 1337
     },
     {
       "author": "Lashkarbolok, Mohsen",
@@ -26303,7 +26317,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1337
+      "id": 1338
     },
     {
       "author": "Kouskoulas et al.",
@@ -26322,7 +26336,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 1338
+      "id": 1339
     },
     {
       "author": "Liu et al.",
@@ -26340,7 +26354,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1339
+      "id": 1340
     },
     {
       "author": "Liu et al.",
@@ -26358,7 +26372,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1340
+      "id": 1341
     },
     {
       "author": "",
@@ -26374,7 +26388,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1341
+      "id": 1342
     },
     {
       "author": "",
@@ -26390,7 +26404,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1342
+      "id": 1343
     },
     {
       "author": "Buarque Vieira-e-Silva et al.",
@@ -26407,7 +26421,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1343
+      "id": 1344
     },
     {
       "author": "Luo et al.",
@@ -26427,7 +26441,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1344
+      "id": 1345
     },
     {
       "author": "Maltba et al.",
@@ -26443,7 +26457,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1345
+      "id": 1346
     },
     {
       "author": "Maulik et al.",
@@ -26460,7 +26474,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 1346
+      "id": 1347
     },
     {
       "author": "",
@@ -26476,7 +26490,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1347
+      "id": 1348
     },
     {
       "author": "",
@@ -26492,7 +26506,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1348
+      "id": 1349
     },
     {
       "author": "",
@@ -26508,7 +26522,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1349
+      "id": 1350
     },
     {
       "author": "",
@@ -26524,7 +26538,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1350
+      "id": 1351
     },
     {
       "author": "Meng et al.",
@@ -26541,7 +26555,7 @@ const LIBRARY_DATA = {
         "analytical",
         "ocean-waves"
       ],
-      "id": 1351
+      "id": 1352
     },
     {
       "author": "Miozzi et al.",
@@ -26561,7 +26575,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1352
+      "id": 1353
     },
     {
       "author": "Morris et al.",
@@ -26580,7 +26594,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1353
+      "id": 1354
     },
     {
       "author": "Matsudaira, Noboru",
@@ -26597,7 +26611,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1354
+      "id": 1355
     },
     {
       "author": "Ohkitani et al.",
@@ -26615,7 +26629,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1355
+      "id": 1356
     },
     {
       "author": "Pekri et al.",
@@ -26631,7 +26645,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1356
+      "id": 1357
     },
     {
       "author": "Perrot-Minot et al.",
@@ -26647,7 +26661,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1357
+      "id": 1358
     },
     {
       "author": "Rainey, R. C. T.",
@@ -26665,7 +26679,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 1358
+      "id": 1359
     },
     {
       "author": "Rodriguez",
@@ -26681,7 +26695,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1359
+      "id": 1360
     },
     {
       "author": "Sánchez-Arcilla, Agustín",
@@ -26700,7 +26714,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 1360
+      "id": 1361
     },
     {
       "author": "Schmitt et al.",
@@ -26718,7 +26732,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1361
+      "id": 1362
     },
     {
       "author": "Schweiger et al.",
@@ -26738,7 +26752,7 @@ const LIBRARY_DATA = {
         "storm",
         "wave-propagation"
       ],
-      "id": 1362
+      "id": 1363
     },
     {
       "author": "Sheidaei et al.",
@@ -26756,7 +26770,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1363
+      "id": 1364
     },
     {
       "author": "",
@@ -26773,7 +26787,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1364
+      "id": 1365
     },
     {
       "author": "",
@@ -26789,7 +26803,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1365
+      "id": 1366
     },
     {
       "author": "Song et al.",
@@ -26807,7 +26821,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1366
+      "id": 1367
     },
     {
       "author": "Stanisic et al.",
@@ -26826,7 +26840,7 @@ const LIBRARY_DATA = {
         "offshore",
         "storm"
       ],
-      "id": 1367
+      "id": 1368
     },
     {
       "author": "Adams, Jill",
@@ -26843,7 +26857,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 1368
+      "id": 1369
     },
     {
       "author": "",
@@ -26859,7 +26873,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1369
+      "id": 1370
     },
     {
       "author": "SU et al.",
@@ -26879,7 +26893,7 @@ const LIBRARY_DATA = {
         "offshore",
         "shallow-water"
       ],
-      "id": 1370
+      "id": 1371
     },
     {
       "author": "Sui et al.",
@@ -26898,7 +26912,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 1371
+      "id": 1372
     },
     {
       "author": "Suwa et al.",
@@ -26914,7 +26928,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1372
+      "id": 1373
     },
     {
       "author": "Veebel, Viljar",
@@ -26930,7 +26944,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1373
+      "id": 1374
     },
     {
       "author": "Taylor",
@@ -26947,7 +26961,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1374
+      "id": 1375
     },
     {
       "author": "Colozza, Anthony",
@@ -26963,7 +26977,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1375
+      "id": 1376
     },
     {
       "author": "",
@@ -26980,7 +26994,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 1376
+      "id": 1377
     },
     {
       "author": "",
@@ -26996,7 +27010,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1377
+      "id": 1378
     },
     {
       "author": "",
@@ -27012,7 +27026,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1378
+      "id": 1379
     },
     {
       "author": "Vallejos et al.",
@@ -27030,7 +27044,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-propagation"
       ],
-      "id": 1379
+      "id": 1380
     },
     {
       "author": "Vasudevan and Singh",
@@ -27049,7 +27063,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "varying-depth"
       ],
-      "id": 1380
+      "id": 1381
     },
     {
       "author": "vilnius",
@@ -27067,7 +27081,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 1381
+      "id": 1382
     },
     {
       "author": "Vrdoljak, Ljerka",
@@ -27087,7 +27101,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1382
+      "id": 1383
     },
     {
       "author": "Wang et al.",
@@ -27104,7 +27118,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 1383
+      "id": 1384
     },
     {
       "author": "Wang et al.",
@@ -27123,7 +27137,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 1384
+      "id": 1385
     },
     {
       "author": "Wang et al.",
@@ -27140,7 +27154,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 1385
+      "id": 1386
     },
     {
       "author": "Wang et al.",
@@ -27157,7 +27171,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1386
+      "id": 1387
     },
     {
       "author": "Wei et al.",
@@ -27176,7 +27190,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1387
+      "id": 1388
     },
     {
       "author": "Wilson et al.",
@@ -27193,7 +27207,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1388
+      "id": 1389
     },
     {
       "author": "Xie et al.",
@@ -27212,7 +27226,7 @@ const LIBRARY_DATA = {
         "review",
         "varying-depth"
       ],
-      "id": 1389
+      "id": 1390
     },
     {
       "author": "Yetik et al.",
@@ -27231,7 +27245,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 1390
+      "id": 1391
     },
     {
       "author": "Zhao et al.",
@@ -27248,7 +27262,7 @@ const LIBRARY_DATA = {
         "analysis",
         "ocean-waves"
       ],
-      "id": 1391
+      "id": 1392
     },
     {
       "author": "Towe et al.",
@@ -27268,7 +27282,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wind-waves"
       ],
-      "id": 1392
+      "id": 1393
     },
     {
       "author": "Du et al.",
@@ -27284,7 +27298,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1393
+      "id": 1394
     },
     {
       "author": "Zhou et al.",
@@ -27301,7 +27315,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1394
+      "id": 1395
     },
     {
       "author": "Zhu et al.",
@@ -27319,7 +27333,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1395
+      "id": 1396
     }
   ],
   "categories": [
@@ -27425,7 +27439,7 @@ const LIBRARY_DATA = {
       "id": "15_Theses",
       "label": "Theses",
       "color": "#795548",
-      "count": 98,
+      "count": 99,
       "description": "Doctoral and other research theses"
     },
     {
@@ -51903,6 +51917,17 @@ const LIBRARY_DATA = {
             ]
           },
           {
+            "name": "Karmpadakis_Thesis_annotated",
+            "title": "Karmpadakis_Thesis_annotated",
+            "author": "",
+            "year": 0,
+            "filename": "Karmpadakis_Thesis_annotated.pdf",
+            "journal": "",
+            "doi": "",
+            "hasAnnotation": true,
+            "tags": []
+          },
+          {
             "name": "Karmpadakis_Thesis_highlighted",
             "title": "Karmpadakis_Thesis_highlighted",
             "author": "",
@@ -53990,7 +54015,7 @@ const LIBRARY_DATA = {
     ]
   },
   "stats": {
-    "totalPapers": 1396,
+    "totalPapers": 1397,
     "totalCategories": 17,
     "totalAuthors": 1545,
     "totalTags": 76,
