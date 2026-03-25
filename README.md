@@ -63,7 +63,7 @@ Visualisation patterns adapted from [D3 Observable Examples](https://observableh
 
 Paper metadata from [CrossRef](https://www.crossref.org/) public API.
 
-I would also like to thank my former colleague and friend [Steven Huo](https://www.linkedin.com/in/chong-h-507695152/) for brainstorming and inspiring this idea during our early years in the PhD.
+Special thanks to my former colleague and friend [Steven Huo](https://www.linkedin.com/in/chong-h-507695152/) for brainstorming and inspiring this idea during our early years in the PhD.
 
 ## Author
 
