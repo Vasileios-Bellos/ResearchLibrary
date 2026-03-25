@@ -6,7 +6,7 @@ An interactive mind map for exploring, filtering, and navigating my curated pers
 
 <div align="center">
 
-<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1%2C336-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1%2C419-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
+<a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Papers-1%2C336-3b82f6?style=flat" width="150" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Authors-1%2C383-FF9800?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Categories-17-4CAF50?style=flat" width="160" /></a> <a href="https://vasileios-bellos.github.io/ResearchLibrary/"><img src="https://img.shields.io/badge/Tags-76-9C27B0?style=flat" width="100" /></a>
 
 </div>
 
@@ -41,7 +41,7 @@ The mind map offers four distinct visualization modes, each designed for a diffe
 
 ## Data
 
-Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 904 of the 1,336 papers. The remaining papers use metadata parsed from filenames.
+Paper metadata was enriched using the [CrossRef API](https://api.crossref.org), providing proper author names, publication years, journal titles, and DOIs for 902 of the 1,336 papers. The remaining papers use metadata parsed from filenames.
 
 Tags are assigned from a controlled vocabulary of 76 keywords organized into six facets: **topic**, **theory**, **method**, **depth regime**, **structure type**, and **output type**. Each paper carries at least five tags.
 
