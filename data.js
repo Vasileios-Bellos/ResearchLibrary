@@ -27066,24 +27066,6 @@ const LIBRARY_DATA = {
       "id": 1381
     },
     {
-      "author": "vilnius",
-      "year": 2020,
-      "title": "STATISTICAL ANALYSIS OF SCIENTOMETRIC DATA",
-      "filename": "vilnius (2020)_STATISTICAL ANALYSIS OF SCIENTOMETRIC DATA.pdf",
-      "category": "Miscellaneous",
-      "categoryShort": "Miscellaneous",
-      "color": "#BDBDBD",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "analysis",
-        "ocean-waves",
-        "statistical"
-      ],
-      "id": 1382
-    },
-    {
       "author": "Vrdoljak, Ljerka",
       "year": 2021,
       "title": "Comparison and Analysis of Publicly Available Bathymetry Models in the East Adriatic Sea",
@@ -27101,7 +27083,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1383
+      "id": 1382
     },
     {
       "author": "Wang et al.",
@@ -27118,7 +27100,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 1384
+      "id": 1383
     },
     {
       "author": "Wang et al.",
@@ -27137,7 +27119,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 1385
+      "id": 1384
     },
     {
       "author": "Wang et al.",
@@ -27154,7 +27136,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 1386
+      "id": 1385
     },
     {
       "author": "Wang et al.",
@@ -27171,7 +27153,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1387
+      "id": 1386
     },
     {
       "author": "Wei et al.",
@@ -27190,7 +27172,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1388
+      "id": 1387
     },
     {
       "author": "Wilson et al.",
@@ -27207,7 +27189,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1389
+      "id": 1388
     },
     {
       "author": "Xie et al.",
@@ -27226,7 +27208,7 @@ const LIBRARY_DATA = {
         "review",
         "varying-depth"
       ],
-      "id": 1390
+      "id": 1389
     },
     {
       "author": "Yetik et al.",
@@ -27245,7 +27227,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 1391
+      "id": 1390
     },
     {
       "author": "Zhao et al.",
@@ -27262,7 +27244,7 @@ const LIBRARY_DATA = {
         "analysis",
         "ocean-waves"
       ],
-      "id": 1392
+      "id": 1391
     },
     {
       "author": "Towe et al.",
@@ -27282,7 +27264,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wind-waves"
       ],
-      "id": 1393
+      "id": 1392
     },
     {
       "author": "Du et al.",
@@ -27298,7 +27280,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1394
+      "id": 1393
     },
     {
       "author": "Zhou et al.",
@@ -27315,7 +27297,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1395
+      "id": 1394
     },
     {
       "author": "Zhu et al.",
@@ -27333,7 +27315,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1396
+      "id": 1395
     }
   ],
   "categories": [
@@ -27453,7 +27435,7 @@ const LIBRARY_DATA = {
       "id": "Miscellaneous",
       "label": "Miscellaneous",
       "color": "#BDBDBD",
-      "count": 93,
+      "count": 92,
       "description": "Miscellaneous and uncategorised papers"
     }
   ],
@@ -29789,7 +29771,7 @@ const LIBRARY_DATA = {
   "tags": [
     {
       "name": "ocean-waves",
-      "count": 880
+      "count": 879
     },
     {
       "name": "wave-propagation",
@@ -29821,7 +29803,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "statistical",
-      "count": 219
+      "count": 218
     },
     {
       "name": "linear",
@@ -29893,7 +29875,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "analysis",
-      "count": 78
+      "count": 77
     },
     {
       "name": "vertical-cylinder",
@@ -30651,7 +30633,7 @@ const LIBRARY_DATA = {
       "Signal Processing": 2,
       "Books": 10,
       "Theses": 2,
-      "Miscellaneous": 34
+      "Miscellaneous": 33
     },
     {
       "year": 2021,
@@ -53783,21 +53765,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "vilnius (2020)",
-            "title": "STATISTICAL ANALYSIS OF SCIENTOMETRIC DATA",
-            "author": "vilnius",
-            "year": 2020,
-            "filename": "vilnius (2020)_STATISTICAL ANALYSIS OF SCIENTOMETRIC DATA.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "analysis",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
             "name": "Vrdoljak, Ljerka (2021)",
             "title": "Comparison and Analysis of Publicly Available Bathymetry Models in the East Adriatic Sea",
             "author": "Vrdoljak, Ljerka",
@@ -54015,9 +53982,9 @@ const LIBRARY_DATA = {
     ]
   },
   "stats": {
-    "totalPapers": 1397,
+    "totalPapers": 1396,
     "totalCategories": 17,
-    "totalAuthors": 1545,
+    "totalAuthors": 1544,
     "totalTags": 76,
     "yearRange": [
       1929,
