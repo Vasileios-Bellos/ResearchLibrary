@@ -79,26 +79,6 @@ const LIBRARY_DATA = {
       "id": 3
     },
     {
-      "author": "Battjes & Groenendijk",
-      "year": 2000,
-      "title": "Wave height distributions on shallow foreshores_notes",
-      "filename": "Battjes & Groenendijk (2000)_Wave height distributions on shallow foreshores_notes.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves",
-        "probability",
-        "shallow-water",
-        "statistical",
-        "wave-height-distribution"
-      ],
-      "id": 4
-    },
-    {
       "author": "Boccotti",
       "year": 2013,
       "title": "On the distribution of wave heights in the space domain",
@@ -116,7 +96,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 5
+      "id": 4
     },
     {
       "author": "Boccotti et al.",
@@ -136,7 +116,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 6
+      "id": 5
     },
     {
       "author": "Brodtkorb et al.",
@@ -162,7 +142,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-interactions"
       ],
-      "id": 7
+      "id": 6
     },
     {
       "author": "Brodtkorb et al.",
@@ -180,7 +160,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 8
+      "id": 7
     },
     {
       "author": "Caloiero et al.",
@@ -198,7 +178,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-height-distribution"
       ],
-      "id": 9
+      "id": 8
     },
     {
       "author": "",
@@ -214,7 +194,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 10
+      "id": 9
     },
     {
       "author": "Cuilin et al.",
@@ -236,7 +216,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-interactions"
       ],
-      "id": 11
+      "id": 10
     },
     {
       "author": "Dally et al.",
@@ -257,7 +237,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 12
+      "id": 11
     },
     {
       "author": "Fernandez et al.",
@@ -275,7 +255,7 @@ const LIBRARY_DATA = {
         "intermediate-depth",
         "ocean-waves"
       ],
-      "id": 13
+      "id": 12
     },
     {
       "author": "Firdaus et al.",
@@ -295,7 +275,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 14
+      "id": 13
     },
     {
       "author": "Forristall, George Z.",
@@ -316,7 +296,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 15
+      "id": 14
     },
     {
       "author": "Forristall, George Z.",
@@ -336,7 +316,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 16
+      "id": 15
     },
     {
       "author": "Forristall, G. Z.",
@@ -356,7 +336,7 @@ const LIBRARY_DATA = {
         "storm",
         "wave-height-distribution"
       ],
-      "id": 17
+      "id": 16
     },
     {
       "author": "Gao et al.",
@@ -376,7 +356,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wind-waves"
       ],
-      "id": 18
+      "id": 17
     },
     {
       "author": "Gao et al.",
@@ -397,7 +377,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-height-distribution"
       ],
-      "id": 19
+      "id": 18
     },
     {
       "author": "Goda, Yoshimi",
@@ -417,13 +397,13 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 20
+      "id": 19
     },
     {
-      "author": "Groenendijk and Van Gent",
+      "author": "Groenendijk & Gent",
       "year": 1998,
-      "title": "Shallow foreshore wave height statistics; a predictive model for the probability of exceedance of wave heights",
-      "filename": "Groenendijk and Van Gent (1998)_Shallow foreshore wave height statistics; a predictive model for the probability of exceedance of wave heights.pdf",
+      "title": "Shallow foreshore wave height statistics_A predictive model for the probability of exceedance of wave heights",
+      "filename": "Groenendijk & Gent (1998)_Shallow foreshore wave height statistics_A predictive model for the probability of exceedance of wave heights.pdf",
       "category": "01_Wave_Height_Statistics",
       "categoryShort": "Wave Height Statistics",
       "color": "#2196F3",
@@ -437,7 +417,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 21
+      "id": 20
     },
     {
       "author": "Hameed & Baba",
@@ -457,7 +437,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 22
+      "id": 21
     },
     {
       "author": "Hennig et al.",
@@ -477,7 +457,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 23
+      "id": 22
     },
     {
       "author": "Hossain et al.",
@@ -497,7 +477,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 24
+      "id": 23
     },
     {
       "author": "Hou et al.",
@@ -518,7 +498,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 25
+      "id": 24
     },
     {
       "author": "Huang et al.",
@@ -538,7 +518,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 26
+      "id": 25
     },
     {
       "author": "Kang et al.",
@@ -558,7 +538,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-height-distribution"
       ],
-      "id": 27
+      "id": 26
     },
     {
       "author": "Karmpadakis et al.",
@@ -579,7 +559,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 28
+      "id": 27
     },
     {
       "author": "Karmpadakis et al.",
@@ -600,7 +580,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 29
+      "id": 28
     },
     {
       "author": "Karmpadakis et al.",
@@ -621,30 +601,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 30
-    },
-    {
-      "author": "",
-      "year": 2019,
-      "title": "Karmpadakis_Swan_&_Christou_2019_Wave Height and Crest Height Distributions in Shallow Water-Analysis of field data",
-      "filename": "Karmpadakis_Swan_&_Christou_2019_Wave Height and Crest Height Distributions in Shallow Water-Analysis of field data.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "coastal",
-        "crest-height",
-        "experimental",
-        "intermediate-depth",
-        "shallow-water",
-        "statistical",
-        "wave-height-distribution",
-        "wave-propagation"
-      ],
-      "id": 31
+      "id": 29
     },
     {
       "author": "Kim et al.",
@@ -664,7 +621,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 32
+      "id": 30
     },
     {
       "author": "Knobler et al.",
@@ -684,7 +641,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 33
+      "id": 31
     },
     {
       "author": "Lee et al",
@@ -704,7 +661,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 34
+      "id": 32
     },
     {
       "author": "Li et al.",
@@ -724,7 +681,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 35
+      "id": 33
     },
     {
       "author": "Liu et al.",
@@ -744,7 +701,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 36
+      "id": 34
     },
     {
       "author": "Longuet-Higgins",
@@ -764,7 +721,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-interactions"
       ],
-      "id": 37
+      "id": 35
     },
     {
       "author": "Longuet‐Higgins, Michael S.",
@@ -784,7 +741,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 38
+      "id": 36
     },
     {
       "author": "Lucas et al.",
@@ -804,7 +761,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 39
+      "id": 37
     },
     {
       "author": "Mai et al.",
@@ -824,7 +781,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 40
+      "id": 38
     },
     {
       "author": "Mase & Iwagaki",
@@ -844,7 +801,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-height-distribution"
       ],
-      "id": 41
+      "id": 39
     },
     {
       "author": "Mase, Hajime",
@@ -864,7 +821,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-height-distribution"
       ],
-      "id": 42
+      "id": 40
     },
     {
       "author": "Memos et al.",
@@ -884,7 +841,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 43
+      "id": 41
     },
     {
       "author": "Mendes & Scotti",
@@ -904,7 +861,7 @@ const LIBRARY_DATA = {
         "tayfun",
         "wave-height-distribution"
       ],
-      "id": 44
+      "id": 42
     },
     {
       "author": "Mendez & Castanedo",
@@ -923,7 +880,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 45
+      "id": 43
     },
     {
       "author": "Mendez et al.",
@@ -943,7 +900,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 46
+      "id": 44
     },
     {
       "author": "Mizuguchi, Masaru",
@@ -964,7 +921,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 47
+      "id": 45
     },
     {
       "author": "Mori et al.",
@@ -985,7 +942,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 48
+      "id": 46
     },
     {
       "author": "Myrhaug et al.",
@@ -1003,7 +960,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 49
+      "id": 47
     },
     {
       "author": "Naess, Arvid",
@@ -1023,7 +980,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 50
+      "id": 48
     },
     {
       "author": "Nørgaard et al.",
@@ -1046,7 +1003,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 51
+      "id": 49
     },
     {
       "author": "Power and Baldock",
@@ -1067,7 +1024,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 52
+      "id": 50
     },
     {
       "author": "Power et al.",
@@ -1087,7 +1044,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-height-distribution"
       ],
-      "id": 53
+      "id": 51
     },
     {
       "author": "Rattanapitikon et al.",
@@ -1107,7 +1064,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 54
+      "id": 52
     },
     {
       "author": "Schubert et al.",
@@ -1127,7 +1084,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 55
+      "id": 53
     },
     {
       "author": "Shimada & Ishihara",
@@ -1147,7 +1104,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 56
+      "id": 54
     },
     {
       "author": "Stansell et al.",
@@ -1167,27 +1124,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 57
-    },
-    {
-      "author": "",
-      "year": 2006,
-      "title": "Tayfun & Fedele (2006) (Conference)_Wave-Height Distributions and Nonlinear Effects",
-      "filename": "Tayfun & Fedele (2006) (Conference)_Wave-Height Distributions and Nonlinear Effects.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "linear",
-        "nonlinear",
-        "ocean-waves",
-        "statistical",
-        "wave-height-distribution"
-      ],
-      "id": 58
+      "id": 55
     },
     {
       "author": "Tayfun",
@@ -1207,7 +1144,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 59
+      "id": 56
     },
     {
       "author": "Tayfun et al.",
@@ -1228,7 +1165,27 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 60
+      "id": 57
+    },
+    {
+      "author": "Tayfun and Fedele",
+      "year": 2007,
+      "title": "Wave-Height Distributions and Nonlinear Effects",
+      "filename": "Tayfun and Fedele (2007)_Wave-Height Distributions and Nonlinear Effects.pdf",
+      "category": "01_Wave_Height_Statistics",
+      "categoryShort": "Wave Height Statistics",
+      "color": "#2196F3",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "linear",
+        "nonlinear",
+        "ocean-waves",
+        "statistical",
+        "wave-height-distribution"
+      ],
+      "id": 58
     },
     {
       "author": "Thornton & Guza",
@@ -1248,28 +1205,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 61
-    },
-    {
-      "author": "Thornton & Ruza",
-      "year": 1983,
-      "title": "Transformation of wave height distribution",
-      "filename": "Thornton & Ruza (1983)_Transformation of wave height distribution.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "numerical",
-        "statistical",
-        "surf-zone",
-        "wave-breaking",
-        "wave-height-distribution",
-        "wave-shoaling"
-      ],
-      "id": 62
+      "id": 59
     },
     {
       "author": "Tuan et al.",
@@ -1289,7 +1225,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 63
+      "id": 60
     },
     {
       "author": "Van Vledder et al.",
@@ -1310,7 +1246,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 64
+      "id": 61
     },
     {
       "author": "Wang, Ying-guang",
@@ -1331,47 +1267,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 65
-    },
-    {
-      "author": "Wu et al.",
-      "year": 2016,
-      "title": "On the distribution of wave height in shallow water_highlighted",
-      "filename": "Wu et al. (2016)_On the distribution of wave height in shallow water_highlighted.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "ocean-waves",
-        "probability",
-        "shallow-water",
-        "statistical",
-        "wave-height-distribution"
-      ],
-      "id": 66
-    },
-    {
-      "author": "Wu et al",
-      "year": 2016,
-      "title": "On the distribution of wave height in shallow water2",
-      "filename": "Wu et al (2016)_On the distribution of wave height in shallow water2.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "offshore",
-        "shallow-water",
-        "statistical",
-        "wave-forces",
-        "wave-height-distribution"
-      ],
-      "id": 67
+      "id": 62
     },
     {
       "author": "Shahul Hameed et al.",
@@ -1391,27 +1287,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 68
-    },
-    {
-      "author": "Wu et al.",
-      "year": 2016,
-      "title": "On the distribution of wave height in shallow water_notes",
-      "filename": "Wu et al. (2016)_On the distribution of wave height in shallow water_notes.pdf",
-      "category": "01_Wave_Height_Statistics",
-      "categoryShort": "Wave Height Statistics",
-      "color": "#2196F3",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves",
-        "probability",
-        "shallow-water",
-        "statistical",
-        "wave-height-distribution"
-      ],
-      "id": 69
+      "id": 63
     },
     {
       "author": "Arena et al.",
@@ -1433,7 +1309,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 70
+      "id": 64
     },
     {
       "author": "Cho, Yong Jun",
@@ -1453,7 +1329,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "statistical"
       ],
-      "id": 71
+      "id": 65
     },
     {
       "author": "Forristall, George Z.",
@@ -1473,7 +1349,7 @@ const LIBRARY_DATA = {
         "second-order",
         "statistical"
       ],
-      "id": 72
+      "id": 66
     },
     {
       "author": "Gibson et al.",
@@ -1496,7 +1372,7 @@ const LIBRARY_DATA = {
         "statistical",
         "unidirectional"
       ],
-      "id": 73
+      "id": 67
     },
     {
       "author": "Gibson et al.",
@@ -1516,7 +1392,7 @@ const LIBRARY_DATA = {
         "storm",
         "wave-height-distribution"
       ],
-      "id": 74
+      "id": 68
     },
     {
       "author": "Greenhow, Martin",
@@ -1537,7 +1413,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-kinematics"
       ],
-      "id": 75
+      "id": 69
     },
     {
       "author": "Huang et al.",
@@ -1557,27 +1433,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-interactions"
       ],
-      "id": 76
-    },
-    {
-      "author": "Karmpadakis et al.",
-      "year": 2019,
-      "title": "Laboratory investigation of crest height statistics in intermediate water depths",
-      "filename": "Karmpadakis_Swan_&_Christou_(2019)_Laboratory_investigation_of_crest_height_statistics_in_intermediate_water_dept_highlighted.pdf",
-      "category": "02_Crest_Height_Statistics",
-      "categoryShort": "Crest Height Statistics",
-      "color": "#03A9F4",
-      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-      "doi": "10.1098/rspa.2019.0183",
-      "hasAnnotation": true,
-      "tags": [
-        "crest-height",
-        "experimental",
-        "intermediate-depth",
-        "ocean-waves",
-        "statistical"
-      ],
-      "id": 77
+      "id": 70
     },
     {
       "author": "",
@@ -1597,7 +1453,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-breaking"
       ],
-      "id": 78
+      "id": 71
     },
     {
       "author": "Karmpadakis & Swan",
@@ -1617,7 +1473,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-breaking"
       ],
-      "id": 79
+      "id": 72
     },
     {
       "author": "Karmpadakis et al.",
@@ -1635,7 +1491,27 @@ const LIBRARY_DATA = {
         "intermediate-depth",
         "ocean-waves"
       ],
-      "id": 80
+      "id": 73
+    },
+    {
+      "author": "Karmpadakis et al.",
+      "year": 2019,
+      "title": "Laboratory investigation of crest height statistics in intermediate water depths",
+      "filename": "Karmpadakis_Swan_&_Christou_(2019)_Laboratory_investigation_of_crest_height_statistics_in_intermediate_water_dept_highlighted.pdf",
+      "category": "02_Crest_Height_Statistics",
+      "categoryShort": "Crest Height Statistics",
+      "color": "#03A9F4",
+      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+      "doi": "10.1098/rspa.2019.0183",
+      "hasAnnotation": true,
+      "tags": [
+        "crest-height",
+        "experimental",
+        "intermediate-depth",
+        "ocean-waves",
+        "statistical"
+      ],
+      "id": 74
     },
     {
       "author": "Katsardi et al.",
@@ -1658,7 +1534,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 81
+      "id": 75
     },
     {
       "author": "Kumar et al.",
@@ -1678,7 +1554,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 82
+      "id": 76
     },
     {
       "author": "Kvingedal et al.",
@@ -1698,7 +1574,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 83
+      "id": 77
     },
     {
       "author": "Laface et al.",
@@ -1718,7 +1594,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "statistical"
       ],
-      "id": 84
+      "id": 78
     },
     {
       "author": "",
@@ -1738,7 +1614,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 85
+      "id": 79
     },
     {
       "author": "",
@@ -1758,7 +1634,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 86
+      "id": 80
     },
     {
       "author": "Latheef et al.",
@@ -1778,7 +1654,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 87
+      "id": 81
     },
     {
       "author": "Lian & Haver",
@@ -1798,7 +1674,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "statistical"
       ],
-      "id": 88
+      "id": 82
     },
     {
       "author": "Liu et al.",
@@ -1820,7 +1696,7 @@ const LIBRARY_DATA = {
         "offshore",
         "statistical"
       ],
-      "id": 89
+      "id": 83
     },
     {
       "author": "Guedes Soares et al.",
@@ -1836,7 +1712,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 90
+      "id": 84
     },
     {
       "author": "Stansell, Paul",
@@ -1857,7 +1733,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 91
+      "id": 85
     },
     {
       "author": "Aziz Tayfun, M.",
@@ -1879,7 +1755,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 92
+      "id": 86
     },
     {
       "author": "Tayfun et al.",
@@ -1899,7 +1775,7 @@ const LIBRARY_DATA = {
         "statistical",
         "storm"
       ],
-      "id": 93
+      "id": 87
     },
     {
       "author": "Toffoli et al.",
@@ -1919,7 +1795,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 94
+      "id": 88
     },
     {
       "author": "Wang, Yingguang",
@@ -1942,7 +1818,7 @@ const LIBRARY_DATA = {
         "stokes-theory",
         "wave-interactions"
       ],
-      "id": 95
+      "id": 89
     },
     {
       "author": "Whittaker et al.",
@@ -1962,7 +1838,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 96
+      "id": 90
     },
     {
       "author": "Xu et al.",
@@ -1987,7 +1863,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 97
+      "id": 91
     },
     {
       "author": "Abroug et al.",
@@ -2009,7 +1885,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 98
+      "id": 92
     },
     {
       "author": "Alkhalidi et al.",
@@ -2032,7 +1908,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 99
+      "id": 93
     },
     {
       "author": "Arena et al.",
@@ -2054,27 +1930,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 100
-    },
-    {
-      "author": "Huang, Hu",
-      "year": 2009,
-      "title": "Weakly Nonlinear Water Waves Propagating over Uneven Bottoms",
-      "filename": "Baldock, Swan and Taylor (1996)_A laboratory study of nonlinear surface waves on water surface on waves.pdf",
-      "category": "03_Nonlinear_Wave_Theory",
-      "categoryShort": "Nonlinear Wave Theory",
-      "color": "#9C27B0",
-      "journal": "Dynamics of Surface Waves in Coastal Waters",
-      "doi": "10.1007/978-3-540-88831-4_2",
-      "hasAnnotation": false,
-      "tags": [
-        "linear",
-        "nonlinear",
-        "ocean-waves",
-        "varying-depth",
-        "wave-propagation"
-      ],
-      "id": 101
+      "id": 94
     },
     {
       "author": "",
@@ -2094,29 +1950,27 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 102
+      "id": 95
     },
     {
-      "author": "Bateman et al.",
+      "author": "Bateman, Katsardi and Swan",
       "year": 2012,
       "title": "Extreme ocean waves. Part I. The practical application of fully nonlinear wave modelling",
-      "filename": "Bateman_Katsardi_&_Swan_Extreme_Ocean_Waves.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Applied Ocean Research",
-      "doi": "10.1016/j.apor.2011.05.002",
+      "filename": "Bateman, Katsardi and Swan (2012)_Extreme ocean waves. Part I. The practical application of fully nonlinear wave modelling.pdf",
+      "category": "03_Nonlinear_Wave_Theory",
+      "categoryShort": "Nonlinear Wave Theory",
+      "color": "#9C27B0",
+      "journal": "",
+      "doi": "",
       "hasAnnotation": false,
       "tags": [
         "extreme-events",
         "linear",
         "modelling",
         "nonlinear",
-        "offshore",
-        "varying-depth",
-        "wave-propagation"
+        "second-order"
       ],
-      "id": 103
+      "id": 96
     },
     {
       "author": "Dalzell, J.F.",
@@ -2136,7 +1990,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-interactions"
       ],
-      "id": 104
+      "id": 97
     },
     {
       "author": "Dean, R.G.",
@@ -2156,7 +2010,7 @@ const LIBRARY_DATA = {
         "second-order",
         "stokes-theory"
       ],
-      "id": 105
+      "id": 98
     },
     {
       "author": "Eeltink et al.",
@@ -2176,7 +2030,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 106
+      "id": 99
     },
     {
       "author": "Fedele et al.",
@@ -2196,7 +2050,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "statistical"
       ],
-      "id": 107
+      "id": 100
     },
     {
       "author": "Fedele et al.",
@@ -2214,7 +2068,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 108
+      "id": 101
     },
     {
       "author": "Feng, Xingya",
@@ -2236,7 +2090,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 109
+      "id": 102
     },
     {
       "author": "Fenton, John D.",
@@ -2256,7 +2110,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "second-order"
       ],
-      "id": 110
+      "id": 103
     },
     {
       "author": "Freilich et al.",
@@ -2276,7 +2130,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-shoaling"
       ],
-      "id": 111
+      "id": 104
     },
     {
       "author": "Brennan et al.",
@@ -2294,7 +2148,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 112
+      "id": 105
     },
     {
       "author": "Isaacson, Michael De St Q.",
@@ -2314,7 +2168,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "second-order"
       ],
-      "id": 113
+      "id": 106
     },
     {
       "author": "Jonsson et al.",
@@ -2334,7 +2188,7 @@ const LIBRARY_DATA = {
         "stokes-theory",
         "wave-forces"
       ],
-      "id": 114
+      "id": 107
     },
     {
       "author": "Kriebel et al.",
@@ -2354,7 +2208,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-groups"
       ],
-      "id": 115
+      "id": 108
     },
     {
       "author": "Kuznetsov et al.",
@@ -2375,7 +2229,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-shoaling"
       ],
-      "id": 116
+      "id": 109
     },
     {
       "author": "van Leeuwen et al.",
@@ -2395,7 +2249,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 117
+      "id": 110
     },
     {
       "author": "Ludu and Kevrekidis",
@@ -2414,7 +2268,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 118
+      "id": 111
     },
     {
       "author": "Madsen et al.",
@@ -2434,7 +2288,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 119
+      "id": 112
     },
     {
       "author": "",
@@ -2451,7 +2305,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "third-order"
       ],
-      "id": 120
+      "id": 113
     },
     {
       "author": "Marino et al.",
@@ -2475,7 +2329,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 121
+      "id": 114
     },
     {
       "author": "Mei, Chiang C.",
@@ -2495,7 +2349,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-propagation"
       ],
-      "id": 122
+      "id": 115
     },
     {
       "author": "Nguyen et al.",
@@ -2515,7 +2369,7 @@ const LIBRARY_DATA = {
         "second-order",
         "stokes-theory"
       ],
-      "id": 123
+      "id": 116
     },
     {
       "author": "Orszaghova et al.",
@@ -2536,7 +2390,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 124
+      "id": 117
     },
     {
       "author": "Ertekin et al.",
@@ -2556,7 +2410,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-propagation"
       ],
-      "id": 125
+      "id": 118
     },
     {
       "author": "Sharma et al.",
@@ -2576,7 +2430,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-forces"
       ],
-      "id": 126
+      "id": 119
     },
     {
       "author": "Shemer et al.",
@@ -2599,7 +2453,7 @@ const LIBRARY_DATA = {
         "statistical",
         "unidirectional"
       ],
-      "id": 127
+      "id": 120
     },
     {
       "author": "Simanesew et al.",
@@ -2618,7 +2472,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 128
+      "id": 121
     },
     {
       "author": "Skjelbreia et al.",
@@ -2638,7 +2492,7 @@ const LIBRARY_DATA = {
         "stokes-theory",
         "wave-propagation"
       ],
-      "id": 129
+      "id": 122
     },
     {
       "author": "Spinneken et al.",
@@ -2660,7 +2514,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 130
+      "id": 123
     },
     {
       "author": "Steenberg et al.",
@@ -2680,7 +2534,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-propagation"
       ],
-      "id": 131
+      "id": 124
     },
     {
       "author": "Trulsen et al.",
@@ -2699,7 +2553,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 132
+      "id": 125
     },
     {
       "author": "Vyzikas et al.",
@@ -2720,7 +2574,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 133
+      "id": 126
     },
     {
       "author": "Wang et al.",
@@ -2741,7 +2595,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 134
+      "id": 127
     },
     {
       "author": "Zeng et al.",
@@ -2762,7 +2616,7 @@ const LIBRARY_DATA = {
         "unidirectional",
         "varying-depth"
       ],
-      "id": 135
+      "id": 128
     },
     {
       "author": "Zhang et al.",
@@ -2786,7 +2640,7 @@ const LIBRARY_DATA = {
         "second-order",
         "unidirectional"
       ],
-      "id": 136
+      "id": 129
     },
     {
       "author": "Alberello et al.",
@@ -2808,7 +2662,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 137
+      "id": 130
     },
     {
       "author": "Alsina et al.",
@@ -2830,7 +2684,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 138
+      "id": 131
     },
     {
       "author": "Antunes do Carmo et al.",
@@ -2850,7 +2704,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-interactions"
       ],
-      "id": 139
+      "id": 132
     },
     {
       "author": "Barthelemy et al.",
@@ -2870,27 +2724,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 140
-    },
-    {
-      "author": "Battjes & Janssen",
-      "year": 1978,
-      "title": "Energy loss and set-up due to breaking of random waves-annotated_notes",
-      "filename": "Battjes & Janssen (1978) - Energy loss and set-up due to breaking of random waves-annotated_notes.pdf",
-      "category": "04_Wave_Breaking_and_Dissipation",
-      "categoryShort": "Wave Breaking & Dissipation",
-      "color": "#F44336",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "coastal",
-        "energy-dissipation",
-        "ocean-waves",
-        "random-waves",
-        "wave-breaking"
-      ],
-      "id": 141
+      "id": 133
     },
     {
       "author": "Battjes, J.A.",
@@ -2910,7 +2744,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 142
+      "id": 134
     },
     {
       "author": "Battjes et al.",
@@ -2931,7 +2765,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 143
+      "id": 135
     },
     {
       "author": "Battjes et al.",
@@ -2953,7 +2787,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 144
+      "id": 136
     },
     {
       "author": "Oltman-Shay, Joan",
@@ -2976,7 +2810,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-height-distribution"
       ],
-      "id": 145
+      "id": 137
     },
     {
       "author": "Boswell et al.",
@@ -2996,7 +2830,7 @@ const LIBRARY_DATA = {
         "storm",
         "wave-breaking"
       ],
-      "id": 146
+      "id": 138
     },
     {
       "author": "Buldakov et al.",
@@ -3016,7 +2850,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 147
+      "id": 139
     },
     {
       "author": "Callaghan et al.",
@@ -3036,7 +2870,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 148
+      "id": 140
     },
     {
       "author": "Castro-Orgaz and Chanson",
@@ -3056,7 +2890,7 @@ const LIBRARY_DATA = {
         "review",
         "wave-breaking"
       ],
-      "id": 149
+      "id": 141
     },
     {
       "author": "Deane et al.",
@@ -3076,7 +2910,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 150
+      "id": 142
     },
     {
       "author": "Derakhti et al.",
@@ -3096,7 +2930,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 151
+      "id": 143
     },
     {
       "author": "Duncan, J. H.",
@@ -3116,7 +2950,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 152
+      "id": 144
     },
     {
       "author": "Duz et al.",
@@ -3136,7 +2970,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-kinematics"
       ],
-      "id": 153
+      "id": 145
     },
     {
       "author": "Esandi et al.",
@@ -3158,7 +2992,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 154
+      "id": 146
     },
     {
       "author": "Ghiasian et al.",
@@ -3178,7 +3012,7 @@ const LIBRARY_DATA = {
         "reef",
         "wave-breaking"
       ],
-      "id": 155
+      "id": 147
     },
     {
       "author": "Goda, Yoshimi",
@@ -3200,7 +3034,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 156
+      "id": 148
     },
     {
       "author": "He et al.",
@@ -3220,7 +3054,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-forces"
       ],
-      "id": 157
+      "id": 149
     },
     {
       "author": "Herman, Agnieszka",
@@ -3240,7 +3074,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-breaking"
       ],
-      "id": 158
+      "id": 150
     },
     {
       "author": "Iele et al.",
@@ -3260,7 +3094,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 159
+      "id": 151
     },
     {
       "author": "Kamphuis, J.W.",
@@ -3280,29 +3114,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 160
-    },
-    {
-      "author": "Katsardi et al.",
-      "year": 2011,
-      "title": "The evolution of large non-breaking waves in intermediate and shallow water. I. Numerical calculations of uni-directional seas",
-      "filename": "Katsardi_&_Swan_2011_The_evolution_of_large_non-breaking_waves_in_intermediate_and_shallow_water.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-      "doi": "10.1098/rspa.2010.0280",
-      "hasAnnotation": false,
-      "tags": [
-        "directional-spreading",
-        "intermediate-depth",
-        "numerical",
-        "shallow-water",
-        "varying-depth",
-        "wave-breaking",
-        "wave-propagation"
-      ],
-      "id": 161
+      "id": 152
     },
     {
       "author": "Kazolea et al.",
@@ -3322,7 +3134,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-forces"
       ],
-      "id": 162
+      "id": 153
     },
     {
       "author": "Kirby and Derakhti",
@@ -3342,7 +3154,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 163
+      "id": 154
     },
     {
       "author": "Lee et al.",
@@ -3362,7 +3174,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 164
+      "id": 155
     },
     {
       "author": "Liu et al.",
@@ -3382,7 +3194,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 165
+      "id": 156
     },
     {
       "author": "Longuet-Higgins and Stewart",
@@ -3402,7 +3214,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-setup"
       ],
-      "id": 166
+      "id": 157
     },
     {
       "author": "Meylan et al.",
@@ -3422,7 +3234,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 167
+      "id": 158
     },
     {
       "author": "Na et al.",
@@ -3442,7 +3254,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-kinematics"
       ],
-      "id": 168
+      "id": 159
     },
     {
       "author": "Pinzo and Kendall Melville",
@@ -3462,7 +3274,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-groups"
       ],
-      "id": 169
+      "id": 160
     },
     {
       "author": "Plumerault et al.",
@@ -3482,7 +3294,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-forces"
       ],
-      "id": 170
+      "id": 161
     },
     {
       "author": "Power et al.",
@@ -3503,7 +3315,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 171
+      "id": 162
     },
     {
       "author": "Pujara et al.",
@@ -3523,7 +3335,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 172
+      "id": 163
     },
     {
       "author": "Ranasinghe, R. S.",
@@ -3543,7 +3355,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 173
+      "id": 164
     },
     {
       "author": "Van Dorn et al.",
@@ -3563,7 +3375,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-interactions"
       ],
-      "id": 174
+      "id": 165
     },
     {
       "author": "Riedel et al.",
@@ -3583,13 +3395,13 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 175
+      "id": 166
     },
     {
       "author": "Robertson et al.",
       "year": 2017,
       "title": "Predicting Breaking Wave Conditions Using Gene Expression Programming",
-      "filename": "Robertson et  al. (2018)_Predicting Breaking Wave Conditions Using Gene Expression Programming.pdf",
+      "filename": "Robertson et  al. (2018)_Predicting Breaking Wave Conditions Using Gene Expression Programming_Full_View.pdf",
       "category": "04_Wave_Breaking_and_Dissipation",
       "categoryShort": "Wave Breaking & Dissipation",
       "color": "#F44336",
@@ -3603,7 +3415,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 176
+      "id": 167
     },
     {
       "author": "Saket et al.",
@@ -3623,7 +3435,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 177
+      "id": 168
     },
     {
       "author": "Saket et al.",
@@ -3643,7 +3455,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wind-waves"
       ],
-      "id": 178
+      "id": 169
     },
     {
       "author": "Sasmal et al.",
@@ -3663,7 +3475,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 179
+      "id": 170
     },
     {
       "author": "Schäffer et al.",
@@ -3684,7 +3496,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-propagation"
       ],
-      "id": 180
+      "id": 171
     },
     {
       "author": "Seiffert et al.",
@@ -3704,7 +3516,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-breaking"
       ],
-      "id": 181
+      "id": 172
     },
     {
       "author": "Liang et al.",
@@ -3724,7 +3536,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 182
+      "id": 173
     },
     {
       "author": "Stringari et al.",
@@ -3744,7 +3556,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-breaking"
       ],
-      "id": 183
+      "id": 174
     },
     {
       "author": "Tai et al.",
@@ -3764,7 +3576,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-forces"
       ],
-      "id": 184
+      "id": 175
     },
     {
       "author": "Tian et al.",
@@ -3785,7 +3597,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wind-waves"
       ],
-      "id": 185
+      "id": 176
     },
     {
       "author": "van der Westhuysen, André J.",
@@ -3805,7 +3617,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 186
+      "id": 177
     },
     {
       "author": "Varing et al.",
@@ -3825,7 +3637,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 187
+      "id": 178
     },
     {
       "author": "Xie et al.",
@@ -3845,7 +3657,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-interactions"
       ],
-      "id": 188
+      "id": 179
     },
     {
       "author": "Xu et al.",
@@ -3869,7 +3681,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-forces"
       ],
-      "id": 189
+      "id": 180
     },
     {
       "author": "Zhang et al.",
@@ -3889,7 +3701,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 190
+      "id": 181
     },
     {
       "author": "Morison et al.",
@@ -3909,7 +3721,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-interactions"
       ],
-      "id": 191
+      "id": 182
     },
     {
       "author": "Beji et al.",
@@ -3929,7 +3741,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 192
+      "id": 183
     },
     {
       "author": "Salmon et al.",
@@ -3949,7 +3761,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 193
+      "id": 184
     },
     {
       "author": "Moore et al.",
@@ -3969,29 +3781,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 194
-    },
-    {
-      "author": "",
-      "year": 2020,
-      "title": "Comments on \"Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone\" by Abroug et al.",
-      "filename": "Abroug et al. - 2020 - Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone(2)-annotated.pdf",
-      "category": "12_Shallow_Water_and_Nearshore",
-      "categoryShort": "Shallow & Nearshore Waves",
-      "color": "#009688",
-      "journal": "",
-      "doi": "10.5194/nhess-2020-209-rc2",
-      "hasAnnotation": true,
-      "tags": [
-        "experimental",
-        "extreme-events",
-        "linear",
-        "nonlinear",
-        "shallow-water",
-        "wave-groups",
-        "wave-interactions"
-      ],
-      "id": 195
+      "id": 185
     },
     {
       "author": "Adcock et al.",
@@ -4011,7 +3801,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 196
+      "id": 186
     },
     {
       "author": "Aggarwal et al.",
@@ -4031,7 +3821,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 197
+      "id": 187
     },
     {
       "author": "Alvise et al.",
@@ -4050,7 +3840,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 198
+      "id": 188
     },
     {
       "author": "Zhang et al.",
@@ -4070,7 +3860,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 199
+      "id": 189
     },
     {
       "author": "Arena, Felice",
@@ -4090,7 +3880,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 200
+      "id": 190
     },
     {
       "author": "ATHANASSOULIS et al.",
@@ -4110,7 +3900,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 201
+      "id": 191
     },
     {
       "author": "",
@@ -4128,7 +3918,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 202
+      "id": 192
     },
     {
       "author": "Babanin et al.",
@@ -4145,7 +3935,7 @@ const LIBRARY_DATA = {
         "deep-water",
         "ocean-waves"
       ],
-      "id": 203
+      "id": 193
     },
     {
       "author": "Badulin et al.",
@@ -4165,7 +3955,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 204
+      "id": 194
     },
     {
       "author": "",
@@ -4188,7 +3978,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 205
+      "id": 195
     },
     {
       "author": "Baldock",
@@ -4212,7 +4002,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 206
+      "id": 196
     },
     {
       "author": "Baldock et al.",
@@ -4232,7 +4022,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 207
+      "id": 197
     },
     {
       "author": "",
@@ -4252,7 +4042,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 208
+      "id": 198
     },
     {
       "author": "Baley",
@@ -4271,7 +4061,29 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 209
+      "id": 199
+    },
+    {
+      "author": "Bateman et al.",
+      "year": 2012,
+      "title": "Extreme ocean waves. Part I. The practical application of fully nonlinear wave modelling",
+      "filename": "Bateman_Katsardi_&_Swan_Extreme_Ocean_Waves.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Applied Ocean Research",
+      "doi": "10.1016/j.apor.2011.05.002",
+      "hasAnnotation": false,
+      "tags": [
+        "extreme-events",
+        "linear",
+        "modelling",
+        "nonlinear",
+        "offshore",
+        "varying-depth",
+        "wave-propagation"
+      ],
+      "id": 200
     },
     {
       "author": "Bateman et al.",
@@ -4291,7 +4103,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 210
+      "id": 201
     },
     {
       "author": "Bateman et al.",
@@ -4311,7 +4123,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 211
+      "id": 202
     },
     {
       "author": "DONGEREN et al.",
@@ -4333,7 +4145,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 212
+      "id": 203
     },
     {
       "author": "Abdussamie et al.",
@@ -4353,7 +4165,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 213
+      "id": 204
     },
     {
       "author": "",
@@ -4369,7 +4181,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 214
+      "id": 205
     },
     {
       "author": "Beji et al.",
@@ -4390,7 +4202,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 215
+      "id": 206
     },
     {
       "author": "Belibassakis et al.",
@@ -4410,7 +4222,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 216
+      "id": 207
     },
     {
       "author": "Belibassakis et al.",
@@ -4431,7 +4243,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 217
+      "id": 208
     },
     {
       "author": "Benetazzo et al.",
@@ -4449,7 +4261,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 218
+      "id": 209
     },
     {
       "author": "Bergamasco et al.",
@@ -4465,7 +4277,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 219
+      "id": 210
     },
     {
       "author": "Bi et al.",
@@ -4484,7 +4296,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 220
+      "id": 211
     },
     {
       "author": "Biegowski et al.",
@@ -4502,7 +4314,7 @@ const LIBRARY_DATA = {
         "field-data",
         "ocean-waves"
       ],
-      "id": 221
+      "id": 212
     },
     {
       "author": "Bitner-Gregersen et al.",
@@ -4520,7 +4332,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 222
+      "id": 213
     },
     {
       "author": "Boccotti, Paolo",
@@ -4539,7 +4351,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wind-waves"
       ],
-      "id": 223
+      "id": 214
     },
     {
       "author": "Boccotti et al.",
@@ -4559,27 +4371,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "regular-waves"
       ],
-      "id": 224
-    },
-    {
-      "author": "",
-      "year": 1983,
-      "title": "Boccotti_1983_Some_new_results_on_statistical_properties_of_wind_waves",
-      "filename": "Boccotti_1983_Some_new_results_on_statistical_properties_of_wind_waves.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "statistical",
-        "varying-depth",
-        "wave-interactions",
-        "wave-propagation",
-        "wind-waves"
-      ],
-      "id": 225
+      "id": 215
     },
     {
       "author": "Anonymous",
@@ -4597,30 +4389,7 @@ const LIBRARY_DATA = {
         "review",
         "wave-breaking"
       ],
-      "id": 226
-    },
-    {
-      "author": "Zhou et al.",
-      "year": 2013,
-      "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
-      "filename": "Boo_Kim_1996_Fully_nonlinear_diffraction_due_to_a_vertical_circular_cylinder_in_a_3D_HOBEM_Numerical_wave_tank.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Ocean Engineering",
-      "doi": "10.1016/j.oceaneng.2013.04.019",
-      "hasAnnotation": false,
-      "tags": [
-        "linear",
-        "nonlinear",
-        "numerical",
-        "offshore",
-        "varying-depth",
-        "vertical-cylinder",
-        "wave-forces",
-        "wave-propagation"
-      ],
-      "id": 227
+      "id": 216
     },
     {
       "author": "Bredmose et al.",
@@ -4640,7 +4409,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 228
+      "id": 217
     },
     {
       "author": "Buchner et al.",
@@ -4660,7 +4429,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 229
+      "id": 218
     },
     {
       "author": "Bullock et al.",
@@ -4680,7 +4449,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 230
+      "id": 219
     },
     {
       "author": "Bullock et al.",
@@ -4701,7 +4470,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 231
+      "id": 220
     },
     {
       "author": "Cagigal et al.",
@@ -4718,7 +4487,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 232
+      "id": 221
     },
     {
       "author": "Carneiro et al.",
@@ -4734,7 +4503,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 233
+      "id": 222
     },
     {
       "author": "Casas-Prat et al.",
@@ -4752,7 +4521,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-height-distribution"
       ],
-      "id": 234
+      "id": 223
     },
     {
       "author": "Castelle & Masselink_",
@@ -4770,7 +4539,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "sediment-transport"
       ],
-      "id": 235
+      "id": 224
     },
     {
       "author": "Chabchoub et al.",
@@ -4787,7 +4556,7 @@ const LIBRARY_DATA = {
         "nls",
         "ocean-waves"
       ],
-      "id": 236
+      "id": 225
     },
     {
       "author": "CHAPLIN et al.",
@@ -4807,7 +4576,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 237
+      "id": 226
     },
     {
       "author": "",
@@ -4827,7 +4596,24 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 238
+      "id": 227
+    },
+    {
+      "author": "Chen et al.",
+      "year": 2020,
+      "title": "Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads",
+      "filename": "Chen et al. (2020)_Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Advances in Civil Engineering",
+      "doi": "10.1155/2020/8830199",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves",
+        "wave-forces"
+      ],
+      "id": 228
     },
     {
       "author": "Chen, Yang",
@@ -4847,24 +4633,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 239
-    },
-    {
-      "author": "Chen et al.",
-      "year": 2020,
-      "title": "Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads",
-      "filename": "Chen et al. (2020)_Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Advances in Civil Engineering",
-      "doi": "10.1155/2020/8830199",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves",
-        "wave-forces"
-      ],
-      "id": 240
+      "id": 229
     },
     {
       "author": "Chen et al.",
@@ -4886,7 +4655,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 241
+      "id": 230
     },
     {
       "author": "Chen et al.",
@@ -4906,7 +4675,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 242
+      "id": 231
     },
     {
       "author": "Chen et al.",
@@ -4926,7 +4695,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 243
+      "id": 232
     },
     {
       "author": "Chondros et al.",
@@ -4946,28 +4715,29 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 244
+      "id": 233
     },
     {
-      "author": "XUE et al.",
+      "author": "LIU et al.",
       "year": 2001,
-      "title": "Computations of fully nonlinear three-dimensional wave–wave and wave–body interactions. \nPart 1. Dynamics of steep three-dimensional waves",
-      "filename": "Xue_Xu_Liu_Yue_2001_computations_of_fully_nonlinear_threedimensional_wavewave_and_wavebody_interactions_part_1_dynamics_of_steep_threedimensional_waves.pdf",
+      "title": "Computations of fully nonlinear three-dimensional wave–wave and wave–body interactions. \nPart 2. Nonlinear waves and forces on a body",
+      "filename": "Christou_2009_Fully_Nonlinear_Computations_of_waves_and_wave-structure_interaction.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
       "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
       "journal": "Journal of Fluid Mechanics",
-      "doi": "10.1017/s0022112001004396",
+      "doi": "10.1017/s0022112001004384",
       "hasAnnotation": false,
       "tags": [
         "analytical",
         "linear",
         "nonlinear",
         "varying-depth",
+        "wave-forces",
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 245
+      "id": 234
     },
     {
       "author": "",
@@ -4987,7 +4757,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 246
+      "id": 235
     },
     {
       "author": "Caires et al.",
@@ -5007,7 +4777,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-propagation"
       ],
-      "id": 247
+      "id": 236
     },
     {
       "author": "",
@@ -5028,13 +4798,13 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 248
+      "id": 237
     },
     {
       "author": "Cousins et al.",
       "year": 2016,
       "title": "Reduced-order precursors of rare events in unidirectional nonlinear water waves",
-      "filename": "Cousins and Sapsis (2015)_Reduced order prediction of rare events in unidirectional nonlinear water waves.pdf",
+      "filename": "Cousins and Sapsis (2016)_Reduced-order precursors of rare events in unidirectional nonlinear water waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
       "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
@@ -5048,7 +4818,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "unidirectional"
       ],
-      "id": 249
+      "id": 238
     },
     {
       "author": "Craciunescu et al.",
@@ -5065,7 +4835,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 250
+      "id": 239
     },
     {
       "author": "Cui and Zhou",
@@ -5084,7 +4854,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 251
+      "id": 240
     },
     {
       "author": "Dalrymple et al.",
@@ -5104,7 +4874,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 252
+      "id": 241
     },
     {
       "author": "Dao et al.",
@@ -5124,7 +4894,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 253
+      "id": 242
     },
     {
       "author": "Dawson, T.H.",
@@ -5144,7 +4914,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 254
+      "id": 243
     },
     {
       "author": "Dean, Robert G.",
@@ -5164,7 +4934,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 255
+      "id": 244
     },
     {
       "author": "Demiray",
@@ -5184,7 +4954,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 256
+      "id": 245
     },
     {
       "author": "Sree et al.",
@@ -5202,7 +4972,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 257
+      "id": 246
     },
     {
       "author": "Di Cristo et al.",
@@ -5222,7 +4992,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 258
+      "id": 247
     },
     {
       "author": "",
@@ -5244,7 +5014,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 259
+      "id": 248
     },
     {
       "author": "Dong et al.",
@@ -5265,7 +5035,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 260
+      "id": 249
     },
     {
       "author": "Dong et al.",
@@ -5284,7 +5054,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-forces"
       ],
-      "id": 261
+      "id": 250
     },
     {
       "author": "Douglas et al.",
@@ -5302,7 +5072,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 262
+      "id": 251
     },
     {
       "author": "Dreizis and Kostin",
@@ -5322,7 +5092,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 263
+      "id": 252
     },
     {
       "author": "Duan et al.",
@@ -5340,7 +5110,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 264
+      "id": 253
     },
     {
       "author": "Ducrozet et al.",
@@ -5360,7 +5130,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 265
+      "id": 254
     },
     {
       "author": "Duncan et al.",
@@ -5380,7 +5150,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 266
+      "id": 255
     },
     {
       "author": "Kyozuka, Yusaku",
@@ -5403,7 +5173,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 267
+      "id": 256
     },
     {
       "author": "Eatock Taylor et al.",
@@ -5423,7 +5193,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 268
+      "id": 257
     },
     {
       "author": "Buldakov, Eugeny",
@@ -5443,7 +5213,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 269
+      "id": 258
     },
     {
       "author": "Eldrup et al.",
@@ -5464,28 +5234,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 270
-    },
-    {
-      "author": "",
-      "year": 2020,
-      "title": "Eldrup, Andersen_2020_Numerical study on regular wave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated",
-      "filename": "Eldrup, Andersen_2020_Numerical study on regular wave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "numerical",
-        "regular-waves",
-        "second-order",
-        "varying-depth",
-        "wave-propagation",
-        "wave-shoaling"
-      ],
-      "id": 271
+      "id": 259
     },
     {
       "author": "Esteva",
@@ -5501,7 +5250,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 272
+      "id": 260
     },
     {
       "author": "Dean, Robert G.",
@@ -5521,28 +5270,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 273
-    },
-    {
-      "author": "Ewans, Kevin C.",
-      "year": 1998,
-      "title": "Observations of the Directional Spectrum of Fetch-Limited Waves",
-      "filename": "Ewans_1998_Observations_of_the_Directional_Spectrum_of_Fetch-Limited_Waves.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Journal of Physical Oceanography",
-      "doi": "10.1175/1520-0485(1998)028<0495:ootdso>2.0.co;2",
-      "hasAnnotation": false,
-      "tags": [
-        "directional-spreading",
-        "field-data",
-        "spectral-analysis",
-        "varying-depth",
-        "wave-interactions",
-        "wave-propagation"
-      ],
-      "id": 274
+      "id": 261
     },
     {
       "author": "Herterich et al.",
@@ -5562,7 +5290,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 275
+      "id": 262
     },
     {
       "author": "",
@@ -5582,7 +5310,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 276
+      "id": 263
     },
     {
       "author": "Faltinsen et al.",
@@ -5604,7 +5332,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 277
+      "id": 264
     },
     {
       "author": "Feng et al.",
@@ -5624,7 +5352,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 278
+      "id": 265
     },
     {
       "author": "Fenton",
@@ -5642,7 +5370,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "stokes-theory"
       ],
-      "id": 279
+      "id": 266
     },
     {
       "author": "Fenton, John D.",
@@ -5664,7 +5392,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 280
+      "id": 267
     },
     {
       "author": "Manasseh, Richard",
@@ -5684,7 +5412,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 281
+      "id": 268
     },
     {
       "author": "",
@@ -5704,7 +5432,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 282
+      "id": 269
     },
     {
       "author": "",
@@ -5724,7 +5452,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 283
+      "id": 270
     },
     {
       "author": "Figueredo et al.",
@@ -5746,7 +5474,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 284
+      "id": 271
     },
     {
       "author": "Fochesato et al.",
@@ -5770,7 +5498,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 285
+      "id": 272
     },
     {
       "author": "",
@@ -5790,7 +5518,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 286
+      "id": 273
     },
     {
       "author": "Fonseca et al.",
@@ -5810,28 +5538,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 287
-    },
-    {
-      "author": "",
-      "year": 2000,
-      "title": "Foristall_2000_Wave_Crest_distributions-Observations_and_Second-Order_Theory",
-      "filename": "Foristall_2000_Wave_Crest_distributions-Observations_and_Second-Order_Theory.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "analytical",
-        "crest-height",
-        "second-order",
-        "statistical",
-        "varying-depth",
-        "wave-propagation"
-      ],
-      "id": 288
+      "id": 274
     },
     {
       "author": "",
@@ -5851,7 +5558,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 289
+      "id": 275
     },
     {
       "author": "Markeset, Tore",
@@ -5868,7 +5575,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 290
+      "id": 276
     },
     {
       "author": "Gabl et al.",
@@ -5888,7 +5595,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 291
+      "id": 277
     },
     {
       "author": "Gao et al.",
@@ -5908,7 +5615,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 292
+      "id": 278
     },
     {
       "author": "García et al.",
@@ -5927,7 +5634,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 293
+      "id": 279
     },
     {
       "author": "Gawehn et al.",
@@ -5947,7 +5654,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 294
+      "id": 280
     },
     {
       "author": "Gelfi et al.",
@@ -5967,27 +5674,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 295
-    },
-    {
-      "author": "Gibson et al.",
-      "year": 2007,
-      "title": "The evolution of large ocean waves: the role of local and rapid spectral changes",
-      "filename": "Gibson_&_Swan_The_evolution_of_large_ocean_waves.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-      "doi": "10.1098/rspa.2006.1729",
-      "hasAnnotation": false,
-      "tags": [
-        "coastal",
-        "ocean-waves",
-        "spectral-analysis",
-        "varying-depth",
-        "wave-propagation"
-      ],
-      "id": 296
+      "id": 281
     },
     {
       "author": "",
@@ -6007,7 +5694,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 297
+      "id": 282
     },
     {
       "author": "Gibson et al.",
@@ -6030,7 +5717,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 298
+      "id": 283
     },
     {
       "author": "",
@@ -6050,7 +5737,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 299
+      "id": 284
     },
     {
       "author": "GOMEZ-GESTEIRA, MONCHO",
@@ -6070,7 +5757,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 300
+      "id": 285
     },
     {
       "author": "Gonzalez-Flores et al.",
@@ -6090,7 +5777,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 301
+      "id": 286
     },
     {
       "author": "Goteman et al.",
@@ -6107,7 +5794,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 302
+      "id": 287
     },
     {
       "author": "Guillou et al.",
@@ -6126,7 +5813,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 303
+      "id": 288
     },
     {
       "author": "Gramcianinov et al.",
@@ -6146,7 +5833,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wind-waves"
       ],
-      "id": 304
+      "id": 289
     },
     {
       "author": "Grilli et al.",
@@ -6166,7 +5853,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 305
+      "id": 290
     },
     {
       "author": "Grue et al.",
@@ -6186,7 +5873,27 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 306
+      "id": 291
+    },
+    {
+      "author": "Grue et al.",
+      "year": 2021,
+      "title": "Runup on a vertical column in strong water wave events",
+      "filename": "Grue and Osyka (2020)_Vertical column in strong water wave events_runup_ runup velocity and their scaling.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Coastal Engineering",
+      "doi": "10.1016/j.coastaleng.2020.103775",
+      "hasAnnotation": false,
+      "tags": [
+        "coastal",
+        "ocean-waves",
+        "vertical-cylinder",
+        "wave-propagation",
+        "wave-runup"
+      ],
+      "id": 292
     },
     {
       "author": "Boo, S.Y.",
@@ -6207,7 +5914,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 307
+      "id": 293
     },
     {
       "author": "Guedes Soares, C.",
@@ -6226,7 +5933,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 308
+      "id": 294
     },
     {
       "author": "Guillouzouic",
@@ -6243,7 +5950,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 309
+      "id": 295
     },
     {
       "author": "Gurbatov et al.",
@@ -6262,7 +5969,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 310
+      "id": 296
     },
     {
       "author": "",
@@ -6282,7 +5989,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 311
+      "id": 297
     },
     {
       "author": "Hager et al.",
@@ -6300,7 +6007,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "tsunami"
       ],
-      "id": 312
+      "id": 298
     },
     {
       "author": "Hague et al.",
@@ -6320,7 +6027,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 313
+      "id": 299
     },
     {
       "author": "",
@@ -6340,7 +6047,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 314
+      "id": 300
     },
     {
       "author": "Han et al.",
@@ -6359,7 +6066,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-groups"
       ],
-      "id": 315
+      "id": 301
     },
     {
       "author": "Haudin et al.",
@@ -6378,7 +6085,7 @@ const LIBRARY_DATA = {
         "review",
         "wave-interactions"
       ],
-      "id": 316
+      "id": 302
     },
     {
       "author": "Havelock, Thomas Henry",
@@ -6398,7 +6105,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 317
+      "id": 303
     },
     {
       "author": "Haver et al.",
@@ -6418,7 +6125,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 318
+      "id": 304
     },
     {
       "author": "He et al.",
@@ -6436,7 +6143,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 319
+      "id": 305
     },
     {
       "author": "Hennig et al.",
@@ -6456,7 +6163,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 320
+      "id": 306
     },
     {
       "author": "Herbers et al.",
@@ -6479,7 +6186,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 321
+      "id": 307
     },
     {
       "author": "Higuera et al.",
@@ -6500,7 +6207,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-propagation"
       ],
-      "id": 322
+      "id": 308
     },
     {
       "author": "Ho et al.",
@@ -6516,7 +6223,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 323
+      "id": 309
     },
     {
       "author": "Hofland et al.",
@@ -6536,7 +6243,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-propagation"
       ],
-      "id": 324
+      "id": 310
     },
     {
       "author": "Huang et al.",
@@ -6552,7 +6259,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 325
+      "id": 311
     },
     {
       "author": "Huang et al.",
@@ -6572,7 +6279,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 326
+      "id": 312
     },
     {
       "author": "HUNT et al.",
@@ -6592,7 +6299,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 327
+      "id": 313
     },
     {
       "author": "HUSEBY et al.",
@@ -6613,7 +6320,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 328
+      "id": 314
     },
     {
       "author": "Iafrati et al.",
@@ -6631,7 +6338,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wind-waves"
       ],
-      "id": 329
+      "id": 315
     },
     {
       "author": "IAFRATI, A.",
@@ -6651,7 +6358,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 330
+      "id": 316
     },
     {
       "author": "Iafrati et al.",
@@ -6671,7 +6378,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 331
+      "id": 317
     },
     {
       "author": "Issa, R.I",
@@ -6691,7 +6398,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 332
+      "id": 318
     },
     {
       "author": "Itay et al.",
@@ -6712,7 +6419,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 333
+      "id": 319
     },
     {
       "author": "Jacobsen et al.",
@@ -6732,7 +6439,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-propagation"
       ],
-      "id": 334
+      "id": 320
     },
     {
       "author": "Jagannathan et al.",
@@ -6752,7 +6459,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-generation"
       ],
-      "id": 335
+      "id": 321
     },
     {
       "author": "Janssen et al.",
@@ -6772,7 +6479,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 336
+      "id": 322
     },
     {
       "author": "Johannessen",
@@ -6789,7 +6496,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 337
+      "id": 323
     },
     {
       "author": "Johannessen et al.",
@@ -6809,7 +6516,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 338
+      "id": 324
     },
     {
       "author": "Johannessen et al.",
@@ -6831,7 +6538,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 339
+      "id": 325
     },
     {
       "author": "Kar et al.",
@@ -6849,7 +6556,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 340
+      "id": 326
     },
     {
       "author": "",
@@ -6869,7 +6576,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 341
+      "id": 327
     },
     {
       "author": "Lan et al.",
@@ -6892,7 +6599,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 342
+      "id": 328
     },
     {
       "author": "Kastinger et al.",
@@ -6910,7 +6617,29 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-runup"
       ],
-      "id": 343
+      "id": 329
+    },
+    {
+      "author": "Katsardi et al.",
+      "year": 2011,
+      "title": "The evolution of large non-breaking waves in intermediate and shallow water. I. Numerical calculations of uni-directional seas",
+      "filename": "Katsardi_&_Swan_2011_The_evolution_of_large_non-breaking_waves_in_intermediate_and_shallow_water.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+      "doi": "10.1098/rspa.2010.0280",
+      "hasAnnotation": false,
+      "tags": [
+        "directional-spreading",
+        "intermediate-depth",
+        "numerical",
+        "shallow-water",
+        "varying-depth",
+        "wave-breaking",
+        "wave-propagation"
+      ],
+      "id": 330
     },
     {
       "author": "Kesserwani et al.",
@@ -6928,7 +6657,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 344
+      "id": 331
     },
     {
       "author": "Maltz, Frederick H",
@@ -6946,7 +6675,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "thesis"
       ],
-      "id": 345
+      "id": 332
     },
     {
       "author": "Khajehtourian and Hussein",
@@ -6966,7 +6695,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-propagation"
       ],
-      "id": 346
+      "id": 333
     },
     {
       "author": "Khalid et al.",
@@ -6984,7 +6713,7 @@ const LIBRARY_DATA = {
         "comparison",
         "ocean-waves"
       ],
-      "id": 347
+      "id": 334
     },
     {
       "author": "Khayyer et al.",
@@ -7005,7 +6734,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 348
+      "id": 335
     },
     {
       "author": "Khoury et al.",
@@ -7025,7 +6754,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 349
+      "id": 336
     },
     {
       "author": "Khoury et al.",
@@ -7045,7 +6774,7 @@ const LIBRARY_DATA = {
         "numerical",
         "sediment-transport"
       ],
-      "id": 350
+      "id": 337
     },
     {
       "author": "Kimmoun et al.",
@@ -7064,7 +6793,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 351
+      "id": 338
     },
     {
       "author": "Kimmoun et al.",
@@ -7087,7 +6816,27 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 352
+      "id": 339
+    },
+    {
+      "author": "Kim et al.",
+      "year": 1989,
+      "title": "The complete second-order diffraction solution for an axisymmetric body Part 1. Monochromatic incident waves",
+      "filename": "Kim_&_Yue_complete_secondorder_diffraction_solution_for_an_axisymmetric_body_part_1_monochromatic_incident_waves.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Journal of Fluid Mechanics",
+      "doi": "10.1017/s0022112089000649",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "second-order",
+        "varying-depth",
+        "wave-interactions",
+        "wave-propagation"
+      ],
+      "id": 340
     },
     {
       "author": "Kim et al.",
@@ -7107,7 +6856,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 353
+      "id": 341
     },
     {
       "author": "Kim et al.",
@@ -7128,7 +6877,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 354
+      "id": 342
     },
     {
       "author": "Kim et al.",
@@ -7148,7 +6897,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 355
+      "id": 343
     },
     {
       "author": "Kitaigorodskii, S. A.",
@@ -7168,27 +6917,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 356
-    },
-    {
-      "author": "Kjeldsen et al.",
-      "year": 1979,
-      "title": "Breaking Waves in Deep Water and Resulting Wave Forces",
-      "filename": "Kjeldsen_&_Myrhaug_BREAKING_WAVES_IN_DEEP_WATER_AND_RESULTING_WAVE_FORCES.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Offshore Technology Conference",
-      "doi": "10.4043/3646-ms",
-      "hasAnnotation": false,
-      "tags": [
-        "deep-water",
-        "varying-depth",
-        "wave-breaking",
-        "wave-forces",
-        "wave-propagation"
-      ],
-      "id": 357
+      "id": 344
     },
     {
       "author": "Talipova et al.",
@@ -7207,7 +6936,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "shallow-water"
       ],
-      "id": 358
+      "id": 345
     },
     {
       "author": "Knobler et al.",
@@ -7223,7 +6952,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 359
+      "id": 346
     },
     {
       "author": "Krasitskii, Vladimir P.",
@@ -7244,7 +6973,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 360
+      "id": 347
     },
     {
       "author": "Krogstad and Arntsen",
@@ -7262,7 +6991,7 @@ const LIBRARY_DATA = {
         "linear",
         "ocean-waves"
       ],
-      "id": 361
+      "id": 348
     },
     {
       "author": "Krogstad and Arntsen",
@@ -7280,7 +7009,7 @@ const LIBRARY_DATA = {
         "linear",
         "ocean-waves"
       ],
-      "id": 362
+      "id": 349
     },
     {
       "author": "",
@@ -7300,23 +7029,28 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 363
+      "id": 350
     },
     {
-      "author": "Méhauté, Bernard",
-      "year": 1976,
-      "title": "An Introduction to Water Waves",
-      "filename": "La Mehaute (1969)_An Introduction to Hydrodynamics and Water Waves_Volume I_Fundamentals.pdf",
+      "author": "Van Dorn et al.",
+      "year": 1975,
+      "title": "Laboratory Investigation of Wave Breaking. Part 2. Deep Water Waves",
+      "filename": "Kway_Loh_Chan_1998_Laboratory_study_of_deep-water_breaking.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
       "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
-      "journal": "An Introduction to Hydrodynamics and Water Waves",
-      "doi": "10.1007/978-3-642-85567-2_15",
+      "journal": "",
+      "doi": "10.21236/ada013336",
       "hasAnnotation": false,
       "tags": [
-        "ocean-waves"
+        "deep-water",
+        "experimental",
+        "varying-depth",
+        "wave-breaking",
+        "wave-interactions",
+        "wave-propagation"
       ],
-      "id": 364
+      "id": 351
     },
     {
       "author": "Laffitte et al.",
@@ -7335,7 +7069,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 365
+      "id": 352
     },
     {
       "author": "Latheef et al.",
@@ -7357,7 +7091,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 366
+      "id": 353
     },
     {
       "author": "Lawrence et al.",
@@ -7379,7 +7113,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 367
+      "id": 354
     },
     {
       "author": "Le Mehaute, B.",
@@ -7397,7 +7131,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 368
+      "id": 355
     },
     {
       "author": "Le Mehaute, Bernard",
@@ -7417,7 +7151,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 369
+      "id": 356
     },
     {
       "author": "Le Mehaute et al.",
@@ -7437,7 +7171,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 370
+      "id": 357
     },
     {
       "author": "Lee et al.",
@@ -7457,7 +7191,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 371
+      "id": 358
     },
     {
       "author": "Lee et al.",
@@ -7477,7 +7211,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wec"
       ],
-      "id": 372
+      "id": 359
     },
     {
       "author": "Toyoda et al.",
@@ -7497,7 +7231,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-propagation"
       ],
-      "id": 373
+      "id": 360
     },
     {
       "author": "Le Mehaute et al.",
@@ -7517,7 +7251,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 374
+      "id": 361
     },
     {
       "author": "Li et al.",
@@ -7534,7 +7268,7 @@ const LIBRARY_DATA = {
         "energy-dissipation",
         "ocean-waves"
       ],
-      "id": 375
+      "id": 362
     },
     {
       "author": "Li et al.",
@@ -7554,7 +7288,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 376
+      "id": 363
     },
     {
       "author": "Vestbøstad et al.",
@@ -7575,7 +7309,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 377
+      "id": 364
     },
     {
       "author": "",
@@ -7597,27 +7331,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 378
-    },
-    {
-      "author": "",
-      "year": 2015,
-      "title": "Lian_Haver_2015_Measured_crest_height_distribution_compared_to_second_order_distribution",
-      "filename": "Lian_Haver_2015_Measured_crest_height_distribution_compared_to_second_order_distribution.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "crest-height",
-        "second-order",
-        "statistical",
-        "varying-depth",
-        "wave-propagation"
-      ],
-      "id": 379
+      "id": 365
     },
     {
       "author": "Lin et al.",
@@ -7636,7 +7350,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "tsunami"
       ],
-      "id": 380
+      "id": 366
     },
     {
       "author": "Liu et al.",
@@ -7656,7 +7370,7 @@ const LIBRARY_DATA = {
         "platform",
         "wave-forces"
       ],
-      "id": 381
+      "id": 367
     },
     {
       "author": "",
@@ -7677,7 +7391,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 382
+      "id": 368
     },
     {
       "author": "Bitner-Gregersen, E. M.",
@@ -7697,7 +7411,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "statistical"
       ],
-      "id": 383
+      "id": 369
     },
     {
       "author": "Longuet-Higgins, M. S.",
@@ -7715,7 +7429,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 384
+      "id": 370
     },
     {
       "author": "Longuet-Higgins et al.",
@@ -7735,7 +7449,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 385
+      "id": 371
     },
     {
       "author": "",
@@ -7755,7 +7469,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 386
+      "id": 372
     },
     {
       "author": "",
@@ -7775,7 +7489,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 387
+      "id": 373
     },
     {
       "author": "Longuet-Higgins, M. S.",
@@ -7795,7 +7509,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 388
+      "id": 374
     },
     {
       "author": "Ma et al.",
@@ -7814,7 +7528,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-groups"
       ],
-      "id": 389
+      "id": 375
     },
     {
       "author": "",
@@ -7835,7 +7549,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 390
+      "id": 376
     },
     {
       "author": "Lim et al.",
@@ -7857,7 +7571,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 391
+      "id": 377
     },
     {
       "author": "Mackay et al.",
@@ -7877,7 +7591,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 392
+      "id": 378
     },
     {
       "author": "Madsen et al.",
@@ -7898,7 +7612,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 393
+      "id": 379
     },
     {
       "author": "Magkouris, Bonovas and Belibassakis",
@@ -7917,7 +7631,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 394
+      "id": 380
     },
     {
       "author": "Mahalingaiaha et al.",
@@ -7936,7 +7650,7 @@ const LIBRARY_DATA = {
         "offshore",
         "reef"
       ],
-      "id": 395
+      "id": 381
     },
     {
       "author": "Mai et al",
@@ -7955,7 +7669,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 396
+      "id": 382
     },
     {
       "author": "Malenica et al.",
@@ -7975,7 +7689,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 397
+      "id": 383
     },
     {
       "author": "Mayer et al.",
@@ -7995,7 +7709,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 398
+      "id": 384
     },
     {
       "author": "Martins et al.",
@@ -8016,7 +7730,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 399
+      "id": 385
     },
     {
       "author": "",
@@ -8039,7 +7753,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 400
+      "id": 386
     },
     {
       "author": "Masterton et al.",
@@ -8059,7 +7773,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 401
+      "id": 387
     },
     {
       "author": "Matemu et al.",
@@ -8078,7 +7792,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 402
+      "id": 388
     },
     {
       "author": "Ma et al.",
@@ -8098,7 +7812,27 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 403
+      "id": 389
+    },
+    {
+      "author": "Ma et al.",
+      "year": 2001,
+      "title": "Finite element simulation of fully non‐linear interaction between vertical cylinders and steep waves. Part 1: methodology and numerical procedure",
+      "filename": "Ma_et.al_2001_Finite_element_simulation_of_fully_non-linear_interaction_between_vertical_cylinders_and_steep_waves_Part_2.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "International Journal for Numerical Methods in Fluids",
+      "doi": "10.1002/fld.131.abs",
+      "hasAnnotation": false,
+      "tags": [
+        "linear",
+        "numerical",
+        "varying-depth",
+        "vertical-cylinder",
+        "wave-propagation"
+      ],
+      "id": 390
     },
     {
       "author": "Ma et al.",
@@ -8118,7 +7852,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 404
+      "id": 391
     },
     {
       "author": "Ma et al.",
@@ -8138,7 +7872,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 405
+      "id": 392
     },
     {
       "author": "McAllister et al.",
@@ -8159,7 +7893,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 406
+      "id": 393
     },
     {
       "author": "Melito et al.",
@@ -8177,7 +7911,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 407
+      "id": 394
     },
     {
       "author": "Melville, W. K.",
@@ -8197,7 +7931,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 408
+      "id": 395
     },
     {
       "author": "Mendes et al.",
@@ -8217,7 +7951,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 409
+      "id": 396
     },
     {
       "author": "Meucci et al.",
@@ -8235,7 +7969,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 410
+      "id": 397
     },
     {
       "author": "Behrendt et al.",
@@ -8255,7 +7989,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 411
+      "id": 398
     },
     {
       "author": "Whalin, Robert W.",
@@ -8274,7 +8008,7 @@ const LIBRARY_DATA = {
         "linear",
         "ocean-waves"
       ],
-      "id": 412
+      "id": 399
     },
     {
       "author": "Ming et al.",
@@ -8294,7 +8028,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wind-turbine"
       ],
-      "id": 413
+      "id": 400
     },
     {
       "author": "Mohaghegh et al.",
@@ -8314,7 +8048,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 414
+      "id": 401
     },
     {
       "author": "Molin, Bernard",
@@ -8334,7 +8068,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 415
+      "id": 402
     },
     {
       "author": "Molin et al.",
@@ -8354,7 +8088,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 416
+      "id": 403
     },
     {
       "author": "Monaghan et al.",
@@ -8375,7 +8109,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 417
+      "id": 404
     },
     {
       "author": "Morgan et al.",
@@ -8396,7 +8130,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 418
+      "id": 405
     },
     {
       "author": "",
@@ -8416,7 +8150,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 419
+      "id": 406
     },
     {
       "author": "Mo et al.",
@@ -8438,7 +8172,27 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 420
+      "id": 407
+    },
+    {
+      "author": "Kjeldsen et al.",
+      "year": 1979,
+      "title": "Breaking Waves in Deep Water and Resulting Wave Forces",
+      "filename": "Myrhaug_&_Kjeldsen.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Offshore Technology Conference",
+      "doi": "10.4043/3646-ms",
+      "hasAnnotation": false,
+      "tags": [
+        "deep-water",
+        "varying-depth",
+        "wave-breaking",
+        "wave-forces",
+        "wave-propagation"
+      ],
+      "id": 408
     },
     {
       "author": "Myslenkov et al.",
@@ -8457,7 +8211,7 @@ const LIBRARY_DATA = {
         "statistical",
         "storm"
       ],
-      "id": 421
+      "id": 409
     },
     {
       "author": "New et al.",
@@ -8477,7 +8231,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 422
+      "id": 410
     },
     {
       "author": "Nie et al.",
@@ -8496,7 +8250,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 423
+      "id": 411
     },
     {
       "author": "Ning et al.",
@@ -8517,7 +8271,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 424
+      "id": 412
     },
     {
       "author": "Niu et al.",
@@ -8537,7 +8291,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 425
+      "id": 413
     },
     {
       "author": "Mj et al.",
@@ -8558,7 +8312,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 426
+      "id": 414
     },
     {
       "author": "Novakovic et al.",
@@ -8575,7 +8329,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 427
+      "id": 415
     },
     {
       "author": "Oberlies et al.",
@@ -8595,7 +8349,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 428
+      "id": 416
     },
     {
       "author": "Ochi et al.",
@@ -8614,7 +8368,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-propagation"
       ],
-      "id": 429
+      "id": 417
     },
     {
       "author": "Oguzhan et al.",
@@ -8631,7 +8385,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 430
+      "id": 418
     },
     {
       "author": "",
@@ -8651,7 +8405,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 431
+      "id": 419
     },
     {
       "author": "",
@@ -8671,7 +8425,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 432
+      "id": 420
     },
     {
       "author": "Osborne et al.",
@@ -8693,29 +8447,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 433
-    },
-    {
-      "author": "Padilla et al.",
-      "year": 2017,
-      "title": "Transfer and dissipation of energy during wave group propagation on a gentle beach slope",
-      "filename": "Padilla and Alsina (2017)_Transfer and dissipation of energy during wave group.pdf",
-      "category": "10_Numerical_Modelling",
-      "categoryShort": "Numerical Modelling",
-      "color": "#607D8B",
-      "journal": "Journal of Geophysical Research: Oceans",
-      "doi": "10.1002/2017jc012703",
-      "hasAnnotation": false,
-      "tags": [
-        "coastal",
-        "energy-dissipation",
-        "field-data",
-        "numerical",
-        "varying-depth",
-        "wave-groups",
-        "wave-propagation"
-      ],
-      "id": 434
+      "id": 421
     },
     {
       "author": "Panagou et al.",
@@ -8733,7 +8465,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "varying-depth"
       ],
-      "id": 435
+      "id": 422
     },
     {
       "author": "Papadimitriou et al.",
@@ -8750,7 +8482,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "sediment-transport"
       ],
-      "id": 436
+      "id": 423
     },
     {
       "author": "Patel et al.",
@@ -8770,7 +8502,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 437
+      "id": 424
     },
     {
       "author": "Paulik et al.",
@@ -8788,7 +8520,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "tsunami"
       ],
-      "id": 438
+      "id": 425
     },
     {
       "author": "Paulsen et al.",
@@ -8809,7 +8541,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 439
+      "id": 426
     },
     {
       "author": "Paulsen et al.",
@@ -8829,7 +8561,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 440
+      "id": 427
     },
     {
       "author": "Pawlowicz et al.",
@@ -8847,7 +8579,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 441
+      "id": 428
     },
     {
       "author": "Phillips, O. M.",
@@ -8867,7 +8599,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 442
+      "id": 429
     },
     {
       "author": "MITSUYASU et al.",
@@ -8887,7 +8619,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wind-waves"
       ],
-      "id": 443
+      "id": 430
     },
     {
       "author": "Phillips, O. M.",
@@ -8906,7 +8638,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 444
+      "id": 431
     },
     {
       "author": "Phillips et al.",
@@ -8926,7 +8658,27 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 445
+      "id": 432
+    },
+    {
+      "author": "Phillips, O. M.",
+      "year": 1960,
+      "title": "On the dynamics of unsteady gravity waves of finite amplitude Part 1. The elementary interactions",
+      "filename": "Phillips_On_the_dynamics_of_unsteady_gravity_waves_of_finite_amplitude_part_1_the_elementary_interactions.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Journal of Fluid Mechanics",
+      "doi": "10.1017/s0022112060001043",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "coastal",
+        "ocean-waves",
+        "varying-depth",
+        "wave-propagation"
+      ],
+      "id": 433
     },
     {
       "author": "Zheng et al.",
@@ -8950,7 +8702,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 446
+      "id": 434
     },
     {
       "author": "",
@@ -8970,7 +8722,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 447
+      "id": 435
     },
     {
       "author": "Plant et al.",
@@ -8988,7 +8740,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 448
+      "id": 436
     },
     {
       "author": "Jose et al.",
@@ -9009,7 +8761,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 449
+      "id": 437
     },
     {
       "author": "Casas‐Prat et al.",
@@ -9028,7 +8780,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 450
+      "id": 438
     },
     {
       "author": "Puolakka, Otto",
@@ -9045,7 +8797,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 451
+      "id": 439
     },
     {
       "author": "Qi et al.",
@@ -9065,7 +8817,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "regular-waves"
       ],
-      "id": 452
+      "id": 440
     },
     {
       "author": "Qi et al.",
@@ -9083,7 +8835,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "regular-waves"
       ],
-      "id": 453
+      "id": 441
     },
     {
       "author": "Qu et al.",
@@ -9103,7 +8855,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 454
+      "id": 442
     },
     {
       "author": "Qu et al.",
@@ -9124,7 +8876,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wind-waves"
       ],
-      "id": 455
+      "id": 443
     },
     {
       "author": "Raghukumar et al.",
@@ -9141,7 +8893,7 @@ const LIBRARY_DATA = {
         "field-data",
         "ocean-waves"
       ],
-      "id": 456
+      "id": 444
     },
     {
       "author": "Rainey, R. C. T.",
@@ -9161,27 +8913,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 457
-    },
-    {
-      "author": "Rainey, R. C. T.",
-      "year": 2007,
-      "title": "Weak or strong nonlinearity: the vital issue",
-      "filename": "Rainey_2007_Weak_Or_Strong_Nonlinearity_The_Vital-issue.pdf",
-      "category": "05_Wave_Propagation_and_Bathymetry",
-      "categoryShort": "Wave Propagation & Complex Bathymetry",
-      "color": "#4CAF50",
-      "journal": "Journal of Engineering Mathematics",
-      "doi": "10.1007/s10665-006-9126-2",
-      "hasAnnotation": false,
-      "tags": [
-        "linear",
-        "nonlinear",
-        "ocean-waves",
-        "varying-depth",
-        "wave-propagation"
-      ],
-      "id": 458
+      "id": 445
     },
     {
       "author": "Rätsep et al.",
@@ -9199,7 +8931,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 459
+      "id": 446
     },
     {
       "author": "",
@@ -9218,7 +8950,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 460
+      "id": 447
     },
     {
       "author": "Nieto-Reyes, Alicia",
@@ -9234,7 +8966,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 461
+      "id": 448
     },
     {
       "author": "de Ridder et al.",
@@ -9256,7 +8988,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-propagation"
       ],
-      "id": 462
+      "id": 449
     },
     {
       "author": "de Ridder et al.",
@@ -9275,7 +9007,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 463
+      "id": 450
     },
     {
       "author": "Riefolo et al.",
@@ -9295,24 +9027,25 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-groups"
       ],
-      "id": 464
+      "id": 451
     },
     {
-      "author": "Rienecker & Fenton",
+      "author": "Rienecker et al.",
       "year": 1981,
-      "title": "A Fourier approximation method for steady water waves_highlighted",
-      "filename": "Rienecker & Fenton (1981)_A Fourier approximation method for steady water waves_highlighted.pdf",
+      "title": "A Fourier approximation method for steady water waves",
+      "filename": "Rienecker and Fenton (2006)_a-fourier-approximation-method-for-steady-water-waves.pdf",
       "category": "05_Wave_Propagation_and_Bathymetry",
       "categoryShort": "Wave Propagation & Complex Bathymetry",
       "color": "#4CAF50",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
+      "journal": "Journal of Fluid Mechanics",
+      "doi": "10.1017/s0022112081002851",
+      "hasAnnotation": false,
       "tags": [
+        "analytical",
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 465
+      "id": 452
     },
     {
       "author": "Romero et al.",
@@ -9329,7 +9062,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-current"
       ],
-      "id": 466
+      "id": 453
     },
     {
       "author": "",
@@ -9349,7 +9082,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 467
+      "id": 454
     },
     {
       "author": "",
@@ -9369,7 +9102,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 468
+      "id": 455
     },
     {
       "author": "Ross et al.",
@@ -9388,7 +9121,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 469
+      "id": 456
     },
     {
       "author": "Ruckelshaus et al.",
@@ -9405,7 +9138,7 @@ const LIBRARY_DATA = {
         "coastal",
         "ocean-waves"
       ],
-      "id": 470
+      "id": 457
     },
     {
       "author": "Ruessink et al.",
@@ -9423,7 +9156,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 471
+      "id": 458
     },
     {
       "author": "Inamuro, Takaji",
@@ -9443,7 +9176,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 472
+      "id": 459
     },
     {
       "author": "Saha et al.",
@@ -9460,7 +9193,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 473
+      "id": 460
     },
     {
       "author": "Sakai et al.",
@@ -9482,7 +9215,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 474
+      "id": 461
     },
     {
       "author": "Sarkar et al.",
@@ -9498,7 +9231,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 475
+      "id": 462
     },
     {
       "author": "Schendel et al.",
@@ -9520,7 +9253,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 476
+      "id": 463
     },
     {
       "author": "Schreirer and Jacobi",
@@ -9538,7 +9271,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 477
+      "id": 464
     },
     {
       "author": "Schwendeman et al.",
@@ -9556,7 +9289,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 478
+      "id": 465
     },
     {
       "author": "Selden et al.",
@@ -9574,7 +9307,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 479
+      "id": 466
     },
     {
       "author": "Sergievskaya et al.",
@@ -9591,7 +9324,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 480
+      "id": 467
     },
     {
       "author": "Seyffert et al.",
@@ -9610,7 +9343,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 481
+      "id": 468
     },
     {
       "author": "Le Méhauté et al.",
@@ -9631,7 +9364,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 482
+      "id": 469
     },
     {
       "author": "Sharma et al.",
@@ -9654,7 +9387,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 483
+      "id": 470
     },
     {
       "author": "Sheikh et al.",
@@ -9674,7 +9407,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 484
+      "id": 471
     },
     {
       "author": "Shōji et al.",
@@ -9690,7 +9423,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 485
+      "id": 472
     },
     {
       "author": "Simanesew et al.",
@@ -9710,7 +9443,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 486
+      "id": 473
     },
     {
       "author": "Simarro",
@@ -9732,7 +9465,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 487
+      "id": 474
     },
     {
       "author": "Simarro et al.",
@@ -9754,7 +9487,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 488
+      "id": 475
     },
     {
       "author": "Simon et al.",
@@ -9779,7 +9512,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 489
+      "id": 476
     },
     {
       "author": "Skyner, David",
@@ -9804,7 +9537,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 490
+      "id": 477
     },
     {
       "author": "Slunyaev",
@@ -9824,7 +9557,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 491
+      "id": 478
     },
     {
       "author": "Smith et al.",
@@ -9845,7 +9578,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 492
+      "id": 479
     },
     {
       "author": "Sobey, Rodney J.",
@@ -9865,7 +9598,31 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 493
+      "id": 480
+    },
+    {
+      "author": "Spinneken et al.",
+      "year": 2009,
+      "title": "Second-order wave maker theory using force-feedback control. Part I: A new theory for regular wave generation",
+      "filename": "Spinneken_&_Swan_2009_Second-order wave maker theory using force-feedback control. Part I.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Ocean Engineering",
+      "doi": "10.1016/j.oceaneng.2009.01.019",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "experimental",
+        "offshore",
+        "regular-waves",
+        "second-order",
+        "varying-depth",
+        "wave-forces",
+        "wave-generation",
+        "wave-propagation"
+      ],
+      "id": 481
     },
     {
       "author": "Venkatachalam et al.",
@@ -9884,7 +9641,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-interactions"
       ],
-      "id": 494
+      "id": 482
     },
     {
       "author": "Srokosz et al.",
@@ -9904,7 +9661,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 495
+      "id": 483
     },
     {
       "author": "Stagonas et al.",
@@ -9924,7 +9681,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 496
+      "id": 484
     },
     {
       "author": "Stagonas et al.",
@@ -9948,7 +9705,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 497
+      "id": 485
     },
     {
       "author": "Stansberg and Rodrigues",
@@ -9965,7 +9722,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 498
+      "id": 486
     },
     {
       "author": "Stansberg, C. T.",
@@ -9988,7 +9745,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 499
+      "id": 487
     },
     {
       "author": "Stansberg, Carl Trygve",
@@ -10010,7 +9767,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 500
+      "id": 488
     },
     {
       "author": "Stansberg, Carl Trygve",
@@ -10031,7 +9788,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 501
+      "id": 489
     },
     {
       "author": "",
@@ -10051,7 +9808,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 502
+      "id": 490
     },
     {
       "author": "Stansberg et al.",
@@ -10072,7 +9829,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 503
+      "id": 491
     },
     {
       "author": "Shanmugasundaram et al.",
@@ -10092,27 +9849,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 504
-    },
-    {
-      "author": "Michel et al.",
-      "year": 2022,
-      "title": "Statistics of rogue waves in isotropic wave fields",
-      "filename": "Michel et al. (2021)_Statistics of rogue waves in isotropic wave fields.pdf",
-      "category": "08_Rogue_and_Extreme_Waves",
-      "categoryShort": "Rogue & Extreme Waves",
-      "color": "#FF5722",
-      "journal": "Journal of Fluid Mechanics",
-      "doi": "10.1017/jfm.2022.436",
-      "hasAnnotation": false,
-      "tags": [
-        "analytical",
-        "extreme-events",
-        "ocean-waves",
-        "rogue-waves",
-        "statistical"
-      ],
-      "id": 505
+      "id": 492
     },
     {
       "author": "",
@@ -10128,7 +9865,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 506
+      "id": 493
     },
     {
       "author": "Stehno et al.",
@@ -10146,7 +9883,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 507
+      "id": 494
     },
     {
       "author": "Stive, M.J.F.",
@@ -10166,7 +9903,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 508
+      "id": 495
     },
     {
       "author": "Stokes",
@@ -10186,7 +9923,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 509
+      "id": 496
     },
     {
       "author": "",
@@ -10206,7 +9943,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 510
+      "id": 497
     },
     {
       "author": "Storheim et al.",
@@ -10227,7 +9964,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 511
+      "id": 498
     },
     {
       "author": "Sulisz et al.",
@@ -10245,7 +9982,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "second-order"
       ],
-      "id": 512
+      "id": 499
     },
     {
       "author": "Qu et al.",
@@ -10270,7 +10007,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 513
+      "id": 500
     },
     {
       "author": "Filip et al.",
@@ -10290,7 +10027,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 514
+      "id": 501
     },
     {
       "author": "Suzuki et al.",
@@ -10308,7 +10045,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-runup"
       ],
-      "id": 515
+      "id": 502
     },
     {
       "author": "",
@@ -10328,7 +10065,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 516
+      "id": 503
     },
     {
       "author": "SWAN et al.",
@@ -10350,7 +10087,27 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 517
+      "id": 504
+    },
+    {
+      "author": "Sheikh et al.",
+      "year": 2003,
+      "title": "The Interaction Between Steep Waves and a Vertical, Surface-Piercing Column",
+      "filename": "Swan_Sheikh_The_interaction_between_steep_waves_and_a_surface-piercing_column.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Volume 3: Materials Technology; Ocean Engineering; Polar and Arctic Sciences and Technology; Workshops",
+      "doi": "10.1115/omae2003-37154",
+      "hasAnnotation": false,
+      "tags": [
+        "offshore",
+        "varying-depth",
+        "vertical-cylinder",
+        "wave-forces",
+        "wave-propagation"
+      ],
+      "id": 505
     },
     {
       "author": "Swan et al.",
@@ -10370,7 +10127,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 518
+      "id": 506
     },
     {
       "author": "Taklo et al.",
@@ -10388,7 +10145,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 519
+      "id": 507
     },
     {
       "author": "Tanaka et al.",
@@ -10404,7 +10161,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 520
+      "id": 508
     },
     {
       "author": "Tang et al.",
@@ -10424,7 +10181,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "wave-groups"
       ],
-      "id": 521
+      "id": 509
     },
     {
       "author": "Tavakoli et al.",
@@ -10444,7 +10201,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "regular-waves"
       ],
-      "id": 522
+      "id": 510
     },
     {
       "author": "Tay, Zhi Yung",
@@ -10464,7 +10221,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-forces"
       ],
-      "id": 523
+      "id": 511
     },
     {
       "author": "Tayfun et al.",
@@ -10484,7 +10241,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 524
+      "id": 512
     },
     {
       "author": "Thiébaut et al.",
@@ -10503,7 +10260,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 525
+      "id": 513
     },
     {
       "author": "Terziev et al.",
@@ -10523,7 +10280,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 526
+      "id": 514
     },
     {
       "author": "Toffoli et al.",
@@ -10540,7 +10297,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 527
+      "id": 515
     },
     {
       "author": "Toffoli et al.",
@@ -10560,7 +10317,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 528
+      "id": 516
     },
     {
       "author": "Topliss et al.",
@@ -10580,7 +10337,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 529
+      "id": 517
     },
     {
       "author": "",
@@ -10600,7 +10357,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 530
+      "id": 518
     },
     {
       "author": "Minnick et al.",
@@ -10620,7 +10377,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-kinematics"
       ],
-      "id": 531
+      "id": 519
     },
     {
       "author": "Tromans et al.",
@@ -10641,7 +10398,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 532
+      "id": 520
     },
     {
       "author": "",
@@ -10661,7 +10418,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 533
+      "id": 521
     },
     {
       "author": "Trulsen et al.",
@@ -10681,7 +10438,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 534
+      "id": 522
     },
     {
       "author": "Martin, Calin I.",
@@ -10700,7 +10457,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 535
+      "id": 523
     },
     {
       "author": "Tucker, M.J.",
@@ -10720,7 +10477,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 536
+      "id": 524
     },
     {
       "author": "Tucker et al.",
@@ -10742,7 +10499,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 537
+      "id": 525
     },
     {
       "author": "Ulutas",
@@ -10760,7 +10517,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "tsunami"
       ],
-      "id": 538
+      "id": 526
     },
     {
       "author": "van Dongeren et al.",
@@ -10782,7 +10539,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 539
+      "id": 527
     },
     {
       "author": "van Haren, Hans",
@@ -10799,7 +10556,7 @@ const LIBRARY_DATA = {
         "deep-water",
         "ocean-waves"
       ],
-      "id": 540
+      "id": 528
     },
     {
       "author": "van Meerkerk et al.",
@@ -10818,7 +10575,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 541
+      "id": 529
     },
     {
       "author": "Varing et al.",
@@ -10839,7 +10596,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 542
+      "id": 530
     },
     {
       "author": "Oh et al.",
@@ -10859,7 +10616,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 543
+      "id": 531
     },
     {
       "author": "",
@@ -10879,7 +10636,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 544
+      "id": 532
     },
     {
       "author": "Vigsø et al.",
@@ -10898,7 +10655,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 545
+      "id": 533
     },
     {
       "author": "Vinagre et al.",
@@ -10915,7 +10672,7 @@ const LIBRARY_DATA = {
         "energy-dissipation",
         "ocean-waves"
       ],
-      "id": 546
+      "id": 534
     },
     {
       "author": "",
@@ -10935,7 +10692,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 547
+      "id": 535
     },
     {
       "author": "Vinodh et al.",
@@ -10955,7 +10712,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 548
+      "id": 536
     },
     {
       "author": "Viotti et al.",
@@ -10973,7 +10730,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-current"
       ],
-      "id": 549
+      "id": 537
     },
     {
       "author": "",
@@ -10993,7 +10750,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 550
+      "id": 538
     },
     {
       "author": "Walker et al.",
@@ -11014,7 +10771,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 551
+      "id": 539
     },
     {
       "author": "Walker et al.",
@@ -11035,7 +10792,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 552
+      "id": 540
     },
     {
       "author": "Wang et al.",
@@ -11054,7 +10811,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 553
+      "id": 541
     },
     {
       "author": "Wang et al.",
@@ -11072,7 +10829,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 554
+      "id": 542
     },
     {
       "author": "Wang et al.",
@@ -11092,7 +10849,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 555
+      "id": 543
     },
     {
       "author": "Wang et al.",
@@ -11110,7 +10867,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 556
+      "id": 544
     },
     {
       "author": "",
@@ -11127,7 +10884,7 @@ const LIBRARY_DATA = {
         "field-data",
         "ocean-waves"
       ],
-      "id": 557
+      "id": 545
     },
     {
       "author": "Zhang et al.",
@@ -11151,7 +10908,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 558
+      "id": 546
     },
     {
       "author": "",
@@ -11168,7 +10925,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 559
+      "id": 547
     },
     {
       "author": "Schächter, Levi",
@@ -11187,7 +10944,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 560
+      "id": 548
     },
     {
       "author": "Webb et al.",
@@ -11205,7 +10962,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-current"
       ],
-      "id": 561
+      "id": 549
     },
     {
       "author": "Wheeler, J.D.",
@@ -11226,7 +10983,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 562
+      "id": 550
     },
     {
       "author": "Wienke et al.",
@@ -11249,7 +11006,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 563
+      "id": 551
     },
     {
       "author": "Williams et al.",
@@ -11267,7 +11024,7 @@ const LIBRARY_DATA = {
         "review",
         "tsunami"
       ],
-      "id": 564
+      "id": 552
     },
     {
       "author": "",
@@ -11287,7 +11044,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wind-waves"
       ],
-      "id": 565
+      "id": 553
     },
     {
       "author": "Wu et al.",
@@ -11305,7 +11062,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 566
+      "id": 554
     },
     {
       "author": "Wu et al.",
@@ -11326,7 +11083,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 567
+      "id": 555
     },
     {
       "author": "Wyatt et al.",
@@ -11344,7 +11101,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 568
+      "id": 556
     },
     {
       "author": "Xie and Stoesser",
@@ -11364,7 +11121,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-forces"
       ],
-      "id": 569
+      "id": 557
     },
     {
       "author": "Xie, Zhihua",
@@ -11384,7 +11141,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 570
+      "id": 558
     },
     {
       "author": "Xiong et al.",
@@ -11403,7 +11160,28 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 571
+      "id": 559
+    },
+    {
+      "author": "XUE et al.",
+      "year": 2001,
+      "title": "Computations of fully nonlinear three-dimensional wave–wave and wave–body interactions. \nPart 1. Dynamics of steep three-dimensional waves",
+      "filename": "Xue_Xu_Liu_Yue_2001_computations_of_fully_nonlinear_threedimensional_wavewave_and_wavebody_interactions_part_1_dynamics_of_steep_threedimensional_waves.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Journal of Fluid Mechanics",
+      "doi": "10.1017/s0022112001004396",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "linear",
+        "nonlinear",
+        "varying-depth",
+        "wave-interactions",
+        "wave-propagation"
+      ],
+      "id": 560
     },
     {
       "author": "Yang et al.",
@@ -11424,7 +11202,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 572
+      "id": 561
     },
     {
       "author": "Yao et al.",
@@ -11448,7 +11226,7 @@ const LIBRARY_DATA = {
         "wave-runup",
         "wave-shoaling"
       ],
-      "id": 573
+      "id": 562
     },
     {
       "author": "Yao et al.",
@@ -11470,7 +11248,7 @@ const LIBRARY_DATA = {
         "wave-runup",
         "wave-shoaling"
       ],
-      "id": 574
+      "id": 563
     },
     {
       "author": "Yin et al.",
@@ -11489,7 +11267,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 575
+      "id": 564
     },
     {
       "author": "Young and Ribal",
@@ -11507,7 +11285,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wind-waves"
       ],
-      "id": 576
+      "id": 565
     },
     {
       "author": "Yu et al.",
@@ -11527,7 +11305,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 577
+      "id": 566
     },
     {
       "author": "Zakharov, V. E.",
@@ -11547,7 +11325,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 578
+      "id": 567
     },
     {
       "author": "Zaki et al.",
@@ -11565,7 +11343,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-kinematics"
       ],
-      "id": 579
+      "id": 568
     },
     {
       "author": "Mohd Zaki et al.",
@@ -11585,7 +11363,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 580
+      "id": 569
     },
     {
       "author": "Zeng et al.",
@@ -11604,7 +11382,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 581
+      "id": 570
     },
     {
       "author": "Zerbib et al.",
@@ -11623,7 +11401,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wind-waves"
       ],
-      "id": 582
+      "id": 571
     },
     {
       "author": "Zhang et al.",
@@ -11641,7 +11419,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 583
+      "id": 572
     },
     {
       "author": "Zhang et al.",
@@ -11660,7 +11438,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 584
+      "id": 573
     },
     {
       "author": "Zhang et al.",
@@ -11680,7 +11458,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "vertical-cylinder"
       ],
-      "id": 585
+      "id": 574
     },
     {
       "author": "Zhang et al.",
@@ -11700,7 +11478,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 586
+      "id": 575
     },
     {
       "author": "Zhang et al.",
@@ -11720,7 +11498,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 587
+      "id": 576
     },
     {
       "author": "Zhang et al.",
@@ -11737,7 +11515,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 588
+      "id": 577
     },
     {
       "author": "Zhang et al.",
@@ -11757,7 +11535,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-spectrum"
       ],
-      "id": 589
+      "id": 578
     },
     {
       "author": "Zhang et al.",
@@ -11779,7 +11557,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 590
+      "id": 579
     },
     {
       "author": "Zhou et al.",
@@ -11799,7 +11577,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 591
+      "id": 580
     },
     {
       "author": "Zhou et al.",
@@ -11815,7 +11593,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 592
+      "id": 581
     },
     {
       "author": "Zhou et al.",
@@ -11835,7 +11613,30 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 593
+      "id": 582
+    },
+    {
+      "author": "Zhou et al.",
+      "year": 2013,
+      "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
+      "filename": "Zhou_Ning_Teng_Bai_2013_Numerical_investigation_of_wave_radiation_by_a_vertical_cylinder.pdf",
+      "category": "05_Wave_Propagation_and_Bathymetry",
+      "categoryShort": "Wave Propagation & Complex Bathymetry",
+      "color": "#4CAF50",
+      "journal": "Ocean Engineering",
+      "doi": "10.1016/j.oceaneng.2013.04.019",
+      "hasAnnotation": false,
+      "tags": [
+        "linear",
+        "nonlinear",
+        "numerical",
+        "offshore",
+        "varying-depth",
+        "vertical-cylinder",
+        "wave-forces",
+        "wave-propagation"
+      ],
+      "id": 583
     },
     {
       "author": "Zhu et al.",
@@ -11856,7 +11657,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 594
+      "id": 584
     },
     {
       "author": "Zijlema et al.",
@@ -11876,7 +11677,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 595
+      "id": 585
     },
     {
       "author": "Zuo et al.",
@@ -11892,7 +11693,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 596
+      "id": 586
     },
     {
       "author": "Lykke Andersen et al.",
@@ -11913,7 +11714,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 597
+      "id": 587
     },
     {
       "author": "Baldock et al.",
@@ -11933,27 +11734,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 598
-    },
-    {
-      "author": "",
-      "year": 1999,
-      "title": "Baldock, Simmonds_1999_Separation of incident and reflected waves over sloping bathymetry-annotated",
-      "filename": "Baldock, Simmonds_1999_Separation of incident and reflected waves over sloping bathymetry-annotated.pdf",
-      "category": "06_Reflection_Analysis",
-      "categoryShort": "Reflection Analysis",
-      "color": "#FF9800",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "experimental",
-        "ocean-waves",
-        "spectral-analysis",
-        "varying-depth",
-        "wave-reflection"
-      ],
-      "id": 599
+      "id": 588
     },
     {
       "author": "Christou et al.",
@@ -11973,7 +11754,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-reflection"
       ],
-      "id": 600
+      "id": 589
     },
     {
       "author": "Draycott et al.",
@@ -11994,7 +11775,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 601
+      "id": 590
     },
     {
       "author": "Draycott et al.",
@@ -12014,7 +11795,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 602
+      "id": 591
     },
     {
       "author": "Røge Eldrup et al.",
@@ -12036,13 +11817,13 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 603
+      "id": 592
     },
     {
       "author": "Frigaard et al.",
       "year": 1995,
       "title": "A time-domain method for separating incident and reflected irregular waves",
-      "filename": "Frigaard, Brorsen_1995_A time-domain method for separating incident and reflected irregular waves-annotated.pdf",
+      "filename": "Frigaard, Peter Bak, Michael_1993_A Time-Domain Method for Separating Incident and Reflected Irregular Waves Frigaard , Peter Bak Brors-annotated.pdf",
       "category": "06_Reflection_Analysis",
       "categoryShort": "Reflection Analysis",
       "color": "#FF9800",
@@ -12056,7 +11837,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 604
+      "id": 593
     },
     {
       "author": "Grønbech et al.",
@@ -12076,7 +11857,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 605
+      "id": 594
     },
     {
       "author": "Huang et al.",
@@ -12097,7 +11878,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 606
+      "id": 595
     },
     {
       "author": "Huang et al.",
@@ -12117,27 +11898,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-reflection"
       ],
-      "id": 607
-    },
-    {
-      "author": "",
-      "year": 1993,
-      "title": "Hughes_1993_Laboratory wave reflection analysis using co-located gages-annotated",
-      "filename": "Hughes_1993_Laboratory wave reflection analysis using co-located gages-annotated.pdf",
-      "category": "06_Reflection_Analysis",
-      "categoryShort": "Reflection Analysis",
-      "color": "#FF9800",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "analysis",
-        "experimental",
-        "ocean-waves",
-        "spectral-analysis",
-        "wave-reflection"
-      ],
-      "id": 608
+      "id": 596
     },
     {
       "author": "Inch et al.",
@@ -12157,7 +11918,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 609
+      "id": 597
     },
     {
       "author": "Isaacson, Michael",
@@ -12177,7 +11938,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 610
+      "id": 598
     },
     {
       "author": "Klopman et al.",
@@ -12197,7 +11958,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 611
+      "id": 599
     },
     {
       "author": "Li et al.",
@@ -12217,13 +11978,13 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 612
+      "id": 600
     },
     {
       "author": "Lin et al.",
       "year": 2004,
       "title": "Decomposition of incident and reflected higher harmonic waves using four wave gauges",
-      "filename": "Lin & Huang (2004)_Decomposition of incident and reflected higher harmonic waves using four wave gauges-annotated.pdf",
+      "filename": "Lin & Huang (2004)_Decomposition of incident and reflected higher harmonic waves using four wave gauges-annotated_highlighted.pdf",
       "category": "06_Reflection_Analysis",
       "categoryShort": "Reflection Analysis",
       "color": "#FF9800",
@@ -12237,7 +11998,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 613
+      "id": 601
     },
     {
       "author": "Liu et al.",
@@ -12258,27 +12019,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 614
-    },
-    {
-      "author": "",
-      "year": 2013,
-      "title": "Liu, Li_2013_Wave reflection and transmission by porous breakwaters A new analytical solution-annotated",
-      "filename": "Liu, Li_2013_Wave reflection and transmission by porous breakwaters A new analytical solution-annotated.pdf",
-      "category": "06_Reflection_Analysis",
-      "categoryShort": "Reflection Analysis",
-      "color": "#FF9800",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "analytical",
-        "breakwater",
-        "numerical",
-        "ocean-waves",
-        "wave-reflection"
-      ],
-      "id": 615
+      "id": 602
     },
     {
       "author": "Lykke Andersen et al.",
@@ -12298,7 +12039,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 616
+      "id": 603
     },
     {
       "author": "Lykke Andersen et al.",
@@ -12319,7 +12060,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 617
+      "id": 604
     },
     {
       "author": "Ma et al.",
@@ -12339,7 +12080,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 618
+      "id": 605
     },
     {
       "author": "Ma et al.",
@@ -12361,7 +12102,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 619
+      "id": 606
     },
     {
       "author": "Mansard et al.",
@@ -12381,7 +12122,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 620
+      "id": 607
     },
     {
       "author": "Martins et al.",
@@ -12401,7 +12142,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 621
+      "id": 608
     },
     {
       "author": "Medina, Josep R.",
@@ -12421,28 +12162,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 622
-    },
-    {
-      "author": "Nallayarasu et al.",
-      "year": 1995,
-      "title": "Estimation of incident and reflected waves in regular wave experiments",
-      "filename": "Nallarayasu et al. (1995)_Estimation of indicent and reflected waves in regular wave experiments.pdf",
-      "category": "14_Books",
-      "categoryShort": "Books",
-      "color": "#9E9E9E",
-      "journal": "Ocean Engineering",
-      "doi": "10.1016/0029-8018(93)e0011-g",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "experimental",
-        "offshore",
-        "regular-waves",
-        "wave-forces",
-        "wave-reflection"
-      ],
-      "id": 623
+      "id": 609
     },
     {
       "author": "Ni et al.",
@@ -12462,7 +12182,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-reflection"
       ],
-      "id": 624
+      "id": 610
     },
     {
       "author": "",
@@ -12482,13 +12202,13 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-reflection"
       ],
-      "id": 625
+      "id": 611
     },
     {
       "author": "Padilla et al.",
       "year": 2020,
       "title": "A general framework for wave separation in the frequency domain",
-      "filename": "Padilla & Alsina (2020)_A general framework for wave separation in the frequency domain.pdf",
+      "filename": "Padilla & Alsina (2020)_A general framework for wave separation in the frequency domain_notes.pdf",
       "category": "06_Reflection_Analysis",
       "categoryShort": "Reflection Analysis",
       "color": "#FF9800",
@@ -12502,47 +12222,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 626
-    },
-    {
-      "author": "",
-      "year": 2020,
-      "title": "Padilla, Alsina_2020_A general framework for wave separation in the frequency domain-annotated",
-      "filename": "Padilla, Alsina_2020_A general framework for wave separation in the frequency domain-annotated.pdf",
-      "category": "06_Reflection_Analysis",
-      "categoryShort": "Reflection Analysis",
-      "color": "#FF9800",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "coastal",
-        "experimental",
-        "ocean-waves",
-        "spectral-analysis",
-        "wave-reflection"
-      ],
-      "id": 627
-    },
-    {
-      "author": "",
-      "year": 2022,
-      "title": "Padilla, Alsina_2022_Assessment and improvement of the wave generation accuracy using a wave separation method-annotated",
-      "filename": "Padilla, Alsina_2022_Assessment and improvement of the wave generation accuracy using a wave separation method-annotated.pdf",
-      "category": "06_Reflection_Analysis",
-      "categoryShort": "Reflection Analysis",
-      "color": "#FF9800",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "comparison",
-        "experimental",
-        "ocean-waves",
-        "wave-generation",
-        "wave-reflection"
-      ],
-      "id": 628
+      "id": 612
     },
     {
       "author": "Elsayed, Mohamed A.K.",
@@ -12564,7 +12244,7 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wind-waves"
       ],
-      "id": 629
+      "id": 613
     },
     {
       "author": "Romolo et al.",
@@ -12584,7 +12264,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-reflection"
       ],
-      "id": 630
+      "id": 614
     },
     {
       "author": "Serafino et al.",
@@ -12604,7 +12284,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-reflection"
       ],
-      "id": 631
+      "id": 615
     },
     {
       "author": "Suh et al.",
@@ -12625,7 +12305,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 632
+      "id": 616
     },
     {
       "author": "Voermans et al.",
@@ -12645,7 +12325,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 633
+      "id": 617
     },
     {
       "author": "Wennker and Hofland",
@@ -12665,7 +12345,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-reflection"
       ],
-      "id": 634
+      "id": 618
     },
     {
       "author": "Zanuttigh et al.",
@@ -12685,27 +12365,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 635
-    },
-    {
-      "author": "",
-      "year": 2008,
-      "title": "Zanuttigh, van der Meer_2008_Wave reflection from coastal structures in design conditions-annotated",
-      "filename": "Zanuttigh, van der Meer_2008_Wave reflection from coastal structures in design conditions-annotated.pdf",
-      "category": "06_Reflection_Analysis",
-      "categoryShort": "Reflection Analysis",
-      "color": "#FF9800",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": true,
-      "tags": [
-        "coastal",
-        "experimental",
-        "ocean-waves",
-        "wave-forces",
-        "wave-reflection"
-      ],
-      "id": 636
+      "id": 619
     },
     {
       "author": "Zelt et al.",
@@ -12725,7 +12385,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 637
+      "id": 620
     },
     {
       "author": "Gouin et al.",
@@ -12747,7 +12407,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-spectrum"
       ],
-      "id": 638
+      "id": 621
     },
     {
       "author": "Adcock et al.",
@@ -12771,7 +12431,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-spectrum"
       ],
-      "id": 639
+      "id": 622
     },
     {
       "author": "Benoit",
@@ -12791,7 +12451,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 640
+      "id": 623
     },
     {
       "author": "Smith et al.",
@@ -12811,7 +12471,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 641
+      "id": 624
     },
     {
       "author": "Benoit et al.",
@@ -12834,7 +12494,29 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-spectrum"
       ],
-      "id": 642
+      "id": 625
+    },
+    {
+      "author": "Draycott et al.",
+      "year": 2016,
+      "title": "The SPAIR method: Isolating incident and reflected directional wave spectra in multidirectional wave basins",
+      "filename": "Benoit et al. (1997)_Analyzing multidirectional wave spectra_a tentative classification of available methods.PDF",
+      "category": "07_Wave_Spectra_and_Directionality",
+      "categoryShort": "Wave Spectra & Directionality",
+      "color": "#00BCD4",
+      "journal": "Coastal Engineering",
+      "doi": "10.1016/j.coastaleng.2016.04.012",
+      "hasAnnotation": false,
+      "tags": [
+        "coastal",
+        "directional-spreading",
+        "experimental",
+        "spectral-analysis",
+        "wave-propagation",
+        "wave-reflection",
+        "wave-spectrum"
+      ],
+      "id": 626
     },
     {
       "author": "Bouws et al.",
@@ -12854,7 +12536,7 @@ const LIBRARY_DATA = {
         "wave-spectrum",
         "wind-waves"
       ],
-      "id": 643
+      "id": 627
     },
     {
       "author": "Carter et al.",
@@ -12871,7 +12553,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 644
+      "id": 628
     },
     {
       "author": "Mei et al.",
@@ -12891,7 +12573,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-spectrum"
       ],
-      "id": 645
+      "id": 629
     },
     {
       "author": "Cousins, Onorato and Chabchoub",
@@ -12913,7 +12595,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-spectrum"
       ],
-      "id": 646
+      "id": 630
     },
     {
       "author": "Ducrozet et al.",
@@ -12933,7 +12615,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 647
+      "id": 631
     },
     {
       "author": "Ducrozet et al.",
@@ -12954,7 +12636,27 @@ const LIBRARY_DATA = {
         "unidirectional",
         "wave-spectrum"
       ],
-      "id": 648
+      "id": 632
+    },
+    {
+      "author": "Ewans, Kevin C.",
+      "year": 1998,
+      "title": "Observations of the Directional Spectrum of Fetch-Limited Waves",
+      "filename": "Ewans (1998)_Observations of the Directional Spectrum of Fetch-Limited Waves.pdf",
+      "category": "07_Wave_Spectra_and_Directionality",
+      "categoryShort": "Wave Spectra & Directionality",
+      "color": "#00BCD4",
+      "journal": "Journal of Physical Oceanography",
+      "doi": "10.1175/1520-0485(1998)028<0495:ootdso>2.0.co;2",
+      "hasAnnotation": false,
+      "tags": [
+        "directional-spreading",
+        "field-data",
+        "spectral-analysis",
+        "wave-interactions",
+        "wave-spectrum"
+      ],
+      "id": 633
     },
     {
       "author": "Gatin et al.",
@@ -12977,27 +12679,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-spectrum"
       ],
-      "id": 649
-    },
-    {
-      "author": "Hasselmann et al.",
-      "year": 1991,
-      "title": "Field measurements of wave-induced pressure over wind-sea and swell",
-      "filename": "Hasselmann et al. - 1973 - Measurements of Wind-Wave Growth and Swell Decay during the Joint North Sea Wave Project (JONSWAP).pdf",
-      "category": "07_Wave_Spectra_and_Directionality",
-      "categoryShort": "Wave Spectra & Directionality",
-      "color": "#00BCD4",
-      "journal": "Journal of Fluid Mechanics",
-      "doi": "10.1017/s0022112091000848",
-      "hasAnnotation": false,
-      "tags": [
-        "analytical",
-        "field-data",
-        "swell",
-        "wave-spectrum",
-        "wind-waves"
-      ],
-      "id": 650
+      "id": 634
     },
     {
       "author": "Huang et al.",
@@ -13017,7 +12699,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 651
+      "id": 635
     },
     {
       "author": "Huang et al.",
@@ -13037,7 +12719,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 652
+      "id": 636
     },
     {
       "author": "Hughes, Steven A.",
@@ -13057,7 +12739,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 653
+      "id": 637
     },
     {
       "author": "Gřegoř, Adam",
@@ -13077,7 +12759,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-spectrum"
       ],
-      "id": 654
+      "id": 638
     },
     {
       "author": "Karmpardakis_Swan_Latheef_Christou_",
@@ -13097,7 +12779,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-spectrum"
       ],
-      "id": 655
+      "id": 639
     },
     {
       "author": "Lenain et al.",
@@ -13118,7 +12800,7 @@ const LIBRARY_DATA = {
         "wave-spectrum",
         "wind-waves"
       ],
-      "id": 656
+      "id": 640
     },
     {
       "author": "Lin et al.",
@@ -13139,7 +12821,7 @@ const LIBRARY_DATA = {
         "wave-spectrum",
         "wind-waves"
       ],
-      "id": 657
+      "id": 641
     },
     {
       "author": "Ma et al.",
@@ -13160,7 +12842,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-spectrum"
       ],
-      "id": 658
+      "id": 642
     },
     {
       "author": "Yang Li et al.",
@@ -13181,7 +12863,7 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wave-spectrum"
       ],
-      "id": 659
+      "id": 643
     },
     {
       "author": "Luo et al.",
@@ -13204,7 +12886,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-spectrum"
       ],
-      "id": 660
+      "id": 644
     },
     {
       "author": "Nwogu, Okey",
@@ -13224,7 +12906,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 661
+      "id": 645
     },
     {
       "author": "Liu et al.",
@@ -13246,7 +12928,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-spectrum"
       ],
-      "id": 662
+      "id": 646
     },
     {
       "author": "Papadimitriou et al.",
@@ -13267,7 +12949,7 @@ const LIBRARY_DATA = {
         "wave-runup",
         "wave-spectrum"
       ],
-      "id": 663
+      "id": 647
     },
     {
       "author": "Pierson et al.",
@@ -13287,7 +12969,7 @@ const LIBRARY_DATA = {
         "wave-spectrum",
         "wind-waves"
       ],
-      "id": 664
+      "id": 648
     },
     {
       "author": "Ribeiro et al.",
@@ -13307,7 +12989,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 665
+      "id": 649
     },
     {
       "author": "Rocha et al.",
@@ -13329,7 +13011,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 666
+      "id": 650
     },
     {
       "author": "Rueda-Bayona et al.",
@@ -13349,7 +13031,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-spectrum"
       ],
-      "id": 667
+      "id": 651
     },
     {
       "author": "Rupali et al.",
@@ -13369,7 +13051,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-spectrum"
       ],
-      "id": 668
+      "id": 652
     },
     {
       "author": "Saprykina et al.",
@@ -13387,7 +13069,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 669
+      "id": 653
     },
     {
       "author": "Stagonas et al.",
@@ -13410,7 +13092,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-spectrum"
       ],
-      "id": 670
+      "id": 654
     },
     {
       "author": "Toffoli et al.",
@@ -13433,7 +13115,7 @@ const LIBRARY_DATA = {
         "third-order",
         "wave-spectrum"
       ],
-      "id": 671
+      "id": 655
     },
     {
       "author": "",
@@ -13455,7 +13137,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "wave-spectrum"
       ],
-      "id": 672
+      "id": 656
     },
     {
       "author": "Mase et al.",
@@ -13475,7 +13157,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-spectrum"
       ],
-      "id": 673
+      "id": 657
     },
     {
       "author": "Wang et al.",
@@ -13498,7 +13180,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-spectrum"
       ],
-      "id": 674
+      "id": 658
     },
     {
       "author": "Waseda et al.",
@@ -13515,7 +13197,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 675
+      "id": 659
     },
     {
       "author": "Waseda et al.",
@@ -13535,13 +13217,13 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-spectrum"
       ],
-      "id": 676
+      "id": 660
     },
     {
       "author": "Young, Ian R.",
       "year": 2017,
       "title": "Regular, Irregular Waves and the Wave Spectrum",
-      "filename": "Young (2017)_Regular, Irregular Waves and the Wave Spectrum.pdf",
+      "filename": "Young (2017)_Regular, Irregular Waves and the Wave Spectrum_v2.pdf",
       "category": "07_Wave_Spectra_and_Directionality",
       "categoryShort": "Wave Spectra & Directionality",
       "color": "#00BCD4",
@@ -13555,7 +13237,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-spectrum"
       ],
-      "id": 677
+      "id": 661
     },
     {
       "author": "Yu et al.",
@@ -13575,7 +13257,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-spectrum"
       ],
-      "id": 678
+      "id": 662
     },
     {
       "author": "Fang et al.",
@@ -13595,7 +13277,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 679
+      "id": 663
     },
     {
       "author": "Onorato et al.",
@@ -13615,7 +13297,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 680
+      "id": 664
     },
     {
       "author": "Abroug et al.",
@@ -13636,7 +13318,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 681
+      "id": 665
     },
     {
       "author": "Adcock et al.",
@@ -13657,28 +13339,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-groups"
       ],
-      "id": 682
-    },
-    {
-      "author": "",
-      "year": 2015,
-      "title": "Adcock, Taylor, Draper_2015_Nonlinear dynamics of wave-groups in random seas Unexpected walls of water in the open ocean",
-      "filename": "Adcock, Taylor, Draper_2015_Nonlinear dynamics of wave-groups in random seas Unexpected walls of water in the open ocean.pdf",
-      "category": "08_Rogue_and_Extreme_Waves",
-      "categoryShort": "Rogue & Extreme Waves",
-      "color": "#FF5722",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "deep-water",
-        "linear",
-        "nonlinear",
-        "random-waves",
-        "rogue-waves",
-        "wave-groups"
-      ],
-      "id": 683
+      "id": 666
     },
     {
       "author": "Fedele et al.",
@@ -13696,7 +13357,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "storm"
       ],
-      "id": 684
+      "id": 667
     },
     {
       "author": "Benetazzo et al.",
@@ -13716,7 +13377,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 685
+      "id": 668
     },
     {
       "author": "Benjamin, Thomas Brooke",
@@ -13736,7 +13397,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 686
+      "id": 669
     },
     {
       "author": "Benjamin et al.",
@@ -13756,7 +13417,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 687
+      "id": 670
     },
     {
       "author": "Buldakov et al.",
@@ -13777,7 +13438,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-groups"
       ],
-      "id": 688
+      "id": 671
     },
     {
       "author": "Cattrell et al.",
@@ -13797,7 +13458,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 689
+      "id": 672
     },
     {
       "author": "Cattrell et al.",
@@ -13817,7 +13478,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 690
+      "id": 673
     },
     {
       "author": "Chabchoub et al.",
@@ -13837,7 +13498,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-propagation"
       ],
-      "id": 691
+      "id": 674
     },
     {
       "author": "Cueto and Otero",
@@ -13857,7 +13518,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-reflection"
       ],
-      "id": 692
+      "id": 675
     },
     {
       "author": "Dematteis et al.",
@@ -13877,7 +13538,7 @@ const LIBRARY_DATA = {
         "review",
         "rogue-waves"
       ],
-      "id": 693
+      "id": 676
     },
     {
       "author": "Dias and Bridges",
@@ -13897,7 +13558,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 694
+      "id": 677
     },
     {
       "author": "Doeleman",
@@ -13917,7 +13578,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 695
+      "id": 678
     },
     {
       "author": "Dong et al.",
@@ -13937,7 +13598,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 696
+      "id": 679
     },
     {
       "author": "Ducrozet et al.",
@@ -13957,7 +13618,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 697
+      "id": 680
     },
     {
       "author": "Dudley et al.",
@@ -13977,7 +13638,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-generation"
       ],
-      "id": 698
+      "id": 681
     },
     {
       "author": "Dysthe, K. B.",
@@ -13997,7 +13658,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "rogue-waves"
       ],
-      "id": 699
+      "id": 682
     },
     {
       "author": "Fedele, Francesco",
@@ -14017,7 +13678,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 700
+      "id": 683
     },
     {
       "author": "Eeltink et al.",
@@ -14037,7 +13698,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 701
+      "id": 684
     },
     {
       "author": "Fernandez et al.",
@@ -14057,7 +13718,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 702
+      "id": 685
     },
     {
       "author": "Guo et al.",
@@ -14078,7 +13739,7 @@ const LIBRARY_DATA = {
         "numerical",
         "rogue-waves"
       ],
-      "id": 703
+      "id": 686
     },
     {
       "author": "Guo et al.",
@@ -14098,7 +13759,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 704
+      "id": 687
     },
     {
       "author": "Hafner et al.",
@@ -14118,7 +13779,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 705
+      "id": 688
     },
     {
       "author": "Helal et al.",
@@ -14138,7 +13799,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 706
+      "id": 689
     },
     {
       "author": "Janssen, Peter A. E. M.",
@@ -14158,7 +13819,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 707
+      "id": 690
     },
     {
       "author": "Kashima et al.",
@@ -14178,7 +13839,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 708
+      "id": 691
     },
     {
       "author": "Kokorina et al.",
@@ -14198,7 +13859,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "rogue-waves"
       ],
-      "id": 709
+      "id": 692
     },
     {
       "author": "El Koussaifi et al.",
@@ -14218,7 +13879,7 @@ const LIBRARY_DATA = {
         "review",
         "rogue-waves"
       ],
-      "id": 710
+      "id": 693
     },
     {
       "author": "",
@@ -14238,7 +13899,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "varying-depth"
       ],
-      "id": 711
+      "id": 694
     },
     {
       "author": "Li, Shui and Huang",
@@ -14258,7 +13919,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 712
+      "id": 695
     },
     {
       "author": "Liao et al.",
@@ -14278,7 +13939,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 713
+      "id": 696
     },
     {
       "author": "Liu, Yang Y and Yang W",
@@ -14297,7 +13958,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "regular-waves"
       ],
-      "id": 714
+      "id": 697
     },
     {
       "author": "Lu et al.",
@@ -14316,7 +13977,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-groups"
       ],
-      "id": 715
+      "id": 698
     },
     {
       "author": "Luo et al.",
@@ -14336,7 +13997,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-forces"
       ],
-      "id": 716
+      "id": 699
     },
     {
       "author": "Luxmoore et al.",
@@ -14356,7 +14017,7 @@ const LIBRARY_DATA = {
         "extreme-events",
         "rogue-waves"
       ],
-      "id": 717
+      "id": 700
     },
     {
       "author": "Mendes et al.",
@@ -14376,7 +14037,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 718
+      "id": 701
     },
     {
       "author": "Mendes & Scotti",
@@ -14396,7 +14057,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 719
+      "id": 702
     },
     {
       "author": "Mendes",
@@ -14416,7 +14077,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 720
+      "id": 703
     },
     {
       "author": "",
@@ -14436,7 +14097,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 721
+      "id": 704
     },
     {
       "author": "Mendes et al.",
@@ -14456,7 +14117,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 722
+      "id": 705
     },
     {
       "author": "Mendes et al.",
@@ -14476,7 +14137,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 723
+      "id": 706
     },
     {
       "author": "Mendes et al.",
@@ -14496,7 +14157,27 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-shoaling"
       ],
-      "id": 724
+      "id": 707
+    },
+    {
+      "author": "Michel et al.",
+      "year": 2022,
+      "title": "Statistics of rogue waves in isotropic wave fields",
+      "filename": "Michel et al. (2021)_Statistics of rogue waves in isotropic wave fields.pdf",
+      "category": "08_Rogue_and_Extreme_Waves",
+      "categoryShort": "Rogue & Extreme Waves",
+      "color": "#FF5722",
+      "journal": "Journal of Fluid Mechanics",
+      "doi": "10.1017/jfm.2022.436",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "extreme-events",
+        "ocean-waves",
+        "rogue-waves",
+        "statistical"
+      ],
+      "id": 708
     },
     {
       "author": "",
@@ -14516,7 +14197,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "spectral-analysis"
       ],
-      "id": 725
+      "id": 709
     },
     {
       "author": "Peng et al.",
@@ -14536,7 +14217,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 726
+      "id": 710
     },
     {
       "author": "Sapsis, Themistoklis P.",
@@ -14556,7 +14237,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 727
+      "id": 711
     },
     {
       "author": "WU et al.",
@@ -14576,7 +14257,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 728
+      "id": 712
     },
     {
       "author": "Sehic",
@@ -14596,7 +14277,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 729
+      "id": 713
     },
     {
       "author": "Slunyaev et al.",
@@ -14616,7 +14297,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-groups"
       ],
-      "id": 730
+      "id": 714
     },
     {
       "author": "Stansell, Paul",
@@ -14636,7 +14317,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 731
+      "id": 715
     },
     {
       "author": "Sun et al.",
@@ -14656,7 +14337,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 732
+      "id": 716
     },
     {
       "author": "Sun et al.",
@@ -14677,7 +14358,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 733
+      "id": 717
     },
     {
       "author": "Tang et al.",
@@ -14700,7 +14381,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-propagation"
       ],
-      "id": 734
+      "id": 718
     },
     {
       "author": "Teutsch et al.",
@@ -14720,7 +14401,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "statistical"
       ],
-      "id": 735
+      "id": 719
     },
     {
       "author": "Toffoli et al.",
@@ -14740,7 +14421,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wind-waves"
       ],
-      "id": 736
+      "id": 720
     },
     {
       "author": "Zaman et al.",
@@ -14760,7 +14441,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 737
+      "id": 721
     },
     {
       "author": "Trulsen et al.",
@@ -14780,7 +14461,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "varying-depth"
       ],
-      "id": 738
+      "id": 722
     },
     {
       "author": "Walker et al.",
@@ -14800,7 +14481,7 @@ const LIBRARY_DATA = {
         "offshore",
         "rogue-waves"
       ],
-      "id": 739
+      "id": 723
     },
     {
       "author": "Wang et al.",
@@ -14820,7 +14501,7 @@ const LIBRARY_DATA = {
         "rogue-waves",
         "wave-interactions"
       ],
-      "id": 740
+      "id": 724
     },
     {
       "author": "Wang et al.",
@@ -14840,7 +14521,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "rogue-waves"
       ],
-      "id": 741
+      "id": 725
     },
     {
       "author": "Wang et al.",
@@ -14860,7 +14541,7 @@ const LIBRARY_DATA = {
         "numerical",
         "rogue-waves"
       ],
-      "id": 742
+      "id": 726
     },
     {
       "author": "Watanabe et al.",
@@ -14878,7 +14559,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-groups"
       ],
-      "id": 743
+      "id": 727
     },
     {
       "author": "Whittaker et al.",
@@ -14900,7 +14581,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-runup"
       ],
-      "id": 744
+      "id": 728
     },
     {
       "author": "Xie et al.",
@@ -14920,7 +14601,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 745
+      "id": 729
     },
     {
       "author": "Ying et al.",
@@ -14941,7 +14622,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-current"
       ],
-      "id": 746
+      "id": 730
     },
     {
       "author": "Zhang et al.",
@@ -14964,7 +14645,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 747
+      "id": 731
     },
     {
       "author": "Zhang et al.",
@@ -14984,7 +14665,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 748
+      "id": 732
     },
     {
       "author": "Zhang et al.",
@@ -15003,7 +14684,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-groups"
       ],
-      "id": 749
+      "id": 733
     },
     {
       "author": "Zhang et al.",
@@ -15025,7 +14706,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-current"
       ],
-      "id": 750
+      "id": 734
     },
     {
       "author": "Adcock et al.",
@@ -15045,7 +14726,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "wave-generation"
       ],
-      "id": 751
+      "id": 735
     },
     {
       "author": "",
@@ -15065,7 +14746,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 752
+      "id": 736
     },
     {
       "author": "Eldrup et al.",
@@ -15085,7 +14766,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "ocean-waves"
       ],
-      "id": 753
+      "id": 737
     },
     {
       "author": "Feng et al.",
@@ -15105,7 +14786,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 754
+      "id": 738
     },
     {
       "author": "Fitzgerald et al.",
@@ -15125,7 +14806,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 755
+      "id": 739
     },
     {
       "author": "Jang and Sung",
@@ -15145,7 +14826,7 @@ const LIBRARY_DATA = {
         "linear",
         "nonlinear"
       ],
-      "id": 756
+      "id": 740
     },
     {
       "author": "Malek-Mohammadi and Testik",
@@ -15165,7 +14846,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-generation"
       ],
-      "id": 757
+      "id": 741
     },
     {
       "author": "Mortimer et al.",
@@ -15185,7 +14866,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-groups"
       ],
-      "id": 758
+      "id": 742
     },
     {
       "author": "Nikseresht and Bingham",
@@ -15205,7 +14886,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-generation"
       ],
-      "id": 759
+      "id": 743
     },
     {
       "author": "ONORATO et al.",
@@ -15225,7 +14906,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-generation"
       ],
-      "id": 760
+      "id": 744
     },
     {
       "author": "Padilla et al.",
@@ -15245,7 +14926,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-reflection"
       ],
-      "id": 761
+      "id": 745
     },
     {
       "author": "Pierella et al.",
@@ -15268,30 +14949,7 @@ const LIBRARY_DATA = {
         "wave-generation",
         "wave-spectrum"
       ],
-      "id": 762
-    },
-    {
-      "author": "",
-      "year": 2021,
-      "title": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their effect on the wave spectrum",
-      "filename": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their effect on the wave spectrum.pdf",
-      "category": "09_Laboratory_Wave_Generation",
-      "categoryShort": "Lab Generation",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "experimental",
-        "irregular-waves",
-        "linear",
-        "nonlinear",
-        "regular-waves",
-        "spectral-analysis",
-        "wave-generation",
-        "wave-spectrum"
-      ],
-      "id": 763
+      "id": 746
     },
     {
       "author": "Schäffer, Hemming A.",
@@ -15313,7 +14971,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-forces"
       ],
-      "id": 764
+      "id": 747
     },
     {
       "author": "Schäffer et al.",
@@ -15334,7 +14992,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-forces"
       ],
-      "id": 765
+      "id": 748
     },
     {
       "author": "Sriram et al.",
@@ -15355,7 +15013,7 @@ const LIBRARY_DATA = {
         "second-order",
         "wave-groups"
       ],
-      "id": 766
+      "id": 749
     },
     {
       "author": "",
@@ -15372,7 +15030,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 767
+      "id": 750
     },
     {
       "author": "",
@@ -15391,7 +15049,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 768
+      "id": 751
     },
     {
       "author": "Baldock & Swan",
@@ -15407,7 +15065,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 769
+      "id": 752
     },
     {
       "author": "Baldock",
@@ -15427,27 +15085,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-groups"
       ],
-      "id": 770
-    },
-    {
-      "author": "Baldock",
-      "year": 2004,
-      "title": "Dynamics of a Transient Wave Group Breaking on a Beach_v2",
-      "filename": "Baldock (2004)_Dynamics of a Transient Wave Group Breaking on a Beach_v2.pdf",
-      "category": "10_Numerical_Modelling",
-      "categoryShort": "Numerical Modelling",
-      "color": "#607D8B",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "coastal",
-        "numerical",
-        "ocean-waves",
-        "wave-breaking",
-        "wave-groups"
-      ],
-      "id": 771
+      "id": 753
     },
     {
       "author": "Baldock et al.",
@@ -15465,7 +15103,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "offshore"
       ],
-      "id": 772
+      "id": 754
     },
     {
       "author": "Baldock et al.",
@@ -15486,7 +15124,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 773
+      "id": 755
     },
     {
       "author": "Baldock, Swan and Taylor",
@@ -15502,7 +15140,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 774
+      "id": 756
     },
     {
       "author": "Bosboom et al.",
@@ -15523,7 +15161,7 @@ const LIBRARY_DATA = {
         "wave-kinematics",
         "wave-propagation"
       ],
-      "id": 775
+      "id": 757
     },
     {
       "author": "Chang et al.",
@@ -15543,7 +15181,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 776
+      "id": 758
     },
     {
       "author": "Chen et al.",
@@ -15564,7 +15202,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 777
+      "id": 759
     },
     {
       "author": "Cheng et al.",
@@ -15584,7 +15222,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 778
+      "id": 760
     },
     {
       "author": "Choi et al.",
@@ -15604,7 +15242,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 779
+      "id": 761
     },
     {
       "author": "Dang et al.",
@@ -15624,7 +15262,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 780
+      "id": 762
     },
     {
       "author": "Higuera et al.",
@@ -15644,7 +15282,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 781
+      "id": 763
     },
     {
       "author": "Donahue et al.",
@@ -15662,7 +15300,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 782
+      "id": 764
     },
     {
       "author": "Fang et al.",
@@ -15682,7 +15320,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 783
+      "id": 765
     },
     {
       "author": "Gao et al.",
@@ -15702,7 +15340,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-forces"
       ],
-      "id": 784
+      "id": 766
     },
     {
       "author": "Gao et al.",
@@ -15722,7 +15360,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-propagation"
       ],
-      "id": 785
+      "id": 767
     },
     {
       "author": "Gao et al.",
@@ -15742,7 +15380,24 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 786
+      "id": 768
+    },
+    {
+      "author": "Gibson et al.",
+      "year": 2007,
+      "title": "The evolution of large ocean waves: the role of local and rapid spectral changes",
+      "filename": "Gibson and Swan (2007)_The evolution of large ocean waves_The role of local and rapid spectral changes.pdf",
+      "category": "10_Numerical_Modelling",
+      "categoryShort": "Numerical Modelling",
+      "color": "#607D8B",
+      "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+      "doi": "10.1098/rspa.2006.1729",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves",
+        "spectral-analysis"
+      ],
+      "id": 769
     },
     {
       "author": "Giorgi et al.",
@@ -15764,7 +15419,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wec"
       ],
-      "id": 787
+      "id": 770
     },
     {
       "author": "",
@@ -15780,7 +15435,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 788
+      "id": 771
     },
     {
       "author": "Amrutha et al.",
@@ -15800,7 +15455,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 789
+      "id": 772
     },
     {
       "author": "Hu et al.",
@@ -15818,7 +15473,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 790
+      "id": 773
     },
     {
       "author": "Huang et al.",
@@ -15838,7 +15493,7 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-propagation"
       ],
-      "id": 791
+      "id": 774
     },
     {
       "author": "Leiteritz et al.",
@@ -15855,7 +15510,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 792
+      "id": 775
     },
     {
       "author": "Izquierdo et al.",
@@ -15875,7 +15530,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 793
+      "id": 776
     },
     {
       "author": "Jang, T.S.",
@@ -15895,7 +15550,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 794
+      "id": 777
     },
     {
       "author": "Jang, T.S.",
@@ -15915,7 +15570,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 795
+      "id": 778
     },
     {
       "author": "",
@@ -15934,7 +15589,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-groups"
       ],
-      "id": 796
+      "id": 779
     },
     {
       "author": "Khait et al.",
@@ -15954,7 +15609,7 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-breaking"
       ],
-      "id": 797
+      "id": 780
     },
     {
       "author": "",
@@ -15976,7 +15631,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 798
+      "id": 781
     },
     {
       "author": "Latheef and Swan",
@@ -15995,7 +15650,27 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 799
+      "id": 782
+    },
+    {
+      "author": "Latheef, Swan and Spinneken",
+      "year": 2017,
+      "title": "A laboratory study of nonlinear changes in the directionality of extreme seas",
+      "filename": "Latheef, Swan and Spinneken (2017)_A laboratory study of nonlinear changes in the directionality of extreme seas.pdf",
+      "category": "10_Numerical_Modelling",
+      "categoryShort": "Numerical Modelling",
+      "color": "#607D8B",
+      "journal": "",
+      "doi": "",
+      "hasAnnotation": false,
+      "tags": [
+        "directional-spreading",
+        "experimental",
+        "extreme-events",
+        "linear",
+        "nonlinear"
+      ],
+      "id": 783
     },
     {
       "author": "Liu et al.",
@@ -16016,7 +15691,7 @@ const LIBRARY_DATA = {
         "numerical",
         "shallow-water"
       ],
-      "id": 800
+      "id": 784
     },
     {
       "author": "Liu et al.",
@@ -16035,7 +15710,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-generation"
       ],
-      "id": 801
+      "id": 785
     },
     {
       "author": "Liu et al.",
@@ -16056,7 +15731,7 @@ const LIBRARY_DATA = {
         "numerical",
         "second-order"
       ],
-      "id": 802
+      "id": 786
     },
     {
       "author": "Luo et al.",
@@ -16076,7 +15751,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 803
+      "id": 787
     },
     {
       "author": "MADSEN et al.",
@@ -16096,7 +15771,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-runup"
       ],
-      "id": 804
+      "id": 788
     },
     {
       "author": "Madsen et al.",
@@ -16117,7 +15792,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "numerical"
       ],
-      "id": 805
+      "id": 789
     },
     {
       "author": "Marchesi et al.",
@@ -16140,7 +15815,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wec"
       ],
-      "id": 806
+      "id": 790
     },
     {
       "author": "Mean et al.",
@@ -16160,7 +15835,7 @@ const LIBRARY_DATA = {
         "simulation",
         "wave-propagation"
       ],
-      "id": 807
+      "id": 791
     },
     {
       "author": "Miquel et al.",
@@ -16180,7 +15855,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-generation"
       ],
-      "id": 808
+      "id": 792
     },
     {
       "author": "Mohapatra et al.",
@@ -16202,7 +15877,51 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-propagation"
       ],
-      "id": 809
+      "id": 793
+    },
+    {
+      "author": "Mohapatra et al.",
+      "year": 2020,
+      "title": "Boussinesq Model and CFD Simulations of Non-Linear Wave Diffraction by a Floating Vertical Cylinder",
+      "filename": "Mohapatra et al. (2020v2)_Boussinesq Model and CFD Simulations of Non-Linear Wave Diffraction by a Floating Vertical Cylinder.pdf",
+      "category": "10_Numerical_Modelling",
+      "categoryShort": "Numerical Modelling",
+      "color": "#607D8B",
+      "journal": "Journal of Marine Science and Engineering",
+      "doi": "10.3390/jmse8080575",
+      "hasAnnotation": false,
+      "tags": [
+        "boussinesq",
+        "linear",
+        "modelling",
+        "nonlinear",
+        "numerical",
+        "vertical-cylinder",
+        "wave-propagation"
+      ],
+      "id": 794
+    },
+    {
+      "author": "Padilla et al.",
+      "year": 2017,
+      "title": "Transfer and dissipation of energy during wave group propagation on a gentle beach slope",
+      "filename": "Padilla and Alsina (2017)_Transfer and dissipation of energy during wave group.pdf",
+      "category": "10_Numerical_Modelling",
+      "categoryShort": "Numerical Modelling",
+      "color": "#607D8B",
+      "journal": "Journal of Geophysical Research: Oceans",
+      "doi": "10.1002/2017jc012703",
+      "hasAnnotation": false,
+      "tags": [
+        "coastal",
+        "energy-dissipation",
+        "field-data",
+        "numerical",
+        "varying-depth",
+        "wave-groups",
+        "wave-propagation"
+      ],
+      "id": 795
     },
     {
       "author": "Pizzo et al.",
@@ -16222,7 +15941,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-breaking"
       ],
-      "id": 810
+      "id": 796
     },
     {
       "author": "Peregrine et al.",
@@ -16239,7 +15958,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 811
+      "id": 797
     },
     {
       "author": "Pradlhan et al.",
@@ -16258,7 +15977,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "sediment-transport"
       ],
-      "id": 812
+      "id": 798
     },
     {
       "author": "Sedigh et al.",
@@ -16276,7 +15995,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 813
+      "id": 799
     },
     {
       "author": "Shrineash et al.",
@@ -16296,7 +16015,26 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 814
+      "id": 800
+    },
+    {
+      "author": "Sheikh et al.",
+      "year": 2003,
+      "title": "The Interaction Between Steep Waves and a Vertical, Surface-Piercing Column",
+      "filename": "Swan & Sheikh (2015)_The interaction between steep waves and a surface-piercing column.pdf",
+      "category": "10_Numerical_Modelling",
+      "categoryShort": "Numerical Modelling",
+      "color": "#607D8B",
+      "journal": "Volume 3: Materials Technology; Ocean Engineering; Polar and Arctic Sciences and Technology; Workshops",
+      "doi": "10.1115/omae2003-37154",
+      "hasAnnotation": false,
+      "tags": [
+        "ocean-waves",
+        "offshore",
+        "vertical-cylinder",
+        "wave-forces"
+      ],
+      "id": 801
     },
     {
       "author": "Tran et al.",
@@ -16319,7 +16057,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-shoaling"
       ],
-      "id": 815
+      "id": 802
     },
     {
       "author": "Vijay et al.",
@@ -16339,7 +16077,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 816
+      "id": 803
     },
     {
       "author": "de Vos et al.",
@@ -16358,7 +16096,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 817
+      "id": 804
     },
     {
       "author": "Wang and Wan",
@@ -16378,7 +16116,7 @@ const LIBRARY_DATA = {
         "simulation",
         "wave-propagation"
       ],
-      "id": 818
+      "id": 805
     },
     {
       "author": "Wei et al.",
@@ -16399,7 +16137,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "numerical"
       ],
-      "id": 819
+      "id": 806
     },
     {
       "author": "Yan et al.",
@@ -16420,7 +16158,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 820
+      "id": 807
     },
     {
       "author": "Yao et al.",
@@ -16440,7 +16178,7 @@ const LIBRARY_DATA = {
         "offshore",
         "reef"
       ],
-      "id": 821
+      "id": 808
     },
     {
       "author": "Zhang and Li",
@@ -16458,7 +16196,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 822
+      "id": 809
     },
     {
       "author": "Zhang et al.",
@@ -16479,7 +16217,7 @@ const LIBRARY_DATA = {
         "numerical",
         "offshore"
       ],
-      "id": 823
+      "id": 810
     },
     {
       "author": "Zhao et al.",
@@ -16499,7 +16237,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-interactions"
       ],
-      "id": 824
+      "id": 811
     },
     {
       "author": "Liu et al.",
@@ -16519,7 +16257,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 825
+      "id": 812
     },
     {
       "author": "de Almeida et al.",
@@ -16539,7 +16277,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 826
+      "id": 813
     },
     {
       "author": "Altomare et al.",
@@ -16559,7 +16297,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 827
+      "id": 814
     },
     {
       "author": "Andersen et al.",
@@ -16577,7 +16315,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 828
+      "id": 815
     },
     {
       "author": "Al-Ani et al.",
@@ -16595,7 +16333,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 829
+      "id": 816
     },
     {
       "author": "Battjes, J.A.",
@@ -16616,7 +16354,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-propagation"
       ],
-      "id": 830
+      "id": 817
     },
     {
       "author": "de Beer et al.",
@@ -16637,7 +16375,7 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wave-runup"
       ],
-      "id": 831
+      "id": 818
     },
     {
       "author": "Bertram et al.",
@@ -16655,7 +16393,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wec"
       ],
-      "id": 832
+      "id": 819
     },
     {
       "author": "Bettess et al.",
@@ -16675,7 +16413,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 833
+      "id": 820
     },
     {
       "author": "Chang et al.",
@@ -16695,7 +16433,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 834
+      "id": 821
     },
     {
       "author": "Chen et al.",
@@ -16713,7 +16451,7 @@ const LIBRARY_DATA = {
         "breakwater",
         "ocean-waves"
       ],
-      "id": 835
+      "id": 822
     },
     {
       "author": "Chen et al.",
@@ -16735,7 +16473,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 836
+      "id": 823
     },
     {
       "author": "Chen et al.",
@@ -16756,7 +16494,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 837
+      "id": 824
     },
     {
       "author": "Dan et al.",
@@ -16776,7 +16514,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-runup"
       ],
-      "id": 838
+      "id": 825
     },
     {
       "author": "Uhlirova et al.",
@@ -16794,7 +16532,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 839
+      "id": 826
     },
     {
       "author": "Fang et al.",
@@ -16815,7 +16553,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-runup"
       ],
-      "id": 840
+      "id": 827
     },
     {
       "author": "Formentin et al.",
@@ -16835,7 +16573,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 841
+      "id": 828
     },
     {
       "author": "Frantzis et al.",
@@ -16856,7 +16594,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 842
+      "id": 829
     },
     {
       "author": "",
@@ -16874,7 +16612,7 @@ const LIBRARY_DATA = {
         "modelling",
         "ocean-waves"
       ],
-      "id": 843
+      "id": 830
     },
     {
       "author": "Han et al.",
@@ -16894,7 +16632,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 844
+      "id": 831
     },
     {
       "author": "Hedges et al.",
@@ -16914,7 +16652,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 845
+      "id": 832
     },
     {
       "author": "Hernández-Fontes et al.",
@@ -16932,7 +16670,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 846
+      "id": 833
     },
     {
       "author": "Hu et al.",
@@ -16953,7 +16691,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 847
+      "id": 834
     },
     {
       "author": "Huang et al.",
@@ -16974,7 +16712,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 848
+      "id": 835
     },
     {
       "author": "Jeong et al.",
@@ -16995,7 +16733,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 849
+      "id": 836
     },
     {
       "author": "Kimmoun et al.",
@@ -17015,7 +16753,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 850
+      "id": 837
     },
     {
       "author": "Koley",
@@ -17033,7 +16771,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 851
+      "id": 838
     },
     {
       "author": "Konispoliatis et al.",
@@ -17051,7 +16789,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 852
+      "id": 839
     },
     {
       "author": "Donnelly et al.",
@@ -17071,7 +16809,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 853
+      "id": 840
     },
     {
       "author": "Lancaster et al.",
@@ -17093,7 +16831,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wec"
       ],
-      "id": 854
+      "id": 841
     },
     {
       "author": "Li et al.",
@@ -17112,7 +16850,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 855
+      "id": 842
     },
     {
       "author": "Liu and Li",
@@ -17129,7 +16867,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 856
+      "id": 843
     },
     {
       "author": "Liu et al.",
@@ -17147,27 +16885,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 857
-    },
-    {
-      "author": "Longuet-Higgins and Stewart",
-      "year": 1964,
-      "title": "Radiation stresses in water waves; a physical discussion, with applications",
-      "filename": "Longuet-Higgins and Stewart (1964)_Radiation stresses in water waves; a physical discussion, with applications.pdf",
-      "category": "11_Wave_Structure_Interactions",
-      "categoryShort": "Wave-Structure Interactions",
-      "color": "#8BC34A",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "modelling",
-        "ocean-waves",
-        "offshore",
-        "wave-forces",
-        "wave-setup"
-      ],
-      "id": 858
+      "id": 844
     },
     {
       "author": "Lucio et al.",
@@ -17187,7 +16905,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 859
+      "id": 845
     },
     {
       "author": "Wan et al.",
@@ -17208,7 +16926,7 @@ const LIBRARY_DATA = {
         "wec",
         "wind-waves"
       ],
-      "id": 860
+      "id": 846
     },
     {
       "author": "Ma et al.",
@@ -17228,7 +16946,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-interactions"
       ],
-      "id": 861
+      "id": 847
     },
     {
       "author": "Ma et al.",
@@ -17248,7 +16966,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 862
+      "id": 848
     },
     {
       "author": "Malliouri et al.",
@@ -17267,7 +16985,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 863
+      "id": 849
     },
     {
       "author": "Manam and Sivanesan",
@@ -17284,7 +17002,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 864
+      "id": 850
     },
     {
       "author": "Masoumi",
@@ -17304,7 +17022,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wec"
       ],
-      "id": 865
+      "id": 851
     },
     {
       "author": "Molin, B.",
@@ -17323,7 +17041,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 866
+      "id": 852
     },
     {
       "author": "Molines et al.",
@@ -17344,7 +17062,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 867
+      "id": 853
     },
     {
       "author": "Nematollahi et al.",
@@ -17364,7 +17082,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 868
+      "id": 854
     },
     {
       "author": "Neshat et al.",
@@ -17382,7 +17100,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wec"
       ],
-      "id": 869
+      "id": 855
     },
     {
       "author": "Nouri et al.",
@@ -17401,7 +17119,7 @@ const LIBRARY_DATA = {
         "offshore",
         "platform"
       ],
-      "id": 870
+      "id": 856
     },
     {
       "author": "Portillo et al.",
@@ -17421,7 +17139,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wec"
       ],
-      "id": 871
+      "id": 857
     },
     {
       "author": "Santo et al.",
@@ -17441,7 +17159,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 872
+      "id": 858
     },
     {
       "author": "Ma et al.",
@@ -17461,7 +17179,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 873
+      "id": 859
     },
     {
       "author": "Shih et al",
@@ -17480,7 +17198,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 874
+      "id": 860
     },
     {
       "author": "Sun et al.",
@@ -17501,7 +17219,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 875
+      "id": 861
     },
     {
       "author": "Tabssum et al.",
@@ -17519,7 +17237,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 876
+      "id": 862
     },
     {
       "author": "Tao, Jianhua",
@@ -17539,7 +17257,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 877
+      "id": 863
     },
     {
       "author": "Tseng et al.",
@@ -17557,7 +17275,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 878
+      "id": 864
     },
     {
       "author": "van Bergeijk et al.",
@@ -17577,7 +17295,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 879
+      "id": 865
     },
     {
       "author": "van Gent, Marcel R.A.",
@@ -17597,7 +17315,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 880
+      "id": 866
     },
     {
       "author": "Mohapatra et al.",
@@ -17615,7 +17333,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-interactions"
       ],
-      "id": 881
+      "id": 867
     },
     {
       "author": "Vijay et al.",
@@ -17633,7 +17351,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 882
+      "id": 868
     },
     {
       "author": "McDougal et al.",
@@ -17653,7 +17371,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-setup"
       ],
-      "id": 883
+      "id": 869
     },
     {
       "author": "Ramirez, Jorge",
@@ -17673,7 +17391,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 884
+      "id": 870
     },
     {
       "author": "Wuppukondur et al.",
@@ -17693,7 +17411,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 885
+      "id": 871
     },
     {
       "author": "Xie et al.",
@@ -17713,7 +17431,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-runup"
       ],
-      "id": 886
+      "id": 872
     },
     {
       "author": "Zhao et al.",
@@ -17733,7 +17451,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 887
+      "id": 873
     },
     {
       "author": "Zhao et al.",
@@ -17753,7 +17471,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-forces"
       ],
-      "id": 888
+      "id": 874
     },
     {
       "author": "Zhou et al.",
@@ -17776,7 +17494,7 @@ const LIBRARY_DATA = {
         "wind-turbine",
         "wind-waves"
       ],
-      "id": 889
+      "id": 875
     },
     {
       "author": "Abreu et al.",
@@ -17794,7 +17512,29 @@ const LIBRARY_DATA = {
         "coastal",
         "ocean-waves"
       ],
-      "id": 890
+      "id": 876
+    },
+    {
+      "author": "",
+      "year": 2020,
+      "title": "Comments on \"Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone\" by Abroug et al.",
+      "filename": "Abroug et al. - 2020 - Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone(2)-annotated.pdf",
+      "category": "12_Shallow_Water_and_Nearshore",
+      "categoryShort": "Shallow & Nearshore Waves",
+      "color": "#009688",
+      "journal": "",
+      "doi": "10.5194/nhess-2020-209-rc2",
+      "hasAnnotation": true,
+      "tags": [
+        "experimental",
+        "extreme-events",
+        "linear",
+        "nonlinear",
+        "shallow-water",
+        "wave-groups",
+        "wave-interactions"
+      ],
+      "id": 877
     },
     {
       "author": "Carandell et al.",
@@ -17812,7 +17552,7 @@ const LIBRARY_DATA = {
         "field-data",
         "ocean-waves"
       ],
-      "id": 891
+      "id": 878
     },
     {
       "author": "Atkinson et al.",
@@ -17832,7 +17572,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 892
+      "id": 879
     },
     {
       "author": "Baldock and Torres-Freyermuth",
@@ -17852,7 +17592,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-propagation"
       ],
-      "id": 893
+      "id": 880
     },
     {
       "author": "Baldock et al.",
@@ -17871,7 +17611,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 894
+      "id": 881
     },
     {
       "author": "Baldock et al.",
@@ -17888,7 +17628,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 895
+      "id": 882
     },
     {
       "author": "Bayle et al.",
@@ -17910,7 +17650,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 896
+      "id": 883
     },
     {
       "author": "van Bemmelen et al.",
@@ -17929,7 +17669,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "wave-propagation"
       ],
-      "id": 897
+      "id": 884
     },
     {
       "author": "Bennis et al.",
@@ -17949,7 +17689,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-current"
       ],
-      "id": 898
+      "id": 885
     },
     {
       "author": "Birrien et al.",
@@ -17969,7 +17709,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "shallow-water"
       ],
-      "id": 899
+      "id": 886
     },
     {
       "author": "Cheng et al.",
@@ -17989,7 +17729,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 900
+      "id": 887
     },
     {
       "author": "Sanjana et al.",
@@ -18009,7 +17749,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-breaking"
       ],
-      "id": 901
+      "id": 888
     },
     {
       "author": "Elgar et al.",
@@ -18028,7 +17768,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 902
+      "id": 889
     },
     {
       "author": "Gardner",
@@ -18049,7 +17789,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 903
+      "id": 890
     },
     {
       "author": "Hansen, J.Buhr",
@@ -18069,7 +17809,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 904
+      "id": 891
     },
     {
       "author": "Huntley et al.",
@@ -18089,7 +17829,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 905
+      "id": 892
     },
     {
       "author": "Ijima, Takeshi",
@@ -18109,7 +17849,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wind-waves"
       ],
-      "id": 906
+      "id": 893
     },
     {
       "author": "Jaramillo et al.",
@@ -18128,7 +17868,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 907
+      "id": 894
     },
     {
       "author": "Kang et al.",
@@ -18149,7 +17889,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-forces"
       ],
-      "id": 908
+      "id": 895
     },
     {
       "author": "Karczewska et al.",
@@ -18169,7 +17909,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "varying-depth"
       ],
-      "id": 909
+      "id": 896
     },
     {
       "author": "Kamchatnov, Anatoly",
@@ -18189,7 +17929,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 910
+      "id": 897
     },
     {
       "author": "Lashley et al.",
@@ -18209,7 +17949,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 911
+      "id": 898
     },
     {
       "author": "Lee, Haegyun",
@@ -18229,7 +17969,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "varying-depth"
       ],
-      "id": 912
+      "id": 899
     },
     {
       "author": "Li et al.",
@@ -18249,7 +17989,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 913
+      "id": 900
     },
     {
       "author": "Li et al.",
@@ -18269,7 +18009,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 914
+      "id": 901
     },
     {
       "author": "Nayak et al.",
@@ -18289,7 +18029,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-forces"
       ],
-      "id": 915
+      "id": 902
     },
     {
       "author": "Sergeeva et al.",
@@ -18309,7 +18049,7 @@ const LIBRARY_DATA = {
         "random-waves",
         "shallow-water"
       ],
-      "id": 916
+      "id": 903
     },
     {
       "author": "Power et al.",
@@ -18329,7 +18069,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-height-distribution"
       ],
-      "id": 917
+      "id": 904
     },
     {
       "author": "Power et al.",
@@ -18346,7 +18086,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "surf-zone"
       ],
-      "id": 918
+      "id": 905
     },
     {
       "author": "Quataert et al.",
@@ -18368,7 +18108,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-runup"
       ],
-      "id": 919
+      "id": 906
     },
     {
       "author": "Reguero et al.",
@@ -18385,7 +18125,7 @@ const LIBRARY_DATA = {
         "coastal",
         "ocean-waves"
       ],
-      "id": 920
+      "id": 907
     },
     {
       "author": "Shaffer",
@@ -18404,7 +18144,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-height-distribution"
       ],
-      "id": 921
+      "id": 908
     },
     {
       "author": "Toro, Eleuterio F.",
@@ -18424,7 +18164,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 922
+      "id": 909
     },
     {
       "author": "Sreelakshmi et al.",
@@ -18444,7 +18184,7 @@ const LIBRARY_DATA = {
         "swell",
         "wave-propagation"
       ],
-      "id": 923
+      "id": 910
     },
     {
       "author": "Stringari et al.",
@@ -18464,7 +18204,7 @@ const LIBRARY_DATA = {
         "surf-zone",
         "wave-propagation"
       ],
-      "id": 924
+      "id": 911
     },
     {
       "author": "Thompson et al.",
@@ -18482,7 +18222,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 925
+      "id": 912
     },
     {
       "author": "Thorell",
@@ -18502,7 +18242,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "shallow-water"
       ],
-      "id": 926
+      "id": 913
     },
     {
       "author": "Wang and Geng",
@@ -18522,7 +18262,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-forces"
       ],
-      "id": 927
+      "id": 914
     },
     {
       "author": "Wang et al.",
@@ -18542,7 +18282,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "stokes-theory"
       ],
-      "id": 928
+      "id": 915
     },
     {
       "author": "",
@@ -18562,7 +18302,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 929
+      "id": 916
     },
     {
       "author": "",
@@ -18582,7 +18322,27 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 930
+      "id": 917
+    },
+    {
+      "author": "",
+      "year": 2024,
+      "title": "Data Analysis Methods in Physical Oceanography",
+      "filename": "Appendix-B---Glossary-of-statistical_2001_Data-Analysis-Methods-in-Physical-.pdf",
+      "category": "13_Signal_Processing_and_Statistics",
+      "categoryShort": "Signal Processing",
+      "color": "#673AB7",
+      "journal": "",
+      "doi": "10.1016/c2021-0-00298-4",
+      "hasAnnotation": false,
+      "tags": [
+        "analysis",
+        "ocean-waves",
+        "signal-processing",
+        "spectral-analysis",
+        "statistical"
+      ],
+      "id": 918
     },
     {
       "author": "",
@@ -18602,7 +18362,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 931
+      "id": 919
     },
     {
       "author": "Plueddemann, Al",
@@ -18622,7 +18382,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 932
+      "id": 920
     },
     {
       "author": "",
@@ -18642,7 +18402,27 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 933
+      "id": 921
+    },
+    {
+      "author": "",
+      "year": 2018,
+      "title": "The analysis of duration data",
+      "filename": "Appendix-F---Approximations-and-nondimensiona_2001_Data-Analysis-Methods-in-.pdf",
+      "category": "13_Signal_Processing_and_Statistics",
+      "categoryShort": "Signal Processing",
+      "color": "#673AB7",
+      "journal": "Quantitative Longitudinal Data Analysis",
+      "doi": "10.5040/9781350188884.0011",
+      "hasAnnotation": false,
+      "tags": [
+        "analysis",
+        "ocean-waves",
+        "signal-processing",
+        "spectral-analysis",
+        "statistical"
+      ],
+      "id": 922
     },
     {
       "author": "Barros et al.",
@@ -18662,7 +18442,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 934
+      "id": 923
     },
     {
       "author": "",
@@ -18678,7 +18458,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 935
+      "id": 924
     },
     {
       "author": "Brunton et al.",
@@ -18695,7 +18475,27 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 936
+      "id": 925
+    },
+    {
+      "author": "",
+      "year": 2024,
+      "title": "Data Analysis Methods in Physical Oceanography",
+      "filename": "Chapter-2---Data-Processing-and-Pre_2001_Data-Analysis-Methods-in-Physical-O.pdf",
+      "category": "13_Signal_Processing_and_Statistics",
+      "categoryShort": "Signal Processing",
+      "color": "#673AB7",
+      "journal": "",
+      "doi": "10.1016/c2021-0-00298-4",
+      "hasAnnotation": false,
+      "tags": [
+        "analysis",
+        "ocean-waves",
+        "signal-processing",
+        "spectral-analysis",
+        "statistical"
+      ],
+      "id": 926
     },
     {
       "author": "Kelley et al.",
@@ -18715,7 +18515,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 937
+      "id": 927
     },
     {
       "author": "Cooley and Tukey",
@@ -18735,7 +18535,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 938
+      "id": 928
     },
     {
       "author": "Efron",
@@ -18755,7 +18555,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 939
+      "id": 929
     },
     {
       "author": "Goswami et al.",
@@ -18771,7 +18571,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 940
+      "id": 930
     },
     {
       "author": "Harris, F.J.",
@@ -18791,7 +18591,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wind-waves"
       ],
-      "id": 941
+      "id": 931
     },
     {
       "author": "Haselsteiner et al.",
@@ -18807,7 +18607,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 942
+      "id": 932
     },
     {
       "author": "Lindgren, George",
@@ -18823,7 +18623,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 943
+      "id": 933
     },
     {
       "author": "Lindgren, Georg",
@@ -18839,7 +18639,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 944
+      "id": 934
     },
     {
       "author": "Mandal et al.",
@@ -18859,7 +18659,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 945
+      "id": 935
     },
     {
       "author": "",
@@ -18879,7 +18679,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 946
+      "id": 936
     },
     {
       "author": "Tayfun, M. Aziz",
@@ -18899,7 +18699,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-height-distribution"
       ],
-      "id": 947
+      "id": 937
     },
     {
       "author": "",
@@ -18919,7 +18719,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 948
+      "id": 938
     },
     {
       "author": "",
@@ -18937,13 +18737,31 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 949
+      "id": 939
     },
     {
-      "author": "Andersen, Eldrup, Frigaard",
-      "year": 2020,
-      "title": "Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves",
-      "filename": "Andersen, Eldrup, Frigaard - 2020 - Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves.pdf",
+      "author": "",
+      "year": 1975,
+      "title": "Shore protection manual",
+      "filename": "Shore Protection Manual Volume 2.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "",
+      "doi": "10.5962/bhl.title.47830",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference"
+      ],
+      "id": 940
+    },
+    {
+      "author": "Athanassoulis, Belibassakis",
+      "year": 1999,
+      "title": "A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b",
+      "filename": "Athanassoulis, Belibassakis - 1999 - A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b.pdf",
       "category": "14_Books",
       "categoryShort": "Books",
       "color": "#9E9E9E",
@@ -18951,11 +18769,13 @@ const LIBRARY_DATA = {
       "doi": "",
       "hasAnnotation": false,
       "tags": [
+        "analytical",
         "book-chapter",
         "ocean-waves",
-        "reference"
+        "reference",
+        "wave-propagation"
       ],
-      "id": 950
+      "id": 941
     },
     {
       "author": "",
@@ -18973,7 +18793,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 951
+      "id": 942
     },
     {
       "author": "",
@@ -18991,7 +18811,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 952
+      "id": 943
     },
     {
       "author": "",
@@ -19009,25 +18829,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 953
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "baldock2",
-      "filename": "baldock2.pdf",
-      "category": "14_Books",
-      "categoryShort": "Books",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference"
-      ],
-      "id": 954
+      "id": 944
     },
     {
       "author": "",
@@ -19045,7 +18847,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 955
+      "id": 945
     },
     {
       "author": "Bender et al.",
@@ -19065,7 +18867,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-shoaling"
       ],
-      "id": 956
+      "id": 946
     },
     {
       "author": "Vrbancich, Julian",
@@ -19082,7 +18884,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 957
+      "id": 947
     },
     {
       "author": "Boccotti et al.",
@@ -19103,7 +18905,7 @@ const LIBRARY_DATA = {
         "wave-reflection",
         "wind-waves"
       ],
-      "id": 958
+      "id": 948
     },
     {
       "author": "Desmons et al.",
@@ -19123,7 +18925,7 @@ const LIBRARY_DATA = {
         "reef",
         "wave-breaking"
       ],
-      "id": 959
+      "id": 949
     },
     {
       "author": "Bolles et al.",
@@ -19143,7 +18945,7 @@ const LIBRARY_DATA = {
         "review",
         "statistical"
       ],
-      "id": 960
+      "id": 950
     },
     {
       "author": "",
@@ -19163,7 +18965,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-breaking"
       ],
-      "id": 961
+      "id": 951
     },
     {
       "author": "KARPMAN, V.I.",
@@ -19183,7 +18985,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 962
+      "id": 952
     },
     {
       "author": "Chang et al.",
@@ -19204,7 +19006,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-reflection"
       ],
-      "id": 963
+      "id": 953
     },
     {
       "author": "COOKER et al.",
@@ -19224,7 +19026,7 @@ const LIBRARY_DATA = {
         "tsunami",
         "wave-reflection"
       ],
-      "id": 964
+      "id": 954
     },
     {
       "author": "Craciunescu et al.",
@@ -19246,7 +19048,7 @@ const LIBRARY_DATA = {
         "wave-groups",
         "wave-spectrum"
       ],
-      "id": 965
+      "id": 955
     },
     {
       "author": "Dean et al.",
@@ -19266,7 +19068,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-forces"
       ],
-      "id": 966
+      "id": 956
     },
     {
       "author": "Jones et al.",
@@ -19284,7 +19086,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 967
+      "id": 957
     },
     {
       "author": "Dong et al.",
@@ -19305,7 +19107,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 968
+      "id": 958
     },
     {
       "author": "Elgar et al.",
@@ -19325,7 +19127,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-reflection"
       ],
-      "id": 969
+      "id": 959
     },
     {
       "author": "Fenton et al.",
@@ -19346,7 +19148,7 @@ const LIBRARY_DATA = {
         "numerical",
         "wave-propagation"
       ],
-      "id": 970
+      "id": 960
     },
     {
       "author": "Gaillard et al.",
@@ -19369,7 +19171,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 971
+      "id": 961
     },
     {
       "author": "Goda & Abe",
@@ -19388,7 +19190,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 972
+      "id": 962
     },
     {
       "author": "Goda et al.",
@@ -19409,7 +19211,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 973
+      "id": 963
     },
     {
       "author": "Gorrell et al.",
@@ -19430,7 +19232,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 974
+      "id": 964
     },
     {
       "author": "Gramstad et al.",
@@ -19453,7 +19255,7 @@ const LIBRARY_DATA = {
         "unidirectional",
         "varying-depth"
       ],
-      "id": 975
+      "id": 965
     },
     {
       "author": "Grimshaw et al.",
@@ -19472,7 +19274,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 976
+      "id": 966
     },
     {
       "author": "Grue, John",
@@ -19492,7 +19294,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "varying-depth"
       ],
-      "id": 977
+      "id": 967
     },
     {
       "author": "Holthuijsen, Leo H.",
@@ -19511,7 +19313,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 978
+      "id": 968
     },
     {
       "author": "Hsu et al.",
@@ -19531,7 +19333,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-forces"
       ],
-      "id": 979
+      "id": 969
     },
     {
       "author": "Huang, M.-C.",
@@ -19551,7 +19353,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 980
+      "id": 970
     },
     {
       "author": "Huang, M.-C.",
@@ -19571,7 +19373,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-forces"
       ],
-      "id": 981
+      "id": 971
     },
     {
       "author": "Hughes, Steven A.",
@@ -19592,7 +19394,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 982
+      "id": 972
     },
     {
       "author": "Iravani et al.",
@@ -19612,7 +19414,7 @@ const LIBRARY_DATA = {
         "wave-breaking",
         "wave-propagation"
       ],
-      "id": 983
+      "id": 973
     },
     {
       "author": "",
@@ -19630,7 +19432,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 984
+      "id": 974
     },
     {
       "author": "",
@@ -19648,7 +19450,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 985
+      "id": 975
     },
     {
       "author": "Kazolea et al.",
@@ -19668,7 +19470,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 986
+      "id": 976
     },
     {
       "author": "Kijewski & Kareem",
@@ -19688,7 +19490,7 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 987
+      "id": 977
     },
     {
       "author": "Kuo et al.",
@@ -19708,7 +19510,7 @@ const LIBRARY_DATA = {
         "wave-interactions",
         "wave-reflection"
       ],
-      "id": 988
+      "id": 978
     },
     {
       "author": "Pitt et al.",
@@ -19728,7 +19530,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 989
+      "id": 979
     },
     {
       "author": "Liu et al.",
@@ -19750,7 +19552,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 990
+      "id": 980
     },
     {
       "author": "Longuet-Higgins, M. S.",
@@ -19770,7 +19572,7 @@ const LIBRARY_DATA = {
         "nonlinear",
         "statistical"
       ],
-      "id": 991
+      "id": 981
     },
     {
       "author": "Longuet-Higgins et al.",
@@ -19790,7 +19592,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-current"
       ],
-      "id": 992
+      "id": 982
     },
     {
       "author": "Huuse et al.",
@@ -19809,7 +19611,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 993
+      "id": 983
     },
     {
       "author": "Das et al.",
@@ -19828,7 +19630,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-interactions"
       ],
-      "id": 994
+      "id": 984
     },
     {
       "author": "Madsen et al.",
@@ -19849,7 +19651,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 995
+      "id": 985
     },
     {
       "author": "Majda et al.",
@@ -19869,7 +19671,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "statistical"
       ],
-      "id": 996
+      "id": 986
     },
     {
       "author": "Mallayachari et al.",
@@ -19889,7 +19691,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "wave-forces"
       ],
-      "id": 997
+      "id": 987
     },
     {
       "author": "Massel",
@@ -19909,7 +19711,7 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 998
+      "id": 988
     },
     {
       "author": "Mei",
@@ -19928,7 +19730,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-propagation"
       ],
-      "id": 999
+      "id": 989
     },
     {
       "author": "Naciri, Mei",
@@ -19946,7 +19748,28 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1000
+      "id": 990
+    },
+    {
+      "author": "Nallayarasu et al.",
+      "year": 1995,
+      "title": "Estimation of incident and reflected waves in regular wave experiments",
+      "filename": "Nallarayasu et al. (1995)_Estimation of indicent and reflected waves in regular wave experiments.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Engineering",
+      "doi": "10.1016/0029-8018(93)e0011-g",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "experimental",
+        "offshore",
+        "regular-waves",
+        "wave-forces",
+        "wave-reflection"
+      ],
+      "id": 991
     },
     {
       "author": "",
@@ -19966,7 +19789,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1001
+      "id": 992
     },
     {
       "author": "Babanin, Alex",
@@ -19985,7 +19808,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-breaking"
       ],
-      "id": 1002
+      "id": 993
     },
     {
       "author": "Young, Ian",
@@ -20004,7 +19827,7 @@ const LIBRARY_DATA = {
         "reference",
         "wind-waves"
       ],
-      "id": 1003
+      "id": 994
     },
     {
       "author": "Chalikov, Dmitry",
@@ -20023,7 +19846,45 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1004
+      "id": 995
+    },
+    {
+      "author": "Babanin, Alex",
+      "year": 2020,
+      "title": "Wave Breaking and Ocean Mixing",
+      "filename": "Ocean_Wave_Dynamics_----_(Contents).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0003",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-breaking"
+      ],
+      "id": 996
+    },
+    {
+      "author": "Babanin, Alex",
+      "year": 2020,
+      "title": "Wave Breaking and Ocean Mixing",
+      "filename": "Ocean_Wave_Dynamics_----_(Intro).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0003",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-breaking"
+      ],
+      "id": 997
     },
     {
       "author": "",
@@ -20041,7 +19902,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1005
+      "id": 998
     },
     {
       "author": "",
@@ -20059,7 +19920,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1006
+      "id": 999
     },
     {
       "author": "",
@@ -20077,7 +19938,26 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1007
+      "id": 1000
+    },
+    {
+      "author": "Babanin, Alex",
+      "year": 2020,
+      "title": "Wave Breaking and Ocean Mixing",
+      "filename": "Ocean_Wave_Dynamics_----_(Preface).pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Ocean Wave Dynamics",
+      "doi": "10.1142/9789811208676_0003",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "ocean-waves",
+        "reference",
+        "wave-breaking"
+      ],
+      "id": 1001
     },
     {
       "author": "Onorato et al.",
@@ -20097,7 +19977,7 @@ const LIBRARY_DATA = {
         "reference",
         "shallow-water"
       ],
-      "id": 1008
+      "id": 1002
     },
     {
       "author": "Pelinovsky et al.",
@@ -20117,7 +19997,7 @@ const LIBRARY_DATA = {
         "numerical",
         "random-waves"
       ],
-      "id": 1009
+      "id": 1003
     },
     {
       "author": "",
@@ -20135,7 +20015,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1010
+      "id": 1004
     },
     {
       "author": "Prabhakar et al.",
@@ -20155,7 +20035,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-forces"
       ],
-      "id": 1011
+      "id": 1005
     },
     {
       "author": "",
@@ -20175,7 +20055,7 @@ const LIBRARY_DATA = {
         "offshore",
         "wave-forces"
       ],
-      "id": 1012
+      "id": 1006
     },
     {
       "author": "Spell et al.",
@@ -20200,7 +20080,7 @@ const LIBRARY_DATA = {
         "regular-waves",
         "unidirectional"
       ],
-      "id": 1013
+      "id": 1007
     },
     {
       "author": "Suh et al.",
@@ -20220,7 +20100,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1014
+      "id": 1008
     },
     {
       "author": "Sun et al.",
@@ -20239,7 +20119,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1015
+      "id": 1009
     },
     {
       "author": "",
@@ -20259,7 +20139,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1016
+      "id": 1010
     },
     {
       "author": "Thompson, Edward F.",
@@ -20279,7 +20159,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "spectral-analysis"
       ],
-      "id": 1017
+      "id": 1011
     },
     {
       "author": "",
@@ -20298,7 +20178,7 @@ const LIBRARY_DATA = {
         "reference",
         "spectral-analysis"
       ],
-      "id": 1018
+      "id": 1012
     },
     {
       "author": "Viotti, Dias",
@@ -20319,7 +20199,7 @@ const LIBRARY_DATA = {
         "numerical",
         "varying-depth"
       ],
-      "id": 1019
+      "id": 1013
     },
     {
       "author": "Wang et al.",
@@ -20339,7 +20219,7 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1020
+      "id": 1014
     },
     {
       "author": "",
@@ -20357,7 +20237,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1021
+      "id": 1015
     },
     {
       "author": "",
@@ -20375,7 +20255,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1022
+      "id": 1016
     },
     {
       "author": "",
@@ -20393,26 +20273,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1023
-    },
-    {
-      "author": "",
-      "year": 2020,
-      "title": "Xiong et al. (2020) Variations of wave parameter statistics as influenced by water depth in",
-      "filename": "Xiong et al. (2020) Variations of wave parameter statistics as influenced by water depth in.pdf",
-      "category": "14_Books",
-      "categoryShort": "Books",
-      "color": "#9E9E9E",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "statistical"
-      ],
-      "id": 1024
+      "id": 1017
     },
     {
       "author": "Zhang et al.",
@@ -20432,7 +20293,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1025
+      "id": 1018
     },
     {
       "author": "Zanuttigh et al.",
@@ -20452,7 +20313,28 @@ const LIBRARY_DATA = {
         "wave-propagation",
         "wave-reflection"
       ],
-      "id": 1026
+      "id": 1019
+    },
+    {
+      "author": "Zhang et al.",
+      "year": 1999,
+      "title": "Deterministic wave model for short-crested ocean waves: Part I. Theory and numerical scheme",
+      "filename": "Zhang et al. - 1999 - Deterministic wave model for short-crested ocean waves Part I. Theory and numerical scheme.pdf",
+      "category": "14_Books",
+      "categoryShort": "Books",
+      "color": "#9E9E9E",
+      "journal": "Applied Ocean Research",
+      "doi": "10.1016/s0141-1187(99)00011-5",
+      "hasAnnotation": false,
+      "tags": [
+        "analytical",
+        "book-chapter",
+        "directional-spreading",
+        "modelling",
+        "numerical",
+        "offshore"
+      ],
+      "id": 1020
     },
     {
       "author": "Zhang et al.",
@@ -20474,7 +20356,7 @@ const LIBRARY_DATA = {
         "modelling",
         "offshore"
       ],
-      "id": 1027
+      "id": 1021
     },
     {
       "author": "",
@@ -20492,7 +20374,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "reference"
       ],
-      "id": 1028
+      "id": 1022
     },
     {
       "author": "Zheng, Siming",
@@ -20512,7 +20394,7 @@ const LIBRARY_DATA = {
         "reference",
         "wec"
       ],
-      "id": 1029
+      "id": 1023
     },
     {
       "author": "Abedi",
@@ -20528,7 +20410,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1030
+      "id": 1024
     },
     {
       "author": "Abolghasemi",
@@ -20544,7 +20426,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1031
+      "id": 1025
     },
     {
       "author": "Acred",
@@ -20560,7 +20442,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1032
+      "id": 1026
     },
     {
       "author": "",
@@ -20579,7 +20461,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1033
+      "id": 1027
     },
     {
       "author": "Aknin",
@@ -20595,7 +20477,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1034
+      "id": 1028
     },
     {
       "author": "Zhang, Zhibo",
@@ -20611,7 +20493,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1035
+      "id": 1029
     },
     {
       "author": "Chauhan, V.P.S.",
@@ -20627,23 +20509,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1036
-    },
-    {
-      "author": "Archibald",
-      "year": 2011,
-      "title": "Archibald",
-      "filename": "Archibald2011.pdf",
-      "category": "15_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1037
+      "id": 1030
     },
     {
       "author": "Bachant",
@@ -20659,7 +20525,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1038
+      "id": 1031
     },
     {
       "author": "Baldock",
@@ -20675,7 +20541,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1039
+      "id": 1032
     },
     {
       "author": "Barba",
@@ -20691,7 +20557,27 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1040
+      "id": 1033
+    },
+    {
+      "author": "Battjes, J.A.",
+      "year": 1972,
+      "title": "Set-Up Due to Irregular Waves",
+      "filename": "Battjes (1974) (Thesis)_Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves.pdf",
+      "category": "15_Theses",
+      "categoryShort": "Theses",
+      "color": "#795548",
+      "journal": "Coastal Engineering 1972",
+      "doi": "10.1061/9780872620490.116",
+      "hasAnnotation": false,
+      "tags": [
+        "book-chapter",
+        "coastal",
+        "irregular-waves",
+        "regular-waves",
+        "wave-propagation"
+      ],
+      "id": 1034
     },
     {
       "author": "Bentham",
@@ -20707,7 +20593,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1041
+      "id": 1035
     },
     {
       "author": "Black",
@@ -20723,7 +20609,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1042
+      "id": 1036
     },
     {
       "author": "Brownlee",
@@ -20739,7 +20625,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1043
+      "id": 1037
     },
     {
       "author": "Bruggemann",
@@ -20755,7 +20641,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1044
+      "id": 1038
     },
     {
       "author": "Bull",
@@ -20771,7 +20657,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1045
+      "id": 1039
     },
     {
       "author": "Chatelain",
@@ -20787,7 +20673,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1046
+      "id": 1040
     },
     {
       "author": "Chau",
@@ -20803,7 +20689,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1047
+      "id": 1041
     },
     {
       "author": "Christou",
@@ -20819,7 +20705,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1048
+      "id": 1042
     },
     {
       "author": "Coffey",
@@ -20835,7 +20721,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1049
+      "id": 1043
     },
     {
       "author": "Connick",
@@ -20851,7 +20737,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1050
+      "id": 1044
     },
     {
       "author": "Craske",
@@ -20867,7 +20753,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1051
+      "id": 1045
     },
     {
       "author": "Creech",
@@ -20883,7 +20769,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1052
+      "id": 1046
     },
     {
       "author": "",
@@ -20907,7 +20793,7 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1053
+      "id": 1047
     },
     {
       "author": "Economidou",
@@ -20923,7 +20809,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1054
+      "id": 1048
     },
     {
       "author": "Ely",
@@ -20939,7 +20825,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1055
+      "id": 1049
     },
     {
       "author": "Ezzamel",
@@ -20955,7 +20841,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1056
+      "id": 1050
     },
     {
       "author": "Farrell",
@@ -20971,7 +20857,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1057
+      "id": 1051
     },
     {
       "author": "Feng",
@@ -20987,7 +20873,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1058
+      "id": 1052
     },
     {
       "author": "Fernandes",
@@ -21003,7 +20889,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1059
+      "id": 1053
     },
     {
       "author": "Gibson",
@@ -21019,7 +20905,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1060
+      "id": 1054
     },
     {
       "author": "Gocmen",
@@ -21035,7 +20921,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1061
+      "id": 1055
     },
     {
       "author": "Grice",
@@ -21051,7 +20937,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1062
+      "id": 1056
     },
     {
       "author": "Mase et al.",
@@ -21071,27 +20957,27 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-runup"
       ],
-      "id": 1063
+      "id": 1057
     },
     {
-      "author": "Groenendijk",
-      "year": 1989,
-      "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
-      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
+      "author": "Mase et al.",
+      "year": 2004,
+      "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
+      "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics_notes.pdf",
       "category": "15_Theses",
       "categoryShort": "Theses",
       "color": "#795548",
-      "journal": "",
-      "doi": "",
+      "journal": "Asian and Pacific Coasts 2003",
+      "doi": "10.1142/9789812703040_0076",
       "hasAnnotation": false,
       "tags": [
         "book-chapter",
+        "breakwater",
+        "random-waves",
         "shallow-water",
-        "statistical",
-        "thesis",
-        "wave-height-distribution"
+        "wave-runup"
       ],
-      "id": 1064
+      "id": 1058
     },
     {
       "author": "Hague",
@@ -21107,26 +20993,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1065
-    },
-    {
-      "author": "Haley-J",
-      "year": 2016,
-      "title": "PhD-Thesis",
-      "filename": "Haley-J-2016-PhD-Thesis.pdf",
-      "category": "15_Theses",
-      "categoryShort": "Theses",
-      "color": "#795548",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "book-chapter",
-        "ocean-waves",
-        "reference",
-        "thesis"
-      ],
-      "id": 1066
+      "id": 1059
     },
     {
       "author": "Haley",
@@ -21142,7 +21009,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1067
+      "id": 1060
     },
     {
       "author": "Heller",
@@ -21158,7 +21025,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1068
+      "id": 1061
     },
     {
       "author": "",
@@ -21180,7 +21047,7 @@ const LIBRARY_DATA = {
         "wave-height-distribution",
         "wave-shoaling"
       ],
-      "id": 1069
+      "id": 1062
     },
     {
       "author": "Huang",
@@ -21196,7 +21063,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1070
+      "id": 1063
     },
     {
       "author": "Inoue",
@@ -21212,7 +21079,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1071
+      "id": 1064
     },
     {
       "author": "James",
@@ -21228,7 +21095,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1072
+      "id": 1065
     },
     {
       "author": "Johannessen",
@@ -21244,7 +21111,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1073
+      "id": 1066
     },
     {
       "author": "Karmpadakis",
@@ -21260,7 +21127,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1074
+      "id": 1067
     },
     {
       "author": "",
@@ -21277,7 +21144,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "thesis"
       ],
-      "id": 1075
+      "id": 1068
     },
     {
       "author": "",
@@ -21296,7 +21163,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1076
+      "id": 1069
     },
     {
       "author": "Kasiman",
@@ -21312,7 +21179,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1077
+      "id": 1070
     },
     {
       "author": "Katsardi",
@@ -21328,7 +21195,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1078
+      "id": 1071
     },
     {
       "author": "Kim",
@@ -21344,7 +21211,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1079
+      "id": 1072
     },
     {
       "author": "Kim",
@@ -21360,7 +21227,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1080
+      "id": 1073
     },
     {
       "author": "Kleusberg",
@@ -21376,7 +21243,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1081
+      "id": 1074
     },
     {
       "author": "Koumoutsakos",
@@ -21392,7 +21259,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1082
+      "id": 1075
     },
     {
       "author": "Latheef",
@@ -21408,7 +21275,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1083
+      "id": 1076
     },
     {
       "author": "Latheef",
@@ -21427,7 +21294,7 @@ const LIBRARY_DATA = {
         "reference",
         "thesis"
       ],
-      "id": 1084
+      "id": 1077
     },
     {
       "author": "Lian",
@@ -21443,7 +21310,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1085
+      "id": 1078
     },
     {
       "author": "Liao",
@@ -21459,7 +21326,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1086
+      "id": 1079
     },
     {
       "author": "Lonfils",
@@ -21475,7 +21342,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1087
+      "id": 1080
     },
     {
       "author": "Lynch",
@@ -21491,7 +21358,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1088
+      "id": 1081
     },
     {
       "author": "Makri",
@@ -21507,7 +21374,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1089
+      "id": 1082
     },
     {
       "author": "Marcus",
@@ -21523,7 +21390,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1090
+      "id": 1083
     },
     {
       "author": "Masterton",
@@ -21539,7 +21406,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1091
+      "id": 1084
     },
     {
       "author": "",
@@ -21561,7 +21428,7 @@ const LIBRARY_DATA = {
         "statistical",
         "thesis"
       ],
-      "id": 1092
+      "id": 1085
     },
     {
       "author": "Mikkelsen",
@@ -21577,7 +21444,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1093
+      "id": 1086
     },
     {
       "author": "Milthaler",
@@ -21593,7 +21460,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1094
+      "id": 1087
     },
     {
       "author": "Morgenthal",
@@ -21609,7 +21476,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1095
+      "id": 1088
     },
     {
       "author": "Myrtroeen",
@@ -21625,7 +21492,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1096
+      "id": 1089
     },
     {
       "author": "Osalusi",
@@ -21641,7 +21508,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1097
+      "id": 1090
     },
     {
       "author": "Padilla",
@@ -21657,7 +21524,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1098
+      "id": 1091
     },
     {
       "author": "Pechlivanoglou",
@@ -21673,7 +21540,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1099
+      "id": 1092
     },
     {
       "author": "Peric",
@@ -21689,7 +21556,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1100
+      "id": 1093
     },
     {
       "author": "Radomski",
@@ -21705,7 +21572,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1101
+      "id": 1094
     },
     {
       "author": "Roos",
@@ -21721,7 +21588,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1102
+      "id": 1095
     },
     {
       "author": "Rossi",
@@ -21737,7 +21604,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1103
+      "id": 1096
     },
     {
       "author": "Rubel",
@@ -21753,7 +21620,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1104
+      "id": 1097
     },
     {
       "author": "Sarlak",
@@ -21769,7 +21636,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1105
+      "id": 1098
     },
     {
       "author": "Sheel",
@@ -21785,7 +21652,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1106
+      "id": 1099
     },
     {
       "author": "Sheikh",
@@ -21801,7 +21668,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1107
+      "id": 1100
     },
     {
       "author": "Shiels",
@@ -21817,7 +21684,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1108
+      "id": 1101
     },
     {
       "author": "Shrinivas",
@@ -21833,7 +21700,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1109
+      "id": 1102
     },
     {
       "author": "Sorensen",
@@ -21849,7 +21716,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1110
+      "id": 1103
     },
     {
       "author": "Spentza",
@@ -21865,7 +21732,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1111
+      "id": 1104
     },
     {
       "author": "Spinneken",
@@ -21881,7 +21748,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1112
+      "id": 1105
     },
     {
       "author": "Spinneken et al.",
@@ -21901,7 +21768,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-generation"
       ],
-      "id": 1113
+      "id": 1106
     },
     {
       "author": "Stock",
@@ -21917,7 +21784,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1114
+      "id": 1107
     },
     {
       "author": "Szopa",
@@ -21933,7 +21800,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1115
+      "id": 1108
     },
     {
       "author": "Tari",
@@ -21949,7 +21816,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1116
+      "id": 1109
     },
     {
       "author": "Tchieu",
@@ -21965,7 +21832,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1117
+      "id": 1110
     },
     {
       "author": "Thies",
@@ -21981,7 +21848,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1118
+      "id": 1111
     },
     {
       "author": "Vaidhyanathan",
@@ -21997,7 +21864,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1119
+      "id": 1112
     },
     {
       "author": "Walther",
@@ -22013,7 +21880,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1120
+      "id": 1113
     },
     {
       "author": "Wilson",
@@ -22029,7 +21896,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1121
+      "id": 1114
     },
     {
       "author": "Winchelmans",
@@ -22045,7 +21912,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1122
+      "id": 1115
     },
     {
       "author": "Wist et al.",
@@ -22065,7 +21932,7 @@ const LIBRARY_DATA = {
         "statistical",
         "wave-height-distribution"
       ],
-      "id": 1123
+      "id": 1116
     },
     {
       "author": "Zhi (Thesis)",
@@ -22085,7 +21952,7 @@ const LIBRARY_DATA = {
         "reference",
         "wave-reflection"
       ],
-      "id": 1124
+      "id": 1117
     },
     {
       "author": "Zve",
@@ -22101,7 +21968,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1125
+      "id": 1118
     },
     {
       "author": "",
@@ -22122,7 +21989,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-propagation"
       ],
-      "id": 1126
+      "id": 1119
     },
     {
       "author": "",
@@ -22145,23 +22012,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wave-groups"
       ],
-      "id": 1127
-    },
-    {
-      "author": "Fitoussi, F.",
-      "year": 2013,
-      "title": "Généralités sur les traumatismes de la main de l’enfant",
-      "filename": "1-s2.0-S0141118799000085-main.pdf",
-      "category": "Miscellaneous",
-      "categoryShort": "Miscellaneous",
-      "color": "#BDBDBD",
-      "journal": "Chirurgie de la Main",
-      "doi": "10.1016/j.main.2013.02.017",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1128
+      "id": 1120
     },
     {
       "author": "Parker et al.",
@@ -22177,7 +22028,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1129
+      "id": 1121
     },
     {
       "author": "",
@@ -22194,7 +22045,7 @@ const LIBRARY_DATA = {
         "analysis",
         "ocean-waves"
       ],
-      "id": 1130
+      "id": 1122
     },
     {
       "author": "Athannasoulis et al.",
@@ -22211,7 +22062,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1131
+      "id": 1123
     },
     {
       "author": "Barlow et al.",
@@ -22229,7 +22080,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1132
+      "id": 1124
     },
     {
       "author": "Byun et al.",
@@ -22246,7 +22097,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1133
+      "id": 1125
     },
     {
       "author": "Eskey, Felixa",
@@ -22262,7 +22113,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1134
+      "id": 1126
     },
     {
       "author": "Coon et al.",
@@ -22279,7 +22130,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1135
+      "id": 1127
     },
     {
       "author": "Das and Nizar",
@@ -22295,7 +22146,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1136
+      "id": 1128
     },
     {
       "author": "de Gast et al.",
@@ -22312,7 +22163,7 @@ const LIBRARY_DATA = {
         "comparison",
         "ocean-waves"
       ],
-      "id": 1137
+      "id": 1129
     },
     {
       "author": "",
@@ -22328,7 +22179,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1138
+      "id": 1130
     },
     {
       "author": "",
@@ -22344,7 +22195,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1139
+      "id": 1131
     },
     {
       "author": "Di Luccio et al.",
@@ -22362,7 +22213,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-runup"
       ],
-      "id": 1140
+      "id": 1132
     },
     {
       "author": "Farsani et al.",
@@ -22382,7 +22233,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1141
+      "id": 1133
     },
     {
       "author": "Girard et al",
@@ -22401,7 +22252,7 @@ const LIBRARY_DATA = {
         "varying-depth",
         "wave-current"
       ],
-      "id": 1142
+      "id": 1134
     },
     {
       "author": "Harvey",
@@ -22418,7 +22269,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 1143
+      "id": 1135
     },
     {
       "author": "Janati and Azimi",
@@ -22434,7 +22285,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1144
+      "id": 1136
     },
     {
       "author": "Kouskoulas et al.",
@@ -22453,7 +22304,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-interactions"
       ],
-      "id": 1145
+      "id": 1137
     },
     {
       "author": "Liu et al.",
@@ -22471,7 +22322,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1146
+      "id": 1138
     },
     {
       "author": "Liu et al.",
@@ -22489,23 +22340,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wind-waves"
       ],
-      "id": 1147
-    },
-    {
-      "author": "",
-      "year": 2025,
-      "title": "Background",
-      "filename": "Lowish2_Background.pdf",
-      "category": "Miscellaneous",
-      "categoryShort": "Miscellaneous",
-      "color": "#BDBDBD",
-      "journal": "Background",
-      "doi": "10.1136/bmjoq-2025-ihi2.background",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1148
+      "id": 1139
     },
     {
       "author": "",
@@ -22521,7 +22356,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1149
+      "id": 1140
     },
     {
       "author": "Buarque Vieira-e-Silva et al.",
@@ -22538,7 +22373,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1150
+      "id": 1141
     },
     {
       "author": "Luo et al.",
@@ -22558,7 +22393,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "statistical"
       ],
-      "id": 1151
+      "id": 1142
     },
     {
       "author": "",
@@ -22574,7 +22409,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1152
+      "id": 1143
     },
     {
       "author": "",
@@ -22590,7 +22425,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1153
+      "id": 1144
     },
     {
       "author": "",
@@ -22606,7 +22441,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1154
+      "id": 1145
     },
     {
       "author": "",
@@ -22622,7 +22457,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1155
+      "id": 1146
     },
     {
       "author": "Miozzi et al.",
@@ -22642,7 +22477,7 @@ const LIBRARY_DATA = {
         "shallow-water",
         "wave-propagation"
       ],
-      "id": 1156
+      "id": 1147
     },
     {
       "author": "Ohkitani et al.",
@@ -22660,7 +22495,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-forces"
       ],
-      "id": 1157
+      "id": 1148
     },
     {
       "author": "Pekri et al.",
@@ -22676,7 +22511,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1158
+      "id": 1149
     },
     {
       "author": "Perrot-Minot et al.",
@@ -22692,7 +22527,25 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1159
+      "id": 1150
+    },
+    {
+      "author": "Rainey, R. C. T.",
+      "year": 2007,
+      "title": "Weak or strong nonlinearity: the vital issue",
+      "filename": "Rainey (2007)_Weak or strong nonlinearity_the vital issue.pdf",
+      "category": "Miscellaneous",
+      "categoryShort": "Miscellaneous",
+      "color": "#BDBDBD",
+      "journal": "Journal of Engineering Mathematics",
+      "doi": "10.1007/s10665-006-9126-2",
+      "hasAnnotation": false,
+      "tags": [
+        "linear",
+        "nonlinear",
+        "ocean-waves"
+      ],
+      "id": 1151
     },
     {
       "author": "Sánchez-Arcilla, Agustín",
@@ -22711,7 +22564,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "wave-propagation"
       ],
-      "id": 1160
+      "id": 1152
     },
     {
       "author": "",
@@ -22728,7 +22581,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "spectral-analysis"
       ],
-      "id": 1161
+      "id": 1153
     },
     {
       "author": "Stanisic et al.",
@@ -22747,7 +22600,7 @@ const LIBRARY_DATA = {
         "offshore",
         "storm"
       ],
-      "id": 1162
+      "id": 1154
     },
     {
       "author": "Adams, Jill",
@@ -22764,7 +22617,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "statistical"
       ],
-      "id": 1163
+      "id": 1155
     },
     {
       "author": "",
@@ -22780,7 +22633,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1164
+      "id": 1156
     },
     {
       "author": "SU et al.",
@@ -22800,7 +22653,7 @@ const LIBRARY_DATA = {
         "offshore",
         "shallow-water"
       ],
-      "id": 1165
+      "id": 1157
     },
     {
       "author": "Sui et al.",
@@ -22819,7 +22672,7 @@ const LIBRARY_DATA = {
         "wave-current",
         "wave-propagation"
       ],
-      "id": 1166
+      "id": 1158
     },
     {
       "author": "Taylor",
@@ -22836,7 +22689,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1167
+      "id": 1159
     },
     {
       "author": "",
@@ -22853,23 +22706,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "review"
       ],
-      "id": 1168
-    },
-    {
-      "author": "",
-      "year": 0,
-      "title": "UAK_paper_pre_subm_1",
-      "filename": "UAK_paper_pre_subm_1.pdf",
-      "category": "Miscellaneous",
-      "categoryShort": "Miscellaneous",
-      "color": "#BDBDBD",
-      "journal": "",
-      "doi": "",
-      "hasAnnotation": false,
-      "tags": [
-        "ocean-waves"
-      ],
-      "id": 1169
+      "id": 1160
     },
     {
       "author": "",
@@ -22885,7 +22722,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1170
+      "id": 1161
     },
     {
       "author": "Vallejos et al.",
@@ -22903,7 +22740,7 @@ const LIBRARY_DATA = {
         "spectral-analysis",
         "wave-propagation"
       ],
-      "id": 1171
+      "id": 1162
     },
     {
       "author": "Vasudevan and Singh",
@@ -22922,7 +22759,7 @@ const LIBRARY_DATA = {
         "sediment-transport",
         "varying-depth"
       ],
-      "id": 1172
+      "id": 1163
     },
     {
       "author": "Vrdoljak, Ljerka",
@@ -22942,7 +22779,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1173
+      "id": 1164
     },
     {
       "author": "Wang et al.",
@@ -22959,7 +22796,7 @@ const LIBRARY_DATA = {
         "experimental",
         "ocean-waves"
       ],
-      "id": 1174
+      "id": 1165
     },
     {
       "author": "Wang et al.",
@@ -22978,7 +22815,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "rogue-waves"
       ],
-      "id": 1175
+      "id": 1166
     },
     {
       "author": "Wang et al.",
@@ -22995,7 +22832,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "vertical-cylinder"
       ],
-      "id": 1176
+      "id": 1167
     },
     {
       "author": "Wang et al.",
@@ -23012,7 +22849,7 @@ const LIBRARY_DATA = {
         "machine-learning",
         "ocean-waves"
       ],
-      "id": 1177
+      "id": 1168
     },
     {
       "author": "Wilson et al.",
@@ -23029,7 +22866,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1178
+      "id": 1169
     },
     {
       "author": "Xie et al.",
@@ -23048,7 +22885,7 @@ const LIBRARY_DATA = {
         "review",
         "varying-depth"
       ],
-      "id": 1179
+      "id": 1170
     },
     {
       "author": "Yetik et al.",
@@ -23067,7 +22904,7 @@ const LIBRARY_DATA = {
         "vertical-cylinder",
         "wave-forces"
       ],
-      "id": 1180
+      "id": 1171
     },
     {
       "author": "Towe et al.",
@@ -23087,7 +22924,7 @@ const LIBRARY_DATA = {
         "wave-forces",
         "wind-waves"
       ],
-      "id": 1181
+      "id": 1172
     },
     {
       "author": "Du et al.",
@@ -23103,7 +22940,7 @@ const LIBRARY_DATA = {
       "tags": [
         "ocean-waves"
       ],
-      "id": 1182
+      "id": 1173
     },
     {
       "author": "Zhou et al.",
@@ -23120,7 +22957,7 @@ const LIBRARY_DATA = {
         "numerical",
         "ocean-waves"
       ],
-      "id": 1183
+      "id": 1174
     },
     {
       "author": "Zhu et al.",
@@ -23138,7 +22975,7 @@ const LIBRARY_DATA = {
         "ocean-waves",
         "varying-depth"
       ],
-      "id": 1184
+      "id": 1175
     }
   ],
   "categories": [
@@ -23266,56 +23103,57 @@ const LIBRARY_DATA = {
     {
       "name": "Liu",
       "fullname": "Liu, Philip L. -F.",
-      "count": 48,
+      "count": 49,
       "paperIds": [
-        18,
-        36,
-        89,
-        97,
-        165,
-        172,
-        189,
-        240,
-        245,
-        264,
-        342,
-        381,
-        420,
-        453,
-        469,
-        555,
-        573,
-        575,
-        577,
-        585,
-        614,
+        17,
+        34,
+        83,
+        91,
+        156,
+        163,
+        180,
+        228,
+        234,
+        253,
+        328,
+        367,
+        407,
+        441,
+        456,
+        543,
+        560,
+        562,
+        564,
+        566,
+        574,
+        602,
+        642,
+        644,
+        646,
         658,
-        660,
-        662,
-        674,
-        679,
-        714,
-        728,
-        748,
-        783,
-        800,
-        801,
-        802,
-        803,
-        820,
-        823,
-        825,
-        840,
-        855,
-        856,
-        857,
-        900,
-        990,
-        1146,
-        1147,
-        1151,
-        1165,
-        1179
+        663,
+        697,
+        712,
+        732,
+        765,
+        784,
+        785,
+        786,
+        787,
+        807,
+        810,
+        812,
+        827,
+        842,
+        843,
+        844,
+        887,
+        980,
+        1138,
+        1139,
+        1142,
+        1157,
+        1170
       ],
       "coauthors": {
         "Gao": 1,
@@ -23344,9 +23182,8 @@ const LIBRARY_DATA = {
         "Baldock": 1,
         "Lin": 1,
         "Mo": 2,
-        "Xue": 2,
-        "Xü": 1,
-        "Yue": 3,
+        "Xue": 3,
+        "Yue": 4,
         "Duan": 3,
         "Ma": 2,
         "Huang": 1,
@@ -23368,6 +23205,7 @@ const LIBRARY_DATA = {
         "Jonathan": 1,
         "Fang": 7,
         "Dias": 1,
+        "Xü": 1,
         "Yao": 2,
         "He": 1,
         "Tang": 2,
@@ -23417,49 +23255,49 @@ const LIBRARY_DATA = {
       "fullname": "Wang, Ying-guang",
       "count": 48,
       "paperIds": [
-        18,
-        65,
-        95,
-        134,
-        220,
-        234,
-        370,
-        393,
-        423,
-        553,
-        554,
-        555,
-        556,
-        571,
+        17,
+        62,
+        89,
+        127,
+        211,
+        223,
+        357,
+        379,
+        411,
+        541,
+        542,
+        543,
+        544,
+        559,
+        564,
+        574,
         575,
-        585,
-        586,
-        592,
-        618,
-        652,
-        674,
-        703,
-        704,
+        581,
+        605,
+        636,
+        658,
+        686,
+        687,
+        710,
+        716,
+        724,
+        725,
         726,
-        732,
-        740,
-        741,
-        742,
-        818,
+        805,
+        821,
         834,
-        847,
-        927,
-        928,
-        967,
-        1020,
-        1146,
-        1147,
-        1151,
-        1174,
-        1175,
-        1176,
-        1177,
-        1179
+        914,
+        915,
+        957,
+        1014,
+        1138,
+        1139,
+        1142,
+        1165,
+        1166,
+        1167,
+        1168,
+        1170
       ],
       "coauthors": {
         "Gao": 3,
@@ -23536,42 +23374,43 @@ const LIBRARY_DATA = {
     {
       "name": "Zhang",
       "fullname": "Zhang, Tian-Tian",
-      "count": 35,
+      "count": 36,
       "paperIds": [
-        76,
-        89,
-        136,
-        182,
-        190,
-        199,
-        424,
-        558,
-        566,
-        583,
-        584,
-        585,
-        586,
-        587,
-        588,
-        589,
-        590,
-        662,
-        726,
+        70,
+        83,
+        129,
+        173,
+        181,
+        189,
+        412,
+        546,
+        554,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        646,
+        710,
+        717,
+        731,
+        732,
         733,
-        747,
-        748,
-        749,
-        750,
-        821,
-        822,
-        823,
-        860,
-        908,
-        1013,
-        1025,
-        1027,
-        1035,
-        1146
+        734,
+        808,
+        809,
+        810,
+        846,
+        895,
+        1007,
+        1018,
+        1020,
+        1021,
+        1029,
+        1138
       ],
       "coauthors": {
         "Huang": 1,
@@ -23604,7 +23443,7 @@ const LIBRARY_DATA = {
         "Ma": 2,
         "Kimmoun": 1,
         "Hsu": 1,
-        "Yang": 3,
+        "Yang": 4,
         "Yao": 2,
         "Peng": 1,
         "Tian": 1,
@@ -23625,11 +23464,76 @@ const LIBRARY_DATA = {
         "Ju": 2,
         "Zhang": 2,
         "Spell": 1,
-        "Hong": 1,
+        "Hong": 2,
         "Yue": 1,
-        "Prislin": 1,
-        "Wen": 1,
+        "Wen": 2,
+        "Prislin": 2,
         "Guo": 1
+      }
+    },
+    {
+      "name": "Swan",
+      "fullname": "Swan, Chris",
+      "count": 31,
+      "paperIds": [
+        2,
+        28,
+        29,
+        67,
+        73,
+        74,
+        75,
+        81,
+        123,
+        200,
+        201,
+        202,
+        283,
+        299,
+        306,
+        325,
+        330,
+        353,
+        387,
+        471,
+        479,
+        481,
+        504,
+        505,
+        506,
+        589,
+        754,
+        769,
+        801,
+        847,
+        1106
+      ],
+      "coauthors": {
+        "Baldock": 2,
+        "Karmpadakis": 4,
+        "Christou": 4,
+        "Gibson": 3,
+        "Tromans": 2,
+        "Katsardi": 3,
+        "de Lutio": 1,
+        "Latheef": 2,
+        "Spinneken": 4,
+        "Bateman": 3,
+        "Taylor": 3,
+        "Hague": 2,
+        "Hennig": 1,
+        "Scharnke": 1,
+        "Hagen": 1,
+        "Ewans": 1,
+        "Forristall": 1,
+        "Johannessen": 1,
+        "Masterton": 1,
+        "Sheikh": 3,
+        "Smith": 1,
+        "Bashir": 1,
+        "Gudmestad": 1,
+        "van Langen": 1,
+        "Ma": 1
       }
     },
     {
@@ -23637,34 +23541,34 @@ const LIBRARY_DATA = {
       "fullname": "Li, Fang-Cheng",
       "count": 31,
       "paperIds": [
-        35,
-        97,
-        189,
-        190,
-        241,
-        375,
-        376,
-        423,
-        446,
-        571,
-        592,
-        612,
-        614,
+        33,
+        91,
+        180,
+        181,
+        230,
+        362,
+        363,
+        411,
+        434,
+        559,
+        581,
+        600,
+        602,
+        642,
+        644,
         658,
-        660,
-        674,
-        679,
-        712,
-        715,
-        751,
-        790,
-        820,
-        834,
-        855,
-        857,
-        913,
-        914,
-        990
+        663,
+        695,
+        698,
+        735,
+        773,
+        807,
+        821,
+        842,
+        844,
+        900,
+        901,
+        980
       ],
       "coauthors": {
         "Zhao": 1,
@@ -23723,65 +23627,63 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Swan",
-      "fullname": "Swan, Chris",
-      "count": 28,
+      "name": "Ma",
+      "fullname": "Ma, Xiao-zhou",
+      "count": 26,
       "paperIds": [
-        2,
-        29,
-        30,
-        73,
-        77,
-        80,
-        81,
-        87,
-        103,
-        130,
-        161,
-        210,
-        211,
-        296,
-        298,
-        313,
-        320,
-        339,
-        366,
-        401,
-        484,
-        492,
-        517,
-        518,
-        600,
-        772,
-        861,
-        1113
+        149,
+        175,
+        186,
+        253,
+        375,
+        389,
+        390,
+        391,
+        392,
+        413,
+        578,
+        605,
+        606,
+        642,
+        734,
+        766,
+        767,
+        847,
+        848,
+        859,
+        958
       ],
       "coauthors": {
-        "Baldock": 2,
-        "Karmpadakis": 4,
-        "Christou": 4,
-        "Gibson": 3,
-        "Tromans": 2,
-        "Katsardi": 3,
-        "de Lutio": 1,
-        "Latheef": 2,
-        "Bateman": 3,
-        "Spinneken": 3,
-        "Taylor": 3,
-        "Hague": 2,
-        "Hennig": 1,
-        "Scharnke": 1,
-        "Hagen": 1,
-        "Ewans": 1,
-        "Forristall": 1,
-        "Johannessen": 1,
-        "Masterton": 1,
-        "Sheikh": 1,
-        "Smith": 1,
-        "Bashir": 1,
-        "Gudmestad": 1,
-        "van Langen": 1,
-        "Ma": 1
+        "He": 1,
+        "Dong": 15,
+        "Perlin": 2,
+        "Tai": 1,
+        "Niu": 3,
+        "Adcock": 1,
+        "Taylor": 1,
+        "Yan": 2,
+        "Janssen": 1,
+        "Duan": 2,
+        "Huang": 1,
+        "Liu": 2,
+        "Wu": 2,
+        "Eatock Taylor": 2,
+        "Shi": 1,
+        "Kirby": 1,
+        "Ma": 10,
+        "Zhang": 2,
+        "Benoit": 2,
+        "Wang": 2,
+        "Zang": 4,
+        "Li": 1,
+        "Sun": 1,
+        "Tan": 1,
+        "Gao": 3,
+        "Zhou": 4,
+        "Zhu": 2,
+        "Swan": 1,
+        "Deng": 1,
+        "Chang": 1
       }
     },
     {
@@ -23789,30 +23691,30 @@ const LIBRARY_DATA = {
       "fullname": "Chen, Jiahn-Horng",
       "count": 25,
       "paperIds": [
-        18,
-        25,
-        136,
-        220,
-        239,
-        240,
-        241,
-        242,
-        243,
-        319,
-        324,
-        424,
-        454,
-        513,
-        585,
-        645,
-        777,
-        791,
-        835,
-        836,
-        837,
-        1146,
-        1151,
-        1179
+        17,
+        24,
+        129,
+        211,
+        228,
+        229,
+        230,
+        231,
+        232,
+        305,
+        310,
+        412,
+        442,
+        500,
+        574,
+        629,
+        759,
+        774,
+        822,
+        823,
+        824,
+        1138,
+        1142,
+        1170
       ],
       "coauthors": {
         "Gao": 1,
@@ -23883,93 +23785,33 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Ma",
-      "fullname": "Ma, Xiao-zhou",
-      "count": 25,
-      "paperIds": [
-        157,
-        184,
-        196,
-        264,
-        389,
-        403,
-        404,
-        405,
-        425,
-        589,
-        618,
-        619,
-        658,
-        750,
-        784,
-        785,
-        861,
-        862,
-        873,
-        968
-      ],
-      "coauthors": {
-        "He": 1,
-        "Dong": 15,
-        "Perlin": 2,
-        "Tai": 1,
-        "Niu": 3,
-        "Adcock": 1,
-        "Taylor": 1,
-        "Yan": 2,
-        "Janssen": 1,
-        "Duan": 2,
-        "Huang": 1,
-        "Liu": 2,
-        "Wu": 1,
-        "Eatock Taylor": 1,
-        "Shi": 1,
-        "Kirby": 1,
-        "Ma": 10,
-        "Zhang": 2,
-        "Benoit": 2,
-        "Wang": 2,
-        "Zang": 4,
-        "Li": 1,
-        "Sun": 1,
-        "Tan": 1,
-        "Gao": 3,
-        "Zhou": 4,
-        "Zhu": 2,
-        "Swan": 1,
-        "Deng": 1,
-        "Chang": 1
-      }
-    },
-    {
       "name": "Baldock",
       "fullname": "Baldock, Tom E.",
-      "count": 24,
+      "count": 23,
       "paperIds": [
         2,
-        53,
-        138,
-        171,
-        172,
-        206,
-        207,
-        598,
-        769,
-        770,
-        771,
-        772,
-        773,
-        774,
-        854,
-        885,
-        892,
-        893,
-        894,
-        895,
-        896,
-        899,
-        917,
-        1039
+        51,
+        131,
+        162,
+        163,
+        196,
+        197,
+        588,
+        752,
+        753,
+        754,
+        755,
+        756,
+        841,
+        871,
+        879,
+        880,
+        881,
+        882,
+        883,
+        886,
+        904,
+        1032
       ],
       "coauthors": {
         "Swan": 2,
@@ -24008,25 +23850,25 @@ const LIBRARY_DATA = {
       "fullname": "Taylor, R. Eatock",
       "count": 21,
       "paperIds": [
-        96,
-        124,
-        196,
-        210,
-        211,
-        327,
-        406,
-        426,
-        518,
-        552,
-        639,
-        682,
+        90,
+        117,
+        186,
+        201,
+        202,
+        313,
+        393,
+        414,
+        506,
+        540,
+        622,
+        666,
+        723,
+        735,
         739,
-        751,
-        755,
-        777,
-        836,
-        872,
-        1167
+        759,
+        823,
+        858,
+        1159
       ],
       "coauthors": {
         "Whittaker": 1,
@@ -24072,27 +23914,72 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Huang",
-      "fullname": "Huang, Zhenjia (Jerry)",
+      "name": "Dong",
+      "fullname": "Dong, Guo-hai",
       "count": 17,
       "paperIds": [
-        26,
-        76,
-        101,
-        264,
-        325,
-        326,
-        428,
+        25,
+        149,
+        175,
+        249,
+        250,
+        413,
+        554,
+        584,
+        605,
         606,
-        607,
-        613,
-        651,
-        652,
-        791,
-        848,
-        980,
-        981,
-        1070
+        642,
+        679,
+        734,
+        766,
+        767,
+        831,
+        958
+      ],
+      "coauthors": {
+        "Huang": 1,
+        "He": 1,
+        "Ma": 15,
+        "Perlin": 2,
+        "Tai": 1,
+        "Niu": 2,
+        "Wu": 1,
+        "Lin": 1,
+        "Zhang": 2,
+        "Zhu": 2,
+        "Wang": 1,
+        "Liu": 1,
+        "Zang": 3,
+        "Li": 1,
+        "Sun": 1,
+        "Tan": 1,
+        "Benoit": 1,
+        "Gao": 2,
+        "Zhou": 3,
+        "Han": 1
+      }
+    },
+    {
+      "name": "Huang",
+      "fullname": "Huang, Zhenjia (Jerry)",
+      "count": 16,
+      "paperIds": [
+        25,
+        70,
+        253,
+        311,
+        312,
+        416,
+        595,
+        596,
+        601,
+        635,
+        636,
+        774,
+        835,
+        970,
+        971,
+        1063
       ],
       "coauthors": {
         "Dong": 1,
@@ -24129,71 +24016,25 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Dong",
-      "fullname": "Dong, Guo-hai",
-      "count": 17,
-      "paperIds": [
-        26,
-        157,
-        184,
-        260,
-        261,
-        425,
-        566,
-        594,
-        618,
-        619,
-        658,
-        696,
-        750,
-        784,
-        785,
-        844,
-        968
-      ],
-      "coauthors": {
-        "Huang": 1,
-        "He": 1,
-        "Ma": 15,
-        "Perlin": 2,
-        "Tai": 1,
-        "Niu": 2,
-        "Wu": 1,
-        "Lin": 1,
-        "Zhang": 2,
-        "Zhu": 2,
-        "Wang": 1,
-        "Liu": 1,
-        "Zang": 3,
-        "Li": 1,
-        "Sun": 1,
-        "Tan": 1,
-        "Benoit": 1,
-        "Gao": 2,
-        "Zhou": 3,
-        "Han": 1
-      }
-    },
-    {
       "name": "Lin",
       "fullname": "Lin, Ying-Tien",
       "count": 16,
       "paperIds": [
-        188,
-        240,
-        323,
-        326,
-        372,
-        380,
-        446,
-        482,
-        566,
-        613,
-        657,
-        716,
-        751,
-        848,
-        908
+        179,
+        228,
+        309,
+        312,
+        359,
+        366,
+        434,
+        469,
+        554,
+        601,
+        641,
+        699,
+        735,
+        835,
+        895
       ],
       "coauthors": {
         "Xie": 1,
@@ -24242,23 +24083,77 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Yang",
+      "fullname": "Yang, Jiacheng",
+      "count": 14,
+      "paperIds": [
+        366,
+        411,
+        561,
+        566,
+        629,
+        646,
+        773,
+        810,
+        834,
+        1020,
+        1021,
+        1170,
+        1173
+      ],
+      "coauthors": {
+        "Lin": 1,
+        "Kao": 1,
+        "Raikar": 1,
+        "Yuan": 2,
+        "Chuang": 1,
+        "Syu": 1,
+        "Pan": 1,
+        "Nie": 1,
+        "Wang": 6,
+        "Gu": 1,
+        "Li": 3,
+        "Ertekin": 1,
+        "Yu": 1,
+        "Hu": 3,
+        "Liu": 5,
+        "Mei": 1,
+        "Chen": 3,
+        "Gui": 1,
+        "Zhang": 4,
+        "Yao": 1,
+        "Kennedy": 1,
+        "Tomiczek": 1,
+        "Westerink": 1,
+        "Baniotopoulos": 1,
+        "Deng": 1,
+        "Wen": 2,
+        "Prislin": 2,
+        "Hong": 1,
+        "Xie": 2,
+        "Yang": 2,
+        "Du": 1,
+        "Zhu": 1
+      }
+    },
+    {
       "name": "Sun",
       "fullname": "Sun, Zhaochen",
       "count": 13,
       "paperIds": [
-        182,
-        292,
-        454,
-        455,
-        513,
-        658,
-        732,
-        733,
-        783,
-        836,
-        875,
-        888,
-        1015
+        173,
+        278,
+        442,
+        443,
+        500,
+        642,
+        716,
+        717,
+        765,
+        823,
+        861,
+        874,
+        1009
       ],
       "coauthors": {
         "Liang": 2,
@@ -24293,74 +24188,21 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Yang",
-      "fullname": "Yang, Jiacheng",
-      "count": 13,
-      "paperIds": [
-        380,
-        423,
-        572,
-        577,
-        645,
-        662,
-        790,
-        823,
-        847,
-        1027,
-        1179,
-        1182
-      ],
-      "coauthors": {
-        "Lin": 1,
-        "Kao": 1,
-        "Raikar": 1,
-        "Yuan": 2,
-        "Chuang": 1,
-        "Syu": 1,
-        "Pan": 1,
-        "Nie": 1,
-        "Wang": 6,
-        "Gu": 1,
-        "Li": 3,
-        "Ertekin": 1,
-        "Yu": 1,
-        "Hu": 3,
-        "Liu": 5,
-        "Mei": 1,
-        "Chen": 3,
-        "Gui": 1,
-        "Zhang": 3,
-        "Yao": 1,
-        "Kennedy": 1,
-        "Tomiczek": 1,
-        "Westerink": 1,
-        "Baniotopoulos": 1,
-        "Deng": 1,
-        "Prislin": 1,
-        "Wen": 1,
-        "Xie": 2,
-        "Yang": 2,
-        "Du": 1,
-        "Zhu": 1
-      }
-    },
-    {
       "name": "Battjes",
       "fullname": "Battjes, Jurjen A",
-      "count": 12,
+      "count": 11,
       "paperIds": [
         3,
-        4,
-        141,
-        142,
-        143,
-        144,
-        192,
-        212,
-        215,
-        539,
-        775,
-        830
+        134,
+        135,
+        136,
+        183,
+        203,
+        206,
+        527,
+        757,
+        817,
+        1034
       ],
       "coauthors": {
         "Groenendijk": 1,
@@ -24380,69 +24222,21 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Wu",
-      "fullname": "Wu, Thung-Yeh",
-      "count": 12,
-      "paperIds": [
-        18,
-        66,
-        69,
-        268,
-        372,
-        403,
-        453,
-        513,
-        566,
-        567,
-        728,
-        848
-      ],
-      "coauthors": {
-        "Gao": 1,
-        "Chen": 2,
-        "Liu": 3,
-        "Xu": 1,
-        "Zhao": 1,
-        "Wang": 1,
-        "Zhu": 1,
-        "Eatock Taylor": 3,
-        "Bai": 1,
-        "Hu": 1,
-        "Lee": 1,
-        "Lin": 4,
-        "Chiu": 2,
-        "Ma": 1,
-        "Qi": 1,
-        "Yue": 2,
-        "Qu": 1,
-        "Sun": 1,
-        "Deng": 1,
-        "Kraatz": 1,
-        "Jiang": 1,
-        "Dong": 1,
-        "Zhang": 1,
-        "Huang": 1,
-        "Chang": 1,
-        "Tai": 1,
-        "Fan": 1
-      }
-    },
-    {
       "name": "Onorato",
       "fullname": "Onorato, Miguel",
       "count": 11,
       "paperIds": [
-        13,
-        94,
-        203,
-        527,
-        671,
-        680,
-        691,
+        12,
+        88,
+        193,
+        515,
+        655,
+        664,
+        674,
+        676,
         693,
-        710,
-        760,
-        1008
+        744,
+        1002
       ],
       "coauthors": {
         "Fernandez": 1,
@@ -24481,31 +24275,129 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Lykke Andersen",
-      "fullname": "Lykke Andersen, Thomas",
+      "name": "Wu",
+      "fullname": "Wu, Thung-Yeh",
       "count": 11,
       "paperIds": [
-        51,
-        270,
-        597,
-        603,
-        605,
-        616,
-        617,
-        635,
-        753,
-        828,
-        950
+        17,
+        257,
+        359,
+        389,
+        390,
+        441,
+        500,
+        554,
+        555,
+        712,
+        835
       ],
       "coauthors": {
-        "Nørgaard": 1,
-        "Eldrup": 5,
-        "Røge Eldrup": 1,
-        "Grønbech": 1,
-        "Jensen": 1,
-        "Clavero": 1,
-        "Frigaard": 1,
-        "Zanuttigh": 1
+        "Gao": 1,
+        "Chen": 2,
+        "Liu": 3,
+        "Xu": 1,
+        "Zhao": 1,
+        "Wang": 1,
+        "Zhu": 1,
+        "Eatock Taylor": 4,
+        "Bai": 1,
+        "Hu": 1,
+        "Lee": 1,
+        "Lin": 4,
+        "Chiu": 2,
+        "Ma": 2,
+        "Qi": 1,
+        "Yue": 2,
+        "Qu": 1,
+        "Sun": 1,
+        "Deng": 1,
+        "Kraatz": 1,
+        "Jiang": 1,
+        "Dong": 1,
+        "Zhang": 1,
+        "Huang": 1,
+        "Chang": 1,
+        "Tai": 1,
+        "Fan": 1
+      }
+    },
+    {
+      "name": "Kim",
+      "fullname": "Kim, Dong Hyawn",
+      "count": 11,
+      "paperIds": [
+        30,
+        118,
+        340,
+        341,
+        342,
+        343,
+        761,
+        836,
+        1072,
+        1073
+      ],
+      "coauthors": {
+        "Kim": 2,
+        "Ertekin": 2,
+        "Hayatdavoodi": 1,
+        "Yue": 2,
+        "Kyoung": 1,
+        "Bai": 1,
+        "O’Sullivan": 1,
+        "Read": 1,
+        "Choi": 1,
+        "Bouscasse": 1,
+        "Seng": 1,
+        "Gentaz": 1,
+        "Ferrant": 1,
+        "Jeong": 1,
+        "Koo": 1
+      }
+    },
+    {
+      "name": "Babanin",
+      "fullname": "Babanin, Alexander V.",
+      "count": 11,
+      "paperIds": [
+        88,
+        193,
+        515,
+        577,
+        617,
+        674,
+        785,
+        993,
+        996,
+        997,
+        1001
+      ],
+      "coauthors": {
+        "Toffoli": 2,
+        "Bitner-Gregersen": 1,
+        "Onorato": 4,
+        "Cavaleri": 1,
+        "Waseda": 1,
+        "Zhang": 1,
+        "Liao": 1,
+        "Shi": 1,
+        "Soares": 1,
+        "Voermans": 1,
+        "Laface": 1,
+        "Romolo": 1,
+        "Arena": 1,
+        "Chabchoub": 1,
+        "Kibler": 1,
+        "Finot": 1,
+        "Millot": 1,
+        "Dudley": 1,
+        "Liu": 1,
+        "Rogers": 1,
+        "Young": 1,
+        "Romero": 1,
+        "Zieger": 1,
+        "Qiao": 1,
+        "Guan": 1
       }
     },
     {
@@ -24513,21 +24405,18 @@ const LIBRARY_DATA = {
       "fullname": "Zhou, Zhongbing",
       "count": 11,
       "paperIds": [
-        227,
-        591,
-        592,
-        593,
-        674,
-        715,
-        784,
-        785,
-        889,
-        1183
+        580,
+        581,
+        582,
+        583,
+        658,
+        698,
+        766,
+        767,
+        875,
+        1174
       ],
       "coauthors": {
-        "Ning": 2,
-        "Teng": 1,
-        "Bai": 1,
         "Jeng": 1,
         "Qi": 1,
         "Li": 3,
@@ -24535,6 +24424,9 @@ const LIBRARY_DATA = {
         "Wang": 2,
         "Chan": 1,
         "Melville": 1,
+        "Ning": 2,
+        "Teng": 1,
+        "Bai": 1,
         "Jin": 1,
         "Liu": 1,
         "Ducrozet": 1,
@@ -24555,36 +24447,30 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Kim",
-      "fullname": "Kim, Dong Hyawn",
+      "name": "Lykke Andersen",
+      "fullname": "Lykke Andersen, Thomas",
       "count": 10,
       "paperIds": [
-        32,
-        125,
-        353,
-        354,
-        355,
-        779,
-        849,
-        1079,
-        1080
+        49,
+        259,
+        587,
+        592,
+        594,
+        603,
+        604,
+        619,
+        737,
+        815
       ],
       "coauthors": {
-        "Kim": 2,
-        "Ertekin": 2,
-        "Hayatdavoodi": 1,
-        "Yue": 1,
-        "Kyoung": 1,
-        "Bai": 1,
-        "O’Sullivan": 1,
-        "Read": 1,
-        "Choi": 1,
-        "Bouscasse": 1,
-        "Seng": 1,
-        "Gentaz": 1,
-        "Ferrant": 1,
-        "Jeong": 1,
-        "Koo": 1
+        "Nørgaard": 1,
+        "Eldrup": 5,
+        "Røge Eldrup": 1,
+        "Grønbech": 1,
+        "Jensen": 1,
+        "Clavero": 1,
+        "Frigaard": 1,
+        "Zanuttigh": 1
       }
     },
     {
@@ -24592,16 +24478,16 @@ const LIBRARY_DATA = {
       "fullname": "Power, Hannah E.",
       "count": 10,
       "paperIds": [
-        52,
-        53,
-        171,
-        176,
-        183,
-        773,
-        917,
-        918,
-        924,
-        1178
+        50,
+        51,
+        162,
+        167,
+        174,
+        755,
+        904,
+        905,
+        911,
+        1169
       ],
       "coauthors": {
         "Nielsen": 2,
@@ -24623,16 +24509,16 @@ const LIBRARY_DATA = {
       "fullname": "Zang, Jun",
       "count": 10,
       "paperIds": [
-        243,
-        418,
-        552,
-        621,
-        658,
-        755,
-        777,
-        784,
-        785,
-        836
+        232,
+        405,
+        540,
+        608,
+        642,
+        739,
+        759,
+        766,
+        767,
+        823
       ],
       "coauthors": {
         "Chen": 3,
@@ -24673,14 +24559,14 @@ const LIBRARY_DATA = {
       "count": 9,
       "paperIds": [
         1,
-        6,
-        70,
+        5,
+        64,
+        94,
         100,
-        107,
-        200,
-        630,
-        633,
-        684
+        190,
+        614,
+        617,
+        667
       ],
       "coauthors": {
         "Soares": 1,
@@ -24702,15 +24588,15 @@ const LIBRARY_DATA = {
       "fullname": "Toffoli, Alessandro",
       "count": 9,
       "paperIds": [
-        13,
-        94,
-        137,
-        527,
-        528,
-        671,
-        710,
-        736,
-        760
+        12,
+        88,
+        130,
+        515,
+        516,
+        655,
+        693,
+        720,
+        744
       ],
       "coauthors": {
         "Fernandez": 1,
@@ -24747,15 +24633,15 @@ const LIBRARY_DATA = {
       "fullname": "Zhao, Yun-Peng",
       "count": 9,
       "paperIds": [
-        18,
-        35,
-        220,
-        315,
-        381,
-        704,
-        824,
-        887,
-        888
+        17,
+        33,
+        211,
+        301,
+        367,
+        687,
+        811,
+        873,
+        874
       ],
       "coauthors": {
         "Gao": 1,
@@ -24781,40 +24667,19 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Longuet-Higgins",
-      "fullname": "Longuet-Higgins, Michael Selwyn",
-      "count": 9,
-      "paperIds": [
-        37,
-        166,
-        384,
-        385,
-        388,
-        495,
-        858,
-        991,
-        992
-      ],
-      "coauthors": {
-        "Cokelet": 1,
-        "Srokosz": 1,
-        "Stewart": 1
-      }
-    },
-    {
       "name": "Adcock",
       "fullname": "Adcock, Thomas A. A.",
       "count": 9,
       "paperIds": [
-        196,
-        406,
-        426,
-        446,
-        521,
-        639,
-        682,
-        734,
-        751
+        186,
+        393,
+        414,
+        434,
+        509,
+        622,
+        666,
+        718,
+        735
       ],
       "coauthors": {
         "Taylor": 6,
@@ -24842,14 +24707,14 @@ const LIBRARY_DATA = {
       "fullname": "Karmpadakis, Ioannis",
       "count": 8,
       "paperIds": [
+        27,
         28,
         29,
-        30,
-        77,
-        79,
-        80,
-        655,
-        1074
+        72,
+        73,
+        74,
+        639,
+        1067
       ],
       "coauthors": {
         "Swan": 4,
@@ -24861,14 +24726,14 @@ const LIBRARY_DATA = {
       "fullname": "Christou, Marios",
       "count": 8,
       "paperIds": [
+        28,
         29,
-        30,
+        68,
         74,
-        77,
-        250,
-        600,
-        965,
-        1048
+        239,
+        589,
+        955,
+        1042
       ],
       "coauthors": {
         "Karmpadakis": 3,
@@ -24880,18 +24745,38 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Longuet-Higgins",
+      "fullname": "Longuet-Higgins, Michael Selwyn",
+      "count": 8,
+      "paperIds": [
+        35,
+        157,
+        370,
+        371,
+        374,
+        483,
+        981,
+        982
+      ],
+      "coauthors": {
+        "Cokelet": 1,
+        "Srokosz": 1,
+        "Stewart": 1
+      }
+    },
+    {
       "name": "Mendes",
       "fullname": "Mendes, Saulo",
       "count": 8,
       "paperIds": [
-        44,
-        409,
-        718,
-        719,
-        720,
-        722,
-        723,
-        724
+        42,
+        396,
+        701,
+        702,
+        703,
+        705,
+        706,
+        707
       ],
       "coauthors": {
         "Kasparian": 2,
@@ -24900,18 +24785,38 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Tayfun",
+      "fullname": "Tayfun, M. Aziz",
+      "count": 8,
+      "paperIds": [
+        56,
+        57,
+        58,
+        87,
+        93,
+        512,
+        667,
+        937
+      ],
+      "coauthors": {
+        "Fedele": 3,
+        "Alkhalidi": 2,
+        "Arena": 1
+      }
+    },
+    {
       "name": "Fedele",
       "fullname": "Fedele, Francesco",
       "count": 8,
       "paperIds": [
-        60,
-        93,
-        107,
-        108,
-        140,
-        359,
-        684,
-        700
+        57,
+        87,
+        100,
+        101,
+        133,
+        346,
+        667,
+        683
       ],
       "coauthors": {
         "Tayfun": 3,
@@ -24926,60 +24831,18 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Babanin",
-      "fullname": "Babanin, Alexander V.",
-      "count": 8,
-      "paperIds": [
-        94,
-        203,
-        527,
-        588,
-        633,
-        691,
-        801,
-        1002
-      ],
-      "coauthors": {
-        "Toffoli": 2,
-        "Bitner-Gregersen": 1,
-        "Onorato": 4,
-        "Cavaleri": 1,
-        "Waseda": 1,
-        "Zhang": 1,
-        "Liao": 1,
-        "Shi": 1,
-        "Soares": 1,
-        "Voermans": 1,
-        "Laface": 1,
-        "Romolo": 1,
-        "Arena": 1,
-        "Chabchoub": 1,
-        "Kibler": 1,
-        "Finot": 1,
-        "Millot": 1,
-        "Dudley": 1,
-        "Liu": 1,
-        "Rogers": 1,
-        "Young": 1,
-        "Romero": 1,
-        "Zieger": 1,
-        "Qiao": 1,
-        "Guan": 1
-      }
-    },
-    {
       "name": "Chabchoub",
       "fullname": "Chabchoub, Amin",
       "count": 8,
       "paperIds": [
-        106,
-        137,
-        236,
-        351,
-        352,
-        675,
-        691,
-        701
+        99,
+        130,
+        225,
+        338,
+        339,
+        659,
+        674,
+        684
       ],
       "coauthors": {
         "Eeltink": 2,
@@ -25019,14 +24882,14 @@ const LIBRARY_DATA = {
       "fullname": "Buldakov, Eugeny",
       "count": 8,
       "paperIds": [
-        133,
-        147,
-        154,
-        269,
-        496,
-        497,
-        688,
-        777
+        126,
+        139,
+        146,
+        258,
+        484,
+        485,
+        671,
+        759
       ],
       "coauthors": {
         "Vyzikas": 1,
@@ -25046,14 +24909,14 @@ const LIBRARY_DATA = {
       "fullname": "Janssen, Peter A. E. M.",
       "count": 8,
       "paperIds": [
-        143,
-        196,
-        212,
-        336,
-        456,
-        539,
-        707,
-        760
+        135,
+        186,
+        203,
+        322,
+        444,
+        527,
+        690,
+        744
       ],
       "coauthors": {
         "Battjes": 3,
@@ -25091,14 +24954,14 @@ const LIBRARY_DATA = {
       "fullname": "Chang, Kuang-An",
       "count": 8,
       "paperIds": [
-        168,
-        182,
-        456,
-        776,
-        834,
-        848,
-        873,
-        963
+        159,
+        173,
+        444,
+        758,
+        821,
+        835,
+        859,
+        953
       ],
       "coauthors": {
         "Na": 1,
@@ -25130,28 +24993,28 @@ const LIBRARY_DATA = {
       "fullname": "Ducrozet, Guillaume",
       "count": 8,
       "paperIds": [
-        181,
-        265,
-        505,
-        638,
-        647,
-        648,
-        674,
-        697
+        172,
+        254,
+        621,
+        631,
+        632,
+        658,
+        680,
+        708
       ],
       "coauthors": {
         "Seiffert": 1,
         "Bonnefoy": 2,
         "Perignon": 1,
-        "Michel": 1,
-        "Falcon": 1,
         "Gouin": 1,
         "Ferrant": 1,
         "Wang": 1,
         "Zhou": 1,
         "Jin": 1,
         "Li": 1,
-        "Liu": 1
+        "Liu": 1,
+        "Michel": 1,
+        "Falcon": 1
       }
     },
     {
@@ -25159,14 +25022,14 @@ const LIBRARY_DATA = {
       "fullname": "Xie, Zhihua",
       "count": 8,
       "paperIds": [
-        188,
-        569,
-        570,
-        715,
-        745,
-        783,
-        886,
-        1179
+        179,
+        557,
+        558,
+        698,
+        729,
+        765,
+        872,
+        1170
       ],
       "coauthors": {
         "Lin": 1,
@@ -25190,14 +25053,14 @@ const LIBRARY_DATA = {
       "fullname": "Benoit, Michel",
       "count": 8,
       "paperIds": [
-        489,
-        558,
-        589,
-        590,
-        640,
-        642,
-        671,
-        750
+        476,
+        546,
+        578,
+        579,
+        623,
+        625,
+        655,
+        734
       ],
       "coauthors": {
         "Simon": 1,
@@ -25220,13 +25083,13 @@ const LIBRARY_DATA = {
       "fullname": "Dean, Robert G.",
       "count": 7,
       "paperIds": [
-        12,
-        105,
-        126,
-        255,
-        273,
-        956,
-        966
+        11,
+        98,
+        119,
+        244,
+        261,
+        946,
+        956
       ],
       "coauthors": {
         "Dally": 1,
@@ -25240,13 +25103,13 @@ const LIBRARY_DATA = {
       "fullname": "Gao, Junliang",
       "count": 7,
       "paperIds": [
+        17,
         18,
-        19,
-        292,
-        571,
-        784,
-        785,
-        786
+        278,
+        559,
+        766,
+        767,
+        768
       ],
       "coauthors": {
         "Wu": 1,
@@ -25272,13 +25135,13 @@ const LIBRARY_DATA = {
       "fullname": "Zhu, Fangyao",
       "count": 7,
       "paperIds": [
-        18,
-        594,
-        785,
-        908,
-        1151,
-        1182,
-        1184
+        17,
+        584,
+        767,
+        895,
+        1142,
+        1173,
+        1175
       ],
       "coauthors": {
         "Gao": 2,
@@ -25312,13 +25175,13 @@ const LIBRARY_DATA = {
       "fullname": "Qi, Hongshuai",
       "count": 7,
       "paperIds": [
-        25,
-        190,
-        194,
-        452,
-        453,
-        591,
-        996
+        24,
+        181,
+        185,
+        440,
+        441,
+        580,
+        986
       ],
       "coauthors": {
         "Hou": 1,
@@ -25342,22 +25205,50 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Tayfun",
-      "fullname": "Tayfun, M. Aziz",
+      "name": "Mase",
+      "fullname": "Mase, Hajime",
       "count": 7,
       "paperIds": [
-        59,
-        60,
-        93,
-        99,
-        524,
-        684,
-        947
+        39,
+        40,
+        657,
+        814,
+        832,
+        1057,
+        1058
       ],
       "coauthors": {
-        "Fedele": 3,
-        "Alkhalidi": 2,
-        "Arena": 1
+        "Ozawa": 1,
+        "Altomare": 1,
+        "Laucelli": 1,
+        "Gironella": 1,
+        "Hedges": 3
+      }
+    },
+    {
+      "name": "Guedes Soares",
+      "fullname": "Guedes Soares, Carlos",
+      "count": 7,
+      "paperIds": [
+        84,
+        189,
+        274,
+        289,
+        294,
+        793,
+        794
+      ],
+      "coauthors": {
+        "Pascoal": 2,
+        "Zhang": 1,
+        "Fonseca": 1,
+        "Clauss": 1,
+        "Schmittner": 1,
+        "Gramcianinov": 1,
+        "Campos": 1,
+        "Camargo": 1,
+        "Mohapatra": 2,
+        "Islam": 2
       }
     },
     {
@@ -25365,12 +25256,12 @@ const LIBRARY_DATA = {
       "fullname": "He, Shengquan",
       "count": 7,
       "paperIds": [
-        106,
-        157,
-        319,
-        573,
-        703,
-        1184
+        99,
+        149,
+        305,
+        562,
+        686,
+        1175
       ],
       "coauthors": {
         "Eeltink": 1,
@@ -25405,13 +25296,13 @@ const LIBRARY_DATA = {
       "fullname": "Feng, Xingya",
       "count": 7,
       "paperIds": [
-        109,
-        234,
-        278,
-        327,
-        751,
-        754,
-        1058
+        102,
+        223,
+        265,
+        313,
+        735,
+        738,
+        1052
       ],
       "coauthors": {
         "Casas-Prat": 1,
@@ -25438,13 +25329,13 @@ const LIBRARY_DATA = {
       "fullname": "Dias, Frédéric",
       "count": 7,
       "paperIds": [
-        112,
-        140,
-        275,
-        285,
-        549,
-        555,
-        694
+        105,
+        133,
+        262,
+        272,
+        537,
+        543,
+        677
       ],
       "coauthors": {
         "Brennan": 1,
@@ -25468,13 +25359,13 @@ const LIBRARY_DATA = {
       "fullname": "Trulsen, Karsten",
       "count": 7,
       "paperIds": [
-        132,
-        135,
-        367,
-        486,
-        534,
-        738,
-        760
+        125,
+        128,
+        354,
+        473,
+        522,
+        722,
+        744
       ],
       "coauthors": {
         "Kliakhandler": 1,
@@ -25505,13 +25396,13 @@ const LIBRARY_DATA = {
       "fullname": "Stagonas, Dimitris",
       "count": 7,
       "paperIds": [
-        133,
-        154,
-        496,
-        497,
-        670,
-        688,
-        777
+        126,
+        146,
+        484,
+        485,
+        654,
+        671,
+        759
       ],
       "coauthors": {
         "Vyzikas": 1,
@@ -25532,13 +25423,13 @@ const LIBRARY_DATA = {
       "fullname": "Lee, Jung Hoon",
       "count": 7,
       "paperIds": [
-        137,
-        164,
-        371,
-        372,
-        716,
-        912,
-        1014
+        130,
+        155,
+        358,
+        359,
+        699,
+        899,
+        1008
       ],
       "coauthors": {
         "Alberello": 1,
@@ -25563,13 +25454,13 @@ const LIBRARY_DATA = {
       "fullname": "Liang, Dongfang",
       "count": 7,
       "paperIds": [
-        182,
-        292,
-        424,
-        553,
-        556,
-        887,
-        889
+        173,
+        278,
+        412,
+        541,
+        544,
+        873,
+        875
       ],
       "coauthors": {
         "Zhang": 2,
@@ -25587,17 +25478,41 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Yue",
+      "fullname": "Yue, Dick K. P.",
+      "count": 7,
+      "paperIds": [
+        234,
+        340,
+        341,
+        441,
+        560,
+        712,
+        1018
+      ],
+      "coauthors": {
+        "Liu": 4,
+        "Xue": 2,
+        "Kim": 2,
+        "Qi": 1,
+        "Wu": 2,
+        "Xü": 1,
+        "Zhang": 1,
+        "Hong": 1
+      }
+    },
+    {
       "name": "Hsu",
       "fullname": "Hsu, Hung-Chu",
       "count": 7,
       "paperIds": [
-        351,
-        352,
-        476,
-        590,
-        963,
-        979,
-        1020
+        338,
+        339,
+        463,
+        579,
+        953,
+        969,
+        1014
       ],
       "coauthors": {
         "Kimmoun": 3,
@@ -25620,13 +25535,13 @@ const LIBRARY_DATA = {
       "fullname": "Tang, Zhengjiang",
       "count": 7,
       "paperIds": [
-        454,
-        521,
-        573,
-        734,
-        748,
-        751,
-        888
+        442,
+        509,
+        562,
+        718,
+        732,
+        735,
+        874
       ],
       "coauthors": {
         "Qu": 1,
@@ -25660,13 +25575,13 @@ const LIBRARY_DATA = {
       "fullname": "Deng, Xiaowei",
       "count": 7,
       "paperIds": [
-        454,
-        455,
-        513,
-        847,
-        873,
-        875,
-        1151
+        442,
+        443,
+        500,
+        834,
+        859,
+        861,
+        1142
       ],
       "coauthors": {
         "Qu": 4,
@@ -25695,13 +25610,13 @@ const LIBRARY_DATA = {
       "fullname": "Fang, Yongliu",
       "count": 7,
       "paperIds": [
-        555,
-        679,
-        783,
-        800,
-        825,
-        840,
-        855
+        543,
+        663,
+        765,
+        784,
+        812,
+        827,
+        842
       ],
       "coauthors": {
         "Wang": 1,
@@ -25721,13 +25636,13 @@ const LIBRARY_DATA = {
       "fullname": "Guo, Yinghao",
       "count": 7,
       "paperIds": [
-        679,
-        703,
-        704,
-        742,
-        837,
-        840,
-        1146
+        663,
+        686,
+        687,
+        726,
+        824,
+        827,
+        1138
       ],
       "coauthors": {
         "Fang": 2,
@@ -25751,12 +25666,12 @@ const LIBRARY_DATA = {
       "fullname": "Forristall, George Z.",
       "count": 6,
       "paperIds": [
+        14,
         15,
         16,
-        17,
-        72,
-        229,
-        320
+        66,
+        218,
+        306
       ],
       "coauthors": {
         "Buchner": 1,
@@ -25773,12 +25688,12 @@ const LIBRARY_DATA = {
       "fullname": "Xu, Wenzhe",
       "count": 6,
       "paperIds": [
-        18,
-        97,
-        189,
-        253,
-        514,
-        751
+        17,
+        91,
+        180,
+        242,
+        501,
+        735
       ],
       "coauthors": {
         "Gao": 1,
@@ -25806,48 +25721,20 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Mase",
-      "fullname": "Mase, Hajime",
+      "name": "Latheef",
+      "fullname": "Latheef, M.",
       "count": 6,
       "paperIds": [
-        41,
-        42,
-        673,
-        827,
-        845,
-        1063
+        81,
+        353,
+        782,
+        783,
+        1076,
+        1077
       ],
       "coauthors": {
-        "Ozawa": 1,
-        "Altomare": 1,
-        "Laucelli": 1,
-        "Gironella": 1,
-        "Hedges": 2
-      }
-    },
-    {
-      "name": "Guedes Soares",
-      "fullname": "Guedes Soares, Carlos",
-      "count": 6,
-      "paperIds": [
-        90,
-        199,
-        287,
-        304,
-        308,
-        809
-      ],
-      "coauthors": {
-        "Pascoal": 2,
-        "Zhang": 1,
-        "Fonseca": 1,
-        "Clauss": 1,
-        "Schmittner": 1,
-        "Gramcianinov": 1,
-        "Campos": 1,
-        "Camargo": 1,
-        "Mohapatra": 1,
-        "Islam": 1
+        "Swan": 2,
+        "Spinneken": 1
       }
     },
     {
@@ -25855,12 +25742,12 @@ const LIBRARY_DATA = {
       "fullname": "Schäffer, Hemming A.",
       "count": 6,
       "paperIds": [
-        131,
-        180,
-        764,
-        765,
-        804,
-        805
+        124,
+        171,
+        747,
+        748,
+        788,
+        789
       ],
       "coauthors": {
         "Steenberg": 2,
@@ -25874,12 +25761,12 @@ const LIBRARY_DATA = {
       "fullname": "Yan, Guirong",
       "count": 6,
       "paperIds": [
-        146,
-        196,
-        405,
-        742,
-        820,
-        1147
+        138,
+        186,
+        392,
+        726,
+        807,
+        1139
       ],
       "coauthors": {
         "Boswell": 1,
@@ -25900,12 +25787,12 @@ const LIBRARY_DATA = {
       "fullname": "Shi, Fengyan",
       "count": 6,
       "paperIds": [
-        190,
-        404,
-        556,
-        588,
-        747,
-        889
+        181,
+        391,
+        544,
+        577,
+        731,
+        875
       ],
       "coauthors": {
         "Zhang": 3,
@@ -25930,12 +25817,12 @@ const LIBRARY_DATA = {
       "fullname": "Zheng, Jinhai",
       "count": 6,
       "paperIds": [
-        190,
-        446,
-        553,
-        556,
-        783,
-        1029
+        181,
+        434,
+        541,
+        544,
+        765,
+        1023
       ],
       "coauthors": {
         "Zhang": 1,
@@ -25959,12 +25846,12 @@ const LIBRARY_DATA = {
       "fullname": "Gramstad, Odin",
       "count": 6,
       "paperIds": [
-        222,
-        367,
-        534,
-        738,
-        760,
-        975
+        213,
+        354,
+        522,
+        722,
+        744,
+        965
       ],
       "coauthors": {
         "Bitner-Gregersen": 1,
@@ -25993,12 +25880,12 @@ const LIBRARY_DATA = {
       "fullname": "Kimmoun, Olivier",
       "count": 6,
       "paperIds": [
-        351,
-        352,
-        416,
-        590,
-        701,
-        850
+        338,
+        339,
+        403,
+        579,
+        684,
+        837
       ],
       "coauthors": {
         "Hsu": 3,
@@ -26024,12 +25911,12 @@ const LIBRARY_DATA = {
       "fullname": "Stansberg, Carl Trygve",
       "count": 6,
       "paperIds": [
-        498,
-        499,
-        500,
-        501,
-        503,
-        760
+        486,
+        487,
+        488,
+        489,
+        491,
+        744
       ],
       "coauthors": {
         "Kristiansen": 1,
@@ -26051,11 +25938,11 @@ const LIBRARY_DATA = {
       "fullname": "Boccotti, Paolo",
       "count": 5,
       "paperIds": [
+        4,
         5,
-        6,
-        223,
-        224,
-        958
+        214,
+        215,
+        948
       ],
       "coauthors": {
         "Arena": 1,
@@ -26070,11 +25957,11 @@ const LIBRARY_DATA = {
       "fullname": "Gibson, Richard",
       "count": 5,
       "paperIds": [
-        73,
-        74,
-        296,
-        298,
-        1060
+        67,
+        68,
+        283,
+        769,
+        1054
       ],
       "coauthors": {
         "Swan": 3,
@@ -26084,31 +25971,15 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Latheef",
-      "fullname": "Latheef, M.",
-      "count": 5,
-      "paperIds": [
-        87,
-        366,
-        799,
-        1083,
-        1084
-      ],
-      "coauthors": {
-        "Swan": 2,
-        "Spinneken": 1
-      }
-    },
-    {
       "name": "Bitner-Gregersen",
       "fullname": "Bitner-Gregersen, Elzbieta M.",
       "count": 5,
       "paperIds": [
-        94,
-        222,
-        383,
-        469,
-        671
+        88,
+        213,
+        369,
+        456,
+        655
       ],
       "coauthors": {
         "Toffoli": 2,
@@ -26131,15 +26002,30 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Fenton",
+      "fullname": "Fenton, John D.",
+      "count": 5,
+      "paperIds": [
+        103,
+        266,
+        267,
+        452,
+        960
+      ],
+      "coauthors": {
+        "Rienecker": 2
+      }
+    },
+    {
       "name": "Madsen",
       "fullname": "Madsen, Per A.",
       "count": 5,
       "paperIds": [
-        119,
-        393,
-        804,
-        805,
-        995
+        112,
+        379,
+        788,
+        789,
+        985
       ],
       "coauthors": {
         "Sørensen": 2,
@@ -26150,15 +26036,31 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Spinneken",
+      "fullname": "Spinneken, Johannes",
+      "count": 5,
+      "paperIds": [
+        123,
+        353,
+        481,
+        1105,
+        1106
+      ],
+      "coauthors": {
+        "Swan": 4,
+        "Latheef": 1
+      }
+    },
+    {
       "name": "Grilli",
       "fullname": "Grilli, Stephan T.",
       "count": 5,
       "paperIds": [
-        151,
-        187,
-        285,
-        305,
-        819
+        143,
+        178,
+        272,
+        290,
+        806
       ],
       "coauthors": {
         "Derakhti": 1,
@@ -26183,10 +26085,10 @@ const LIBRARY_DATA = {
       "fullname": "Park, Yong Sung",
       "count": 5,
       "paperIds": [
-        172,
-        266,
-        632,
-        1014
+        163,
+        255,
+        616,
+        1008
       ],
       "coauthors": {
         "Pujara": 1,
@@ -26209,11 +26111,11 @@ const LIBRARY_DATA = {
       "fullname": "Hu, Liangming",
       "count": 5,
       "paperIds": [
-        207,
-        268,
-        577,
-        790,
-        847
+        197,
+        257,
+        566,
+        773,
+        834
       ],
       "coauthors": {
         "Baldock": 1,
@@ -26237,11 +26139,11 @@ const LIBRARY_DATA = {
       "fullname": "Bredmose, Henrik",
       "count": 5,
       "paperIds": [
-        228,
-        231,
+        217,
+        220,
+        414,
         426,
-        439,
-        440
+        427
       ],
       "coauthors": {
         "Bullock": 2,
@@ -26258,25 +26160,24 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Yue",
-      "fullname": "Yue, Dick K. P.",
+      "name": "Eatock Taylor",
+      "fullname": "Eatock Taylor, R.",
       "count": 5,
       "paperIds": [
-        245,
-        353,
-        453,
-        728,
-        1025
+        257,
+        389,
+        390,
+        540,
+        555
       ],
       "coauthors": {
-        "Xue": 1,
-        "Xü": 1,
-        "Liu": 3,
-        "Kim": 1,
-        "Qi": 1,
-        "Wu": 2,
-        "Zhang": 1,
-        "Hong": 1
+        "Wu": 4,
+        "Bai": 1,
+        "Hu": 1,
+        "Ma": 2,
+        "Walker": 1,
+        "Taylor": 1,
+        "Zang": 1
       }
     },
     {
@@ -26284,11 +26185,11 @@ const LIBRARY_DATA = {
       "fullname": "Eldrup, Mads Røge",
       "count": 5,
       "paperIds": [
-        270,
-        597,
-        616,
-        617,
-        753
+        259,
+        587,
+        603,
+        604,
+        737
       ],
       "coauthors": {
         "Lykke Andersen": 5,
@@ -26301,11 +26202,11 @@ const LIBRARY_DATA = {
       "fullname": "Altomare, Corrado",
       "count": 5,
       "paperIds": [
-        324,
-        515,
-        827,
-        838,
-        911
+        310,
+        502,
+        814,
+        825,
+        898
       ],
       "coauthors": {
         "Hofland": 1,
@@ -26329,11 +26230,11 @@ const LIBRARY_DATA = {
       "fullname": "Yuan, Juan-Ming",
       "count": 5,
       "paperIds": [
-        325,
-        380,
-        423,
-        748,
-        1165
+        311,
+        366,
+        411,
+        732,
+        1157
       ],
       "coauthors": {
         "Huang": 1,
@@ -26365,11 +26266,11 @@ const LIBRARY_DATA = {
       "fullname": "Young, Ian R.",
       "count": 5,
       "paperIds": [
-        418,
-        576,
-        677,
-        801,
-        1003
+        405,
+        565,
+        661,
+        785,
+        994
       ],
       "coauthors": {
         "Morgan": 1,
@@ -26391,11 +26292,11 @@ const LIBRARY_DATA = {
       "fullname": "Jiang, Haoyu",
       "count": 5,
       "paperIds": [
-        454,
-        455,
-        513,
-        875,
-        888
+        442,
+        443,
+        500,
+        861,
+        874
       ],
       "coauthors": {
         "Qu": 4,
@@ -26416,11 +26317,11 @@ const LIBRARY_DATA = {
       "fullname": "Yao, Jinyu",
       "count": 5,
       "paperIds": [
-        573,
-        574,
-        662,
-        821,
-        837
+        562,
+        563,
+        646,
+        808,
+        824
       ],
       "coauthors": {
         "He": 1,
@@ -26441,9 +26342,9 @@ const LIBRARY_DATA = {
       "count": 4,
       "paperIds": [
         1,
-        39,
-        588,
-        747
+        37,
+        577,
+        731
       ],
       "coauthors": {
         "Arena": 1,
@@ -26459,10 +26360,10 @@ const LIBRARY_DATA = {
       "fullname": "Goda, Yoshimi",
       "count": 4,
       "paperIds": [
-        20,
-        156,
-        972,
-        973
+        19,
+        148,
+        962,
+        963
       ],
       "coauthors": {
         "Suzuki": 1
@@ -26473,9 +26374,9 @@ const LIBRARY_DATA = {
       "fullname": "Duan, YongLiang",
       "count": 4,
       "paperIds": [
-        25,
-        264,
-        585
+        24,
+        253,
+        574
       ],
       "coauthors": {
         "Hou": 1,
@@ -26498,10 +26399,10 @@ const LIBRARY_DATA = {
       "fullname": "Liberzon, Dan",
       "count": 4,
       "paperIds": [
-        33,
-        127,
-        333,
-        359
+        31,
+        120,
+        319,
+        346
       ],
       "coauthors": {
         "Knobler": 2,
@@ -26518,10 +26419,10 @@ const LIBRARY_DATA = {
       "fullname": "Jia, Meijun",
       "count": 4,
       "paperIds": [
-        36,
-        97,
-        189,
-        837
+        34,
+        91,
+        180,
+        824
       ],
       "coauthors": {
         "Liu": 3,
@@ -26543,10 +26444,10 @@ const LIBRARY_DATA = {
       "fullname": "Mori, Nobuhito",
       "count": 4,
       "paperIds": [
-        48,
-        234,
-        708,
-        717
+        46,
+        223,
+        691,
+        700
       ],
       "coauthors": {
         "Yasuda": 1,
@@ -26566,10 +26467,10 @@ const LIBRARY_DATA = {
       "fullname": "Hughes, Michael G.",
       "count": 4,
       "paperIds": [
-        53,
-        653,
-        917,
-        982
+        51,
+        637,
+        904,
+        972
       ],
       "coauthors": {
         "Power": 2,
@@ -26583,10 +26484,10 @@ const LIBRARY_DATA = {
       "fullname": "Tromans, Peter S.",
       "count": 4,
       "paperIds": [
-        73,
-        320,
-        521,
-        532
+        67,
+        306,
+        509,
+        520
       ],
       "coauthors": {
         "Gibson": 1,
@@ -26607,10 +26508,10 @@ const LIBRARY_DATA = {
       "fullname": "Katsardi, V.",
       "count": 4,
       "paperIds": [
-        81,
-        103,
-        161,
-        1078
+        75,
+        200,
+        330,
+        1071
       ],
       "coauthors": {
         "de Lutio": 1,
@@ -26623,10 +26524,10 @@ const LIBRARY_DATA = {
       "fullname": "Lian, Gunnar",
       "count": 4,
       "paperIds": [
-        88,
-        377,
-        511,
-        1085
+        82,
+        364,
+        498,
+        1078
       ],
       "coauthors": {
         "Vestbøstad": 1,
@@ -26636,14 +26537,30 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Bateman",
+      "fullname": "Bateman, W.J.D.",
+      "count": 4,
+      "paperIds": [
+        96,
+        200,
+        201,
+        202
+      ],
+      "coauthors": {
+        "Katsardi": 1,
+        "Swan": 3,
+        "Taylor": 2
+      }
+    },
+    {
       "name": "Kasparian",
       "fullname": "Kasparian, Jérôme",
       "count": 4,
       "paperIds": [
-        106,
-        409,
-        701,
-        724
+        99,
+        396,
+        684,
+        707
       ],
       "coauthors": {
         "Eeltink": 2,
@@ -26667,10 +26584,10 @@ const LIBRARY_DATA = {
       "fullname": "van den Bremer, Ton S.",
       "count": 4,
       "paperIds": [
-        106,
-        406,
-        446,
-        751
+        99,
+        393,
+        434,
+        735
       ],
       "coauthors": {
         "Eeltink": 1,
@@ -26694,28 +26611,14 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Fenton",
-      "fullname": "Fenton, John D.",
-      "count": 4,
-      "paperIds": [
-        110,
-        279,
-        280,
-        970
-      ],
-      "coauthors": {
-        "Rienecker": 1
-      }
-    },
-    {
       "name": "Ertekin",
       "fullname": "Ertekin, R. Cengiz",
       "count": 4,
       "paperIds": [
-        125,
-        354,
-        375,
-        572
+        118,
+        342,
+        362,
+        561
       ],
       "coauthors": {
         "Hayatdavoodi": 2,
@@ -26727,29 +26630,14 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Spinneken",
-      "fullname": "Spinneken, Johannes",
-      "count": 4,
-      "paperIds": [
-        130,
-        366,
-        1112,
-        1113
-      ],
-      "coauthors": {
-        "Swan": 3,
-        "Latheef": 1
-      }
-    },
-    {
       "name": "Alsina",
       "fullname": "Alsina, José M.",
       "count": 4,
       "paperIds": [
-        138,
-        434,
-        626,
-        761
+        131,
+        612,
+        745,
+        795
       ],
       "coauthors": {
         "Baldock": 1,
@@ -26761,10 +26649,10 @@ const LIBRARY_DATA = {
       "fullname": "Banner, Michael L.",
       "count": 4,
       "paperIds": [
-        140,
-        151,
-        177,
-        178
+        133,
+        143,
+        168,
+        169
       ],
       "coauthors": {
         "Barthelemy": 2,
@@ -26784,10 +26672,10 @@ const LIBRARY_DATA = {
       "fullname": "Callaghan, Adrian H.",
       "count": 4,
       "paperIds": [
-        148,
-        150,
-        171,
-        207
+        140,
+        142,
+        162,
+        197
       ],
       "coauthors": {
         "Deane": 1,
@@ -26805,10 +26693,10 @@ const LIBRARY_DATA = {
       "fullname": "Kirby, James T.",
       "count": 4,
       "paperIds": [
-        151,
-        163,
-        404,
-        819
+        143,
+        154,
+        391,
+        806
       ],
       "coauthors": {
         "Derakhti": 1,
@@ -26826,10 +26714,10 @@ const LIBRARY_DATA = {
       "fullname": "Simons, Richard",
       "count": 4,
       "paperIds": [
-        154,
-        496,
-        670,
-        777
+        146,
+        484,
+        654,
+        759
       ],
       "coauthors": {
         "Esandi": 1,
@@ -26847,10 +26735,10 @@ const LIBRARY_DATA = {
       "fullname": "Belibassakis, Kostas",
       "count": 4,
       "paperIds": [
-        201,
-        216,
-        217,
-        365
+        191,
+        207,
+        208,
+        352
       ],
       "coauthors": {
         "Athanassoulis": 1,
@@ -26864,10 +26752,10 @@ const LIBRARY_DATA = {
       "fullname": "Cavaleri, Luigi",
       "count": 4,
       "paperIds": [
-        203,
-        433,
-        685,
-        760
+        193,
+        421,
+        668,
+        744
       ],
       "coauthors": {
         "Babanin": 1,
@@ -26901,10 +26789,10 @@ const LIBRARY_DATA = {
       "fullname": "Reniers, Ad J.H.M.",
       "count": 4,
       "paperIds": [
-        212,
-        463,
-        539,
-        831
+        203,
+        450,
+        527,
+        818
       ],
       "coauthors": {
         "Dongeren": 1,
@@ -26925,36 +26813,14 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Ning",
-      "fullname": "Ning, Dezhi",
-      "count": 4,
-      "paperIds": [
-        227,
-        424,
-        887,
-        889
-      ],
-      "coauthors": {
-        "Zhou": 2,
-        "Teng": 1,
-        "Bai": 1,
-        "Liang": 3,
-        "Chen": 1,
-        "Zhang": 1,
-        "Zhao": 1,
-        "Shi": 1,
-        "Johanning": 1
-      }
-    },
-    {
       "name": "Peregrine",
       "fullname": "Peregrine, D. H.",
       "count": 4,
       "paperIds": [
-        231,
-        422,
-        529,
-        811
+        220,
+        410,
+        517,
+        797
       ],
       "coauthors": {
         "Bullock": 1,
@@ -26972,10 +26838,10 @@ const LIBRARY_DATA = {
       "fullname": "Chan, Rodney",
       "count": 4,
       "paperIds": [
-        234,
-        253,
-        593,
-        872
+        223,
+        242,
+        582,
+        858
       ],
       "coauthors": {
         "Casas-Prat": 1,
@@ -26999,10 +26865,10 @@ const LIBRARY_DATA = {
       "fullname": "Waseda, Takuji",
       "count": 4,
       "paperIds": [
-        236,
-        527,
-        675,
-        676
+        225,
+        515,
+        659,
+        660
       ],
       "coauthors": {
         "Chabchoub": 2,
@@ -27022,10 +26888,10 @@ const LIBRARY_DATA = {
       "fullname": "Kharif, Christian",
       "count": 4,
       "paperIds": [
-        241,
-        358,
-        701,
-        730
+        230,
+        345,
+        684,
+        714
       ],
       "coauthors": {
         "Chen": 1,
@@ -27050,10 +26916,10 @@ const LIBRARY_DATA = {
       "fullname": "Yu, Caileen",
       "count": 4,
       "paperIds": [
-        242,
-        266,
-        577,
-        678
+        231,
+        255,
+        566,
+        662
       ],
       "coauthors": {
         "Chen": 1,
@@ -27069,23 +26935,45 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Eatock Taylor",
-      "fullname": "Eatock Taylor, R.",
+      "name": "Davey",
+      "fullname": "Davey, Thomas",
       "count": 4,
       "paperIds": [
-        268,
-        403,
-        552,
-        567
+        277,
+        590,
+        591,
+        626
       ],
       "coauthors": {
-        "Wu": 3,
-        "Bai": 1,
-        "Hu": 1,
-        "Ma": 1,
-        "Walker": 1,
-        "Taylor": 1,
-        "Zang": 1
+        "Gabl": 1,
+        "Steynor": 2,
+        "Forehand": 1,
+        "Bruce": 1,
+        "Ingram": 4,
+        "Draycott": 3,
+        "Day": 2,
+        "Johanning": 2
+      }
+    },
+    {
+      "name": "Ingram",
+      "fullname": "Ingram, David M.",
+      "count": 4,
+      "paperIds": [
+        277,
+        590,
+        591,
+        626
+      ],
+      "coauthors": {
+        "Gabl": 1,
+        "Steynor": 2,
+        "Forehand": 1,
+        "Davey": 4,
+        "Bruce": 1,
+        "Draycott": 3,
+        "Day": 2,
+        "Johanning": 2
       }
     },
     {
@@ -27093,10 +26981,10 @@ const LIBRARY_DATA = {
       "fullname": "van Dongeren, Ap R.",
       "count": 4,
       "paperIds": [
-        294,
-        463,
-        539,
-        919
+        280,
+        450,
+        527,
+        906
       ],
       "coauthors": {
         "Gawehn": 1,
@@ -27120,14 +27008,29 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Grue",
+      "fullname": "Grue, John",
+      "count": 4,
+      "paperIds": [
+        291,
+        292,
+        314,
+        967
+      ],
+      "coauthors": {
+        "Osyka": 2,
+        "Huseby": 1
+      }
+    },
+    {
       "name": "Higuera",
       "fullname": "Higuera, Pablo",
       "count": 4,
       "paperIds": [
-        322,
-        497,
-        688,
-        781
+        308,
+        485,
+        671,
+        763
       ],
       "coauthors": {
         "Lara": 2,
@@ -27141,10 +27044,10 @@ const LIBRARY_DATA = {
       "fullname": "Long, Steven R.",
       "count": 4,
       "paperIds": [
-        325,
-        651,
-        652,
-        831
+        311,
+        635,
+        636,
+        818
       ],
       "coauthors": {
         "Huang": 3,
@@ -27167,10 +27070,10 @@ const LIBRARY_DATA = {
       "fullname": "Johannessen, Thomas B.",
       "count": 4,
       "paperIds": [
-        337,
-        338,
-        339,
-        1073
+        323,
+        324,
+        325,
+        1066
       ],
       "coauthors": {
         "Lande": 1,
@@ -27183,10 +27086,10 @@ const LIBRARY_DATA = {
       "fullname": "Sahoo, T.",
       "count": 4,
       "paperIds": [
-        340,
-        816,
-        876,
-        881
+        326,
+        803,
+        862,
+        867
       ],
       "coauthors": {
         "Kar": 1,
@@ -27203,10 +27106,10 @@ const LIBRARY_DATA = {
       "fullname": "Le Mehaute, Bernard",
       "count": 4,
       "paperIds": [
-        368,
-        369,
-        370,
-        374
+        355,
+        356,
+        357,
+        361
       ],
       "coauthors": {
         "Wang": 1,
@@ -27214,14 +27117,36 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Johanning",
+      "fullname": "Johanning, Lars",
+      "count": 4,
+      "paperIds": [
+        378,
+        590,
+        626,
+        875
+      ],
+      "coauthors": {
+        "Mackay": 1,
+        "Draycott": 2,
+        "Davey": 2,
+        "Ingram": 2,
+        "Day": 2,
+        "Zhou": 1,
+        "Ning": 1,
+        "Shi": 1,
+        "Liang": 1
+      }
+    },
+    {
       "name": "Molin",
       "fullname": "Molin, Bernard",
       "count": 4,
       "paperIds": [
-        397,
-        415,
-        416,
-        866
+        383,
+        402,
+        403,
+        852
       ],
       "coauthors": {
         "Malenica": 1,
@@ -27235,10 +27160,10 @@ const LIBRARY_DATA = {
       "fullname": "Melville, W. Kendall",
       "count": 4,
       "paperIds": [
-        408,
-        593,
-        656,
-        810
+        395,
+        582,
+        640,
+        796
       ],
       "coauthors": {
         "Zhou": 1,
@@ -27249,28 +27174,48 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Padilla",
-      "fullname": "Padilla, Enrique M.",
+      "name": "Ning",
+      "fullname": "Ning, Dezhi",
       "count": 4,
       "paperIds": [
-        434,
-        626,
-        761,
-        1098
+        412,
+        583,
+        873,
+        875
       ],
       "coauthors": {
-        "Alsina": 3
+        "Liang": 3,
+        "Chen": 1,
+        "Zhang": 1,
+        "Zhou": 2,
+        "Teng": 1,
+        "Bai": 1,
+        "Zhao": 1,
+        "Shi": 1,
+        "Johanning": 1
       }
+    },
+    {
+      "name": "Phillips",
+      "fullname": "Phillips, O. M.",
+      "count": 4,
+      "paperIds": [
+        429,
+        431,
+        432,
+        433
+      ],
+      "coauthors": {}
     },
     {
       "name": "Qu",
       "fullname": "Qu, K.",
       "count": 4,
       "paperIds": [
-        454,
-        455,
-        513,
-        875
+        442,
+        443,
+        500,
+        861
       ],
       "coauthors": {
         "Sun": 4,
@@ -27285,14 +27230,52 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Wen",
+      "fullname": "Wen, Chih-Chung",
+      "count": 4,
+      "paperIds": [
+        443,
+        969,
+        1020,
+        1021
+      ],
+      "coauthors": {
+        "Qu": 1,
+        "Ren": 1,
+        "Kraatz": 1,
+        "Sun": 1,
+        "Deng": 1,
+        "Jiang": 1,
+        "Hsu": 1,
+        "Zhang": 2,
+        "Yang": 2,
+        "Prislin": 2,
+        "Hong": 1
+      }
+    },
+    {
+      "name": "Sheikh",
+      "fullname": "Sheikh, Rizwan",
+      "count": 4,
+      "paperIds": [
+        471,
+        505,
+        801,
+        1100
+      ],
+      "coauthors": {
+        "Swan": 3
+      }
+    },
+    {
       "name": "Suzuki",
       "fullname": "Suzuki, Tomohiro",
       "count": 4,
       "paperIds": [
-        515,
-        838,
-        911,
-        973
+        502,
+        825,
+        898,
+        963
       ],
       "coauthors": {
         "Altomare": 3,
@@ -27307,14 +27290,56 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Day",
+      "fullname": "Day, Sandy",
+      "count": 4,
+      "paperIds": [
+        590,
+        626,
+        735,
+        858
+      ],
+      "coauthors": {
+        "Draycott": 2,
+        "Davey": 2,
+        "Ingram": 2,
+        "Johanning": 2,
+        "Adcock": 1,
+        "Feng": 1,
+        "Tang": 1,
+        "van den Bremer": 1,
+        "Dai": 2,
+        "Li": 1,
+        "Lin": 1,
+        "Xu": 1,
+        "Taylor": 2,
+        "Santo": 1,
+        "Chan": 1
+      }
+    },
+    {
+      "name": "Padilla",
+      "fullname": "Padilla, Enrique M.",
+      "count": 4,
+      "paperIds": [
+        612,
+        745,
+        795,
+        1091
+      ],
+      "coauthors": {
+        "Alsina": 3
+      }
+    },
+    {
       "name": "Luo",
       "fullname": "Luo, Hongying",
       "count": 4,
       "paperIds": [
-        660,
-        716,
-        803,
-        1151
+        644,
+        699,
+        787,
+        1142
       ],
       "coauthors": {
         "Liu": 3,
@@ -27333,26 +27358,13 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Groenendijk",
-      "fullname": "Groenendijk, Heiko W",
-      "count": 3,
-      "paperIds": [
-        3,
-        21,
-        1064
-      ],
-      "coauthors": {
-        "Battjes": 1
-      }
-    },
-    {
       "name": "Song",
       "fullname": "Song, GuiTing",
       "count": 3,
       "paperIds": [
-        25,
-        319,
-        715
+        24,
+        305,
+        698
       ],
       "coauthors": {
         "Hou": 1,
@@ -27376,9 +27388,9 @@ const LIBRARY_DATA = {
       "fullname": "Memos, Constantine D.",
       "count": 3,
       "paperIds": [
-        43,
-        244,
-        863
+        41,
+        233,
+        849
       ],
       "coauthors": {
         "Tzanis": 1,
@@ -27393,9 +27405,9 @@ const LIBRARY_DATA = {
       "fullname": "Myrhaug, D.S.",
       "count": 3,
       "paperIds": [
-        49,
-        357,
-        1123
+        47,
+        408,
+        1116
       ],
       "coauthors": {
         "Fouques": 1,
@@ -27409,9 +27421,9 @@ const LIBRARY_DATA = {
       "fullname": "Stansell, Paul",
       "count": 3,
       "paperIds": [
-        57,
-        91,
-        731
+        55,
+        85,
+        715
       ],
       "coauthors": {
         "Wolfram": 1,
@@ -27423,9 +27435,9 @@ const LIBRARY_DATA = {
       "fullname": "Feld, Graham",
       "count": 3,
       "paperIds": [
-        74,
-        469,
-        1181
+        68,
+        456,
+        1172
       ],
       "coauthors": {
         "Gibson": 1,
@@ -27449,9 +27461,9 @@ const LIBRARY_DATA = {
       "fullname": "Mandal, Sourav",
       "count": 3,
       "paperIds": [
-        82,
-        945,
-        994
+        76,
+        935,
+        984
       ],
       "coauthors": {
         "Kumar": 1,
@@ -27465,9 +27477,9 @@ const LIBRARY_DATA = {
       "fullname": "Romolo, Alessandra",
       "count": 3,
       "paperIds": [
-        100,
-        630,
-        633
+        94,
+        614,
+        617
       ],
       "coauthors": {
         "Arena": 3,
@@ -27480,28 +27492,13 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Bateman",
-      "fullname": "Bateman, W.J.D.",
-      "count": 3,
-      "paperIds": [
-        103,
-        210,
-        211
-      ],
-      "coauthors": {
-        "Katsardi": 1,
-        "Swan": 3,
-        "Taylor": 2
-      }
-    },
-    {
       "name": "Sapsis",
       "fullname": "Sapsis, Themistoklis P.",
       "count": 3,
       "paperIds": [
-        106,
-        249,
-        727
+        99,
+        238,
+        711
       ],
       "coauthors": {
         "Eeltink": 1,
@@ -27519,9 +27516,9 @@ const LIBRARY_DATA = {
       "fullname": "Guza, R. T.",
       "count": 3,
       "paperIds": [
-        111,
-        969,
-        974
+        104,
+        959,
+        964
       ],
       "coauthors": {
         "Freilich": 1,
@@ -27536,9 +27533,9 @@ const LIBRARY_DATA = {
       "fullname": "Steenberg, Cathrine M.",
       "count": 3,
       "paperIds": [
-        114,
-        131,
-        765
+        107,
+        124,
+        748
       ],
       "coauthors": {
         "Jonsson": 1,
@@ -27550,9 +27547,9 @@ const LIBRARY_DATA = {
       "fullname": "Klopman, Gert",
       "count": 3,
       "paperIds": [
-        117,
-        611,
-        775
+        110,
+        599,
+        757
       ],
       "coauthors": {
         "van Leeuwen": 1,
@@ -27567,9 +27564,9 @@ const LIBRARY_DATA = {
       "fullname": "Mei, Chiang C.",
       "count": 3,
       "paperIds": [
-        122,
-        645,
-        999
+        115,
+        629,
+        989
       ],
       "coauthors": {
         "Chen": 1,
@@ -27582,9 +27579,9 @@ const LIBRARY_DATA = {
       "fullname": "Zeng, Qingsong",
       "count": 3,
       "paperIds": [
-        135,
-        581,
-        738
+        128,
+        570,
+        722
       ],
       "coauthors": {
         "Trulsen": 2,
@@ -27599,9 +27596,9 @@ const LIBRARY_DATA = {
       "fullname": "Peirson, William L.",
       "count": 3,
       "paperIds": [
-        140,
-        177,
-        178
+        133,
+        168,
+        169
       ],
       "coauthors": {
         "Barthelemy": 2,
@@ -27617,9 +27614,9 @@ const LIBRARY_DATA = {
       "fullname": "Allis, Michael J.",
       "count": 3,
       "paperIds": [
-        140,
-        177,
-        178
+        133,
+        168,
+        169
       ],
       "coauthors": {
         "Barthelemy": 2,
@@ -27635,9 +27632,9 @@ const LIBRARY_DATA = {
       "fullname": "Thomson, Jim",
       "count": 3,
       "paperIds": [
-        151,
-        478,
-        685
+        143,
+        465,
+        668
       ],
       "coauthors": {
         "Derakhti": 1,
@@ -27659,9 +27656,9 @@ const LIBRARY_DATA = {
       "fullname": "Svendsen, Ib A.",
       "count": 3,
       "paperIds": [
-        180,
-        305,
-        811
+        171,
+        290,
+        797
       ],
       "coauthors": {
         "Schäffer": 1,
@@ -27675,9 +27672,9 @@ const LIBRARY_DATA = {
       "fullname": "Filipot, Jean-Francois",
       "count": 3,
       "paperIds": [
-        187,
-        525,
-        542
+        178,
+        513,
+        530
       ],
       "coauthors": {
         "Varing": 2,
@@ -27702,9 +27699,9 @@ const LIBRARY_DATA = {
       "fullname": "Holthuijsen, Leo H.",
       "count": 3,
       "paperIds": [
-        193,
-        450,
-        978
+        184,
+        438,
+        968
       ],
       "coauthors": {
         "Salmon": 1,
@@ -27716,9 +27713,9 @@ const LIBRARY_DATA = {
       "fullname": "Moore, Nicholas J.",
       "count": 3,
       "paperIds": [
-        194,
-        960,
-        996
+        185,
+        950,
+        986
       ],
       "coauthors": {
         "Bolles": 2,
@@ -27732,9 +27729,9 @@ const LIBRARY_DATA = {
       "fullname": "Touboul, Julien",
       "count": 3,
       "paperIds": [
-        216,
-        217,
-        365
+        207,
+        208,
+        352
       ],
       "coauthors": {
         "Belibassakis": 3,
@@ -27747,9 +27744,9 @@ const LIBRARY_DATA = {
       "fullname": "Bergamasco, Filippo",
       "count": 3,
       "paperIds": [
-        219,
-        433,
-        685
+        210,
+        421,
+        668
       ],
       "coauthors": {
         "Osborne": 1,
@@ -27769,34 +27766,13 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Bai",
-      "fullname": "Bai, K. J.",
-      "count": 3,
-      "paperIds": [
-        227,
-        268,
-        354
-      ],
-      "coauthors": {
-        "Zhou": 1,
-        "Ning": 1,
-        "Teng": 1,
-        "Eatock Taylor": 1,
-        "Wu": 1,
-        "Hu": 1,
-        "Kim": 1,
-        "Kyoung": 1,
-        "Ertekin": 1
-      }
-    },
-    {
       "name": "Bullock",
       "fullname": "Bullock, G. N.",
       "count": 3,
       "paperIds": [
-        228,
-        230,
-        231
+        217,
+        219,
+        220
       ],
       "coauthors": {
         "Bredmose": 2,
@@ -27814,9 +27790,9 @@ const LIBRARY_DATA = {
       "fullname": "Rainey, R. C. T.",
       "count": 3,
       "paperIds": [
-        237,
-        457,
-        458
+        226,
+        445,
+        1151
       ],
       "coauthors": {
         "Chaplin": 1,
@@ -27828,9 +27804,9 @@ const LIBRARY_DATA = {
       "fullname": "Morgan, Gerald Charles John",
       "count": 3,
       "paperIds": [
-        243,
-        418,
-        836
+        232,
+        405,
+        823
       ],
       "coauthors": {
         "Chen": 2,
@@ -27849,57 +27825,43 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Davey",
-      "fullname": "Davey, Thomas",
+      "name": "Xue",
+      "fullname": "Xue, Hongxiang",
       "count": 3,
       "paperIds": [
-        291,
-        601,
-        602
+        234,
+        560,
+        732
       ],
       "coauthors": {
-        "Gabl": 1,
-        "Steynor": 2,
-        "Forehand": 1,
-        "Bruce": 1,
-        "Ingram": 3,
-        "Draycott": 2,
-        "Day": 1,
-        "Johanning": 1
+        "Liu": 3,
+        "Yue": 2,
+        "Xü": 1,
+        "Zhang": 1,
+        "Yuan": 1,
+        "Tang": 1,
+        "Qin": 1
       }
     },
     {
-      "name": "Ingram",
-      "fullname": "Ingram, David M.",
+      "name": "Bai",
+      "fullname": "Bai, K. J.",
       "count": 3,
       "paperIds": [
-        291,
-        601,
-        602
+        257,
+        342,
+        583
       ],
       "coauthors": {
-        "Gabl": 1,
-        "Steynor": 2,
-        "Forehand": 1,
-        "Davey": 3,
-        "Bruce": 1,
-        "Draycott": 2,
-        "Day": 1,
-        "Johanning": 1
-      }
-    },
-    {
-      "name": "Grue",
-      "fullname": "Grue, John",
-      "count": 3,
-      "paperIds": [
-        306,
-        328,
-        977
-      ],
-      "coauthors": {
-        "Osyka": 1,
-        "Huseby": 1
+        "Eatock Taylor": 1,
+        "Wu": 1,
+        "Hu": 1,
+        "Kim": 1,
+        "Kyoung": 1,
+        "Ertekin": 1,
+        "Zhou": 1,
+        "Ning": 1,
+        "Teng": 1
       }
     },
     {
@@ -27907,9 +27869,9 @@ const LIBRARY_DATA = {
       "fullname": "Hague, C.H.",
       "count": 3,
       "paperIds": [
-        313,
-        600,
-        1065
+        299,
+        589,
+        1059
       ],
       "coauthors": {
         "Swan": 2,
@@ -27921,9 +27883,9 @@ const LIBRARY_DATA = {
       "fullname": "Lara, Javier L.",
       "count": 3,
       "paperIds": [
-        322,
-        781,
-        859
+        308,
+        763,
+        845
       ],
       "coauthors": {
         "Higuera": 2,
@@ -27938,9 +27900,9 @@ const LIBRARY_DATA = {
       "fullname": "Losada, Inigo J.",
       "count": 3,
       "paperIds": [
-        322,
-        781,
-        859
+        308,
+        763,
+        845
       ],
       "coauthors": {
         "Higuera": 2,
@@ -27955,9 +27917,9 @@ const LIBRARY_DATA = {
       "fullname": "Hofland, Bas",
       "count": 3,
       "paperIds": [
-        324,
-        541,
-        826
+        310,
+        529,
+        813
       ],
       "coauthors": {
         "Chen": 1,
@@ -27974,9 +27936,9 @@ const LIBRARY_DATA = {
       "fullname": "Iafrati, A.",
       "count": 3,
       "paperIds": [
-        329,
-        330,
-        331
+        315,
+        316,
+        317
       ],
       "coauthors": {
         "De Vita": 1,
@@ -27990,9 +27952,9 @@ const LIBRARY_DATA = {
       "fullname": "Fuhrman, David R.",
       "count": 3,
       "paperIds": [
-        334,
-        393,
-        1166
+        320,
+        379,
+        1158
       ],
       "coauthors": {
         "Jacobsen": 1,
@@ -28009,9 +27971,9 @@ const LIBRARY_DATA = {
       "fullname": "Marin, François",
       "count": 3,
       "paperIds": [
-        349,
-        350,
-        681
+        336,
+        337,
+        665
       ],
       "coauthors": {
         "Khoury": 2,
@@ -28027,9 +27989,9 @@ const LIBRARY_DATA = {
       "fullname": "Talipova, T.",
       "count": 3,
       "paperIds": [
-        358,
-        730,
-        916
+        345,
+        714,
+        903
       ],
       "coauthors": {
         "Kharif": 2,
@@ -28044,9 +28006,9 @@ const LIBRARY_DATA = {
       "fullname": "Krogstad, Harald E.",
       "count": 3,
       "paperIds": [
-        361,
-        362,
-        486
+        348,
+        349,
+        473
       ],
       "coauthors": {
         "Simanesew": 1,
@@ -28059,9 +28021,9 @@ const LIBRARY_DATA = {
       "fullname": "Tao, Longbin",
       "count": 3,
       "paperIds": [
-        391,
-        877,
-        1184
+        377,
+        863,
+        1175
       ],
       "coauthors": {
         "Lim": 1,
@@ -28072,34 +28034,13 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Johanning",
-      "fullname": "Johanning, Lars",
-      "count": 3,
-      "paperIds": [
-        392,
-        601,
-        889
-      ],
-      "coauthors": {
-        "Mackay": 1,
-        "Draycott": 1,
-        "Davey": 1,
-        "Ingram": 1,
-        "Day": 1,
-        "Zhou": 1,
-        "Ning": 1,
-        "Shi": 1,
-        "Liang": 1
-      }
-    },
-    {
       "name": "Osborne",
       "fullname": "Osborne, A. R.",
       "count": 3,
       "paperIds": [
-        433,
-        760,
-        1008
+        421,
+        744,
+        1002
       ],
       "coauthors": {
         "Bergamasco": 1,
@@ -28126,9 +28067,9 @@ const LIBRARY_DATA = {
       "fullname": "Serio, M.",
       "count": 3,
       "paperIds": [
-        433,
-        760,
-        1008
+        421,
+        744,
+        1002
       ],
       "coauthors": {
         "Osborne": 3,
@@ -28155,9 +28096,9 @@ const LIBRARY_DATA = {
       "fullname": "Bingham, Harry B.",
       "count": 3,
       "paperIds": [
-        439,
-        440,
-        805
+        426,
+        427,
+        789
       ],
       "coauthors": {
         "Paulsen": 2,
@@ -28168,46 +28109,13 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Phillips",
-      "fullname": "Phillips, O. M.",
-      "count": 3,
-      "paperIds": [
-        442,
-        444,
-        445
-      ],
-      "coauthors": {}
-    },
-    {
-      "name": "Wen",
-      "fullname": "Wen, Chih-Chung",
-      "count": 3,
-      "paperIds": [
-        455,
-        979,
-        1027
-      ],
-      "coauthors": {
-        "Qu": 1,
-        "Ren": 1,
-        "Kraatz": 1,
-        "Sun": 1,
-        "Deng": 1,
-        "Jiang": 1,
-        "Hsu": 1,
-        "Zhang": 1,
-        "Prislin": 1,
-        "Yang": 1
-      }
-    },
-    {
       "name": "Kraatz",
       "fullname": "Kraatz, S.",
       "count": 3,
       "paperIds": [
-        455,
-        513,
-        875
+        443,
+        500,
+        861
       ],
       "coauthors": {
         "Qu": 3,
@@ -28225,9 +28133,9 @@ const LIBRARY_DATA = {
       "fullname": "McCall, Robert T.",
       "count": 3,
       "paperIds": [
-        463,
-        831,
-        919
+        450,
+        818,
+        906
       ],
       "coauthors": {
         "de Ridder": 1,
@@ -28247,9 +28155,9 @@ const LIBRARY_DATA = {
       "fullname": "Das, Vikas K.",
       "count": 3,
       "paperIds": [
-        475,
-        994,
-        1136
+        462,
+        984,
+        1128
       ],
       "coauthors": {
         "Sarkar": 1,
@@ -28264,9 +28172,9 @@ const LIBRARY_DATA = {
       "fullname": "Schlurmann, Torsten",
       "count": 3,
       "paperIds": [
-        476,
-        494,
-        766
+        463,
+        482,
+        749
       ],
       "coauthors": {
         "Schendel": 1,
@@ -28283,9 +28191,9 @@ const LIBRARY_DATA = {
       "fullname": "Slunyaev, Alexey",
       "count": 3,
       "paperIds": [
-        491,
-        709,
-        730
+        478,
+        692,
+        714
       ],
       "coauthors": {
         "Kokorina": 1,
@@ -28299,9 +28207,9 @@ const LIBRARY_DATA = {
       "fullname": "Srokosz, M. A.",
       "count": 3,
       "paperIds": [
-        495,
-        689,
-        690
+        483,
+        672,
+        673
       ],
       "coauthors": {
         "Longuet-Higgins": 1,
@@ -28315,9 +28223,9 @@ const LIBRARY_DATA = {
       "fullname": "Carter, John D.",
       "count": 3,
       "paperIds": [
-        537,
-        644,
-        701
+        525,
+        628,
+        684
       ],
       "coauthors": {
         "Tucker": 1,
@@ -28338,9 +28246,9 @@ const LIBRARY_DATA = {
       "fullname": "Walker, D.A.G.",
       "count": 3,
       "paperIds": [
-        551,
-        552,
-        739
+        539,
+        540,
+        723
       ],
       "coauthors": {
         "Headland": 1,
@@ -28354,9 +28262,9 @@ const LIBRARY_DATA = {
       "fullname": "Liao, Xinmei",
       "count": 3,
       "paperIds": [
-        588,
-        713,
-        1086
+        577,
+        696,
+        1079
       ],
       "coauthors": {
         "Zhang": 1,
@@ -28366,30 +28274,20 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Day",
-      "fullname": "Day, Sandy",
+      "name": "Draycott",
+      "fullname": "Draycott, Samuel",
       "count": 3,
       "paperIds": [
-        601,
-        751,
-        872
+        590,
+        591,
+        626
       ],
       "coauthors": {
-        "Draycott": 1,
-        "Davey": 1,
-        "Ingram": 1,
-        "Johanning": 1,
-        "Adcock": 1,
-        "Feng": 1,
-        "Tang": 1,
-        "van den Bremer": 1,
-        "Dai": 2,
-        "Li": 1,
-        "Lin": 1,
-        "Xu": 1,
-        "Taylor": 2,
-        "Santo": 1,
-        "Chan": 1
+        "Davey": 3,
+        "Ingram": 3,
+        "Day": 2,
+        "Johanning": 2,
+        "Steynor": 1
       }
     },
     {
@@ -28397,9 +28295,9 @@ const LIBRARY_DATA = {
       "fullname": "Medina, Josep R.",
       "count": 3,
       "paperIds": [
-        622,
-        867,
-        907
+        609,
+        853,
+        894
       ],
       "coauthors": {
         "Molines": 1,
@@ -28415,9 +28313,9 @@ const LIBRARY_DATA = {
       "fullname": "Zanuttigh, Barbara",
       "count": 3,
       "paperIds": [
-        635,
-        841,
-        1026
+        619,
+        828,
+        1019
       ],
       "coauthors": {
         "Lykke Andersen": 1,
@@ -28430,9 +28328,9 @@ const LIBRARY_DATA = {
       "fullname": "Thompson, Edward F.",
       "count": 3,
       "paperIds": [
-        641,
-        925,
-        1017
+        624,
+        912,
+        1011
       ],
       "coauthors": {
         "Smith": 1
@@ -28443,9 +28341,9 @@ const LIBRARY_DATA = {
       "fullname": "Cheng, Sixue",
       "count": 3,
       "paperIds": [
-        703,
-        778,
-        900
+        686,
+        760,
+        887
       ],
       "coauthors": {
         "Guo": 1,
@@ -28459,9 +28357,9 @@ const LIBRARY_DATA = {
       "fullname": "Pelinovsky, Efim",
       "count": 3,
       "paperIds": [
-        730,
-        916,
-        1009
+        714,
+        903,
+        1003
       ],
       "coauthors": {
         "Slunyaev": 1,
@@ -28476,9 +28374,9 @@ const LIBRARY_DATA = {
       "fullname": "Dai, Saishuai",
       "count": 3,
       "paperIds": [
-        751,
-        803,
-        872
+        735,
+        787,
+        858
       ],
       "coauthors": {
         "Adcock": 1,
@@ -28502,9 +28400,9 @@ const LIBRARY_DATA = {
       "fullname": "Grice, J.",
       "count": 3,
       "paperIds": [
-        755,
-        836,
-        1062
+        739,
+        823,
+        1056
       ],
       "coauthors": {
         "Fitzgerald": 1,
@@ -28522,20 +28420,48 @@ const LIBRARY_DATA = {
       "fullname": "Jang, T.S.",
       "count": 3,
       "paperIds": [
-        756,
-        794,
-        795
+        740,
+        777,
+        778
       ],
       "coauthors": {}
+    },
+    {
+      "name": "Mohapatra",
+      "fullname": "Mohapatra, Sarat Chandra",
+      "count": 3,
+      "paperIds": [
+        793,
+        794,
+        867
+      ],
+      "coauthors": {
+        "Islam": 2,
+        "Guedes Soares": 2,
+        "Sahoo": 1
+      }
+    },
+    {
+      "name": "Hedges",
+      "fullname": "Hedges, T. S.",
+      "count": 3,
+      "paperIds": [
+        832,
+        1057,
+        1058
+      ],
+      "coauthors": {
+        "Mase": 3
+      }
     },
     {
       "name": "Elgar",
       "fullname": "Elgar, Steve",
       "count": 3,
       "paperIds": [
-        902,
-        969,
-        974
+        889,
+        959,
+        964
       ],
       "coauthors": {
         "Raubenheimer": 2,
@@ -28550,7 +28476,7 @@ const LIBRARY_DATA = {
       "count": 2,
       "paperIds": [
         0,
-        14
+        13
       ],
       "coauthors": {
         "Prasad": 1,
@@ -28562,12 +28488,24 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Groenendijk",
+      "fullname": "Groenendijk, Heiko W",
+      "count": 2,
+      "paperIds": [
+        3,
+        20
+      ],
+      "coauthors": {
+        "Battjes": 1
+      }
+    },
+    {
       "name": "Fiamma",
       "fullname": "Fiamma, Vincenzo",
       "count": 2,
       "paperIds": [
-        6,
-        958
+        5,
+        948
       ],
       "coauthors": {
         "Boccotti": 2,
@@ -28582,8 +28520,8 @@ const LIBRARY_DATA = {
       "fullname": "Brodtkorb",
       "count": 2,
       "paperIds": [
-        7,
-        8
+        6,
+        7
       ],
       "coauthors": {}
     },
@@ -28592,8 +28530,8 @@ const LIBRARY_DATA = {
       "fullname": "Fernandez, Leandro",
       "count": 2,
       "paperIds": [
-        13,
-        702
+        12,
+        685
       ],
       "coauthors": {
         "Onorato": 1,
@@ -28606,8 +28544,8 @@ const LIBRARY_DATA = {
       "fullname": "Monbaliu, Jaak",
       "count": 2,
       "paperIds": [
-        13,
-        760
+        12,
+        744
       ],
       "coauthors": {
         "Fernandez": 1,
@@ -28629,8 +28567,8 @@ const LIBRARY_DATA = {
       "fullname": "Hennig, Janou",
       "count": 2,
       "paperIds": [
-        23,
-        320
+        22,
+        306
       ],
       "coauthors": {
         "Scharnke": 2,
@@ -28646,8 +28584,8 @@ const LIBRARY_DATA = {
       "fullname": "Scharnke, Jule",
       "count": 2,
       "paperIds": [
-        23,
-        320
+        22,
+        306
       ],
       "coauthors": {
         "Hennig": 2,
@@ -28663,8 +28601,8 @@ const LIBRARY_DATA = {
       "fullname": "Kang, Azhen",
       "count": 2,
       "paperIds": [
-        27,
-        908
+        26,
+        895
       ],
       "coauthors": {
         "Zhu": 1,
@@ -28678,8 +28616,8 @@ const LIBRARY_DATA = {
       "fullname": "Knobler, Sagi",
       "count": 2,
       "paperIds": [
-        33,
-        359
+        31,
+        346
       ],
       "coauthors": {
         "Bar": 1,
@@ -28693,8 +28631,8 @@ const LIBRARY_DATA = {
       "fullname": "Jin, Haipeng",
       "count": 2,
       "paperIds": [
-        35,
-        674
+        33,
+        658
       ],
       "coauthors": {
         "Li": 2,
@@ -28710,8 +28648,8 @@ const LIBRARY_DATA = {
       "fullname": "Mendez",
       "count": 2,
       "paperIds": [
-        45,
-        46
+        43,
+        44
       ],
       "coauthors": {}
     },
@@ -28720,8 +28658,8 @@ const LIBRARY_DATA = {
       "fullname": "Yasuda, Tomohiro",
       "count": 2,
       "paperIds": [
-        48,
-        515
+        46,
+        502
       ],
       "coauthors": {
         "Mori": 1,
@@ -28735,8 +28673,8 @@ const LIBRARY_DATA = {
       "fullname": "Fouques, Se´bastien",
       "count": 2,
       "paperIds": [
-        49,
-        760
+        47,
+        744
       ],
       "coauthors": {
         "Myrhaug": 1,
@@ -28758,8 +28696,8 @@ const LIBRARY_DATA = {
       "fullname": "Nielsen, Peter",
       "count": 2,
       "paperIds": [
-        53,
-        171
+        51,
+        162
       ],
       "coauthors": {
         "Power": 2,
@@ -28774,8 +28712,8 @@ const LIBRARY_DATA = {
       "fullname": "Aagaard, Troels",
       "count": 2,
       "paperIds": [
-        53,
-        917
+        51,
+        904
       ],
       "coauthors": {
         "Power": 2,
@@ -28789,8 +28727,8 @@ const LIBRARY_DATA = {
       "fullname": "Rattanapitikon, Winyu",
       "count": 2,
       "paperIds": [
-        54,
-        815
+        52,
+        802
       ],
       "coauthors": {
         "Shibayama": 1,
@@ -28800,22 +28738,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Thornton",
-      "fullname": "Thornton",
-      "count": 2,
-      "paperIds": [
-        61,
-        62
-      ],
-      "coauthors": {}
-    },
-    {
       "name": "Ascanelli",
       "fullname": "Ascanelli, Alfredo",
       "count": 2,
       "paperIds": [
-        70,
-        100
+        64,
+        94
       ],
       "coauthors": {
         "Arena": 2,
@@ -28829,8 +28757,8 @@ const LIBRARY_DATA = {
       "fullname": "Kumar, V. Sanil",
       "count": 2,
       "paperIds": [
-        82,
-        789
+        76,
+        772
       ],
       "coauthors": {
         "Harikrishnan": 1,
@@ -28846,8 +28774,8 @@ const LIBRARY_DATA = {
       "fullname": "Laface, Valentina",
       "count": 2,
       "paperIds": [
-        84,
-        633
+        78,
+        617
       ],
       "coauthors": {
         "Voermans": 1,
@@ -28861,8 +28789,8 @@ const LIBRARY_DATA = {
       "fullname": "Pascoal, Ricardo",
       "count": 2,
       "paperIds": [
-        90,
-        287
+        84,
+        274
       ],
       "coauthors": {
         "Guedes Soares": 2,
@@ -28876,8 +28804,8 @@ const LIBRARY_DATA = {
       "fullname": "Whittaker, C.N.",
       "count": 2,
       "paperIds": [
-        96,
-        744
+        90,
+        728
       ],
       "coauthors": {
         "Raby": 1,
@@ -28890,8 +28818,8 @@ const LIBRARY_DATA = {
       "fullname": "Raby, Alison C.",
       "count": 2,
       "paperIds": [
-        96,
-        124
+        90,
+        117
       ],
       "coauthors": {
         "Whittaker": 1,
@@ -28906,8 +28834,8 @@ const LIBRARY_DATA = {
       "fullname": "Fitzgerald, C. J.",
       "count": 2,
       "paperIds": [
-        96,
-        755
+        90,
+        739
       ],
       "coauthors": {
         "Whittaker": 1,
@@ -28922,8 +28850,8 @@ const LIBRARY_DATA = {
       "fullname": "Abroug, Iskander",
       "count": 2,
       "paperIds": [
-        98,
-        681
+        92,
+        665
       ],
       "coauthors": {
         "Matar": 1,
@@ -28938,8 +28866,8 @@ const LIBRARY_DATA = {
       "fullname": "Abcha, Nizar",
       "count": 2,
       "paperIds": [
-        98,
-        681
+        92,
+        665
       ],
       "coauthors": {
         "Abroug": 2,
@@ -28954,8 +28882,8 @@ const LIBRARY_DATA = {
       "fullname": "Alkhalidi, Mohamad A.",
       "count": 2,
       "paperIds": [
-        99,
-        524
+        93,
+        512
       ],
       "coauthors": {
         "Tayfun": 2
@@ -28966,8 +28894,8 @@ const LIBRARY_DATA = {
       "fullname": "Eeltink, D.",
       "count": 2,
       "paperIds": [
-        106,
-        701
+        99,
+        684
       ],
       "coauthors": {
         "Branger": 2,
@@ -28989,8 +28917,8 @@ const LIBRARY_DATA = {
       "fullname": "Branger, H.",
       "count": 2,
       "paperIds": [
-        106,
-        701
+        99,
+        684
       ],
       "coauthors": {
         "Eeltink": 2,
@@ -29012,8 +28940,8 @@ const LIBRARY_DATA = {
       "fullname": "Isaacson, Michael De St Q.",
       "count": 2,
       "paperIds": [
-        113,
-        610
+        106,
+        598
       ],
       "coauthors": {}
     },
@@ -29022,8 +28950,8 @@ const LIBRARY_DATA = {
       "fullname": "Jonsson, Ivar G.",
       "count": 2,
       "paperIds": [
-        114,
-        411
+        107,
+        398
       ],
       "coauthors": {
         "Steenberg": 1,
@@ -29035,8 +28963,8 @@ const LIBRARY_DATA = {
       "fullname": "Dawson, T. H.",
       "count": 2,
       "paperIds": [
-        115,
-        254
+        108,
+        243
       ],
       "coauthors": {
         "Kriebel": 1
@@ -29047,8 +28975,8 @@ const LIBRARY_DATA = {
       "fullname": "Kuznetsov, Sergey",
       "count": 2,
       "paperIds": [
-        116,
-        669
+        109,
+        653
       ],
       "coauthors": {
         "Saprykina": 2,
@@ -29061,8 +28989,8 @@ const LIBRARY_DATA = {
       "fullname": "Saprykina, Yana",
       "count": 2,
       "paperIds": [
-        116,
-        669
+        109,
+        653
       ],
       "coauthors": {
         "Kuznetsov": 2,
@@ -29075,8 +29003,8 @@ const LIBRARY_DATA = {
       "fullname": "Sørensen, Ole R.",
       "count": 2,
       "paperIds": [
-        119,
-        995
+        112,
+        985
       ],
       "coauthors": {
         "Madsen": 2
@@ -29087,8 +29015,8 @@ const LIBRARY_DATA = {
       "fullname": "Orszaghova, Jana",
       "count": 2,
       "paperIds": [
-        124,
-        836
+        117,
+        823
       ],
       "coauthors": {
         "Taylor": 2,
@@ -29107,8 +29035,8 @@ const LIBRARY_DATA = {
       "fullname": "Borthwick, Alistair G. L.",
       "count": 2,
       "paperIds": [
-        124,
-        327
+        117,
+        313
       ],
       "coauthors": {
         "Orszaghova": 1,
@@ -29124,8 +29052,8 @@ const LIBRARY_DATA = {
       "fullname": "Hayatdavoodi, Masoud",
       "count": 2,
       "paperIds": [
-        125,
-        375
+        118,
+        362
       ],
       "coauthors": {
         "Ertekin": 2,
@@ -29138,8 +29066,8 @@ const LIBRARY_DATA = {
       "fullname": "Sharma, Abhishek",
       "count": 2,
       "paperIds": [
-        126,
-        483
+        119,
+        470
       ],
       "coauthors": {
         "Dean": 1,
@@ -29152,8 +29080,8 @@ const LIBRARY_DATA = {
       "fullname": "Shemer, Lev",
       "count": 2,
       "paperIds": [
-        127,
-        797
+        120,
+        780
       ],
       "coauthors": {
         "Sergeeva": 1,
@@ -29166,8 +29094,8 @@ const LIBRARY_DATA = {
       "fullname": "Sergeeva, Anna",
       "count": 2,
       "paperIds": [
-        127,
-        916
+        120,
+        903
       ],
       "coauthors": {
         "Shemer": 1,
@@ -29181,8 +29109,8 @@ const LIBRARY_DATA = {
       "fullname": "Simanesew, Abushet W.",
       "count": 2,
       "paperIds": [
-        128,
-        486
+        121,
+        473
       ],
       "coauthors": {
         "Krogstad": 1,
@@ -29195,8 +29123,8 @@ const LIBRARY_DATA = {
       "fullname": "Skjelbreia, James E.",
       "count": 2,
       "paperIds": [
-        129,
-        637
+        122,
+        620
       ],
       "coauthors": {
         "Hendrickson": 1,
@@ -29208,8 +29136,8 @@ const LIBRARY_DATA = {
       "fullname": "Dysthe, Kristian B.",
       "count": 2,
       "paperIds": [
-        132,
-        699
+        125,
+        682
       ],
       "coauthors": {
         "Trulsen": 1,
@@ -29222,8 +29150,8 @@ const LIBRARY_DATA = {
       "fullname": "Greaves, Deborah",
       "count": 2,
       "paperIds": [
-        133,
-        418
+        126,
+        405
       ],
       "coauthors": {
         "Vyzikas": 1,
@@ -29241,8 +29169,8 @@ const LIBRARY_DATA = {
       "fullname": "Randall, Robert E.",
       "count": 2,
       "paperIds": [
-        136,
-        1013
+        129,
+        1007
       ],
       "coauthors": {
         "Zhang": 2,
@@ -29256,8 +29184,8 @@ const LIBRARY_DATA = {
       "fullname": "Barthelemy, Xavier",
       "count": 2,
       "paperIds": [
-        140,
-        178
+        133,
+        169
       ],
       "coauthors": {
         "Banner": 2,
@@ -29273,8 +29201,8 @@ const LIBRARY_DATA = {
       "fullname": "Stive, M. J. F.",
       "count": 2,
       "paperIds": [
-        144,
-        508
+        136,
+        495
       ],
       "coauthors": {
         "Battjes": 1
@@ -29285,8 +29213,8 @@ const LIBRARY_DATA = {
       "fullname": "Stokes, M. Dale",
       "count": 2,
       "paperIds": [
-        150,
-        509
+        142,
+        496
       ],
       "coauthors": {
         "Deane": 1,
@@ -29298,8 +29226,8 @@ const LIBRARY_DATA = {
       "fullname": "Duncan, J. H.",
       "count": 2,
       "paperIds": [
-        152,
-        266
+        144,
+        255
       ],
       "coauthors": {
         "Cox": 1,
@@ -29315,8 +29243,8 @@ const LIBRARY_DATA = {
       "fullname": "Perlin, Marc",
       "count": 2,
       "paperIds": [
-        157,
-        184
+        149,
+        175
       ],
       "coauthors": {
         "He": 1,
@@ -29331,8 +29259,8 @@ const LIBRARY_DATA = {
       "fullname": "Kazolea, M.",
       "count": 2,
       "paperIds": [
-        162,
-        986
+        153,
+        976
       ],
       "coauthors": {
         "Delis": 1,
@@ -29344,8 +29272,8 @@ const LIBRARY_DATA = {
       "fullname": "Gatin, Inno",
       "count": 2,
       "paperIds": [
-        165,
-        649
+        156,
+        634
       ],
       "coauthors": {
         "Liu": 1,
@@ -29360,8 +29288,8 @@ const LIBRARY_DATA = {
       "fullname": "Obhrai, Charlotte",
       "count": 2,
       "paperIds": [
-        165,
-        231
+        156,
+        220
       ],
       "coauthors": {
         "Liu": 1,
@@ -29378,8 +29306,8 @@ const LIBRARY_DATA = {
       "fullname": "Jasak, Hrvoje",
       "count": 2,
       "paperIds": [
-        165,
-        649
+        156,
+        634
       ],
       "coauthors": {
         "Liu": 1,
@@ -29394,8 +29322,8 @@ const LIBRARY_DATA = {
       "fullname": "Meylan, Michael H.",
       "count": 2,
       "paperIds": [
-        167,
-        340
+        158,
+        326
       ],
       "coauthors": {
         "Bennetts": 1,
@@ -29409,8 +29337,8 @@ const LIBRARY_DATA = {
       "fullname": "Lim, Ho-Joon",
       "count": 2,
       "paperIds": [
-        168,
-        391
+        159,
+        377
       ],
       "coauthors": {
         "Na": 1,
@@ -29419,12 +29347,36 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Van Dorn",
+      "fullname": "Van Dorn, W. G.",
+      "count": 2,
+      "paperIds": [
+        165,
+        351
+      ],
+      "coauthors": {
+        "Pazan": 2
+      }
+    },
+    {
+      "name": "Pazan",
+      "fullname": "Pazan, S. E.",
+      "count": 2,
+      "paperIds": [
+        165,
+        351
+      ],
+      "coauthors": {
+        "Van Dorn": 2
+      }
+    },
+    {
       "name": "Saket",
       "fullname": "Saket, Arvin",
       "count": 2,
       "paperIds": [
-        177,
-        178
+        168,
+        169
       ],
       "coauthors": {
         "Peirson": 2,
@@ -29438,8 +29390,8 @@ const LIBRARY_DATA = {
       "fullname": "De, Soumen",
       "count": 2,
       "paperIds": [
-        179,
-        994
+        170,
+        984
       ],
       "coauthors": {
         "Sasmal": 1,
@@ -29452,8 +29404,8 @@ const LIBRARY_DATA = {
       "fullname": "Stringari, C. E.",
       "count": 2,
       "paperIds": [
-        183,
-        924
+        174,
+        911
       ],
       "coauthors": {
         "Power": 2,
@@ -29465,8 +29417,8 @@ const LIBRARY_DATA = {
       "fullname": "Tai, Shih-Chieh",
       "count": 2,
       "paperIds": [
-        184,
-        848
+        175,
+        835
       ],
       "coauthors": {
         "Ma": 1,
@@ -29486,8 +29438,8 @@ const LIBRARY_DATA = {
       "fullname": "Niu, Xuyang",
       "count": 2,
       "paperIds": [
-        184,
-        425
+        175,
+        413
       ],
       "coauthors": {
         "Tai": 1,
@@ -29501,8 +29453,8 @@ const LIBRARY_DATA = {
       "fullname": "Tian, Zhigang",
       "count": 2,
       "paperIds": [
-        185,
-        726
+        176,
+        710
       ],
       "coauthors": {
         "Choi": 1,
@@ -29516,8 +29468,8 @@ const LIBRARY_DATA = {
       "fullname": "Choi, Young-Myung",
       "count": 2,
       "paperIds": [
-        185,
-        779
+        176,
+        761
       ],
       "coauthors": {
         "Tian": 1,
@@ -29533,8 +29485,8 @@ const LIBRARY_DATA = {
       "fullname": "Varing, Audrey",
       "count": 2,
       "paperIds": [
-        187,
-        542
+        178,
+        530
       ],
       "coauthors": {
         "Filipot": 2,
@@ -29554,8 +29506,8 @@ const LIBRARY_DATA = {
       "fullname": "Duarte, Rui",
       "count": 2,
       "paperIds": [
-        187,
-        525
+        178,
+        513
       ],
       "coauthors": {
         "Varing": 1,
@@ -29575,8 +29527,8 @@ const LIBRARY_DATA = {
       "fullname": "Roeber, Volker",
       "count": 2,
       "paperIds": [
-        187,
-        542
+        178,
+        530
       ],
       "coauthors": {
         "Varing": 2,
@@ -29596,8 +29548,8 @@ const LIBRARY_DATA = {
       "fullname": "Yates, Marissa L.",
       "count": 2,
       "paperIds": [
-        187,
-        489
+        178,
+        476
       ],
       "coauthors": {
         "Varing": 1,
@@ -29615,7 +29567,7 @@ const LIBRARY_DATA = {
       "fullname": "Cai, Feng",
       "count": 2,
       "paperIds": [
-        190
+        181
       ],
       "coauthors": {
         "Zhang": 2,
@@ -29631,8 +29583,8 @@ const LIBRARY_DATA = {
       "fullname": "Beji, S.",
       "count": 2,
       "paperIds": [
-        192,
-        215
+        183,
+        206
       ],
       "coauthors": {
         "Battjes": 2
@@ -29643,8 +29595,8 @@ const LIBRARY_DATA = {
       "fullname": "Bolles, C. Tyler",
       "count": 2,
       "paperIds": [
-        194,
-        960
+        185,
+        950
       ],
       "coauthors": {
         "Moore": 2,
@@ -29658,8 +29610,8 @@ const LIBRARY_DATA = {
       "fullname": "Majda, Andrew J.",
       "count": 2,
       "paperIds": [
-        194,
-        996
+        185,
+        986
       ],
       "coauthors": {
         "Moore": 2,
@@ -29668,12 +29620,24 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Athanassoulis",
+      "fullname": "Athanassoulis, G. A.",
+      "count": 2,
+      "paperIds": [
+        191,
+        941
+      ],
+      "coauthors": {
+        "Belibassakis": 1
+      }
+    },
+    {
       "name": "Zakharov",
       "fullname": "Zakharov, V. E.",
       "count": 2,
       "paperIds": [
-        204,
-        578
+        194,
+        567
       ],
       "coauthors": {
         "Badulin": 1
@@ -29684,8 +29648,8 @@ const LIBRARY_DATA = {
       "fullname": "Steenhauer, Kate",
       "count": 2,
       "paperIds": [
-        212,
-        539
+        203,
+        527
       ],
       "coauthors": {
         "Dongeren": 1,
@@ -29703,8 +29667,8 @@ const LIBRARY_DATA = {
       "fullname": "Benetazzo, Alvise",
       "count": 2,
       "paperIds": [
-        218,
-        685
+        209,
+        668
       ],
       "coauthors": {
         "Barbariol": 1,
@@ -29724,8 +29688,8 @@ const LIBRARY_DATA = {
       "fullname": "Bi, Chun-Wei",
       "count": 2,
       "paperIds": [
-        220,
-        381
+        211,
+        367
       ],
       "coauthors": {
         "Chen": 1,
@@ -29740,8 +29704,8 @@ const LIBRARY_DATA = {
       "fullname": "Su, Hui",
       "count": 2,
       "paperIds": [
-        220,
-        1165
+        211,
+        1157
       ],
       "coauthors": {
         "Bi": 1,
@@ -29757,8 +29721,8 @@ const LIBRARY_DATA = {
       "fullname": "Sulisz, Wojciech",
       "count": 2,
       "paperIds": [
-        221,
-        512
+        212,
+        499
       ],
       "coauthors": {
         "Biegowski": 1,
@@ -29771,8 +29735,8 @@ const LIBRARY_DATA = {
       "fullname": "Barbaro, G.",
       "count": 2,
       "paperIds": [
-        224,
-        958
+        215,
+        948
       ],
       "coauthors": {
         "Boccotti": 2,
@@ -29786,8 +29750,8 @@ const LIBRARY_DATA = {
       "fullname": "Mannino, L.",
       "count": 2,
       "paperIds": [
-        224,
-        958
+        215,
+        948
       ],
       "coauthors": {
         "Boccotti": 2,
@@ -29797,27 +29761,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Teng",
-      "fullname": "Teng, Bin",
-      "count": 2,
-      "paperIds": [
-        227,
-        624
-      ],
-      "coauthors": {
-        "Zhou": 1,
-        "Ning": 1,
-        "Bai": 1,
-        "Ni": 1
-      }
-    },
-    {
       "name": "Merrifield",
       "fullname": "Merrifield, Mark A.",
       "count": 2,
       "paperIds": [
-        232,
-        821
+        221,
+        808
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -29837,8 +29786,8 @@ const LIBRARY_DATA = {
       "fullname": "Hoffmann, Norbert",
       "count": 2,
       "paperIds": [
-        236,
-        352
+        225,
+        339
       ],
       "coauthors": {
         "Chabchoub": 2,
@@ -29854,8 +29803,8 @@ const LIBRARY_DATA = {
       "fullname": "Mo, Haihong",
       "count": 2,
       "paperIds": [
-        240,
-        420
+        228,
+        407
       ],
       "coauthors": {
         "Chen": 1,
@@ -29870,8 +29819,8 @@ const LIBRARY_DATA = {
       "fullname": "Chondros, Michalis K.",
       "count": 2,
       "paperIds": [
-        244,
-        436
+        233,
+        423
       ],
       "coauthors": {
         "Memos": 1,
@@ -29881,30 +29830,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Xue",
-      "fullname": "Xue, Hongxiang",
-      "count": 2,
-      "paperIds": [
-        245,
-        748
-      ],
-      "coauthors": {
-        "Xü": 1,
-        "Liu": 2,
-        "Yue": 1,
-        "Zhang": 1,
-        "Yuan": 1,
-        "Tang": 1,
-        "Qin": 1
-      }
-    },
-    {
       "name": "Cousins",
       "fullname": "Cousins, Will",
       "count": 2,
       "paperIds": [
-        249,
-        646
+        238,
+        630
       ],
       "coauthors": {
         "Sapsis": 1
@@ -29915,8 +29846,8 @@ const LIBRARY_DATA = {
       "fullname": "Craciunescu, Constantin Cosmin",
       "count": 2,
       "paperIds": [
-        250,
-        965
+        239,
+        955
       ],
       "coauthors": {
         "Christou": 2
@@ -29927,8 +29858,8 @@ const LIBRARY_DATA = {
       "fullname": "Cui, Xuebin",
       "count": 2,
       "paperIds": [
-        251,
-        1184
+        240,
+        1175
       ],
       "coauthors": {
         "Zhu": 1,
@@ -29942,8 +29873,8 @@ const LIBRARY_DATA = {
       "fullname": "Dalrymple, Robert A",
       "count": 2,
       "paperIds": [
-        252,
-        966
+        241,
+        956
       ],
       "coauthors": {
         "Rogers": 1,
@@ -29955,8 +29886,8 @@ const LIBRARY_DATA = {
       "fullname": "Rogers, W. Erick",
       "count": 2,
       "paperIds": [
-        252,
-        801
+        241,
+        785
       ],
       "coauthors": {
         "Dalrymple": 1,
@@ -29974,8 +29905,8 @@ const LIBRARY_DATA = {
       "fullname": "Bonnefoy, Félicien",
       "count": 2,
       "paperIds": [
-        265,
-        505
+        254,
+        708
       ],
       "coauthors": {
         "Ducrozet": 2,
@@ -29989,8 +29920,8 @@ const LIBRARY_DATA = {
       "fullname": "Alam, Mohammad-Reza",
       "count": 2,
       "paperIds": [
-        266,
-        414
+        255,
+        401
       ],
       "coauthors": {
         "Duncan": 1,
@@ -30004,29 +29935,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Ewans",
-      "fullname": "Ewans, Kevin C.",
-      "count": 2,
-      "paperIds": [
-        274,
-        320
-      ],
-      "coauthors": {
-        "Hennig": 1,
-        "Scharnke": 1,
-        "Swan": 1,
-        "Hagen": 1,
-        "Tromans": 1,
-        "Forristall": 1
-      }
-    },
-    {
       "name": "Steynor",
       "fullname": "Steynor, Jeffrey",
       "count": 2,
       "paperIds": [
-        291,
-        602
+        277,
+        591
       ],
       "coauthors": {
         "Gabl": 1,
@@ -30042,8 +29956,8 @@ const LIBRARY_DATA = {
       "fullname": "Aarninkhof, Stefan",
       "count": 2,
       "paperIds": [
-        294,
-        897
+        280,
+        884
       ],
       "coauthors": {
         "Gawehn": 1,
@@ -30062,8 +29976,8 @@ const LIBRARY_DATA = {
       "fullname": "Guillou, Nicolas",
       "count": 2,
       "paperIds": [
-        303,
-        525
+        288,
+        513
       ],
       "coauthors": {
         "Lavidas": 1,
@@ -30077,12 +29991,24 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Osyka",
+      "fullname": "Osyka, Bodgan",
+      "count": 2,
+      "paperIds": [
+        291,
+        292
+      ],
+      "coauthors": {
+        "Grue": 2
+      }
+    },
+    {
       "name": "Han",
       "fullname": "Han, Xinyu",
       "count": 2,
       "paperIds": [
-        315,
-        844
+        301,
+        831
       ],
       "coauthors": {
         "Zhao": 1,
@@ -30095,8 +30021,8 @@ const LIBRARY_DATA = {
       "fullname": "Wan, Decheng",
       "count": 2,
       "paperIds": [
-        315,
-        860
+        301,
+        846
       ],
       "coauthors": {
         "Han": 1,
@@ -30110,8 +30036,8 @@ const LIBRARY_DATA = {
       "fullname": "Deike, Luc",
       "count": 2,
       "paperIds": [
-        316,
-        810
+        302,
+        796
       ],
       "coauthors": {
         "Haudin": 1,
@@ -30128,8 +30054,8 @@ const LIBRARY_DATA = {
       "fullname": "Falcon, Eric",
       "count": 2,
       "paperIds": [
-        316,
-        505
+        302,
+        708
       ],
       "coauthors": {
         "Haudin": 1,
@@ -30147,8 +30073,8 @@ const LIBRARY_DATA = {
       "fullname": "Hagen, Øistein",
       "count": 2,
       "paperIds": [
-        320,
-        338
+        306,
+        324
       ],
       "coauthors": {
         "Hennig": 1,
@@ -30162,12 +30088,29 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Ewans",
+      "fullname": "Ewans, Kevin C.",
+      "count": 2,
+      "paperIds": [
+        306,
+        633
+      ],
+      "coauthors": {
+        "Hennig": 1,
+        "Scharnke": 1,
+        "Swan": 1,
+        "Hagen": 1,
+        "Tromans": 1,
+        "Forristall": 1
+      }
+    },
+    {
       "name": "Herbers",
       "fullname": "Herbers, T. H. C.",
       "count": 2,
       "paperIds": [
-        321,
-        969
+        307,
+        959
       ],
       "coauthors": {
         "Burton": 1,
@@ -30180,8 +30123,8 @@ const LIBRARY_DATA = {
       "fullname": "Tung, Chi‐Chao",
       "count": 2,
       "paperIds": [
-        325,
-        651
+        311,
+        635
       ],
       "coauthors": {
         "Huang": 2,
@@ -30198,8 +30141,8 @@ const LIBRARY_DATA = {
       "fullname": "Huseby, Morten",
       "count": 2,
       "paperIds": [
-        328,
-        469
+        314,
+        456
       ],
       "coauthors": {
         "Grue": 1,
@@ -30220,8 +30163,8 @@ const LIBRARY_DATA = {
       "fullname": "Jacobsen, Niels G.",
       "count": 2,
       "paperIds": [
-        334,
-        439
+        320,
+        426
       ],
       "coauthors": {
         "Fuhrman": 1,
@@ -30236,8 +30179,8 @@ const LIBRARY_DATA = {
       "fullname": "McWilliams, James C.",
       "count": 2,
       "paperIds": [
-        335,
-        466
+        321,
+        453
       ],
       "coauthors": {
         "Jagannathan": 1,
@@ -30253,8 +30196,8 @@ const LIBRARY_DATA = {
       "fullname": "Stewart, Andrew L.",
       "count": 2,
       "paperIds": [
-        335,
-        992
+        321,
+        982
       ],
       "coauthors": {
         "Jagannathan": 1,
@@ -30269,8 +30212,8 @@ const LIBRARY_DATA = {
       "fullname": "Khoury, Alaa",
       "count": 2,
       "paperIds": [
-        349,
-        350
+        336,
+        337
       ],
       "coauthors": {
         "Jarno": 1,
@@ -30283,8 +30226,8 @@ const LIBRARY_DATA = {
       "fullname": "Jarno, Armelle",
       "count": 2,
       "paperIds": [
-        349,
-        681
+        336,
+        665
       ],
       "coauthors": {
         "Khoury": 1,
@@ -30299,8 +30242,8 @@ const LIBRARY_DATA = {
       "fullname": "Chiu, Yung-Fang",
       "count": 2,
       "paperIds": [
-        372,
-        848
+        359,
+        835
       ],
       "coauthors": {
         "Lee": 1,
@@ -30317,8 +30260,8 @@ const LIBRARY_DATA = {
       "fullname": "Webb, L.M.",
       "count": 2,
       "paperIds": [
-        374,
-        561
+        361,
+        549
       ],
       "coauthors": {
         "Le Mehaute": 1
@@ -30329,8 +30272,8 @@ const LIBRARY_DATA = {
       "fullname": "Martins, Kévin",
       "count": 2,
       "paperIds": [
-        399,
-        621
+        385,
+        608
       ],
       "coauthors": {
         "Bonneton": 1,
@@ -30345,8 +30288,8 @@ const LIBRARY_DATA = {
       "fullname": "Michallet, Hervé",
       "count": 2,
       "paperIds": [
-        399,
-        666
+        385,
+        650
       ],
       "coauthors": {
         "Martins": 1,
@@ -30360,8 +30303,8 @@ const LIBRARY_DATA = {
       "fullname": "Masterton, S.R.",
       "count": 2,
       "paperIds": [
-        401,
-        1091
+        387,
+        1084
       ],
       "coauthors": {
         "Swan": 1
@@ -30372,8 +30315,8 @@ const LIBRARY_DATA = {
       "fullname": "McAllister, Mark L.",
       "count": 2,
       "paperIds": [
-        406,
-        426
+        393,
+        414
       ],
       "coauthors": {
         "Adcock": 2,
@@ -30388,8 +30331,8 @@ const LIBRARY_DATA = {
       "fullname": "Brocchini, Maurizio",
       "count": 2,
       "paperIds": [
-        407,
-        983
+        394,
+        973
       ],
       "coauthors": {
         "Melito": 1,
@@ -30409,8 +30352,8 @@ const LIBRARY_DATA = {
       "fullname": "Oumeraci, Hocine",
       "count": 2,
       "paperIds": [
-        420,
-        563
+        407,
+        551
       ],
       "coauthors": {
         "Mo": 1,
@@ -30424,8 +30367,8 @@ const LIBRARY_DATA = {
       "fullname": "Papadimitriou, Andreas",
       "count": 2,
       "paperIds": [
-        436,
-        663
+        423,
+        647
       ],
       "coauthors": {
         "Panagopoulos": 1,
@@ -30438,8 +30381,8 @@ const LIBRARY_DATA = {
       "fullname": "Tsoukala, Vasiliki K.",
       "count": 2,
       "paperIds": [
-        436,
-        863
+        423,
+        849
       ],
       "coauthors": {
         "Papadimitriou": 1,
@@ -30455,8 +30398,8 @@ const LIBRARY_DATA = {
       "fullname": "Paulsen, Bo Terp",
       "count": 2,
       "paperIds": [
-        439,
-        440
+        426,
+        427
       ],
       "coauthors": {
         "Bredmose": 2,
@@ -30469,8 +30412,8 @@ const LIBRARY_DATA = {
       "fullname": "Gudmestad, Ove Tobias",
       "count": 2,
       "paperIds": [
-        449,
-        517
+        437,
+        504
       ],
       "coauthors": {
         "Jose": 1,
@@ -30485,8 +30428,8 @@ const LIBRARY_DATA = {
       "fullname": "Ren, Nianxin",
       "count": 2,
       "paperIds": [
-        455,
-        860
+        443,
+        846
       ],
       "coauthors": {
         "Qu": 1,
@@ -30504,8 +30447,8 @@ const LIBRARY_DATA = {
       "fullname": "Jones, Todd C.",
       "count": 2,
       "paperIds": [
-        456,
-        967
+        444,
+        957
       ],
       "coauthors": {
         "Raghukumar": 1,
@@ -30522,8 +30465,8 @@ const LIBRARY_DATA = {
       "fullname": "de Ridder, Menno P.",
       "count": 2,
       "paperIds": [
-        462,
-        463
+        449,
+        450
       ],
       "coauthors": {
         "Kramer": 1,
@@ -30541,8 +30484,8 @@ const LIBRARY_DATA = {
       "fullname": "Smit, Pieter B.",
       "count": 2,
       "paperIds": [
-        463,
-        595
+        450,
+        585
       ],
       "coauthors": {
         "de Ridder": 1,
@@ -30559,8 +30502,8 @@ const LIBRARY_DATA = {
       "fullname": "Benassai, Guido",
       "count": 2,
       "paperIds": [
-        464,
-        1140
+        451,
+        1132
       ],
       "coauthors": {
         "Riefolo": 1,
@@ -30577,14 +30520,14 @@ const LIBRARY_DATA = {
     },
     {
       "name": "Rienecker",
-      "fullname": "Rienecker, M.M.",
+      "fullname": "Rienecker, M. M.",
       "count": 2,
       "paperIds": [
-        465,
-        970
+        452,
+        960
       ],
       "coauthors": {
-        "Fenton": 1
+        "Fenton": 2
       }
     },
     {
@@ -30592,8 +30535,8 @@ const LIBRARY_DATA = {
       "fullname": "Romero, Leonel",
       "count": 2,
       "paperIds": [
-        466,
-        801
+        453,
+        785
       ],
       "coauthors": {
         "Hypolite": 1,
@@ -30612,8 +30555,8 @@ const LIBRARY_DATA = {
       "fullname": "Randell, David",
       "count": 2,
       "paperIds": [
-        469,
-        1181
+        456,
+        1172
       ],
       "coauthors": {
         "Ross": 1,
@@ -30635,8 +30578,8 @@ const LIBRARY_DATA = {
       "fullname": "Jonathan, Philip",
       "count": 2,
       "paperIds": [
-        469,
-        1181
+        456,
+        1172
       ],
       "coauthors": {
         "Ross": 1,
@@ -30658,8 +30601,8 @@ const LIBRARY_DATA = {
       "fullname": "Saha, Sunanda",
       "count": 2,
       "paperIds": [
-        473,
-        504
+        460,
+        492
       ],
       "coauthors": {
         "Bora": 1,
@@ -30671,8 +30614,8 @@ const LIBRARY_DATA = {
       "fullname": "Schwendeman, Michael S.",
       "count": 2,
       "paperIds": [
-        478,
-        685
+        465,
+        668
       ],
       "coauthors": {
         "Thomson": 2,
@@ -30690,8 +30633,8 @@ const LIBRARY_DATA = {
       "fullname": "Panchang, Vijay G.",
       "count": 2,
       "paperIds": [
-        483,
-        915
+        470,
+        902
       ],
       "coauthors": {
         "Sharma": 1,
@@ -30700,24 +30643,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Sheikh",
-      "fullname": "Sheikh, Rizwan",
-      "count": 2,
-      "paperIds": [
-        484,
-        1107
-      ],
-      "coauthors": {
-        "Swan": 1
-      }
-    },
-    {
       "name": "Nieto Borge",
       "fullname": "Nieto Borge, José Carlos",
       "count": 2,
       "paperIds": [
-        486,
-        534
+        473,
+        522
       ],
       "coauthors": {
         "Simanesew": 1,
@@ -30733,8 +30664,8 @@ const LIBRARY_DATA = {
       "fullname": "Simarro, Gonzalo",
       "count": 2,
       "paperIds": [
-        487,
-        488
+        474,
+        475
       ],
       "coauthors": {
         "Orfila": 1,
@@ -30746,8 +30677,8 @@ const LIBRARY_DATA = {
       "fullname": "Smith, A.C.",
       "count": 2,
       "paperIds": [
-        492,
-        641
+        479,
+        624
       ],
       "coauthors": {
         "Swan": 1,
@@ -30759,8 +30690,8 @@ const LIBRARY_DATA = {
       "fullname": "Hudspeth, R.T.",
       "count": 2,
       "paperIds": [
-        512,
-        883
+        499,
+        869
       ],
       "coauthors": {
         "Sulisz": 1,
@@ -30772,8 +30703,8 @@ const LIBRARY_DATA = {
       "fullname": "Verwaest, Toon",
       "count": 2,
       "paperIds": [
-        515,
-        838
+        502,
+        825
       ],
       "coauthors": {
         "Suzuki": 2,
@@ -30788,8 +30719,8 @@ const LIBRARY_DATA = {
       "fullname": "Tanaka, Hitoshi",
       "count": 2,
       "paperIds": [
-        520,
-        548
+        508,
+        536
       ],
       "coauthors": {
         "Tinh": 1,
@@ -30802,8 +30733,8 @@ const LIBRARY_DATA = {
       "fullname": "Cooker, M. J.",
       "count": 2,
       "paperIds": [
-        529,
-        964
+        517,
+        954
       ],
       "coauthors": {
         "Topliss": 1,
@@ -30817,8 +30748,8 @@ const LIBRARY_DATA = {
       "fullname": "Tucker, M.J.",
       "count": 2,
       "paperIds": [
-        536,
-        537
+        524,
+        525
       ],
       "coauthors": {
         "Challenor": 1,
@@ -30830,8 +30761,8 @@ const LIBRARY_DATA = {
       "fullname": "Viotti, C.",
       "count": 2,
       "paperIds": [
-        549,
-        1019
+        537,
+        1013
       ],
       "coauthors": {
         "Dutykh": 1,
@@ -30843,8 +30774,8 @@ const LIBRARY_DATA = {
       "fullname": "Dutykh, Denys",
       "count": 2,
       "paperIds": [
-        549,
-        681
+        537,
+        665
       ],
       "coauthors": {
         "Viotti": 1,
@@ -30860,8 +30791,8 @@ const LIBRARY_DATA = {
       "fullname": "You, Chi-Shian",
       "count": 2,
       "paperIds": [
-        571,
-        878
+        559,
+        864
       ],
       "coauthors": {
         "Xiong": 1,
@@ -30877,8 +30808,8 @@ const LIBRARY_DATA = {
       "fullname": "Jeng, Dong-Sheng",
       "count": 2,
       "paperIds": [
-        585,
-        591
+        574,
+        580
       ],
       "coauthors": {
         "Zhang": 1,
@@ -30892,12 +30823,27 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Teng",
+      "fullname": "Teng, Bin",
+      "count": 2,
+      "paperIds": [
+        583,
+        610
+      ],
+      "coauthors": {
+        "Zhou": 1,
+        "Ning": 1,
+        "Bai": 1,
+        "Ni": 1
+      }
+    },
+    {
       "name": "Simmonds",
       "fullname": "Simmonds, David",
       "count": 2,
       "paperIds": [
-        598,
-        905
+        588,
+        892
       ],
       "coauthors": {
         "Baldock": 1,
@@ -30906,28 +30852,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Draycott",
-      "fullname": "Draycott, Samuel",
-      "count": 2,
-      "paperIds": [
-        601,
-        602
-      ],
-      "coauthors": {
-        "Davey": 2,
-        "Ingram": 2,
-        "Day": 1,
-        "Johanning": 1,
-        "Steynor": 1
-      }
-    },
-    {
       "name": "Frigaard",
       "fullname": "Frigaard, Peter",
       "count": 2,
       "paperIds": [
-        604,
-        617
+        593,
+        604
       ],
       "coauthors": {
         "Brorsen": 1,
@@ -30940,8 +30870,8 @@ const LIBRARY_DATA = {
       "fullname": "Chou, Chun-Ren",
       "count": 2,
       "paperIds": [
-        606,
-        607
+        595,
+        596
       ],
       "coauthors": {
         "Huang": 2,
@@ -30953,8 +30883,8 @@ const LIBRARY_DATA = {
       "fullname": "Yim, John Z.",
       "count": 2,
       "paperIds": [
-        606,
-        607
+        595,
+        596
       ],
       "coauthors": {
         "Huang": 2,
@@ -30966,8 +30896,8 @@ const LIBRARY_DATA = {
       "fullname": "Blenkinsopp, Christopher Edwin",
       "count": 2,
       "paperIds": [
-        621,
-        896
+        608,
+        883
       ],
       "coauthors": {
         "Martins": 1,
@@ -30984,8 +30914,8 @@ const LIBRARY_DATA = {
       "fullname": "Suh, Kyung Doug",
       "count": 2,
       "paperIds": [
-        632,
-        1014
+        616,
+        1008
       ],
       "coauthors": {
         "Park": 3,
@@ -30997,8 +30927,8 @@ const LIBRARY_DATA = {
       "fullname": "Ferrant, Pierre",
       "count": 2,
       "paperIds": [
-        638,
-        779
+        621,
+        761
       ],
       "coauthors": {
         "Gouin": 1,
@@ -31015,8 +30945,8 @@ const LIBRARY_DATA = {
       "fullname": "Bliven, Larry F.",
       "count": 2,
       "paperIds": [
-        651,
-        652
+        635,
+        636
       ],
       "coauthors": {
         "Huang": 2,
@@ -31032,8 +30962,8 @@ const LIBRARY_DATA = {
       "fullname": "Henriques, João C.C.",
       "count": 2,
       "paperIds": [
-        665,
-        787
+        649,
+        770
       ],
       "coauthors": {
         "Ribeiro": 1,
@@ -31051,8 +30981,8 @@ const LIBRARY_DATA = {
       "fullname": "Gato, Luís M.C.",
       "count": 2,
       "paperIds": [
-        665,
-        787
+        649,
+        770
       ],
       "coauthors": {
         "Ribeiro": 1,
@@ -31070,8 +31000,8 @@ const LIBRARY_DATA = {
       "fullname": "Silva, Rodolfo",
       "count": 2,
       "paperIds": [
-        666,
-        846
+        650,
+        833
       ],
       "coauthors": {
         "Rocha": 1,
@@ -31087,8 +31017,8 @@ const LIBRARY_DATA = {
       "fullname": "Benjamin, Thomas Brooke",
       "count": 2,
       "paperIds": [
-        686,
-        687
+        669,
+        670
       ],
       "coauthors": {
         "Feir": 1
@@ -31099,8 +31029,8 @@ const LIBRARY_DATA = {
       "fullname": "Cattrell, A. D.",
       "count": 2,
       "paperIds": [
-        689,
-        690
+        672,
+        673
       ],
       "coauthors": {
         "Srokosz": 2,
@@ -31113,8 +31043,8 @@ const LIBRARY_DATA = {
       "fullname": "Moat, B. I.",
       "count": 2,
       "paperIds": [
-        689,
-        690
+        672,
+        673
       ],
       "coauthors": {
         "Cattrell": 2,
@@ -31127,8 +31057,8 @@ const LIBRARY_DATA = {
       "fullname": "Marsh, R.",
       "count": 2,
       "paperIds": [
-        689,
-        690
+        672,
+        673
       ],
       "coauthors": {
         "Cattrell": 2,
@@ -31141,8 +31071,8 @@ const LIBRARY_DATA = {
       "fullname": "Dudley, J.M.",
       "count": 2,
       "paperIds": [
-        691,
-        698
+        674,
+        681
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -31158,8 +31088,8 @@ const LIBRARY_DATA = {
       "fullname": "Brunetti, M.",
       "count": 2,
       "paperIds": [
-        701,
-        724
+        684,
+        707
       ],
       "coauthors": {
         "Eeltink": 1,
@@ -31179,8 +31109,8 @@ const LIBRARY_DATA = {
       "fullname": "Qin, Jianmin",
       "count": 2,
       "paperIds": [
-        715,
-        748
+        698,
+        732
       ],
       "coauthors": {
         "Lu": 1,
@@ -31201,8 +31131,8 @@ const LIBRARY_DATA = {
       "fullname": "Scotti, A.",
       "count": 2,
       "paperIds": [
-        718,
-        724
+        701,
+        707
       ],
       "coauthors": {
         "Mendes": 2,
@@ -31215,8 +31145,8 @@ const LIBRARY_DATA = {
       "fullname": "Heller, E J",
       "count": 2,
       "paperIds": [
-        746,
-        1068
+        730,
+        1061
       ],
       "coauthors": {
         "Ying": 1,
@@ -31229,8 +31159,8 @@ const LIBRARY_DATA = {
       "fullname": "Santo, H.",
       "count": 2,
       "paperIds": [
-        777,
-        872
+        759,
+        858
       ],
       "coauthors": {
         "Chen": 1,
@@ -31249,8 +31179,8 @@ const LIBRARY_DATA = {
       "fullname": "Fan, Chia-Ming",
       "count": 2,
       "paperIds": [
-        791,
-        848
+        774,
+        835
       ],
       "coauthors": {
         "Huang": 2,
@@ -31269,8 +31199,8 @@ const LIBRARY_DATA = {
       "fullname": "Mu, Gui",
       "count": 2,
       "paperIds": [
-        803,
-        888
+        787,
+        874
       ],
       "coauthors": {
         "Luo": 1,
@@ -31283,17 +31213,16 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Mohapatra",
-      "fullname": "Mohapatra, Sarat Chandra",
+      "name": "Islam",
+      "fullname": "Islam, Hafizul",
       "count": 2,
       "paperIds": [
-        809,
-        881
+        793,
+        794
       ],
       "coauthors": {
-        "Islam": 1,
-        "Guedes Soares": 1,
-        "Sahoo": 1
+        "Mohapatra": 2,
+        "Guedes Soares": 2
       }
     },
     {
@@ -31301,7 +31230,7 @@ const LIBRARY_DATA = {
       "fullname": "Tran, Khiem Quang",
       "count": 2,
       "paperIds": [
-        815
+        802
       ],
       "coauthors": {
         "Duong": 2,
@@ -31315,8 +31244,8 @@ const LIBRARY_DATA = {
       "fullname": "Vijay, K. G.",
       "count": 2,
       "paperIds": [
-        816,
-        882
+        803,
+        868
       ],
       "coauthors": {
         "Neelamani": 1,
@@ -31330,8 +31259,8 @@ const LIBRARY_DATA = {
       "fullname": "Wei, Handi",
       "count": 2,
       "paperIds": [
-        819,
-        840
+        806,
+        827
       ],
       "coauthors": {
         "Kirby": 1,
@@ -31348,7 +31277,7 @@ const LIBRARY_DATA = {
       "fullname": "Bettess, Jacqueline A.",
       "count": 2,
       "paperIds": [
-        833
+        820
       ],
       "coauthors": {
         "Bettess": 2
@@ -31359,8 +31288,8 @@ const LIBRARY_DATA = {
       "fullname": "Du, Junfeng",
       "count": 2,
       "paperIds": [
-        834,
-        1182
+        821,
+        1173
       ],
       "coauthors": {
         "Chang": 1,
@@ -31371,24 +31300,12 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Hedges",
-      "fullname": "Hedges, T. S.",
-      "count": 2,
-      "paperIds": [
-        845,
-        1063
-      ],
-      "coauthors": {
-        "Mase": 2
-      }
-    },
-    {
       "name": "Raubenheimer",
       "fullname": "Raubenheimer, Britt",
       "count": 2,
       "paperIds": [
-        902,
-        974
+        889,
+        964
       ],
       "coauthors": {
         "Elgar": 2,
@@ -31401,8 +31318,8 @@ const LIBRARY_DATA = {
       "fullname": "van der Meer, Jentsje W.",
       "count": 2,
       "paperIds": [
-        911,
-        1026
+        898,
+        1019
       ],
       "coauthors": {
         "Lashley": 1,
@@ -31417,8 +31334,8 @@ const LIBRARY_DATA = {
       "fullname": "Harris, D.L.",
       "count": 2,
       "paperIds": [
-        924,
-        941
+        911,
+        931
       ],
       "coauthors": {
         "Stringari": 1,
@@ -31430,8 +31347,8 @@ const LIBRARY_DATA = {
       "fullname": "Lindgren, George",
       "count": 2,
       "paperIds": [
-        943,
-        944
+        933,
+        934
       ],
       "coauthors": {}
     },
@@ -31440,8 +31357,8 @@ const LIBRARY_DATA = {
       "fullname": "Sundar, V.",
       "count": 2,
       "paperIds": [
-        997,
-        1011
+        987,
+        1005
       ],
       "coauthors": {
         "Mallayachari": 1,
@@ -31449,12 +31366,43 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Hong",
+      "fullname": "Hong, Keyyong",
+      "count": 2,
+      "paperIds": [
+        1018,
+        1020
+      ],
+      "coauthors": {
+        "Zhang": 2,
+        "Yue": 1,
+        "Yang": 1,
+        "Wen": 1,
+        "Prislin": 1
+      }
+    },
+    {
+      "name": "Prislin",
+      "fullname": "Prislin, I.",
+      "count": 2,
+      "paperIds": [
+        1020,
+        1021
+      ],
+      "coauthors": {
+        "Zhang": 2,
+        "Yang": 2,
+        "Wen": 2,
+        "Hong": 1
+      }
+    },
+    {
       "name": "Wilson",
       "fullname": "Wilson, Kaya M.",
       "count": 2,
       "paperIds": [
-        1121,
-        1178
+        1114,
+        1169
       ],
       "coauthors": {
         "Power": 1
@@ -31504,7 +31452,7 @@ const LIBRARY_DATA = {
       "fullname": "Caloiero, Tommaso",
       "count": 1,
       "paperIds": [
-        9
+        8
       ],
       "coauthors": {
         "Aristodemo": 1,
@@ -31516,7 +31464,7 @@ const LIBRARY_DATA = {
       "fullname": "Aristodemo, Francesco",
       "count": 1,
       "paperIds": [
-        9
+        8
       ],
       "coauthors": {
         "Caloiero": 1,
@@ -31528,7 +31476,7 @@ const LIBRARY_DATA = {
       "fullname": "Ferraro, Danilo Algieri",
       "count": 1,
       "paperIds": [
-        9
+        8
       ],
       "coauthors": {
         "Caloiero": 1,
@@ -31540,7 +31488,7 @@ const LIBRARY_DATA = {
       "fullname": "Cuilin",
       "count": 1,
       "paperIds": [
-        11
+        10
       ],
       "coauthors": {}
     },
@@ -31549,7 +31497,7 @@ const LIBRARY_DATA = {
       "fullname": "Dally, William R.",
       "count": 1,
       "paperIds": [
-        12
+        11
       ],
       "coauthors": {
         "Dean": 1
@@ -31560,7 +31508,7 @@ const LIBRARY_DATA = {
       "fullname": "Firdaus, Nurman",
       "count": 1,
       "paperIds": [
-        14
+        13
       ],
       "coauthors": {
         "Ali": 1,
@@ -31573,7 +31521,7 @@ const LIBRARY_DATA = {
       "fullname": "Nasir, Mochammad",
       "count": 1,
       "paperIds": [
-        14
+        13
       ],
       "coauthors": {
         "Firdaus": 1,
@@ -31586,7 +31534,7 @@ const LIBRARY_DATA = {
       "fullname": "Muryadin, M",
       "count": 1,
       "paperIds": [
-        14
+        13
       ],
       "coauthors": {
         "Firdaus": 1,
@@ -31599,7 +31547,7 @@ const LIBRARY_DATA = {
       "fullname": "Hameed",
       "count": 1,
       "paperIds": [
-        22
+        21
       ],
       "coauthors": {}
     },
@@ -31608,7 +31556,7 @@ const LIBRARY_DATA = {
       "fullname": "Hossain, Md Nur",
       "count": 1,
       "paperIds": [
-        24
+        23
       ],
       "coauthors": {
         "Rahman": 1,
@@ -31620,7 +31568,7 @@ const LIBRARY_DATA = {
       "fullname": "Rahman, Motiur",
       "count": 1,
       "paperIds": [
-        24
+        23
       ],
       "coauthors": {
         "Hossain": 1,
@@ -31632,7 +31580,7 @@ const LIBRARY_DATA = {
       "fullname": "Hoque, Ashabul",
       "count": 1,
       "paperIds": [
-        24
+        23
       ],
       "coauthors": {
         "Hossain": 1,
@@ -31644,7 +31592,7 @@ const LIBRARY_DATA = {
       "fullname": "Hou, YiJun",
       "count": 1,
       "paperIds": [
-        25
+        24
       ],
       "coauthors": {
         "Duan": 1,
@@ -31659,7 +31607,7 @@ const LIBRARY_DATA = {
       "fullname": "Si, GuangCheng",
       "count": 1,
       "paperIds": [
-        25
+        24
       ],
       "coauthors": {
         "Hou": 1,
@@ -31674,7 +31622,7 @@ const LIBRARY_DATA = {
       "fullname": "Bar, Daniel",
       "count": 1,
       "paperIds": [
-        33
+        31
       ],
       "coauthors": {
         "Knobler": 1,
@@ -31687,7 +31635,7 @@ const LIBRARY_DATA = {
       "fullname": "Cohen, Rotem",
       "count": 1,
       "paperIds": [
-        33
+        31
       ],
       "coauthors": {
         "Knobler": 1,
@@ -31700,7 +31648,7 @@ const LIBRARY_DATA = {
       "fullname": "Lee et al",
       "count": 1,
       "paperIds": [
-        34
+        32
       ],
       "coauthors": {}
     },
@@ -31709,7 +31657,7 @@ const LIBRARY_DATA = {
       "fullname": "Onat, Yaprak",
       "count": 1,
       "paperIds": [
-        36
+        34
       ],
       "coauthors": {
         "Liu": 1,
@@ -31726,7 +31674,7 @@ const LIBRARY_DATA = {
       "fullname": "Cifuentes-Lorenzen, Alejandro",
       "count": 1,
       "paperIds": [
-        36
+        34
       ],
       "coauthors": {
         "Liu": 1,
@@ -31743,7 +31691,7 @@ const LIBRARY_DATA = {
       "fullname": "Ilia, Amin",
       "count": 1,
       "paperIds": [
-        36
+        34
       ],
       "coauthors": {
         "Liu": 1,
@@ -31760,7 +31708,7 @@ const LIBRARY_DATA = {
       "fullname": "McCardell, Grant",
       "count": 1,
       "paperIds": [
-        36
+        34
       ],
       "coauthors": {
         "Liu": 1,
@@ -31777,7 +31725,7 @@ const LIBRARY_DATA = {
       "fullname": "Fake, Todd",
       "count": 1,
       "paperIds": [
-        36
+        34
       ],
       "coauthors": {
         "Liu": 1,
@@ -31794,7 +31742,7 @@ const LIBRARY_DATA = {
       "fullname": "O’Donnell, James",
       "count": 1,
       "paperIds": [
-        36
+        34
       ],
       "coauthors": {
         "Liu": 1,
@@ -31811,7 +31759,7 @@ const LIBRARY_DATA = {
       "fullname": "Longuet‐Higgins, Michael S.",
       "count": 1,
       "paperIds": [
-        38
+        36
       ],
       "coauthors": {}
     },
@@ -31820,7 +31768,7 @@ const LIBRARY_DATA = {
       "fullname": "Lucas, C",
       "count": 1,
       "paperIds": [
-        39
+        37
       ],
       "coauthors": {
         "Soares": 1
@@ -31831,7 +31779,7 @@ const LIBRARY_DATA = {
       "fullname": "Mai, Stephan",
       "count": 1,
       "paperIds": [
-        40
+        38
       ],
       "coauthors": {
         "Wilhelmi": 1,
@@ -31843,7 +31791,7 @@ const LIBRARY_DATA = {
       "fullname": "Wilhelmi, Jens",
       "count": 1,
       "paperIds": [
-        40
+        38
       ],
       "coauthors": {
         "Mai": 1,
@@ -31855,7 +31803,7 @@ const LIBRARY_DATA = {
       "fullname": "Barjenbruch, Ulrich",
       "count": 1,
       "paperIds": [
-        40
+        38
       ],
       "coauthors": {
         "Mai": 1,
@@ -31867,7 +31815,7 @@ const LIBRARY_DATA = {
       "fullname": "Tzanis, Kyriakos",
       "count": 1,
       "paperIds": [
-        43
+        41
       ],
       "coauthors": {
         "Memos": 1
@@ -31878,7 +31826,7 @@ const LIBRARY_DATA = {
       "fullname": "Mizuguchi, Masaru",
       "count": 1,
       "paperIds": [
-        47
+        45
       ],
       "coauthors": {}
     },
@@ -31887,7 +31835,7 @@ const LIBRARY_DATA = {
       "fullname": "Naess, Arvid",
       "count": 1,
       "paperIds": [
-        50
+        48
       ],
       "coauthors": {}
     },
@@ -31896,7 +31844,7 @@ const LIBRARY_DATA = {
       "fullname": "Nørgaard, Jørgen Quvang Harck",
       "count": 1,
       "paperIds": [
-        51
+        49
       ],
       "coauthors": {
         "Lykke Andersen": 1
@@ -31907,7 +31855,7 @@ const LIBRARY_DATA = {
       "fullname": "Shibayama, Tomoya",
       "count": 1,
       "paperIds": [
-        54
+        52
       ],
       "coauthors": {
         "Rattanapitikon": 1
@@ -31918,7 +31866,7 @@ const LIBRARY_DATA = {
       "fullname": "Schubert",
       "count": 1,
       "paperIds": [
-        55
+        53
       ],
       "coauthors": {}
     },
@@ -31927,7 +31875,7 @@ const LIBRARY_DATA = {
       "fullname": "Shimada",
       "count": 1,
       "paperIds": [
-        56
+        54
       ],
       "coauthors": {}
     },
@@ -31936,7 +31884,7 @@ const LIBRARY_DATA = {
       "fullname": "Wolfram, Julian",
       "count": 1,
       "paperIds": [
-        57
+        55
       ],
       "coauthors": {
         "Stansell": 1,
@@ -31948,7 +31896,7 @@ const LIBRARY_DATA = {
       "fullname": "Linfoot, Brian",
       "count": 1,
       "paperIds": [
-        57
+        55
       ],
       "coauthors": {
         "Stansell": 1,
@@ -31956,11 +31904,20 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Thornton",
+      "fullname": "Thornton",
+      "count": 1,
+      "paperIds": [
+        59
+      ],
+      "coauthors": {}
+    },
+    {
       "name": "Tuan",
       "fullname": "Tuan, Thieu Quang",
       "count": 1,
       "paperIds": [
-        63
+        60
       ],
       "coauthors": {
         "Cuong": 1
@@ -31971,7 +31928,7 @@ const LIBRARY_DATA = {
       "fullname": "Cuong, Dinh Quang",
       "count": 1,
       "paperIds": [
-        63
+        60
       ],
       "coauthors": {
         "Tuan": 1
@@ -31982,16 +31939,7 @@ const LIBRARY_DATA = {
       "fullname": "Van Vledder",
       "count": 1,
       "paperIds": [
-        64
-      ],
-      "coauthors": {}
-    },
-    {
-      "name": "Wu et al",
-      "fullname": "Wu et al",
-      "count": 1,
-      "paperIds": [
-        67
+        61
       ],
       "coauthors": {}
     },
@@ -32000,7 +31948,7 @@ const LIBRARY_DATA = {
       "fullname": "Shahul Hameed, T.S.",
       "count": 1,
       "paperIds": [
-        68
+        63
       ],
       "coauthors": {
         "Baba": 1
@@ -32011,7 +31959,7 @@ const LIBRARY_DATA = {
       "fullname": "Baba, M.",
       "count": 1,
       "paperIds": [
-        68
+        63
       ],
       "coauthors": {
         "Shahul Hameed": 1
@@ -32022,7 +31970,7 @@ const LIBRARY_DATA = {
       "fullname": "Cho, Yong Jun",
       "count": 1,
       "paperIds": [
-        71
+        65
       ],
       "coauthors": {}
     },
@@ -32031,7 +31979,7 @@ const LIBRARY_DATA = {
       "fullname": "Greenhow, Martin",
       "count": 1,
       "paperIds": [
-        75
+        69
       ],
       "coauthors": {}
     },
@@ -32040,7 +31988,7 @@ const LIBRARY_DATA = {
       "fullname": "de Lutio, L.",
       "count": 1,
       "paperIds": [
-        81
+        75
       ],
       "coauthors": {
         "Katsardi": 1,
@@ -32052,7 +32000,7 @@ const LIBRARY_DATA = {
       "fullname": "Harikrishnan, S.",
       "count": 1,
       "paperIds": [
-        82
+        76
       ],
       "coauthors": {
         "Kumar": 1,
@@ -32064,7 +32012,7 @@ const LIBRARY_DATA = {
       "fullname": "Kvingedal, Børge",
       "count": 1,
       "paperIds": [
-        83
+        77
       ],
       "coauthors": {
         "Bruserud": 1,
@@ -32076,7 +32024,7 @@ const LIBRARY_DATA = {
       "fullname": "Bruserud, Kjersti",
       "count": 1,
       "paperIds": [
-        83
+        77
       ],
       "coauthors": {
         "Kvingedal": 1,
@@ -32088,7 +32036,7 @@ const LIBRARY_DATA = {
       "fullname": "Nygaard, Einar",
       "count": 1,
       "paperIds": [
-        83
+        77
       ],
       "coauthors": {
         "Kvingedal": 1,
@@ -32100,7 +32048,7 @@ const LIBRARY_DATA = {
       "fullname": "Aziz Tayfun, M.",
       "count": 1,
       "paperIds": [
-        92
+        86
       ],
       "coauthors": {}
     },
@@ -32109,7 +32057,7 @@ const LIBRARY_DATA = {
       "fullname": "Matar, Reine",
       "count": 1,
       "paperIds": [
-        98
+        92
       ],
       "coauthors": {
         "Abroug": 1,
@@ -32121,7 +32069,7 @@ const LIBRARY_DATA = {
       "fullname": "Nava, Vincenzo",
       "count": 1,
       "paperIds": [
-        100
+        94
       ],
       "coauthors": {
         "Arena": 1,
@@ -32135,7 +32083,7 @@ const LIBRARY_DATA = {
       "fullname": "Pavone, Diego",
       "count": 1,
       "paperIds": [
-        100
+        94
       ],
       "coauthors": {
         "Arena": 1,
@@ -32149,7 +32097,7 @@ const LIBRARY_DATA = {
       "fullname": "Dalzell, J.F.",
       "count": 1,
       "paperIds": [
-        104
+        97
       ],
       "coauthors": {}
     },
@@ -32158,7 +32106,7 @@ const LIBRARY_DATA = {
       "fullname": "Luneau, C.",
       "count": 1,
       "paperIds": [
-        106
+        99
       ],
       "coauthors": {
         "Eeltink": 1,
@@ -32175,7 +32123,7 @@ const LIBRARY_DATA = {
       "fullname": "Freilich, M. H.",
       "count": 1,
       "paperIds": [
-        111
+        104
       ],
       "coauthors": {
         "Guza": 1
@@ -32186,7 +32134,7 @@ const LIBRARY_DATA = {
       "fullname": "Brennan, Joseph",
       "count": 1,
       "paperIds": [
-        112
+        105
       ],
       "coauthors": {
         "Dias": 1
@@ -32197,7 +32145,7 @@ const LIBRARY_DATA = {
       "fullname": "Kriebel, D. L.",
       "count": 1,
       "paperIds": [
-        115
+        108
       ],
       "coauthors": {
         "Dawson": 1
@@ -32208,7 +32156,7 @@ const LIBRARY_DATA = {
       "fullname": "van Leeuwen, Peter Jan",
       "count": 1,
       "paperIds": [
-        117
+        110
       ],
       "coauthors": {
         "Klopman": 1
@@ -32219,7 +32167,7 @@ const LIBRARY_DATA = {
       "fullname": "Ludu",
       "count": 1,
       "paperIds": [
-        118
+        111
       ],
       "coauthors": {}
     },
@@ -32228,7 +32176,7 @@ const LIBRARY_DATA = {
       "fullname": "Marino",
       "count": 1,
       "paperIds": [
-        121
+        114
       ],
       "coauthors": {}
     },
@@ -32237,7 +32185,7 @@ const LIBRARY_DATA = {
       "fullname": "Nguyen, Huy Q.",
       "count": 1,
       "paperIds": [
-        123
+        116
       ],
       "coauthors": {
         "Strauss": 1
@@ -32248,7 +32196,7 @@ const LIBRARY_DATA = {
       "fullname": "Strauss, Walter A.",
       "count": 1,
       "paperIds": [
-        123
+        116
       ],
       "coauthors": {
         "Nguyen": 1
@@ -32259,7 +32207,7 @@ const LIBRARY_DATA = {
       "fullname": "Hendrickson, James",
       "count": 1,
       "paperIds": [
-        129
+        122
       ],
       "coauthors": {
         "Skjelbreia": 1
@@ -32270,7 +32218,7 @@ const LIBRARY_DATA = {
       "fullname": "Kliakhandler, Igor",
       "count": 1,
       "paperIds": [
-        132
+        125
       ],
       "coauthors": {
         "Trulsen": 1,
@@ -32283,7 +32231,7 @@ const LIBRARY_DATA = {
       "fullname": "Velarde, Manuel G.",
       "count": 1,
       "paperIds": [
-        132
+        125
       ],
       "coauthors": {
         "Trulsen": 1,
@@ -32296,7 +32244,7 @@ const LIBRARY_DATA = {
       "fullname": "Vyzikas, Thomas",
       "count": 1,
       "paperIds": [
-        133
+        126
       ],
       "coauthors": {
         "Stagonas": 1,
@@ -32309,7 +32257,7 @@ const LIBRARY_DATA = {
       "fullname": "Low, Ying Min",
       "count": 1,
       "paperIds": [
-        134
+        127
       ],
       "coauthors": {
         "Wang": 1
@@ -32320,7 +32268,7 @@ const LIBRARY_DATA = {
       "fullname": "Ye, Mao",
       "count": 1,
       "paperIds": [
-        136
+        129
       ],
       "coauthors": {
         "Zhang": 1,
@@ -32333,7 +32281,7 @@ const LIBRARY_DATA = {
       "fullname": "Alberello, Alberto",
       "count": 1,
       "paperIds": [
-        137
+        130
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -32349,7 +32297,7 @@ const LIBRARY_DATA = {
       "fullname": "Monty, Jason P.",
       "count": 1,
       "paperIds": [
-        137
+        130
       ],
       "coauthors": {
         "Alberello": 1,
@@ -32365,7 +32313,7 @@ const LIBRARY_DATA = {
       "fullname": "Nelli, Filippo",
       "count": 1,
       "paperIds": [
-        137
+        130
       ],
       "coauthors": {
         "Alberello": 1,
@@ -32381,7 +32329,7 @@ const LIBRARY_DATA = {
       "fullname": "Elsnab, John",
       "count": 1,
       "paperIds": [
-        137
+        130
       ],
       "coauthors": {
         "Alberello": 1,
@@ -32397,7 +32345,7 @@ const LIBRARY_DATA = {
       "fullname": "Antunes do Carmo",
       "count": 1,
       "paperIds": [
-        139
+        132
       ],
       "coauthors": {}
     },
@@ -32406,7 +32354,7 @@ const LIBRARY_DATA = {
       "fullname": "Oltman-Shay, Joan",
       "count": 1,
       "paperIds": [
-        145
+        137
       ],
       "coauthors": {}
     },
@@ -32415,7 +32363,7 @@ const LIBRARY_DATA = {
       "fullname": "Boswell, Hunter",
       "count": 1,
       "paperIds": [
-        146
+        138
       ],
       "coauthors": {
         "Yan": 1,
@@ -32427,7 +32375,7 @@ const LIBRARY_DATA = {
       "fullname": "Mostert, Wouter",
       "count": 1,
       "paperIds": [
-        146
+        138
       ],
       "coauthors": {
         "Boswell": 1,
@@ -32439,7 +32387,7 @@ const LIBRARY_DATA = {
       "fullname": "Castro-Orgaz",
       "count": 1,
       "paperIds": [
-        149
+        141
       ],
       "coauthors": {}
     },
@@ -32448,7 +32396,7 @@ const LIBRARY_DATA = {
       "fullname": "Deane, Grant B.",
       "count": 1,
       "paperIds": [
-        150
+        142
       ],
       "coauthors": {
         "Stokes": 1,
@@ -32460,7 +32408,7 @@ const LIBRARY_DATA = {
       "fullname": "Derakhti, Morteza",
       "count": 1,
       "paperIds": [
-        151
+        143
       ],
       "coauthors": {
         "Kirby": 1,
@@ -32474,7 +32422,7 @@ const LIBRARY_DATA = {
       "fullname": "Duz",
       "count": 1,
       "paperIds": [
-        153
+        145
       ],
       "coauthors": {}
     },
@@ -32483,7 +32431,7 @@ const LIBRARY_DATA = {
       "fullname": "Esandi, Javier Murgoitio",
       "count": 1,
       "paperIds": [
-        154
+        146
       ],
       "coauthors": {
         "Buldakov": 1,
@@ -32496,7 +32444,7 @@ const LIBRARY_DATA = {
       "fullname": "Ghiasian, Mohammad",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Carrick": 1,
@@ -32512,7 +32460,7 @@ const LIBRARY_DATA = {
       "fullname": "Carrick, Jane",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Ghiasian": 1,
@@ -32528,7 +32476,7 @@ const LIBRARY_DATA = {
       "fullname": "Bisson, Claire",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Ghiasian": 1,
@@ -32544,7 +32492,7 @@ const LIBRARY_DATA = {
       "fullname": "Haus, Brian K.",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Ghiasian": 1,
@@ -32560,7 +32508,7 @@ const LIBRARY_DATA = {
       "fullname": "Baker, Andrew C.",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Ghiasian": 1,
@@ -32576,7 +32524,7 @@ const LIBRARY_DATA = {
       "fullname": "Lirman, Diego",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Ghiasian": 1,
@@ -32592,7 +32540,7 @@ const LIBRARY_DATA = {
       "fullname": "Rhode-Barbarigos, Landolf",
       "count": 1,
       "paperIds": [
-        155
+        147
       ],
       "coauthors": {
         "Ghiasian": 1,
@@ -32608,7 +32556,7 @@ const LIBRARY_DATA = {
       "fullname": "Herman, Agnieszka",
       "count": 1,
       "paperIds": [
-        158
+        150
       ],
       "coauthors": {}
     },
@@ -32617,7 +32565,7 @@ const LIBRARY_DATA = {
       "fullname": "Iele, Benedetta",
       "count": 1,
       "paperIds": [
-        159
+        151
       ],
       "coauthors": {
         "Palleschi": 1,
@@ -32629,7 +32577,7 @@ const LIBRARY_DATA = {
       "fullname": "Palleschi, Federica",
       "count": 1,
       "paperIds": [
-        159
+        151
       ],
       "coauthors": {
         "Iele": 1,
@@ -32641,7 +32589,7 @@ const LIBRARY_DATA = {
       "fullname": "Gallerano, Francesco",
       "count": 1,
       "paperIds": [
-        159
+        151
       ],
       "coauthors": {
         "Iele": 1,
@@ -32653,7 +32601,7 @@ const LIBRARY_DATA = {
       "fullname": "Kamphuis, J.W.",
       "count": 1,
       "paperIds": [
-        160
+        152
       ],
       "coauthors": {}
     },
@@ -32662,7 +32610,7 @@ const LIBRARY_DATA = {
       "fullname": "Delis, A.I.",
       "count": 1,
       "paperIds": [
-        162
+        153
       ],
       "coauthors": {
         "Kazolea": 1,
@@ -32674,7 +32622,7 @@ const LIBRARY_DATA = {
       "fullname": "Synolakis, C.E.",
       "count": 1,
       "paperIds": [
-        162
+        153
       ],
       "coauthors": {
         "Kazolea": 1,
@@ -32686,7 +32634,7 @@ const LIBRARY_DATA = {
       "fullname": "Ong, Muk Chen",
       "count": 1,
       "paperIds": [
-        165
+        156
       ],
       "coauthors": {
         "Liu": 1,
@@ -32700,7 +32648,7 @@ const LIBRARY_DATA = {
       "fullname": "Bennetts, Luke G.",
       "count": 1,
       "paperIds": [
-        167
+        158
       ],
       "coauthors": {
         "Meylan": 1,
@@ -32712,7 +32660,7 @@ const LIBRARY_DATA = {
       "fullname": "Peter, Malte A.",
       "count": 1,
       "paperIds": [
-        167
+        158
       ],
       "coauthors": {
         "Meylan": 1,
@@ -32724,7 +32672,7 @@ const LIBRARY_DATA = {
       "fullname": "Na, Byoungjoon",
       "count": 1,
       "paperIds": [
-        168
+        159
       ],
       "coauthors": {
         "Chang": 1,
@@ -32736,7 +32684,7 @@ const LIBRARY_DATA = {
       "fullname": "Pinzo",
       "count": 1,
       "paperIds": [
-        169
+        160
       ],
       "coauthors": {}
     },
@@ -32745,7 +32693,7 @@ const LIBRARY_DATA = {
       "fullname": "Plumerault",
       "count": 1,
       "paperIds": [
-        170
+        161
       ],
       "coauthors": {}
     },
@@ -32754,7 +32702,7 @@ const LIBRARY_DATA = {
       "fullname": "Pujara, Nimish",
       "count": 1,
       "paperIds": [
-        172
+        163
       ],
       "coauthors": {
         "Miller": 1,
@@ -32768,7 +32716,7 @@ const LIBRARY_DATA = {
       "fullname": "Miller, Dylan",
       "count": 1,
       "paperIds": [
-        172
+        163
       ],
       "coauthors": {
         "Pujara": 1,
@@ -32782,38 +32730,16 @@ const LIBRARY_DATA = {
       "fullname": "Ranasinghe, R. S.",
       "count": 1,
       "paperIds": [
-        173
+        164
       ],
       "coauthors": {}
-    },
-    {
-      "name": "Van Dorn",
-      "fullname": "Van Dorn, W. G.",
-      "count": 1,
-      "paperIds": [
-        174
-      ],
-      "coauthors": {
-        "Pazan": 1
-      }
-    },
-    {
-      "name": "Pazan",
-      "fullname": "Pazan, S. E.",
-      "count": 1,
-      "paperIds": [
-        174
-      ],
-      "coauthors": {
-        "Van Dorn": 1
-      }
     },
     {
       "name": "Riedel",
       "fullname": "Riedel, Hans Peter",
       "count": 1,
       "paperIds": [
-        175
+        166
       ],
       "coauthors": {
         "Byrne": 1
@@ -32824,7 +32750,7 @@ const LIBRARY_DATA = {
       "fullname": "Byrne, Anthony Paul",
       "count": 1,
       "paperIds": [
-        175
+        166
       ],
       "coauthors": {
         "Riedel": 1
@@ -32835,7 +32761,7 @@ const LIBRARY_DATA = {
       "fullname": "Robertson, Bryson",
       "count": 1,
       "paperIds": [
-        176
+        167
       ],
       "coauthors": {
         "Gharabaghi": 1,
@@ -32847,7 +32773,7 @@ const LIBRARY_DATA = {
       "fullname": "Gharabaghi, Bahram",
       "count": 1,
       "paperIds": [
-        176
+        167
       ],
       "coauthors": {
         "Robertson": 1,
@@ -32859,7 +32785,7 @@ const LIBRARY_DATA = {
       "fullname": "Sasmal, Anjan",
       "count": 1,
       "paperIds": [
-        179
+        170
       ],
       "coauthors": {
         "De": 1
@@ -32870,7 +32796,7 @@ const LIBRARY_DATA = {
       "fullname": "Seiffert, Betsy R.",
       "count": 1,
       "paperIds": [
-        181
+        172
       ],
       "coauthors": {
         "Ducrozet": 1
@@ -32881,7 +32807,7 @@ const LIBRARY_DATA = {
       "fullname": "van der Westhuysen, André J.",
       "count": 1,
       "paperIds": [
-        186
+        177
       ],
       "coauthors": {}
     },
@@ -32890,7 +32816,7 @@ const LIBRARY_DATA = {
       "fullname": "Morison, Jack R.",
       "count": 1,
       "paperIds": [
-        191
+        182
       ],
       "coauthors": {
         "Crooke": 1
@@ -32901,7 +32827,7 @@ const LIBRARY_DATA = {
       "fullname": "Crooke, R. C.",
       "count": 1,
       "paperIds": [
-        191
+        182
       ],
       "coauthors": {
         "Morison": 1
@@ -32912,7 +32838,7 @@ const LIBRARY_DATA = {
       "fullname": "Salmon, J.E.",
       "count": 1,
       "paperIds": [
-        193
+        184
       ],
       "coauthors": {
         "Holthuijsen": 1
@@ -32923,7 +32849,7 @@ const LIBRARY_DATA = {
       "fullname": "Aggarwal",
       "count": 1,
       "paperIds": [
-        197
+        187
       ],
       "coauthors": {}
     },
@@ -32932,7 +32858,7 @@ const LIBRARY_DATA = {
       "fullname": "Alvise, Benetazzo",
       "count": 1,
       "paperIds": [
-        198
+        188
       ],
       "coauthors": {
         "Francesco": 1,
@@ -32946,7 +32872,7 @@ const LIBRARY_DATA = {
       "fullname": "Francesco, Barbariol",
       "count": 1,
       "paperIds": [
-        198
+        188
       ],
       "coauthors": {
         "Alvise": 1,
@@ -32960,7 +32886,7 @@ const LIBRARY_DATA = {
       "fullname": "Filippo, Bergamasco",
       "count": 1,
       "paperIds": [
-        198
+        188
       ],
       "coauthors": {
         "Alvise": 1,
@@ -32974,7 +32900,7 @@ const LIBRARY_DATA = {
       "fullname": "Sandro, Carniel",
       "count": 1,
       "paperIds": [
-        198
+        188
       ],
       "coauthors": {
         "Alvise": 1,
@@ -32988,7 +32914,7 @@ const LIBRARY_DATA = {
       "fullname": "Mauro, Sclavo",
       "count": 1,
       "paperIds": [
-        198
+        188
       ],
       "coauthors": {
         "Alvise": 1,
@@ -32998,22 +32924,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Athanassoulis",
-      "fullname": "Athanassoulis, G. A.",
-      "count": 1,
-      "paperIds": [
-        201
-      ],
-      "coauthors": {
-        "Belibassakis": 1
-      }
-    },
-    {
       "name": "Badulin",
       "fullname": "Badulin, S. I.",
       "count": 1,
       "paperIds": [
-        204
+        194
       ],
       "coauthors": {
         "Zakharov": 1
@@ -33024,7 +32939,7 @@ const LIBRARY_DATA = {
       "fullname": "Shabani, Behnam",
       "count": 1,
       "paperIds": [
-        207
+        197
       ],
       "coauthors": {
         "Baldock": 1,
@@ -33038,7 +32953,7 @@ const LIBRARY_DATA = {
       "fullname": "Mumby, Peter J.",
       "count": 1,
       "paperIds": [
-        207
+        197
       ],
       "coauthors": {
         "Baldock": 1,
@@ -33052,7 +32967,7 @@ const LIBRARY_DATA = {
       "fullname": "Baley",
       "count": 1,
       "paperIds": [
-        209
+        199
       ],
       "coauthors": {}
     },
@@ -33061,7 +32976,7 @@ const LIBRARY_DATA = {
       "fullname": "Dongeren, Ap Van",
       "count": 1,
       "paperIds": [
-        212
+        203
       ],
       "coauthors": {
         "Noorloos": 1,
@@ -33076,7 +32991,7 @@ const LIBRARY_DATA = {
       "fullname": "Noorloos, Job Van",
       "count": 1,
       "paperIds": [
-        212
+        203
       ],
       "coauthors": {
         "Dongeren": 1,
@@ -33091,7 +33006,7 @@ const LIBRARY_DATA = {
       "fullname": "Abdussamie, Nagi",
       "count": 1,
       "paperIds": [
-        213
+        204
       ],
       "coauthors": {
         "Thomas": 1,
@@ -33104,7 +33019,7 @@ const LIBRARY_DATA = {
       "fullname": "Thomas, Giles",
       "count": 1,
       "paperIds": [
-        213
+        204
       ],
       "coauthors": {
         "Abdussamie": 1,
@@ -33117,7 +33032,7 @@ const LIBRARY_DATA = {
       "fullname": "Amin, Walid",
       "count": 1,
       "paperIds": [
-        213
+        204
       ],
       "coauthors": {
         "Abdussamie": 1,
@@ -33130,7 +33045,7 @@ const LIBRARY_DATA = {
       "fullname": "Ojeda, Roberto",
       "count": 1,
       "paperIds": [
-        213
+        204
       ],
       "coauthors": {
         "Abdussamie": 1,
@@ -33143,7 +33058,7 @@ const LIBRARY_DATA = {
       "fullname": "Barbariol, Francesco",
       "count": 1,
       "paperIds": [
-        218
+        209
       ],
       "coauthors": {
         "Benetazzo": 1,
@@ -33155,7 +33070,7 @@ const LIBRARY_DATA = {
       "fullname": "Davison, Silvio",
       "count": 1,
       "paperIds": [
-        218
+        209
       ],
       "coauthors": {
         "Benetazzo": 1,
@@ -33167,7 +33082,7 @@ const LIBRARY_DATA = {
       "fullname": "Biegowski, Jarosław",
       "count": 1,
       "paperIds": [
-        221
+        212
       ],
       "coauthors": {
         "Paprota": 1,
@@ -33179,7 +33094,7 @@ const LIBRARY_DATA = {
       "fullname": "Paprota, Maciej",
       "count": 1,
       "paperIds": [
-        221
+        212
       ],
       "coauthors": {
         "Biegowski": 1,
@@ -33191,7 +33106,7 @@ const LIBRARY_DATA = {
       "fullname": "Magnusson, Anne Karin",
       "count": 1,
       "paperIds": [
-        222
+        213
       ],
       "coauthors": {
         "Bitner-Gregersen": 1,
@@ -33204,7 +33119,7 @@ const LIBRARY_DATA = {
       "fullname": "Malila, Mika",
       "count": 1,
       "paperIds": [
-        222
+        213
       ],
       "coauthors": {
         "Bitner-Gregersen": 1,
@@ -33217,7 +33132,7 @@ const LIBRARY_DATA = {
       "fullname": "Anonymous",
       "count": 1,
       "paperIds": [
-        226
+        216
       ],
       "coauthors": {}
     },
@@ -33226,7 +33141,7 @@ const LIBRARY_DATA = {
       "fullname": "Hogg, A. J.",
       "count": 1,
       "paperIds": [
-        228
+        217
       ],
       "coauthors": {
         "Bredmose": 1,
@@ -33238,7 +33153,7 @@ const LIBRARY_DATA = {
       "fullname": "Buchner, Bas",
       "count": 1,
       "paperIds": [
-        229
+        218
       ],
       "coauthors": {
         "Forristall": 1
@@ -33249,7 +33164,7 @@ const LIBRARY_DATA = {
       "fullname": "Crawford, A.R",
       "count": 1,
       "paperIds": [
-        230
+        219
       ],
       "coauthors": {
         "Bullock": 1,
@@ -33263,7 +33178,7 @@ const LIBRARY_DATA = {
       "fullname": "Hewson, P.J",
       "count": 1,
       "paperIds": [
-        230
+        219
       ],
       "coauthors": {
         "Bullock": 1,
@@ -33277,7 +33192,7 @@ const LIBRARY_DATA = {
       "fullname": "Walkden, M.J.A",
       "count": 1,
       "paperIds": [
-        230
+        219
       ],
       "coauthors": {
         "Bullock": 1,
@@ -33291,7 +33206,7 @@ const LIBRARY_DATA = {
       "fullname": "Bird, P.A.D",
       "count": 1,
       "paperIds": [
-        230
+        219
       ],
       "coauthors": {
         "Bullock": 1,
@@ -33305,7 +33220,7 @@ const LIBRARY_DATA = {
       "fullname": "Cagigal, Laura",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Rueda": 1,
@@ -33322,7 +33237,7 @@ const LIBRARY_DATA = {
       "fullname": "Rueda, Ana",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -33339,7 +33254,7 @@ const LIBRARY_DATA = {
       "fullname": "Anderson, Dylan",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -33356,7 +33271,7 @@ const LIBRARY_DATA = {
       "fullname": "Ruggiero, Peter",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -33373,7 +33288,7 @@ const LIBRARY_DATA = {
       "fullname": "Montaño, Jennifer",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -33390,7 +33305,7 @@ const LIBRARY_DATA = {
       "fullname": "Coco, Giovanni",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -33407,7 +33322,7 @@ const LIBRARY_DATA = {
       "fullname": "Méndez, Fernando J.",
       "count": 1,
       "paperIds": [
-        232
+        221
       ],
       "coauthors": {
         "Cagigal": 1,
@@ -33424,7 +33339,7 @@ const LIBRARY_DATA = {
       "fullname": "Carneiro",
       "count": 1,
       "paperIds": [
-        233
+        222
       ],
       "coauthors": {}
     },
@@ -33433,7 +33348,7 @@ const LIBRARY_DATA = {
       "fullname": "Casas-Prat, Mercè",
       "count": 1,
       "paperIds": [
-        234
+        223
       ],
       "coauthors": {
         "Wang": 1,
@@ -33448,7 +33363,7 @@ const LIBRARY_DATA = {
       "fullname": "Shimura, Tomoya",
       "count": 1,
       "paperIds": [
-        234
+        223
       ],
       "coauthors": {
         "Casas-Prat": 1,
@@ -33463,7 +33378,7 @@ const LIBRARY_DATA = {
       "fullname": "Castelle",
       "count": 1,
       "paperIds": [
-        235
+        224
       ],
       "coauthors": {}
     },
@@ -33472,7 +33387,7 @@ const LIBRARY_DATA = {
       "fullname": "Tobisch, E.",
       "count": 1,
       "paperIds": [
-        236
+        225
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -33486,7 +33401,7 @@ const LIBRARY_DATA = {
       "fullname": "Akhmediev, N.",
       "count": 1,
       "paperIds": [
-        236
+        225
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -33500,7 +33415,7 @@ const LIBRARY_DATA = {
       "fullname": "Chaplin, J. R.",
       "count": 1,
       "paperIds": [
-        237
+        226
       ],
       "coauthors": {
         "Rainey": 1,
@@ -33512,7 +33427,7 @@ const LIBRARY_DATA = {
       "fullname": "Yemm, R. W.",
       "count": 1,
       "paperIds": [
-        237
+        226
       ],
       "coauthors": {
         "Chaplin": 1,
@@ -33524,7 +33439,7 @@ const LIBRARY_DATA = {
       "fullname": "Zaleski, Stéphane",
       "count": 1,
       "paperIds": [
-        241
+        230
       ],
       "coauthors": {
         "Chen": 1,
@@ -33537,7 +33452,7 @@ const LIBRARY_DATA = {
       "fullname": "Hillis, A.J.",
       "count": 1,
       "paperIds": [
-        243
+        232
       ],
       "coauthors": {
         "Chen": 1,
@@ -33551,7 +33466,7 @@ const LIBRARY_DATA = {
       "fullname": "Plummer, A.R.",
       "count": 1,
       "paperIds": [
-        243
+        232
       ],
       "coauthors": {
         "Chen": 1,
@@ -33561,24 +33476,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Xü",
-      "fullname": "Xü, Hongbo",
-      "count": 1,
-      "paperIds": [
-        245
-      ],
-      "coauthors": {
-        "Xue": 1,
-        "Liu": 1,
-        "Yue": 1
-      }
-    },
-    {
       "name": "Caires",
       "fullname": "Caires, Sofia",
       "count": 1,
       "paperIds": [
-        247
+        236
       ],
       "coauthors": {
         "Van Gent": 1
@@ -33589,7 +33491,7 @@ const LIBRARY_DATA = {
       "fullname": "Van Gent, Marcel R.A.",
       "count": 1,
       "paperIds": [
-        247
+        236
       ],
       "coauthors": {
         "Caires": 1
@@ -33600,7 +33502,7 @@ const LIBRARY_DATA = {
       "fullname": "Dao, M. H.",
       "count": 1,
       "paperIds": [
-        253
+        242
       ],
       "coauthors": {
         "Xu": 1,
@@ -33613,7 +33515,7 @@ const LIBRARY_DATA = {
       "fullname": "Tkalich, P.",
       "count": 1,
       "paperIds": [
-        253
+        242
       ],
       "coauthors": {
         "Dao": 1,
@@ -33626,7 +33528,7 @@ const LIBRARY_DATA = {
       "fullname": "Demiray",
       "count": 1,
       "paperIds": [
-        256
+        245
       ],
       "coauthors": {}
     },
@@ -33635,7 +33537,7 @@ const LIBRARY_DATA = {
       "fullname": "Sree, Dharma K.K.",
       "count": 1,
       "paperIds": [
-        257
+        246
       ],
       "coauthors": {
         "Law": 1,
@@ -33647,7 +33549,7 @@ const LIBRARY_DATA = {
       "fullname": "Law, Adrian Wing-Keung",
       "count": 1,
       "paperIds": [
-        257
+        246
       ],
       "coauthors": {
         "Sree": 1,
@@ -33659,7 +33561,7 @@ const LIBRARY_DATA = {
       "fullname": "Shen, Hayley H.",
       "count": 1,
       "paperIds": [
-        257
+        246
       ],
       "coauthors": {
         "Sree": 1,
@@ -33671,7 +33573,7 @@ const LIBRARY_DATA = {
       "fullname": "Di Cristo, Cristiana",
       "count": 1,
       "paperIds": [
-        258
+        247
       ],
       "coauthors": {
         "Greco": 1,
@@ -33685,7 +33587,7 @@ const LIBRARY_DATA = {
       "fullname": "Greco, Massimo",
       "count": 1,
       "paperIds": [
-        258
+        247
       ],
       "coauthors": {
         "Di Cristo": 1,
@@ -33699,7 +33601,7 @@ const LIBRARY_DATA = {
       "fullname": "Iervolino, Michele",
       "count": 1,
       "paperIds": [
-        258
+        247
       ],
       "coauthors": {
         "Di Cristo": 1,
@@ -33713,7 +33615,7 @@ const LIBRARY_DATA = {
       "fullname": "Martino, Riccardo",
       "count": 1,
       "paperIds": [
-        258
+        247
       ],
       "coauthors": {
         "Di Cristo": 1,
@@ -33727,7 +33629,7 @@ const LIBRARY_DATA = {
       "fullname": "Vacca, Andrea",
       "count": 1,
       "paperIds": [
-        258
+        247
       ],
       "coauthors": {
         "Di Cristo": 1,
@@ -33741,7 +33643,7 @@ const LIBRARY_DATA = {
       "fullname": "Douglas",
       "count": 1,
       "paperIds": [
-        262
+        251
       ],
       "coauthors": {}
     },
@@ -33750,7 +33652,7 @@ const LIBRARY_DATA = {
       "fullname": "Dreizis",
       "count": 1,
       "paperIds": [
-        263
+        252
       ],
       "coauthors": {}
     },
@@ -33759,7 +33661,7 @@ const LIBRARY_DATA = {
       "fullname": "Perignon, Yves",
       "count": 1,
       "paperIds": [
-        265
+        254
       ],
       "coauthors": {
         "Ducrozet": 1,
@@ -33771,7 +33673,7 @@ const LIBRARY_DATA = {
       "fullname": "Cox, Daniel",
       "count": 1,
       "paperIds": [
-        266
+        255
       ],
       "coauthors": {
         "Duncan": 1,
@@ -33787,7 +33689,7 @@ const LIBRARY_DATA = {
       "fullname": "Barbosa, Andre R.",
       "count": 1,
       "paperIds": [
-        266
+        255
       ],
       "coauthors": {
         "Duncan": 1,
@@ -33803,7 +33705,7 @@ const LIBRARY_DATA = {
       "fullname": "Lomónaco, Pedro",
       "count": 1,
       "paperIds": [
-        266
+        255
       ],
       "coauthors": {
         "Duncan": 1,
@@ -33819,7 +33721,7 @@ const LIBRARY_DATA = {
       "fullname": "Kyozuka, Yusaku",
       "count": 1,
       "paperIds": [
-        267
+        256
       ],
       "coauthors": {}
     },
@@ -33828,7 +33730,7 @@ const LIBRARY_DATA = {
       "fullname": "Esteva",
       "count": 1,
       "paperIds": [
-        272
+        260
       ],
       "coauthors": {}
     },
@@ -33837,7 +33739,7 @@ const LIBRARY_DATA = {
       "fullname": "Herterich, James G.",
       "count": 1,
       "paperIds": [
-        275
+        262
       ],
       "coauthors": {
         "Dias": 1
@@ -33848,7 +33750,7 @@ const LIBRARY_DATA = {
       "fullname": "Faltinsen, O. M.",
       "count": 1,
       "paperIds": [
-        277
+        264
       ],
       "coauthors": {
         "Newman": 1,
@@ -33860,7 +33762,7 @@ const LIBRARY_DATA = {
       "fullname": "Newman, J. N.",
       "count": 1,
       "paperIds": [
-        277
+        264
       ],
       "coauthors": {
         "Faltinsen": 1,
@@ -33872,7 +33774,7 @@ const LIBRARY_DATA = {
       "fullname": "Vinje, T.",
       "count": 1,
       "paperIds": [
-        277
+        264
       ],
       "coauthors": {
         "Faltinsen": 1,
@@ -33884,7 +33786,7 @@ const LIBRARY_DATA = {
       "fullname": "Manasseh, Richard",
       "count": 1,
       "paperIds": [
-        281
+        268
       ],
       "coauthors": {}
     },
@@ -33893,7 +33795,7 @@ const LIBRARY_DATA = {
       "fullname": "Figueredo",
       "count": 1,
       "paperIds": [
-        284
+        271
       ],
       "coauthors": {}
     },
@@ -33902,7 +33804,7 @@ const LIBRARY_DATA = {
       "fullname": "Fochesato, Christophe",
       "count": 1,
       "paperIds": [
-        285
+        272
       ],
       "coauthors": {
         "Grilli": 1,
@@ -33914,7 +33816,7 @@ const LIBRARY_DATA = {
       "fullname": "Fonseca, Nuno",
       "count": 1,
       "paperIds": [
-        287
+        274
       ],
       "coauthors": {
         "Pascoal": 1,
@@ -33928,7 +33830,7 @@ const LIBRARY_DATA = {
       "fullname": "Clauss, G.",
       "count": 1,
       "paperIds": [
-        287
+        274
       ],
       "coauthors": {
         "Fonseca": 1,
@@ -33942,7 +33844,7 @@ const LIBRARY_DATA = {
       "fullname": "Schmittner, C.",
       "count": 1,
       "paperIds": [
-        287
+        274
       ],
       "coauthors": {
         "Fonseca": 1,
@@ -33956,7 +33858,7 @@ const LIBRARY_DATA = {
       "fullname": "Markeset, Tore",
       "count": 1,
       "paperIds": [
-        290
+        276
       ],
       "coauthors": {}
     },
@@ -33965,7 +33867,7 @@ const LIBRARY_DATA = {
       "fullname": "Gabl, Roman",
       "count": 1,
       "paperIds": [
-        291
+        277
       ],
       "coauthors": {
         "Steynor": 1,
@@ -33980,7 +33882,7 @@ const LIBRARY_DATA = {
       "fullname": "Forehand, David I. M.",
       "count": 1,
       "paperIds": [
-        291
+        277
       ],
       "coauthors": {
         "Gabl": 1,
@@ -33995,7 +33897,7 @@ const LIBRARY_DATA = {
       "fullname": "Bruce, Tom",
       "count": 1,
       "paperIds": [
-        291
+        277
       ],
       "coauthors": {
         "Gabl": 1,
@@ -34010,7 +33912,7 @@ const LIBRARY_DATA = {
       "fullname": "García, Deibi E.",
       "count": 1,
       "paperIds": [
-        293
+        279
       ],
       "coauthors": {
         "Rodríguez": 1,
@@ -34023,7 +33925,7 @@ const LIBRARY_DATA = {
       "fullname": "Rodríguez, Daniel",
       "count": 1,
       "paperIds": [
-        293
+        279
       ],
       "coauthors": {
         "García": 1,
@@ -34036,7 +33938,7 @@ const LIBRARY_DATA = {
       "fullname": "Nieckele, Angela O.",
       "count": 1,
       "paperIds": [
-        293
+        279
       ],
       "coauthors": {
         "García": 1,
@@ -34049,7 +33951,7 @@ const LIBRARY_DATA = {
       "fullname": "de Paula, Igor Braga",
       "count": 1,
       "paperIds": [
-        293
+        279
       ],
       "coauthors": {
         "García": 1,
@@ -34062,7 +33964,7 @@ const LIBRARY_DATA = {
       "fullname": "Gawehn, Matthijs",
       "count": 1,
       "paperIds": [
-        294
+        280
       ],
       "coauthors": {
         "van Dongeren": 1,
@@ -34078,7 +33980,7 @@ const LIBRARY_DATA = {
       "fullname": "de Vries, Sierd",
       "count": 1,
       "paperIds": [
-        294
+        280
       ],
       "coauthors": {
         "Gawehn": 1,
@@ -34094,7 +33996,7 @@ const LIBRARY_DATA = {
       "fullname": "Swinkels, Cilia",
       "count": 1,
       "paperIds": [
-        294
+        280
       ],
       "coauthors": {
         "Gawehn": 1,
@@ -34110,7 +34012,7 @@ const LIBRARY_DATA = {
       "fullname": "Hoekstra, Roderik",
       "count": 1,
       "paperIds": [
-        294
+        280
       ],
       "coauthors": {
         "Gawehn": 1,
@@ -34126,7 +34028,7 @@ const LIBRARY_DATA = {
       "fullname": "Friedman, Joshua",
       "count": 1,
       "paperIds": [
-        294
+        280
       ],
       "coauthors": {
         "Gawehn": 1,
@@ -34142,7 +34044,7 @@ const LIBRARY_DATA = {
       "fullname": "Gelfi, Mustarakh",
       "count": 1,
       "paperIds": [
-        295
+        281
       ],
       "coauthors": {
         "Kencana": 1,
@@ -34154,7 +34056,7 @@ const LIBRARY_DATA = {
       "fullname": "Kencana, Elsa Rizkiya",
       "count": 1,
       "paperIds": [
-        295
+        281
       ],
       "coauthors": {
         "Gelfi": 1,
@@ -34166,7 +34068,7 @@ const LIBRARY_DATA = {
       "fullname": "Achiari, Hendra",
       "count": 1,
       "paperIds": [
-        295
+        281
       ],
       "coauthors": {
         "Gelfi": 1,
@@ -34178,7 +34080,7 @@ const LIBRARY_DATA = {
       "fullname": "Gomez-Gesteira, Moncho",
       "count": 1,
       "paperIds": [
-        300
+        285
       ],
       "coauthors": {}
     },
@@ -34187,7 +34089,7 @@ const LIBRARY_DATA = {
       "fullname": "Gonzalez-Flores",
       "count": 1,
       "paperIds": [
-        301
+        286
       ],
       "coauthors": {}
     },
@@ -34196,7 +34098,7 @@ const LIBRARY_DATA = {
       "fullname": "Goteman",
       "count": 1,
       "paperIds": [
-        302
+        287
       ],
       "coauthors": {}
     },
@@ -34205,7 +34107,7 @@ const LIBRARY_DATA = {
       "fullname": "Lavidas, George",
       "count": 1,
       "paperIds": [
-        303
+        288
       ],
       "coauthors": {
         "Guillou": 1,
@@ -34217,7 +34119,7 @@ const LIBRARY_DATA = {
       "fullname": "Chapalain, Georges",
       "count": 1,
       "paperIds": [
-        303
+        288
       ],
       "coauthors": {
         "Guillou": 1,
@@ -34229,7 +34131,7 @@ const LIBRARY_DATA = {
       "fullname": "Gramcianinov, C.B.",
       "count": 1,
       "paperIds": [
-        304
+        289
       ],
       "coauthors": {
         "Campos": 1,
@@ -34242,7 +34144,7 @@ const LIBRARY_DATA = {
       "fullname": "Campos, R.M.",
       "count": 1,
       "paperIds": [
-        304
+        289
       ],
       "coauthors": {
         "Gramcianinov": 1,
@@ -34255,7 +34157,7 @@ const LIBRARY_DATA = {
       "fullname": "Camargo, R. de",
       "count": 1,
       "paperIds": [
-        304
+        289
       ],
       "coauthors": {
         "Gramcianinov": 1,
@@ -34268,7 +34170,7 @@ const LIBRARY_DATA = {
       "fullname": "Skourup, J.",
       "count": 1,
       "paperIds": [
-        305
+        290
       ],
       "coauthors": {
         "Grilli": 1,
@@ -34276,22 +34178,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Osyka",
-      "fullname": "Osyka, Bodgan",
-      "count": 1,
-      "paperIds": [
-        306
-      ],
-      "coauthors": {
-        "Grue": 1
-      }
-    },
-    {
       "name": "Boo",
       "fullname": "Boo, S.Y.",
       "count": 1,
       "paperIds": [
-        307
+        293
       ],
       "coauthors": {}
     },
@@ -34300,7 +34191,7 @@ const LIBRARY_DATA = {
       "fullname": "Guillouzouic",
       "count": 1,
       "paperIds": [
-        309
+        295
       ],
       "coauthors": {}
     },
@@ -34309,7 +34200,7 @@ const LIBRARY_DATA = {
       "fullname": "Gurbatov, S. N.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Bychkov": 1,
@@ -34325,7 +34216,7 @@ const LIBRARY_DATA = {
       "fullname": "Bychkov, A. E.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Gurbatov": 1,
@@ -34341,7 +34232,7 @@ const LIBRARY_DATA = {
       "fullname": "Vyugin, P. N.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Gurbatov": 1,
@@ -34357,7 +34248,7 @@ const LIBRARY_DATA = {
       "fullname": "Gryaznova, I. Yu.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Gurbatov": 1,
@@ -34373,7 +34264,7 @@ const LIBRARY_DATA = {
       "fullname": "Deryabin, M. S.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Gurbatov": 1,
@@ -34389,7 +34280,7 @@ const LIBRARY_DATA = {
       "fullname": "Kurin, V. V.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Gurbatov": 1,
@@ -34405,7 +34296,7 @@ const LIBRARY_DATA = {
       "fullname": "Khilko, A. I.",
       "count": 1,
       "paperIds": [
-        310
+        296
       ],
       "coauthors": {
         "Gurbatov": 1,
@@ -34421,7 +34312,7 @@ const LIBRARY_DATA = {
       "fullname": "Hager",
       "count": 1,
       "paperIds": [
-        312
+        298
       ],
       "coauthors": {}
     },
@@ -34430,7 +34321,7 @@ const LIBRARY_DATA = {
       "fullname": "Haudin, Florence",
       "count": 1,
       "paperIds": [
-        316
+        302
       ],
       "coauthors": {
         "Cazaubiel": 1,
@@ -34445,7 +34336,7 @@ const LIBRARY_DATA = {
       "fullname": "Cazaubiel, Annette",
       "count": 1,
       "paperIds": [
-        316
+        302
       ],
       "coauthors": {
         "Haudin": 1,
@@ -34460,7 +34351,7 @@ const LIBRARY_DATA = {
       "fullname": "Jamin, Timothée",
       "count": 1,
       "paperIds": [
-        316
+        302
       ],
       "coauthors": {
         "Haudin": 1,
@@ -34475,7 +34366,7 @@ const LIBRARY_DATA = {
       "fullname": "Berhanu, Michael",
       "count": 1,
       "paperIds": [
-        316
+        302
       ],
       "coauthors": {
         "Haudin": 1,
@@ -34490,7 +34381,7 @@ const LIBRARY_DATA = {
       "fullname": "Havelock, Thomas Henry",
       "count": 1,
       "paperIds": [
-        317
+        303
       ],
       "coauthors": {}
     },
@@ -34499,7 +34390,7 @@ const LIBRARY_DATA = {
       "fullname": "Haver, Sverre",
       "count": 1,
       "paperIds": [
-        318
+        304
       ],
       "coauthors": {
         "Kleiven": 1
@@ -34510,7 +34401,7 @@ const LIBRARY_DATA = {
       "fullname": "Kleiven, Gudmund",
       "count": 1,
       "paperIds": [
-        318
+        304
       ],
       "coauthors": {
         "Haver": 1
@@ -34521,7 +34412,7 @@ const LIBRARY_DATA = {
       "fullname": "Vennes, Isaac",
       "count": 1,
       "paperIds": [
-        319
+        305
       ],
       "coauthors": {
         "He": 2,
@@ -34535,7 +34426,7 @@ const LIBRARY_DATA = {
       "fullname": "Mitri, Hani",
       "count": 1,
       "paperIds": [
-        319
+        305
       ],
       "coauthors": {
         "He": 2,
@@ -34549,7 +34440,7 @@ const LIBRARY_DATA = {
       "fullname": "Burton, M. C.",
       "count": 1,
       "paperIds": [
-        321
+        307
       ],
       "coauthors": {
         "Herbers": 1
@@ -34560,7 +34451,7 @@ const LIBRARY_DATA = {
       "fullname": "Ho, Hao-Che",
       "count": 1,
       "paperIds": [
-        323
+        309
       ],
       "coauthors": {
         "Lin": 1,
@@ -34572,7 +34463,7 @@ const LIBRARY_DATA = {
       "fullname": "Muste, Marian",
       "count": 1,
       "paperIds": [
-        323
+        309
       ],
       "coauthors": {
         "Ho": 1,
@@ -34584,7 +34475,7 @@ const LIBRARY_DATA = {
       "fullname": "Oosterlo, Patrick",
       "count": 1,
       "paperIds": [
-        324
+        310
       ],
       "coauthors": {
         "Hofland": 1,
@@ -34597,7 +34488,7 @@ const LIBRARY_DATA = {
       "fullname": "Donelan, Mark A.",
       "count": 1,
       "paperIds": [
-        325
+        311
       ],
       "coauthors": {
         "Huang": 1,
@@ -34612,7 +34503,7 @@ const LIBRARY_DATA = {
       "fullname": "Lai, Ronald J.",
       "count": 1,
       "paperIds": [
-        325
+        311
       ],
       "coauthors": {
         "Huang": 1,
@@ -34627,7 +34518,7 @@ const LIBRARY_DATA = {
       "fullname": "Hunt, Alison C.",
       "count": 1,
       "paperIds": [
-        327
+        313
       ],
       "coauthors": {
         "Taylor": 1,
@@ -34641,7 +34532,7 @@ const LIBRARY_DATA = {
       "fullname": "Stansby, Peter K.",
       "count": 1,
       "paperIds": [
-        327
+        313
       ],
       "coauthors": {
         "Hunt": 1,
@@ -34655,7 +34546,7 @@ const LIBRARY_DATA = {
       "fullname": "De Vita, F.",
       "count": 1,
       "paperIds": [
-        329
+        315
       ],
       "coauthors": {
         "Iafrati": 1,
@@ -34667,7 +34558,7 @@ const LIBRARY_DATA = {
       "fullname": "Verzicco, R.",
       "count": 1,
       "paperIds": [
-        329
+        315
       ],
       "coauthors": {
         "Iafrati": 1,
@@ -34679,7 +34570,7 @@ const LIBRARY_DATA = {
       "fullname": "Di Mascio, A.",
       "count": 1,
       "paperIds": [
-        331
+        317
       ],
       "coauthors": {
         "Iafrati": 1,
@@ -34691,7 +34582,7 @@ const LIBRARY_DATA = {
       "fullname": "Campana, E. F.",
       "count": 1,
       "paperIds": [
-        331
+        317
       ],
       "coauthors": {
         "Iafrati": 1,
@@ -34703,7 +34594,7 @@ const LIBRARY_DATA = {
       "fullname": "Issa, R.I",
       "count": 1,
       "paperIds": [
-        332
+        318
       ],
       "coauthors": {}
     },
@@ -34712,7 +34603,7 @@ const LIBRARY_DATA = {
       "fullname": "Itay, Uri",
       "count": 1,
       "paperIds": [
-        333
+        319
       ],
       "coauthors": {
         "Liberzon": 1
@@ -34723,7 +34614,7 @@ const LIBRARY_DATA = {
       "fullname": "Fredsøe, Jørgen",
       "count": 1,
       "paperIds": [
-        334
+        320
       ],
       "coauthors": {
         "Jacobsen": 1,
@@ -34735,7 +34626,7 @@ const LIBRARY_DATA = {
       "fullname": "Jagannathan, Arjun",
       "count": 1,
       "paperIds": [
-        335
+        321
       ],
       "coauthors": {
         "Srinivasan": 1,
@@ -34749,7 +34640,7 @@ const LIBRARY_DATA = {
       "fullname": "Srinivasan, Kaushik",
       "count": 1,
       "paperIds": [
-        335
+        321
       ],
       "coauthors": {
         "Jagannathan": 1,
@@ -34763,7 +34654,7 @@ const LIBRARY_DATA = {
       "fullname": "Molemaker, M. Jeroen",
       "count": 1,
       "paperIds": [
-        335
+        321
       ],
       "coauthors": {
         "Jagannathan": 1,
@@ -34777,7 +34668,7 @@ const LIBRARY_DATA = {
       "fullname": "Lande, Øystein",
       "count": 1,
       "paperIds": [
-        338
+        324
       ],
       "coauthors": {
         "Johannessen": 1,
@@ -34789,7 +34680,7 @@ const LIBRARY_DATA = {
       "fullname": "Kar, P.",
       "count": 1,
       "paperIds": [
-        340
+        326
       ],
       "coauthors": {
         "Sahoo": 1,
@@ -34801,7 +34692,7 @@ const LIBRARY_DATA = {
       "fullname": "Lan, Jian",
       "count": 1,
       "paperIds": [
-        342
+        328
       ],
       "coauthors": {
         "Liu": 1,
@@ -34813,7 +34704,7 @@ const LIBRARY_DATA = {
       "fullname": "Xianyu, Chensong",
       "count": 1,
       "paperIds": [
-        342
+        328
       ],
       "coauthors": {
         "Lan": 1,
@@ -34825,7 +34716,7 @@ const LIBRARY_DATA = {
       "fullname": "Kastinger, Maximilian B. A.",
       "count": 1,
       "paperIds": [
-        343
+        329
       ],
       "coauthors": {
         "Evers": 1,
@@ -34837,7 +34728,7 @@ const LIBRARY_DATA = {
       "fullname": "Evers, Frederic M.",
       "count": 1,
       "paperIds": [
-        343
+        329
       ],
       "coauthors": {
         "Kastinger": 1,
@@ -34849,7 +34740,7 @@ const LIBRARY_DATA = {
       "fullname": "Boes, Robert M.",
       "count": 1,
       "paperIds": [
-        343
+        329
       ],
       "coauthors": {
         "Kastinger": 1,
@@ -34861,7 +34752,7 @@ const LIBRARY_DATA = {
       "fullname": "Kesserwani, Georges",
       "count": 1,
       "paperIds": [
-        344
+        331
       ],
       "coauthors": {
         "Sharifian": 1
@@ -34872,7 +34763,7 @@ const LIBRARY_DATA = {
       "fullname": "Sharifian, Mohammad Kazem",
       "count": 1,
       "paperIds": [
-        344
+        331
       ],
       "coauthors": {
         "Kesserwani": 1
@@ -34883,7 +34774,7 @@ const LIBRARY_DATA = {
       "fullname": "Maltz, Frederick H",
       "count": 1,
       "paperIds": [
-        345
+        332
       ],
       "coauthors": {}
     },
@@ -34892,7 +34783,7 @@ const LIBRARY_DATA = {
       "fullname": "Khajehtourian",
       "count": 1,
       "paperIds": [
-        346
+        333
       ],
       "coauthors": {}
     },
@@ -34901,7 +34792,7 @@ const LIBRARY_DATA = {
       "fullname": "Khalid",
       "count": 1,
       "paperIds": [
-        347
+        334
       ],
       "coauthors": {}
     },
@@ -34910,7 +34801,7 @@ const LIBRARY_DATA = {
       "fullname": "Khayyer, A.",
       "count": 1,
       "paperIds": [
-        348
+        335
       ],
       "coauthors": {
         "Gotoh": 1,
@@ -34922,7 +34813,7 @@ const LIBRARY_DATA = {
       "fullname": "Gotoh, H.",
       "count": 1,
       "paperIds": [
-        348
+        335
       ],
       "coauthors": {
         "Khayyer": 1,
@@ -34934,7 +34825,7 @@ const LIBRARY_DATA = {
       "fullname": "Shao, S.D.",
       "count": 1,
       "paperIds": [
-        348
+        335
       ],
       "coauthors": {
         "Khayyer": 1,
@@ -34946,7 +34837,7 @@ const LIBRARY_DATA = {
       "fullname": "Jarno-Druaux, Armelle",
       "count": 1,
       "paperIds": [
-        350
+        337
       ],
       "coauthors": {
         "Khoury": 1,
@@ -34958,7 +34849,7 @@ const LIBRARY_DATA = {
       "fullname": "Kyoung, J. H.",
       "count": 1,
       "paperIds": [
-        354
+        342
       ],
       "coauthors": {
         "Kim": 1,
@@ -34971,7 +34862,7 @@ const LIBRARY_DATA = {
       "fullname": "O’Sullivan, Jim",
       "count": 1,
       "paperIds": [
-        355
+        343
       ],
       "coauthors": {
         "Kim": 1,
@@ -34983,7 +34874,7 @@ const LIBRARY_DATA = {
       "fullname": "Read, Alex",
       "count": 1,
       "paperIds": [
-        355
+        343
       ],
       "coauthors": {
         "Kim": 1,
@@ -34995,27 +34886,16 @@ const LIBRARY_DATA = {
       "fullname": "Kitaigorodskii, S. A.",
       "count": 1,
       "paperIds": [
-        356
+        344
       ],
       "coauthors": {}
-    },
-    {
-      "name": "Kjeldsen",
-      "fullname": "Kjeldsen, S.S.",
-      "count": 1,
-      "paperIds": [
-        357
-      ],
-      "coauthors": {
-        "Myrhaug": 1
-      }
     },
     {
       "name": "Giovanangeli",
       "fullname": "Giovanangeli, J. -P.",
       "count": 1,
       "paperIds": [
-        358
+        345
       ],
       "coauthors": {
         "Talipova": 1,
@@ -35027,16 +34907,7 @@ const LIBRARY_DATA = {
       "fullname": "Krasitskii, Vladimir P.",
       "count": 1,
       "paperIds": [
-        360
-      ],
-      "coauthors": {}
-    },
-    {
-      "name": "Méhauté",
-      "fullname": "Méhauté, Bernard",
-      "count": 1,
-      "paperIds": [
-        364
+        347
       ],
       "coauthors": {}
     },
@@ -35045,7 +34916,7 @@ const LIBRARY_DATA = {
       "fullname": "Laffitte, E.",
       "count": 1,
       "paperIds": [
-        365
+        352
       ],
       "coauthors": {
         "Rey": 1,
@@ -35058,7 +34929,7 @@ const LIBRARY_DATA = {
       "fullname": "Rey, V.",
       "count": 1,
       "paperIds": [
-        365
+        352
       ],
       "coauthors": {
         "Laffitte": 1,
@@ -35071,7 +34942,7 @@ const LIBRARY_DATA = {
       "fullname": "Lawrence, C.",
       "count": 1,
       "paperIds": [
-        367
+        354
       ],
       "coauthors": {
         "Trulsen": 1,
@@ -35083,7 +34954,7 @@ const LIBRARY_DATA = {
       "fullname": "Ayer, Robert M.",
       "count": 1,
       "paperIds": [
-        371
+        358
       ],
       "coauthors": {
         "Lee": 1
@@ -35094,7 +34965,7 @@ const LIBRARY_DATA = {
       "fullname": "Toyoda, Masahiro",
       "count": 1,
       "paperIds": [
-        373
+        360
       ],
       "coauthors": {
         "Eto": 1
@@ -35105,7 +34976,7 @@ const LIBRARY_DATA = {
       "fullname": "Eto, Daiki",
       "count": 1,
       "paperIds": [
-        373
+        360
       ],
       "coauthors": {
         "Toyoda": 1
@@ -35116,7 +34987,7 @@ const LIBRARY_DATA = {
       "fullname": "Vestbøstad, Tone M.",
       "count": 1,
       "paperIds": [
-        377
+        364
       ],
       "coauthors": {
         "Økland": 1,
@@ -35129,7 +35000,7 @@ const LIBRARY_DATA = {
       "fullname": "Økland, Ole David",
       "count": 1,
       "paperIds": [
-        377
+        364
       ],
       "coauthors": {
         "Vestbøstad": 1,
@@ -35142,7 +35013,7 @@ const LIBRARY_DATA = {
       "fullname": "Stavang, Terje Peder",
       "count": 1,
       "paperIds": [
-        377
+        364
       ],
       "coauthors": {
         "Vestbøstad": 1,
@@ -35155,7 +35026,7 @@ const LIBRARY_DATA = {
       "fullname": "Kao, Ming-Jer",
       "count": 1,
       "paperIds": [
-        380
+        366
       ],
       "coauthors": {
         "Lin": 1,
@@ -35172,7 +35043,7 @@ const LIBRARY_DATA = {
       "fullname": "Raikar, Rajkumar Venkatesh",
       "count": 1,
       "paperIds": [
-        380
+        366
       ],
       "coauthors": {
         "Lin": 1,
@@ -35189,7 +35060,7 @@ const LIBRARY_DATA = {
       "fullname": "Chuang, Po-Yu",
       "count": 1,
       "paperIds": [
-        380
+        366
       ],
       "coauthors": {
         "Lin": 1,
@@ -35206,7 +35077,7 @@ const LIBRARY_DATA = {
       "fullname": "Syu, Jie-Ming",
       "count": 1,
       "paperIds": [
-        380
+        366
       ],
       "coauthors": {
         "Lin": 1,
@@ -35223,7 +35094,7 @@ const LIBRARY_DATA = {
       "fullname": "Pan, Wei-Chih",
       "count": 1,
       "paperIds": [
-        380
+        366
       ],
       "coauthors": {
         "Lin": 1,
@@ -35240,7 +35111,7 @@ const LIBRARY_DATA = {
       "fullname": "Cokelet, E. D.",
       "count": 1,
       "paperIds": [
-        385
+        371
       ],
       "coauthors": {
         "Longuet-Higgins": 1
@@ -35251,7 +35122,7 @@ const LIBRARY_DATA = {
       "fullname": "Mackay, Ed",
       "count": 1,
       "paperIds": [
-        392
+        378
       ],
       "coauthors": {
         "Johanning": 1
@@ -35262,7 +35133,7 @@ const LIBRARY_DATA = {
       "fullname": "Magkouris",
       "count": 1,
       "paperIds": [
-        394
+        380
       ],
       "coauthors": {}
     },
@@ -35271,7 +35142,7 @@ const LIBRARY_DATA = {
       "fullname": "Mahalingaiaha, A.V.",
       "count": 1,
       "paperIds": [
-        395
+        381
       ],
       "coauthors": {
         "Tayade": 1,
@@ -35284,7 +35155,7 @@ const LIBRARY_DATA = {
       "fullname": "Tayade, B.R.",
       "count": 1,
       "paperIds": [
-        395
+        381
       ],
       "coauthors": {
         "Mahalingaiaha": 1,
@@ -35297,7 +35168,7 @@ const LIBRARY_DATA = {
       "fullname": "Gokhale, N.V.",
       "count": 1,
       "paperIds": [
-        395
+        381
       ],
       "coauthors": {
         "Mahalingaiaha": 1,
@@ -35310,7 +35181,7 @@ const LIBRARY_DATA = {
       "fullname": "Kudale, M.D.",
       "count": 1,
       "paperIds": [
-        395
+        381
       ],
       "coauthors": {
         "Mahalingaiaha": 1,
@@ -35323,7 +35194,7 @@ const LIBRARY_DATA = {
       "fullname": "Mai et al",
       "count": 1,
       "paperIds": [
-        396
+        382
       ],
       "coauthors": {}
     },
@@ -35332,7 +35203,7 @@ const LIBRARY_DATA = {
       "fullname": "Malenica, š.",
       "count": 1,
       "paperIds": [
-        397
+        383
       ],
       "coauthors": {
         "Molin": 1
@@ -35343,7 +35214,7 @@ const LIBRARY_DATA = {
       "fullname": "Mayer, A P",
       "count": 1,
       "paperIds": [
-        398
+        384
       ],
       "coauthors": {
         "Lehner": 1
@@ -35354,7 +35225,7 @@ const LIBRARY_DATA = {
       "fullname": "Lehner, M",
       "count": 1,
       "paperIds": [
-        398
+        384
       ],
       "coauthors": {
         "Mayer": 1
@@ -35365,7 +35236,7 @@ const LIBRARY_DATA = {
       "fullname": "Bonneton, Philippe",
       "count": 1,
       "paperIds": [
-        399
+        385
       ],
       "coauthors": {
         "Martins": 1,
@@ -35377,7 +35248,7 @@ const LIBRARY_DATA = {
       "fullname": "Matemu, Christian",
       "count": 1,
       "paperIds": [
-        402
+        388
       ],
       "coauthors": {
         "Crowley": 1,
@@ -35389,7 +35260,7 @@ const LIBRARY_DATA = {
       "fullname": "Crowley, Raphael",
       "count": 1,
       "paperIds": [
-        402
+        388
       ],
       "coauthors": {
         "Matemu": 1,
@@ -35401,7 +35272,7 @@ const LIBRARY_DATA = {
       "fullname": "Resio, Don",
       "count": 1,
       "paperIds": [
-        402
+        388
       ],
       "coauthors": {
         "Matemu": 1,
@@ -35413,7 +35284,7 @@ const LIBRARY_DATA = {
       "fullname": "Melito, Lorenzo",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Parlagreco": 1,
@@ -35431,7 +35302,7 @@ const LIBRARY_DATA = {
       "fullname": "Parlagreco, Luca",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35449,7 +35320,7 @@ const LIBRARY_DATA = {
       "fullname": "Perugini, Eleonora",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35467,7 +35338,7 @@ const LIBRARY_DATA = {
       "fullname": "Postacchini, Matteo",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35485,7 +35356,7 @@ const LIBRARY_DATA = {
       "fullname": "Devoti, Saverio",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35503,7 +35374,7 @@ const LIBRARY_DATA = {
       "fullname": "Soldini, Luciano",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35521,7 +35392,7 @@ const LIBRARY_DATA = {
       "fullname": "Zitti, Gianluca",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35539,7 +35410,7 @@ const LIBRARY_DATA = {
       "fullname": "Liberti, Luca",
       "count": 1,
       "paperIds": [
-        407
+        394
       ],
       "coauthors": {
         "Melito": 1,
@@ -35557,7 +35428,7 @@ const LIBRARY_DATA = {
       "fullname": "Meucci",
       "count": 1,
       "paperIds": [
-        410
+        397
       ],
       "coauthors": {}
     },
@@ -35566,7 +35437,7 @@ const LIBRARY_DATA = {
       "fullname": "Behrendt, Lars",
       "count": 1,
       "paperIds": [
-        411
+        398
       ],
       "coauthors": {
         "Jonsson": 1
@@ -35577,7 +35448,7 @@ const LIBRARY_DATA = {
       "fullname": "Whalin, Robert W.",
       "count": 1,
       "paperIds": [
-        412
+        399
       ],
       "coauthors": {}
     },
@@ -35586,7 +35457,7 @@ const LIBRARY_DATA = {
       "fullname": "Ming",
       "count": 1,
       "paperIds": [
-        413
+        400
       ],
       "coauthors": {}
     },
@@ -35595,7 +35466,7 @@ const LIBRARY_DATA = {
       "fullname": "Mohaghegh, Fazlolah",
       "count": 1,
       "paperIds": [
-        414
+        401
       ],
       "coauthors": {
         "Murthy": 1,
@@ -35607,7 +35478,7 @@ const LIBRARY_DATA = {
       "fullname": "Murthy, Jayathi",
       "count": 1,
       "paperIds": [
-        414
+        401
       ],
       "coauthors": {
         "Mohaghegh": 1,
@@ -35619,7 +35490,7 @@ const LIBRARY_DATA = {
       "fullname": "Remy, F.",
       "count": 1,
       "paperIds": [
-        416
+        403
       ],
       "coauthors": {
         "Molin": 1,
@@ -35632,7 +35503,7 @@ const LIBRARY_DATA = {
       "fullname": "Chatjigeorgiou, I.K.",
       "count": 1,
       "paperIds": [
-        416
+        403
       ],
       "coauthors": {
         "Molin": 1,
@@ -35645,7 +35516,7 @@ const LIBRARY_DATA = {
       "fullname": "Monaghan, J. J.",
       "count": 1,
       "paperIds": [
-        417
+        404
       ],
       "coauthors": {
         "Kos": 1
@@ -35656,7 +35527,7 @@ const LIBRARY_DATA = {
       "fullname": "Kos, A.",
       "count": 1,
       "paperIds": [
-        417
+        404
       ],
       "coauthors": {
         "Monaghan": 1
@@ -35667,7 +35538,7 @@ const LIBRARY_DATA = {
       "fullname": "Heath, Andrew",
       "count": 1,
       "paperIds": [
-        418
+        405
       ],
       "coauthors": {
         "Morgan": 1,
@@ -35682,7 +35553,7 @@ const LIBRARY_DATA = {
       "fullname": "Whitlow, Chris",
       "count": 1,
       "paperIds": [
-        418
+        405
       ],
       "coauthors": {
         "Morgan": 1,
@@ -35697,7 +35568,7 @@ const LIBRARY_DATA = {
       "fullname": "Irschik, Kai",
       "count": 1,
       "paperIds": [
-        420
+        407
       ],
       "coauthors": {
         "Mo": 1,
@@ -35706,11 +35577,22 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Kjeldsen",
+      "fullname": "Kjeldsen, S.S.",
+      "count": 1,
+      "paperIds": [
+        408
+      ],
+      "coauthors": {
+        "Myrhaug": 1
+      }
+    },
+    {
       "name": "Myslenkov",
       "fullname": "Myslenkov, Stanislav",
       "count": 1,
       "paperIds": [
-        421
+        409
       ],
       "coauthors": {
         "Platonov": 1,
@@ -35724,7 +35606,7 @@ const LIBRARY_DATA = {
       "fullname": "Platonov, Vladimir",
       "count": 1,
       "paperIds": [
-        421
+        409
       ],
       "coauthors": {
         "Myslenkov": 1,
@@ -35738,7 +35620,7 @@ const LIBRARY_DATA = {
       "fullname": "Kislov, Alexander",
       "count": 1,
       "paperIds": [
-        421
+        409
       ],
       "coauthors": {
         "Myslenkov": 1,
@@ -35752,7 +35634,7 @@ const LIBRARY_DATA = {
       "fullname": "Silvestrova, Ksenia",
       "count": 1,
       "paperIds": [
-        421
+        409
       ],
       "coauthors": {
         "Myslenkov": 1,
@@ -35766,7 +35648,7 @@ const LIBRARY_DATA = {
       "fullname": "Medvedev, Igor",
       "count": 1,
       "paperIds": [
-        421
+        409
       ],
       "coauthors": {
         "Myslenkov": 1,
@@ -35780,7 +35662,7 @@ const LIBRARY_DATA = {
       "fullname": "New, A. L.",
       "count": 1,
       "paperIds": [
-        422
+        410
       ],
       "coauthors": {
         "McIver": 1,
@@ -35792,7 +35674,7 @@ const LIBRARY_DATA = {
       "fullname": "McIver, P.",
       "count": 1,
       "paperIds": [
-        422
+        410
       ],
       "coauthors": {
         "New": 1,
@@ -35804,7 +35686,7 @@ const LIBRARY_DATA = {
       "fullname": "Nie, Baojie",
       "count": 1,
       "paperIds": [
-        423
+        411
       ],
       "coauthors": {
         "Yang": 1,
@@ -35819,7 +35701,7 @@ const LIBRARY_DATA = {
       "fullname": "Gu, Zhixing",
       "count": 1,
       "paperIds": [
-        423
+        411
       ],
       "coauthors": {
         "Nie": 1,
@@ -35834,7 +35716,7 @@ const LIBRARY_DATA = {
       "fullname": "Mj, Dripta",
       "count": 1,
       "paperIds": [
-        426
+        414
       ],
       "coauthors": {
         "McAllister": 1,
@@ -35848,7 +35730,7 @@ const LIBRARY_DATA = {
       "fullname": "Novakovic",
       "count": 1,
       "paperIds": [
-        427
+        415
       ],
       "coauthors": {}
     },
@@ -35857,7 +35739,7 @@ const LIBRARY_DATA = {
       "fullname": "Oberlies, Robert",
       "count": 1,
       "paperIds": [
-        428
+        416
       ],
       "coauthors": {
         "Khalifa": 1,
@@ -35873,7 +35755,7 @@ const LIBRARY_DATA = {
       "fullname": "Khalifa, Jameel",
       "count": 1,
       "paperIds": [
-        428
+        416
       ],
       "coauthors": {
         "Oberlies": 1,
@@ -35889,7 +35771,7 @@ const LIBRARY_DATA = {
       "fullname": "Hetland, Steinar",
       "count": 1,
       "paperIds": [
-        428
+        416
       ],
       "coauthors": {
         "Oberlies": 1,
@@ -35905,7 +35787,7 @@ const LIBRARY_DATA = {
       "fullname": "Younan, Adel",
       "count": 1,
       "paperIds": [
-        428
+        416
       ],
       "coauthors": {
         "Oberlies": 1,
@@ -35921,7 +35803,7 @@ const LIBRARY_DATA = {
       "fullname": "Overstake, Meghan",
       "count": 1,
       "paperIds": [
-        428
+        416
       ],
       "coauthors": {
         "Oberlies": 1,
@@ -35937,7 +35819,7 @@ const LIBRARY_DATA = {
       "fullname": "Slocum, Scott",
       "count": 1,
       "paperIds": [
-        428
+        416
       ],
       "coauthors": {
         "Oberlies": 1,
@@ -35953,7 +35835,7 @@ const LIBRARY_DATA = {
       "fullname": "Ochi, Michel K.",
       "count": 1,
       "paperIds": [
-        429
+        417
       ],
       "coauthors": {
         "Hubble": 1
@@ -35964,7 +35846,7 @@ const LIBRARY_DATA = {
       "fullname": "Hubble, E. Nadine",
       "count": 1,
       "paperIds": [
-        429
+        417
       ],
       "coauthors": {
         "Ochi": 1
@@ -35975,7 +35857,7 @@ const LIBRARY_DATA = {
       "fullname": "Oguzhan, Semire",
       "count": 1,
       "paperIds": [
-        430
+        418
       ],
       "coauthors": {
         "Aksoy": 1
@@ -35986,7 +35868,7 @@ const LIBRARY_DATA = {
       "fullname": "Aksoy, Aysegul Ozgenc",
       "count": 1,
       "paperIds": [
-        430
+        418
       ],
       "coauthors": {
         "Oguzhan": 1
@@ -35997,7 +35879,7 @@ const LIBRARY_DATA = {
       "fullname": "Bianco, L.",
       "count": 1,
       "paperIds": [
-        433
+        421
       ],
       "coauthors": {
         "Osborne": 1,
@@ -36014,7 +35896,7 @@ const LIBRARY_DATA = {
       "fullname": "Drago, M.",
       "count": 1,
       "paperIds": [
-        433
+        421
       ],
       "coauthors": {
         "Osborne": 1,
@@ -36031,7 +35913,7 @@ const LIBRARY_DATA = {
       "fullname": "Iovenitti, L.",
       "count": 1,
       "paperIds": [
-        433
+        421
       ],
       "coauthors": {
         "Osborne": 1,
@@ -36048,7 +35930,7 @@ const LIBRARY_DATA = {
       "fullname": "Viezzoli, D.",
       "count": 1,
       "paperIds": [
-        433
+        421
       ],
       "coauthors": {
         "Osborne": 1,
@@ -36065,7 +35947,7 @@ const LIBRARY_DATA = {
       "fullname": "Panagou, Theodore",
       "count": 1,
       "paperIds": [
-        435
+        422
       ],
       "coauthors": {
         "Oikonomou": 1,
@@ -36078,7 +35960,7 @@ const LIBRARY_DATA = {
       "fullname": "Oikonomou, Emmanouil",
       "count": 1,
       "paperIds": [
-        435
+        422
       ],
       "coauthors": {
         "Panagou": 1,
@@ -36091,7 +35973,7 @@ const LIBRARY_DATA = {
       "fullname": "Hasiotis, Thomas",
       "count": 1,
       "paperIds": [
-        435
+        422
       ],
       "coauthors": {
         "Panagou": 1,
@@ -36104,7 +35986,7 @@ const LIBRARY_DATA = {
       "fullname": "Velegrakis, Adonis F.",
       "count": 1,
       "paperIds": [
-        435
+        422
       ],
       "coauthors": {
         "Panagou": 1,
@@ -36117,7 +35999,7 @@ const LIBRARY_DATA = {
       "fullname": "Panagopoulos, Loukianos",
       "count": 1,
       "paperIds": [
-        436
+        423
       ],
       "coauthors": {
         "Papadimitriou": 1,
@@ -36130,7 +36012,7 @@ const LIBRARY_DATA = {
       "fullname": "Patel, Ravi P.",
       "count": 1,
       "paperIds": [
-        437
+        424
       ],
       "coauthors": {
         "Nagababu": 1,
@@ -36144,7 +36026,7 @@ const LIBRARY_DATA = {
       "fullname": "Nagababu, Garlapati",
       "count": 1,
       "paperIds": [
-        437
+        424
       ],
       "coauthors": {
         "Patel": 1,
@@ -36158,7 +36040,7 @@ const LIBRARY_DATA = {
       "fullname": "Arun Kumar, Surisetty V.V.",
       "count": 1,
       "paperIds": [
-        437
+        424
       ],
       "coauthors": {
         "Patel": 1,
@@ -36172,7 +36054,7 @@ const LIBRARY_DATA = {
       "fullname": "M., Seemanth",
       "count": 1,
       "paperIds": [
-        437
+        424
       ],
       "coauthors": {
         "Patel": 1,
@@ -36186,7 +36068,7 @@ const LIBRARY_DATA = {
       "fullname": "Kachhwaha, Surendra Singh",
       "count": 1,
       "paperIds": [
-        437
+        424
       ],
       "coauthors": {
         "Patel": 1,
@@ -36200,7 +36082,7 @@ const LIBRARY_DATA = {
       "fullname": "Paulik, Ryan",
       "count": 1,
       "paperIds": [
-        438
+        425
       ],
       "coauthors": {
         "Craig": 1,
@@ -36212,7 +36094,7 @@ const LIBRARY_DATA = {
       "fullname": "Craig, Heather",
       "count": 1,
       "paperIds": [
-        438
+        425
       ],
       "coauthors": {
         "Paulik": 1,
@@ -36224,7 +36106,7 @@ const LIBRARY_DATA = {
       "fullname": "Popovich, Benjamin",
       "count": 1,
       "paperIds": [
-        438
+        425
       ],
       "coauthors": {
         "Paulik": 1,
@@ -36236,7 +36118,7 @@ const LIBRARY_DATA = {
       "fullname": "Pawlowicz, Rich",
       "count": 1,
       "paperIds": [
-        441
+        428
       ],
       "coauthors": {
         "Beardsley": 1,
@@ -36248,7 +36130,7 @@ const LIBRARY_DATA = {
       "fullname": "Beardsley, Bob",
       "count": 1,
       "paperIds": [
-        441
+        428
       ],
       "coauthors": {
         "Pawlowicz": 1,
@@ -36260,7 +36142,7 @@ const LIBRARY_DATA = {
       "fullname": "Lentz, Steve",
       "count": 1,
       "paperIds": [
-        441
+        428
       ],
       "coauthors": {
         "Pawlowicz": 1,
@@ -36272,7 +36154,7 @@ const LIBRARY_DATA = {
       "fullname": "MITSUYASU, Hisashi",
       "count": 1,
       "paperIds": [
-        443
+        430
       ],
       "coauthors": {
         "Honda": 1
@@ -36283,7 +36165,7 @@ const LIBRARY_DATA = {
       "fullname": "HONDA, Tadao",
       "count": 1,
       "paperIds": [
-        443
+        430
       ],
       "coauthors": {
         "Mitsuyasu": 1
@@ -36294,7 +36176,7 @@ const LIBRARY_DATA = {
       "fullname": "Plant",
       "count": 1,
       "paperIds": [
-        448
+        436
       ],
       "coauthors": {}
     },
@@ -36303,7 +36185,7 @@ const LIBRARY_DATA = {
       "fullname": "Jose, Jithin",
       "count": 1,
       "paperIds": [
-        449
+        437
       ],
       "coauthors": {
         "Podrażka": 1,
@@ -36316,7 +36198,7 @@ const LIBRARY_DATA = {
       "fullname": "Podrażka, Olga",
       "count": 1,
       "paperIds": [
-        449
+        437
       ],
       "coauthors": {
         "Jose": 1,
@@ -36329,7 +36211,7 @@ const LIBRARY_DATA = {
       "fullname": "Cieślikiewicz, Witold",
       "count": 1,
       "paperIds": [
-        449
+        437
       ],
       "coauthors": {
         "Jose": 1,
@@ -36342,7 +36224,7 @@ const LIBRARY_DATA = {
       "fullname": "Casas‐Prat, Mercè",
       "count": 1,
       "paperIds": [
-        450
+        438
       ],
       "coauthors": {
         "Holthuijsen": 1
@@ -36353,7 +36235,7 @@ const LIBRARY_DATA = {
       "fullname": "Puolakka, Otto",
       "count": 1,
       "paperIds": [
-        451
+        439
       ],
       "coauthors": {}
     },
@@ -36362,7 +36244,7 @@ const LIBRARY_DATA = {
       "fullname": "Raghukumar, Kaustubha",
       "count": 1,
       "paperIds": [
-        456
+        444
       ],
       "coauthors": {
         "Chang": 1,
@@ -36377,7 +36259,7 @@ const LIBRARY_DATA = {
       "fullname": "Spada, Frank",
       "count": 1,
       "paperIds": [
-        456
+        444
       ],
       "coauthors": {
         "Raghukumar": 1,
@@ -36392,7 +36274,7 @@ const LIBRARY_DATA = {
       "fullname": "Gans, Andrew",
       "count": 1,
       "paperIds": [
-        456
+        444
       ],
       "coauthors": {
         "Raghukumar": 1,
@@ -36407,7 +36289,7 @@ const LIBRARY_DATA = {
       "fullname": "Rätsep, Margus",
       "count": 1,
       "paperIds": [
-        459
+        446
       ],
       "coauthors": {
         "Parnell": 1,
@@ -36422,7 +36304,7 @@ const LIBRARY_DATA = {
       "fullname": "Parnell, Kevin E.",
       "count": 1,
       "paperIds": [
-        459
+        446
       ],
       "coauthors": {
         "Rätsep": 1,
@@ -36437,7 +36319,7 @@ const LIBRARY_DATA = {
       "fullname": "Soomere, Tarmo",
       "count": 1,
       "paperIds": [
-        459
+        446
       ],
       "coauthors": {
         "Rätsep": 1,
@@ -36452,7 +36334,7 @@ const LIBRARY_DATA = {
       "fullname": "Kruusmaa, Maarja",
       "count": 1,
       "paperIds": [
-        459
+        446
       ],
       "coauthors": {
         "Rätsep": 1,
@@ -36467,7 +36349,7 @@ const LIBRARY_DATA = {
       "fullname": "Ristolainen, Asko",
       "count": 1,
       "paperIds": [
-        459
+        446
       ],
       "coauthors": {
         "Rätsep": 1,
@@ -36482,7 +36364,7 @@ const LIBRARY_DATA = {
       "fullname": "Tuhtan, Jeffrey A.",
       "count": 1,
       "paperIds": [
-        459
+        446
       ],
       "coauthors": {
         "Rätsep": 1,
@@ -36497,7 +36379,7 @@ const LIBRARY_DATA = {
       "fullname": "Nieto-Reyes, Alicia",
       "count": 1,
       "paperIds": [
-        461
+        448
       ],
       "coauthors": {}
     },
@@ -36506,7 +36388,7 @@ const LIBRARY_DATA = {
       "fullname": "Kramer, Jan",
       "count": 1,
       "paperIds": [
-        462
+        449
       ],
       "coauthors": {
         "de Ridder": 1,
@@ -36519,7 +36401,7 @@ const LIBRARY_DATA = {
       "fullname": "den Bieman, Joost P.",
       "count": 1,
       "paperIds": [
-        462
+        449
       ],
       "coauthors": {
         "de Ridder": 1,
@@ -36532,7 +36414,7 @@ const LIBRARY_DATA = {
       "fullname": "Wenneker, Ivo",
       "count": 1,
       "paperIds": [
-        462
+        449
       ],
       "coauthors": {
         "de Ridder": 1,
@@ -36545,7 +36427,7 @@ const LIBRARY_DATA = {
       "fullname": "Nederhoff, Kees",
       "count": 1,
       "paperIds": [
-        463
+        450
       ],
       "coauthors": {
         "de Ridder": 1,
@@ -36560,7 +36442,7 @@ const LIBRARY_DATA = {
       "fullname": "Riefolo, Luigia",
       "count": 1,
       "paperIds": [
-        464
+        451
       ],
       "coauthors": {
         "Contestabile": 1,
@@ -36573,7 +36455,7 @@ const LIBRARY_DATA = {
       "fullname": "Contestabile, Pasquale",
       "count": 1,
       "paperIds": [
-        464
+        451
       ],
       "coauthors": {
         "Riefolo": 1,
@@ -36586,7 +36468,7 @@ const LIBRARY_DATA = {
       "fullname": "Dentale, Fabio",
       "count": 1,
       "paperIds": [
-        464
+        451
       ],
       "coauthors": {
         "Riefolo": 1,
@@ -36599,7 +36481,7 @@ const LIBRARY_DATA = {
       "fullname": "Hypolite, Delphine",
       "count": 1,
       "paperIds": [
-        466
+        453
       ],
       "coauthors": {
         "Romero": 1,
@@ -36611,7 +36493,7 @@ const LIBRARY_DATA = {
       "fullname": "Ross, Emma",
       "count": 1,
       "paperIds": [
-        469
+        456
       ],
       "coauthors": {
         "Astrup": 1,
@@ -36631,7 +36513,7 @@ const LIBRARY_DATA = {
       "fullname": "Astrup, Ole Christian",
       "count": 1,
       "paperIds": [
-        469
+        456
       ],
       "coauthors": {
         "Ross": 1,
@@ -36651,7 +36533,7 @@ const LIBRARY_DATA = {
       "fullname": "Bunn, Nigel",
       "count": 1,
       "paperIds": [
-        469
+        456
       ],
       "coauthors": {
         "Ross": 1,
@@ -36671,7 +36553,7 @@ const LIBRARY_DATA = {
       "fullname": "Gouldby, Ben",
       "count": 1,
       "paperIds": [
-        469
+        456
       ],
       "coauthors": {
         "Ross": 1,
@@ -36691,7 +36573,7 @@ const LIBRARY_DATA = {
       "fullname": "Vanem, Erik",
       "count": 1,
       "paperIds": [
-        469
+        456
       ],
       "coauthors": {
         "Ross": 1,
@@ -36711,7 +36593,7 @@ const LIBRARY_DATA = {
       "fullname": "Ruckelshaus",
       "count": 1,
       "paperIds": [
-        470
+        457
       ],
       "coauthors": {}
     },
@@ -36720,7 +36602,7 @@ const LIBRARY_DATA = {
       "fullname": "Ruessink",
       "count": 1,
       "paperIds": [
-        471
+        458
       ],
       "coauthors": {}
     },
@@ -36729,7 +36611,7 @@ const LIBRARY_DATA = {
       "fullname": "Inamuro, Takaji",
       "count": 1,
       "paperIds": [
-        472
+        459
       ],
       "coauthors": {}
     },
@@ -36738,7 +36620,7 @@ const LIBRARY_DATA = {
       "fullname": "Bora, Swaroop Nandan",
       "count": 1,
       "paperIds": [
-        473
+        460
       ],
       "coauthors": {
         "Saha": 1
@@ -36749,7 +36631,7 @@ const LIBRARY_DATA = {
       "fullname": "Sakai, Tetsuo",
       "count": 1,
       "paperIds": [
-        474
+        461
       ],
       "coauthors": {
         "Iwagaki": 1
@@ -36760,7 +36642,7 @@ const LIBRARY_DATA = {
       "fullname": "Iwagaki, Yuichi",
       "count": 1,
       "paperIds": [
-        474
+        461
       ],
       "coauthors": {
         "Sakai": 1
@@ -36771,7 +36653,7 @@ const LIBRARY_DATA = {
       "fullname": "Sarkar, Subhadeep",
       "count": 1,
       "paperIds": [
-        475
+        462
       ],
       "coauthors": {
         "Debnath": 1,
@@ -36784,7 +36666,7 @@ const LIBRARY_DATA = {
       "fullname": "Debnath, Koustuv",
       "count": 1,
       "paperIds": [
-        475
+        462
       ],
       "coauthors": {
         "Sarkar": 1,
@@ -36797,7 +36679,7 @@ const LIBRARY_DATA = {
       "fullname": "Mazumder, Bijoy S.",
       "count": 1,
       "paperIds": [
-        475
+        462
       ],
       "coauthors": {
         "Sarkar": 1,
@@ -36810,7 +36692,7 @@ const LIBRARY_DATA = {
       "fullname": "Schendel, Alexander",
       "count": 1,
       "paperIds": [
-        476
+        463
       ],
       "coauthors": {
         "Welzel": 1,
@@ -36823,7 +36705,7 @@ const LIBRARY_DATA = {
       "fullname": "Welzel, Mario",
       "count": 1,
       "paperIds": [
-        476
+        463
       ],
       "coauthors": {
         "Schendel": 1,
@@ -36836,7 +36718,7 @@ const LIBRARY_DATA = {
       "fullname": "Schreirer",
       "count": 1,
       "paperIds": [
-        477
+        464
       ],
       "coauthors": {}
     },
@@ -36845,7 +36727,7 @@ const LIBRARY_DATA = {
       "fullname": "Selden, Corday R.",
       "count": 1,
       "paperIds": [
-        479
+        466
       ],
       "coauthors": {
         "Chappell": 1,
@@ -36860,7 +36742,7 @@ const LIBRARY_DATA = {
       "fullname": "Chappell, P. Dreux",
       "count": 1,
       "paperIds": [
-        479
+        466
       ],
       "coauthors": {
         "Selden": 1,
@@ -36875,7 +36757,7 @@ const LIBRARY_DATA = {
       "fullname": "Clayton, Sophie",
       "count": 1,
       "paperIds": [
-        479
+        466
       ],
       "coauthors": {
         "Selden": 1,
@@ -36890,7 +36772,7 @@ const LIBRARY_DATA = {
       "fullname": "Macías‐Tapia, Alfonso",
       "count": 1,
       "paperIds": [
-        479
+        466
       ],
       "coauthors": {
         "Selden": 1,
@@ -36905,7 +36787,7 @@ const LIBRARY_DATA = {
       "fullname": "Bernhardt, Peter W.",
       "count": 1,
       "paperIds": [
-        479
+        466
       ],
       "coauthors": {
         "Selden": 1,
@@ -36920,7 +36802,7 @@ const LIBRARY_DATA = {
       "fullname": "Mulholland, Margaret R.",
       "count": 1,
       "paperIds": [
-        479
+        466
       ],
       "coauthors": {
         "Selden": 1,
@@ -36935,7 +36817,7 @@ const LIBRARY_DATA = {
       "fullname": "Sergievskaya, Irina A.",
       "count": 1,
       "paperIds": [
-        480
+        467
       ],
       "coauthors": {
         "Ermakov": 1,
@@ -36950,7 +36832,7 @@ const LIBRARY_DATA = {
       "fullname": "Ermakov, Stanislav A.",
       "count": 1,
       "paperIds": [
-        480
+        467
       ],
       "coauthors": {
         "Sergievskaya": 1,
@@ -36965,7 +36847,7 @@ const LIBRARY_DATA = {
       "fullname": "Ermoshkin, Alexey V.",
       "count": 1,
       "paperIds": [
-        480
+        467
       ],
       "coauthors": {
         "Sergievskaya": 1,
@@ -36980,7 +36862,7 @@ const LIBRARY_DATA = {
       "fullname": "Kapustin, Ivan A.",
       "count": 1,
       "paperIds": [
-        480
+        467
       ],
       "coauthors": {
         "Sergievskaya": 1,
@@ -36995,7 +36877,7 @@ const LIBRARY_DATA = {
       "fullname": "Kupaev, Alexander V.",
       "count": 1,
       "paperIds": [
-        480
+        467
       ],
       "coauthors": {
         "Sergievskaya": 1,
@@ -37010,7 +36892,7 @@ const LIBRARY_DATA = {
       "fullname": "Shomina, Olga",
       "count": 1,
       "paperIds": [
-        480
+        467
       ],
       "coauthors": {
         "Sergievskaya": 1,
@@ -37025,7 +36907,7 @@ const LIBRARY_DATA = {
       "fullname": "Seyffert, H.C.",
       "count": 1,
       "paperIds": [
-        481
+        468
       ],
       "coauthors": {
         "Kana": 1,
@@ -37037,7 +36919,7 @@ const LIBRARY_DATA = {
       "fullname": "Kana, A.A.",
       "count": 1,
       "paperIds": [
-        481
+        468
       ],
       "coauthors": {
         "Seyffert": 1,
@@ -37049,7 +36931,7 @@ const LIBRARY_DATA = {
       "fullname": "Troesch, A.W.",
       "count": 1,
       "paperIds": [
-        481
+        468
       ],
       "coauthors": {
         "Seyffert": 1,
@@ -37061,7 +36943,7 @@ const LIBRARY_DATA = {
       "fullname": "Le Méhauté, Bernard",
       "count": 1,
       "paperIds": [
-        482
+        469
       ],
       "coauthors": {
         "Divoky": 1,
@@ -37073,7 +36955,7 @@ const LIBRARY_DATA = {
       "fullname": "Divoky, David",
       "count": 1,
       "paperIds": [
-        482
+        469
       ],
       "coauthors": {
         "Le Méhauté": 1,
@@ -37085,7 +36967,7 @@ const LIBRARY_DATA = {
       "fullname": "Kaihatu, James M.",
       "count": 1,
       "paperIds": [
-        483
+        470
       ],
       "coauthors": {
         "Sharma": 1,
@@ -37097,7 +36979,7 @@ const LIBRARY_DATA = {
       "fullname": "Shōji, Mayumi",
       "count": 1,
       "paperIds": [
-        485
+        472
       ],
       "coauthors": {
         "Okamoto": 1
@@ -37108,7 +36990,7 @@ const LIBRARY_DATA = {
       "fullname": "Okamoto, Hisashi",
       "count": 1,
       "paperIds": [
-        485
+        472
       ],
       "coauthors": {
         "Shōji": 1
@@ -37119,7 +37001,7 @@ const LIBRARY_DATA = {
       "fullname": "Orfila, Alejandro",
       "count": 1,
       "paperIds": [
-        488
+        475
       ],
       "coauthors": {
         "Simarro": 1,
@@ -37131,7 +37013,7 @@ const LIBRARY_DATA = {
       "fullname": "Galan, Alvaro",
       "count": 1,
       "paperIds": [
-        488
+        475
       ],
       "coauthors": {
         "Simarro": 1,
@@ -37143,7 +37025,7 @@ const LIBRARY_DATA = {
       "fullname": "Simon, Bruno",
       "count": 1,
       "paperIds": [
-        489
+        476
       ],
       "coauthors": {
         "Papoutsellis": 1,
@@ -37156,7 +37038,7 @@ const LIBRARY_DATA = {
       "fullname": "Papoutsellis, Christos E.",
       "count": 1,
       "paperIds": [
-        489
+        476
       ],
       "coauthors": {
         "Simon": 1,
@@ -37169,7 +37051,7 @@ const LIBRARY_DATA = {
       "fullname": "Skyner, David",
       "count": 1,
       "paperIds": [
-        490
+        477
       ],
       "coauthors": {}
     },
@@ -37178,7 +37060,7 @@ const LIBRARY_DATA = {
       "fullname": "Sobey, Rodney J.",
       "count": 1,
       "paperIds": [
-        493
+        480
       ],
       "coauthors": {}
     },
@@ -37187,7 +37069,7 @@ const LIBRARY_DATA = {
       "fullname": "Venkatachalam, Sriram",
       "count": 1,
       "paperIds": [
-        494
+        482
       ],
       "coauthors": {
         "Agarwal": 1,
@@ -37199,7 +37081,7 @@ const LIBRARY_DATA = {
       "fullname": "Agarwal, Shagun",
       "count": 1,
       "paperIds": [
-        494
+        482
       ],
       "coauthors": {
         "Venkatachalam": 1,
@@ -37211,7 +37093,7 @@ const LIBRARY_DATA = {
       "fullname": "Kristiansen, Trygve",
       "count": 1,
       "paperIds": [
-        503
+        491
       ],
       "coauthors": {
         "Stansberg": 1
@@ -37222,23 +37104,10 @@ const LIBRARY_DATA = {
       "fullname": "Shanmugasundaram, Gnanasekaran",
       "count": 1,
       "paperIds": [
-        504
+        492
       ],
       "coauthors": {
         "Saha": 1
-      }
-    },
-    {
-      "name": "Michel",
-      "fullname": "Michel, Guillaume",
-      "count": 1,
-      "paperIds": [
-        505
-      ],
-      "coauthors": {
-        "Bonnefoy": 1,
-        "Ducrozet": 1,
-        "Falcon": 1
       }
     },
     {
@@ -37246,7 +37115,7 @@ const LIBRARY_DATA = {
       "fullname": "Stehno, Abigail",
       "count": 1,
       "paperIds": [
-        507
+        494
       ],
       "coauthors": {
         "Melby": 1
@@ -37257,7 +37126,7 @@ const LIBRARY_DATA = {
       "fullname": "Melby, Jeffrey",
       "count": 1,
       "paperIds": [
-        507
+        494
       ],
       "coauthors": {
         "Stehno": 1
@@ -37268,7 +37137,7 @@ const LIBRARY_DATA = {
       "fullname": "Storheim, Martin",
       "count": 1,
       "paperIds": [
-        511
+        498
       ],
       "coauthors": {
         "Lian": 1
@@ -37279,7 +37148,7 @@ const LIBRARY_DATA = {
       "fullname": "Filip, Grzegorz P.",
       "count": 1,
       "paperIds": [
-        514
+        501
       ],
       "coauthors": {
         "Xu": 1,
@@ -37291,7 +37160,7 @@ const LIBRARY_DATA = {
       "fullname": "Maki, Kevin J.",
       "count": 1,
       "paperIds": [
-        514
+        501
       ],
       "coauthors": {
         "Filip": 1,
@@ -37303,7 +37172,7 @@ const LIBRARY_DATA = {
       "fullname": "Bashir, T.",
       "count": 1,
       "paperIds": [
-        517
+        504
       ],
       "coauthors": {
         "Swan": 1,
@@ -37315,7 +37184,7 @@ const LIBRARY_DATA = {
       "fullname": "van Langen, H.",
       "count": 1,
       "paperIds": [
-        518
+        506
       ],
       "coauthors": {
         "Swan": 1,
@@ -37327,7 +37196,7 @@ const LIBRARY_DATA = {
       "fullname": "Taklo",
       "count": 1,
       "paperIds": [
-        519
+        507
       ],
       "coauthors": {}
     },
@@ -37336,7 +37205,7 @@ const LIBRARY_DATA = {
       "fullname": "Tinh, Nguyen Xuan",
       "count": 1,
       "paperIds": [
-        520
+        508
       ],
       "coauthors": {
         "Tanaka": 1,
@@ -37348,7 +37217,7 @@ const LIBRARY_DATA = {
       "fullname": "Sana, Ahmad",
       "count": 1,
       "paperIds": [
-        520
+        508
       ],
       "coauthors": {
         "Tanaka": 1,
@@ -37360,7 +37229,7 @@ const LIBRARY_DATA = {
       "fullname": "Tavakoli",
       "count": 1,
       "paperIds": [
-        522
+        510
       ],
       "coauthors": {}
     },
@@ -37369,7 +37238,7 @@ const LIBRARY_DATA = {
       "fullname": "Tay, Zhi Yung",
       "count": 1,
       "paperIds": [
-        523
+        511
       ],
       "coauthors": {}
     },
@@ -37378,7 +37247,7 @@ const LIBRARY_DATA = {
       "fullname": "Thiébaut, Maxime",
       "count": 1,
       "paperIds": [
-        525
+        513
       ],
       "coauthors": {
         "Filipot": 1,
@@ -37394,7 +37263,7 @@ const LIBRARY_DATA = {
       "fullname": "Maisondieu, Christophe",
       "count": 1,
       "paperIds": [
-        525
+        513
       ],
       "coauthors": {
         "Thiébaut": 1,
@@ -37410,7 +37279,7 @@ const LIBRARY_DATA = {
       "fullname": "Damblans, Guillaume",
       "count": 1,
       "paperIds": [
-        525
+        513
       ],
       "coauthors": {
         "Thiébaut": 1,
@@ -37426,7 +37295,7 @@ const LIBRARY_DATA = {
       "fullname": "Droniou, Eloi",
       "count": 1,
       "paperIds": [
-        525
+        513
       ],
       "coauthors": {
         "Thiébaut": 1,
@@ -37442,7 +37311,7 @@ const LIBRARY_DATA = {
       "fullname": "Terziev, Momchil",
       "count": 1,
       "paperIds": [
-        526
+        514
       ],
       "coauthors": {
         "Tezdogan": 1,
@@ -37454,7 +37323,7 @@ const LIBRARY_DATA = {
       "fullname": "Tezdogan, Tahsin",
       "count": 1,
       "paperIds": [
-        526
+        514
       ],
       "coauthors": {
         "Terziev": 1,
@@ -37466,7 +37335,7 @@ const LIBRARY_DATA = {
       "fullname": "Incecik, Atilla",
       "count": 1,
       "paperIds": [
-        526
+        514
       ],
       "coauthors": {
         "Terziev": 1,
@@ -37478,7 +37347,7 @@ const LIBRARY_DATA = {
       "fullname": "Bitner‐Gregersen, Elzbieta M.",
       "count": 1,
       "paperIds": [
-        528
+        516
       ],
       "coauthors": {
         "Toffoli": 1
@@ -37489,7 +37358,7 @@ const LIBRARY_DATA = {
       "fullname": "Topliss, M. E.",
       "count": 1,
       "paperIds": [
-        529
+        517
       ],
       "coauthors": {
         "Cooker": 1,
@@ -37501,7 +37370,7 @@ const LIBRARY_DATA = {
       "fullname": "Minnick, Lisa",
       "count": 1,
       "paperIds": [
-        531
+        519
       ],
       "coauthors": {
         "Bassler": 1,
@@ -37514,7 +37383,7 @@ const LIBRARY_DATA = {
       "fullname": "Bassler, Christopher",
       "count": 1,
       "paperIds": [
-        531
+        519
       ],
       "coauthors": {
         "Minnick": 1,
@@ -37527,7 +37396,7 @@ const LIBRARY_DATA = {
       "fullname": "Percival, Scott",
       "count": 1,
       "paperIds": [
-        531
+        519
       ],
       "coauthors": {
         "Minnick": 1,
@@ -37540,7 +37409,7 @@ const LIBRARY_DATA = {
       "fullname": "Hanyok, Lauren",
       "count": 1,
       "paperIds": [
-        531
+        519
       ],
       "coauthors": {
         "Minnick": 1,
@@ -37553,7 +37422,7 @@ const LIBRARY_DATA = {
       "fullname": "Hagemeijer, P.M.",
       "count": 1,
       "paperIds": [
-        532
+        520
       ],
       "coauthors": {
         "Tromans": 1,
@@ -37565,7 +37434,7 @@ const LIBRARY_DATA = {
       "fullname": "Wassink, H.R.",
       "count": 1,
       "paperIds": [
-        532
+        520
       ],
       "coauthors": {
         "Tromans": 1,
@@ -37577,7 +37446,7 @@ const LIBRARY_DATA = {
       "fullname": "Aouf, Lotfi",
       "count": 1,
       "paperIds": [
-        534
+        522
       ],
       "coauthors": {
         "Trulsen": 1,
@@ -37591,7 +37460,7 @@ const LIBRARY_DATA = {
       "fullname": "Lefèvre, Jean–Michel",
       "count": 1,
       "paperIds": [
-        534
+        522
       ],
       "coauthors": {
         "Trulsen": 1,
@@ -37605,7 +37474,7 @@ const LIBRARY_DATA = {
       "fullname": "Martin, Calin I.",
       "count": 1,
       "paperIds": [
-        535
+        523
       ],
       "coauthors": {}
     },
@@ -37614,7 +37483,7 @@ const LIBRARY_DATA = {
       "fullname": "Challenor, P.G.",
       "count": 1,
       "paperIds": [
-        537
+        525
       ],
       "coauthors": {
         "Tucker": 1,
@@ -37626,7 +37495,7 @@ const LIBRARY_DATA = {
       "fullname": "Ulutas",
       "count": 1,
       "paperIds": [
-        538
+        526
       ],
       "coauthors": {}
     },
@@ -37635,7 +37504,7 @@ const LIBRARY_DATA = {
       "fullname": "van Noorloos, J.",
       "count": 1,
       "paperIds": [
-        539
+        527
       ],
       "coauthors": {
         "van Dongeren": 1,
@@ -37651,7 +37520,7 @@ const LIBRARY_DATA = {
       "fullname": "Steenbergen, G.",
       "count": 1,
       "paperIds": [
-        539
+        527
       ],
       "coauthors": {
         "van Dongeren": 1,
@@ -37667,7 +37536,7 @@ const LIBRARY_DATA = {
       "fullname": "van Haren, Hans",
       "count": 1,
       "paperIds": [
-        540
+        528
       ],
       "coauthors": {}
     },
@@ -37676,7 +37545,7 @@ const LIBRARY_DATA = {
       "fullname": "van Meerkerk, M.",
       "count": 1,
       "paperIds": [
-        541
+        529
       ],
       "coauthors": {
         "Poelma": 1,
@@ -37689,7 +37558,7 @@ const LIBRARY_DATA = {
       "fullname": "Poelma, C.",
       "count": 1,
       "paperIds": [
-        541
+        529
       ],
       "coauthors": {
         "van Meerkerk": 1,
@@ -37702,7 +37571,7 @@ const LIBRARY_DATA = {
       "fullname": "Westerweel, J.",
       "count": 1,
       "paperIds": [
-        541
+        529
       ],
       "coauthors": {
         "van Meerkerk": 1,
@@ -37715,7 +37584,7 @@ const LIBRARY_DATA = {
       "fullname": "Delpey, Matthias",
       "count": 1,
       "paperIds": [
-        542
+        530
       ],
       "coauthors": {
         "Varing": 1,
@@ -37732,7 +37601,7 @@ const LIBRARY_DATA = {
       "fullname": "Guitton, Gilles",
       "count": 1,
       "paperIds": [
-        542
+        530
       ],
       "coauthors": {
         "Varing": 1,
@@ -37749,7 +37618,7 @@ const LIBRARY_DATA = {
       "fullname": "Collard, Fabrice",
       "count": 1,
       "paperIds": [
-        542
+        530
       ],
       "coauthors": {
         "Varing": 1,
@@ -37766,7 +37635,7 @@ const LIBRARY_DATA = {
       "fullname": "Platzer, Paul",
       "count": 1,
       "paperIds": [
-        542
+        530
       ],
       "coauthors": {
         "Varing": 1,
@@ -37783,7 +37652,7 @@ const LIBRARY_DATA = {
       "fullname": "Morichon, Denis",
       "count": 1,
       "paperIds": [
-        542
+        530
       ],
       "coauthors": {
         "Varing": 1,
@@ -37800,7 +37669,7 @@ const LIBRARY_DATA = {
       "fullname": "Oh, S.",
       "count": 1,
       "paperIds": [
-        543
+        531
       ],
       "coauthors": {
         "Okubo": 1,
@@ -37813,7 +37682,7 @@ const LIBRARY_DATA = {
       "fullname": "Okubo, K.",
       "count": 1,
       "paperIds": [
-        543
+        531
       ],
       "coauthors": {
         "Oh": 1,
@@ -37826,7 +37695,7 @@ const LIBRARY_DATA = {
       "fullname": "Tsuchiya, T.",
       "count": 1,
       "paperIds": [
-        543
+        531
       ],
       "coauthors": {
         "Oh": 1,
@@ -37839,7 +37708,7 @@ const LIBRARY_DATA = {
       "fullname": "Takeuchi, N.",
       "count": 1,
       "paperIds": [
-        543
+        531
       ],
       "coauthors": {
         "Oh": 1,
@@ -37852,7 +37721,7 @@ const LIBRARY_DATA = {
       "fullname": "Vigsø, Michael",
       "count": 1,
       "paperIds": [
-        545
+        533
       ],
       "coauthors": {
         "Georgakis": 1
@@ -37863,7 +37732,7 @@ const LIBRARY_DATA = {
       "fullname": "Georgakis, Christos",
       "count": 1,
       "paperIds": [
-        545
+        533
       ],
       "coauthors": {
         "Vigsø": 1
@@ -37874,7 +37743,7 @@ const LIBRARY_DATA = {
       "fullname": "Vinagre, Pedro Almeida",
       "count": 1,
       "paperIds": [
-        546
+        534
       ],
       "coauthors": {
         "Simas": 1,
@@ -37888,7 +37757,7 @@ const LIBRARY_DATA = {
       "fullname": "Simas, Teresa",
       "count": 1,
       "paperIds": [
-        546
+        534
       ],
       "coauthors": {
         "Vinagre": 1,
@@ -37902,7 +37771,7 @@ const LIBRARY_DATA = {
       "fullname": "Cruz, Erica",
       "count": 1,
       "paperIds": [
-        546
+        534
       ],
       "coauthors": {
         "Vinagre": 1,
@@ -37916,7 +37785,7 @@ const LIBRARY_DATA = {
       "fullname": "Pinori, Emiliano",
       "count": 1,
       "paperIds": [
-        546
+        534
       ],
       "coauthors": {
         "Vinagre": 1,
@@ -37930,7 +37799,7 @@ const LIBRARY_DATA = {
       "fullname": "Svenson, Johan",
       "count": 1,
       "paperIds": [
-        546
+        534
       ],
       "coauthors": {
         "Vinagre": 1,
@@ -37944,7 +37813,7 @@ const LIBRARY_DATA = {
       "fullname": "Vinodh, Talpe Liyanage Chanaka",
       "count": 1,
       "paperIds": [
-        548
+        536
       ],
       "coauthors": {
         "Tanaka": 1
@@ -37955,7 +37824,7 @@ const LIBRARY_DATA = {
       "fullname": "Headland, John",
       "count": 1,
       "paperIds": [
-        551
+        539
       ],
       "coauthors": {
         "Walker": 1
@@ -37966,7 +37835,7 @@ const LIBRARY_DATA = {
       "fullname": "Schächter, Levi",
       "count": 1,
       "paperIds": [
-        560
+        548
       ],
       "coauthors": {}
     },
@@ -37975,7 +37844,7 @@ const LIBRARY_DATA = {
       "fullname": "Wheeler, J.D.",
       "count": 1,
       "paperIds": [
-        562
+        550
       ],
       "coauthors": {}
     },
@@ -37984,7 +37853,7 @@ const LIBRARY_DATA = {
       "fullname": "Wienke, J.",
       "count": 1,
       "paperIds": [
-        563
+        551
       ],
       "coauthors": {
         "Oumeraci": 1
@@ -37995,7 +37864,7 @@ const LIBRARY_DATA = {
       "fullname": "Williams",
       "count": 1,
       "paperIds": [
-        564
+        552
       ],
       "coauthors": {}
     },
@@ -38004,7 +37873,7 @@ const LIBRARY_DATA = {
       "fullname": "Wyatt",
       "count": 1,
       "paperIds": [
-        568
+        556
       ],
       "coauthors": {}
     },
@@ -38013,7 +37882,7 @@ const LIBRARY_DATA = {
       "fullname": "Xiong, Jilian",
       "count": 1,
       "paperIds": [
-        571
+        559
       ],
       "coauthors": {
         "You": 1,
@@ -38023,11 +37892,24 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Xü",
+      "fullname": "Xü, Hongbo",
+      "count": 1,
+      "paperIds": [
+        560
+      ],
+      "coauthors": {
+        "Xue": 1,
+        "Liu": 1,
+        "Yue": 1
+      }
+    },
+    {
       "name": "Yin",
       "fullname": "Yin, Zegao",
       "count": 1,
       "paperIds": [
-        575
+        564
       ],
       "coauthors": {
         "Wang": 1,
@@ -38040,7 +37922,7 @@ const LIBRARY_DATA = {
       "fullname": "Zou, Wei",
       "count": 1,
       "paperIds": [
-        575
+        564
       ],
       "coauthors": {
         "Yin": 1,
@@ -38053,7 +37935,7 @@ const LIBRARY_DATA = {
       "fullname": "Zaki",
       "count": 1,
       "paperIds": [
-        579
+        568
       ],
       "coauthors": {}
     },
@@ -38062,7 +37944,7 @@ const LIBRARY_DATA = {
       "fullname": "Mohd Zaki, N. I.",
       "count": 1,
       "paperIds": [
-        580
+        569
       ],
       "coauthors": {
         "Abu Husain": 1,
@@ -38074,7 +37956,7 @@ const LIBRARY_DATA = {
       "fullname": "Abu Husain, M. K.",
       "count": 1,
       "paperIds": [
-        580
+        569
       ],
       "coauthors": {
         "Mohd Zaki": 1,
@@ -38086,7 +37968,7 @@ const LIBRARY_DATA = {
       "fullname": "Najafian, G.",
       "count": 1,
       "paperIds": [
-        580
+        569
       ],
       "coauthors": {
         "Mohd Zaki": 1,
@@ -38098,7 +37980,7 @@ const LIBRARY_DATA = {
       "fullname": "Hekkenberg, Robert",
       "count": 1,
       "paperIds": [
-        581
+        570
       ],
       "coauthors": {
         "Zeng": 1,
@@ -38111,7 +37993,7 @@ const LIBRARY_DATA = {
       "fullname": "Thill, Cornel",
       "count": 1,
       "paperIds": [
-        581
+        570
       ],
       "coauthors": {
         "Zeng": 1,
@@ -38124,7 +38006,7 @@ const LIBRARY_DATA = {
       "fullname": "Hopman, Hans",
       "count": 1,
       "paperIds": [
-        581
+        570
       ],
       "coauthors": {
         "Zeng": 1,
@@ -38137,7 +38019,7 @@ const LIBRARY_DATA = {
       "fullname": "Zerbib",
       "count": 1,
       "paperIds": [
-        582
+        571
       ],
       "coauthors": {}
     },
@@ -38146,7 +38028,7 @@ const LIBRARY_DATA = {
       "fullname": "Zhai, Hualing",
       "count": 1,
       "paperIds": [
-        585
+        574
       ],
       "coauthors": {
         "Zhang": 1,
@@ -38162,7 +38044,7 @@ const LIBRARY_DATA = {
       "fullname": "Shang, Zhi-quan",
       "count": 1,
       "paperIds": [
-        586
+        575
       ],
       "coauthors": {
         "Zhang": 1,
@@ -38174,7 +38056,7 @@ const LIBRARY_DATA = {
       "fullname": "Zlotnik, Sergio",
       "count": 1,
       "paperIds": [
-        592
+        581
       ],
       "coauthors": {
         "Zhou": 1,
@@ -38187,7 +38069,7 @@ const LIBRARY_DATA = {
       "fullname": "Zijlema, Marcel",
       "count": 1,
       "paperIds": [
-        595
+        585
       ],
       "coauthors": {
         "Stelling": 1,
@@ -38199,7 +38081,7 @@ const LIBRARY_DATA = {
       "fullname": "Stelling, Guus",
       "count": 1,
       "paperIds": [
-        595
+        585
       ],
       "coauthors": {
         "Zijlema": 1,
@@ -38211,7 +38093,7 @@ const LIBRARY_DATA = {
       "fullname": "Zuo, Feng-Yuan",
       "count": 1,
       "paperIds": [
-        596
+        586
       ],
       "coauthors": {
         "Memmolo": 1
@@ -38222,7 +38104,7 @@ const LIBRARY_DATA = {
       "fullname": "Memmolo, Antonio",
       "count": 1,
       "paperIds": [
-        596
+        586
       ],
       "coauthors": {
         "Zuo": 1
@@ -38233,7 +38115,7 @@ const LIBRARY_DATA = {
       "fullname": "Røge Eldrup, Mads",
       "count": 1,
       "paperIds": [
-        603
+        592
       ],
       "coauthors": {
         "Lykke Andersen": 1
@@ -38244,7 +38126,7 @@ const LIBRARY_DATA = {
       "fullname": "Brorsen, Michael",
       "count": 1,
       "paperIds": [
-        604
+        593
       ],
       "coauthors": {
         "Frigaard": 1
@@ -38255,7 +38137,7 @@ const LIBRARY_DATA = {
       "fullname": "Grønbech, John",
       "count": 1,
       "paperIds": [
-        605
+        594
       ],
       "coauthors": {
         "Jensen": 1,
@@ -38267,7 +38149,7 @@ const LIBRARY_DATA = {
       "fullname": "Jensen, Thomas",
       "count": 1,
       "paperIds": [
-        605
+        594
       ],
       "coauthors": {
         "Grønbech": 1,
@@ -38279,7 +38161,7 @@ const LIBRARY_DATA = {
       "fullname": "Inch, Kris",
       "count": 1,
       "paperIds": [
-        609
+        597
       ],
       "coauthors": {
         "Davidson": 1,
@@ -38292,7 +38174,7 @@ const LIBRARY_DATA = {
       "fullname": "Davidson, Mark",
       "count": 1,
       "paperIds": [
-        609
+        597
       ],
       "coauthors": {
         "Inch": 1,
@@ -38305,7 +38187,7 @@ const LIBRARY_DATA = {
       "fullname": "Masselink, Gerd",
       "count": 1,
       "paperIds": [
-        609
+        597
       ],
       "coauthors": {
         "Inch": 1,
@@ -38318,7 +38200,7 @@ const LIBRARY_DATA = {
       "fullname": "Russell, Paul",
       "count": 1,
       "paperIds": [
-        609
+        597
       ],
       "coauthors": {
         "Inch": 1,
@@ -38331,7 +38213,7 @@ const LIBRARY_DATA = {
       "fullname": "Meer, Jentsje W. van der",
       "count": 1,
       "paperIds": [
-        611
+        599
       ],
       "coauthors": {
         "Klopman": 1
@@ -38342,7 +38224,7 @@ const LIBRARY_DATA = {
       "fullname": "Ting, Chao-Lung",
       "count": 1,
       "paperIds": [
-        612
+        600
       ],
       "coauthors": {
         "Li": 1
@@ -38353,7 +38235,7 @@ const LIBRARY_DATA = {
       "fullname": "Clavero, Maria",
       "count": 1,
       "paperIds": [
-        616
+        603
       ],
       "coauthors": {
         "Lykke Andersen": 1,
@@ -38365,7 +38247,7 @@ const LIBRARY_DATA = {
       "fullname": "Mansard, E.P.D.",
       "count": 1,
       "paperIds": [
-        620
+        607
       ],
       "coauthors": {
         "Funke": 1
@@ -38376,7 +38258,7 @@ const LIBRARY_DATA = {
       "fullname": "Funke, E.R.",
       "count": 1,
       "paperIds": [
-        620
+        607
       ],
       "coauthors": {
         "Mansard": 1
@@ -38387,7 +38269,7 @@ const LIBRARY_DATA = {
       "fullname": "Almar, Rafael",
       "count": 1,
       "paperIds": [
-        621
+        608
       ],
       "coauthors": {
         "Martins": 1,
@@ -38396,47 +38278,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Nallayarasu",
-      "fullname": "Nallayarasu, S.",
-      "count": 1,
-      "paperIds": [
-        623
-      ],
-      "coauthors": {
-        "Fatt": 1,
-        "Jothi Shankar": 1
-      }
-    },
-    {
-      "name": "Fatt",
-      "fullname": "Fatt, Cheong Hin",
-      "count": 1,
-      "paperIds": [
-        623
-      ],
-      "coauthors": {
-        "Nallayarasu": 1,
-        "Jothi Shankar": 1
-      }
-    },
-    {
-      "name": "Jothi Shankar",
-      "fullname": "Jothi Shankar, N.",
-      "count": 1,
-      "paperIds": [
-        623
-      ],
-      "coauthors": {
-        "Nallayarasu": 1,
-        "Fatt": 1
-      }
-    },
-    {
       "name": "Ni",
       "fullname": "Ni, Yun-lin",
       "count": 1,
       "paperIds": [
-        624
+        610
       ],
       "coauthors": {
         "Teng": 1
@@ -38447,7 +38293,7 @@ const LIBRARY_DATA = {
       "fullname": "Elsayed, Mohamed A.K.",
       "count": 1,
       "paperIds": [
-        629
+        613
       ],
       "coauthors": {}
     },
@@ -38456,7 +38302,7 @@ const LIBRARY_DATA = {
       "fullname": "Serafino, Francesco",
       "count": 1,
       "paperIds": [
-        631
+        615
       ],
       "coauthors": {
         "Bonamano": 1,
@@ -38469,7 +38315,7 @@ const LIBRARY_DATA = {
       "fullname": "Bonamano, Simone",
       "count": 1,
       "paperIds": [
-        631
+        615
       ],
       "coauthors": {
         "Serafino": 1,
@@ -38482,7 +38328,7 @@ const LIBRARY_DATA = {
       "fullname": "de Mendoza, Francesco Paladini",
       "count": 1,
       "paperIds": [
-        631
+        615
       ],
       "coauthors": {
         "Serafino": 1,
@@ -38495,7 +38341,7 @@ const LIBRARY_DATA = {
       "fullname": "Marcelli, Marco",
       "count": 1,
       "paperIds": [
-        631
+        615
       ],
       "coauthors": {
         "Serafino": 1,
@@ -38508,7 +38354,7 @@ const LIBRARY_DATA = {
       "fullname": "Voermans, Joey J.",
       "count": 1,
       "paperIds": [
-        633
+        617
       ],
       "coauthors": {
         "Laface": 1,
@@ -38522,7 +38368,7 @@ const LIBRARY_DATA = {
       "fullname": "Wennker",
       "count": 1,
       "paperIds": [
-        634
+        618
       ],
       "coauthors": {}
     },
@@ -38531,7 +38377,7 @@ const LIBRARY_DATA = {
       "fullname": "Zelt, J.A.",
       "count": 1,
       "paperIds": [
-        637
+        620
       ],
       "coauthors": {
         "Skjelbreia": 1
@@ -38542,7 +38388,7 @@ const LIBRARY_DATA = {
       "fullname": "Gouin, M.",
       "count": 1,
       "paperIds": [
-        638
+        621
       ],
       "coauthors": {
         "Ducrozet": 1,
@@ -38554,7 +38400,7 @@ const LIBRARY_DATA = {
       "fullname": "Teisson, Charles",
       "count": 1,
       "paperIds": [
-        642
+        625
       ],
       "coauthors": {
         "Benoit": 1
@@ -38565,7 +38411,7 @@ const LIBRARY_DATA = {
       "fullname": "Bouws, E.",
       "count": 1,
       "paperIds": [
-        643
+        627
       ],
       "coauthors": {
         "Günther": 1,
@@ -38578,7 +38424,7 @@ const LIBRARY_DATA = {
       "fullname": "Günther, H.",
       "count": 1,
       "paperIds": [
-        643
+        627
       ],
       "coauthors": {
         "Bouws": 1,
@@ -38591,7 +38437,7 @@ const LIBRARY_DATA = {
       "fullname": "Rosenthal, W.",
       "count": 1,
       "paperIds": [
-        643
+        627
       ],
       "coauthors": {
         "Bouws": 1,
@@ -38604,7 +38450,7 @@ const LIBRARY_DATA = {
       "fullname": "Vincent, C. L.",
       "count": 1,
       "paperIds": [
-        643
+        627
       ],
       "coauthors": {
         "Bouws": 1,
@@ -38617,7 +38463,7 @@ const LIBRARY_DATA = {
       "fullname": "Govan, Alex",
       "count": 1,
       "paperIds": [
-        644
+        628
       ],
       "coauthors": {
         "Carter": 1
@@ -38628,7 +38474,7 @@ const LIBRARY_DATA = {
       "fullname": "Gui, Fukun",
       "count": 1,
       "paperIds": [
-        645
+        629
       ],
       "coauthors": {
         "Mei": 1,
@@ -38641,7 +38487,7 @@ const LIBRARY_DATA = {
       "fullname": "Vukčević, Vuko",
       "count": 1,
       "paperIds": [
-        649
+        634
       ],
       "coauthors": {
         "Gatin": 1,
@@ -38649,33 +38495,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Hasselmann",
-      "fullname": "Hasselmann, Dieter",
-      "count": 1,
-      "paperIds": [
-        650
-      ],
-      "coauthors": {
-        "Bösenberg": 1
-      }
-    },
-    {
-      "name": "Bösenberg",
-      "fullname": "Bösenberg, Jens",
-      "count": 1,
-      "paperIds": [
-        650
-      ],
-      "coauthors": {
-        "Hasselmann": 1
-      }
-    },
-    {
       "name": "Yuen",
       "fullname": "Yuen, Yeli",
       "count": 1,
       "paperIds": [
-        651
+        635
       ],
       "coauthors": {
         "Huang": 1,
@@ -38689,7 +38513,7 @@ const LIBRARY_DATA = {
       "fullname": "Hwang, Paul A.",
       "count": 1,
       "paperIds": [
-        652
+        636
       ],
       "coauthors": {
         "Huang": 1,
@@ -38703,7 +38527,7 @@ const LIBRARY_DATA = {
       "fullname": "Gřegoř, Adam",
       "count": 1,
       "paperIds": [
-        654
+        638
       ],
       "coauthors": {}
     },
@@ -38712,7 +38536,7 @@ const LIBRARY_DATA = {
       "fullname": "Lenain, Luc",
       "count": 1,
       "paperIds": [
-        656
+        640
       ],
       "coauthors": {
         "Melville": 1
@@ -38723,7 +38547,7 @@ const LIBRARY_DATA = {
       "fullname": "Sheng, Jinyu",
       "count": 1,
       "paperIds": [
-        657
+        641
       ],
       "coauthors": {
         "Lin": 1,
@@ -38735,7 +38559,7 @@ const LIBRARY_DATA = {
       "fullname": "Xing, Jiuxing",
       "count": 1,
       "paperIds": [
-        657
+        641
       ],
       "coauthors": {
         "Lin": 1,
@@ -38747,7 +38571,7 @@ const LIBRARY_DATA = {
       "fullname": "Yang Li",
       "count": 1,
       "paperIds": [
-        659
+        643
       ],
       "coauthors": {
         "Huang Hu": 1
@@ -38758,7 +38582,7 @@ const LIBRARY_DATA = {
       "fullname": "Huang Hu",
       "count": 1,
       "paperIds": [
-        659
+        643
       ],
       "coauthors": {
         "Yang Li": 1
@@ -38769,7 +38593,7 @@ const LIBRARY_DATA = {
       "fullname": "Nwogu, Okey",
       "count": 1,
       "paperIds": [
-        661
+        645
       ],
       "coauthors": {}
     },
@@ -38778,7 +38602,7 @@ const LIBRARY_DATA = {
       "fullname": "Pierson, Jr.",
       "count": 1,
       "paperIds": [
-        664
+        648
       ],
       "coauthors": {
         "Willard J.": 1,
@@ -38790,7 +38614,7 @@ const LIBRARY_DATA = {
       "fullname": "Willard J., Moskowitz",
       "count": 1,
       "paperIds": [
-        664
+        648
       ],
       "coauthors": {
         "Pierson": 1,
@@ -38802,7 +38626,7 @@ const LIBRARY_DATA = {
       "fullname": "Lionel",
       "count": 1,
       "paperIds": [
-        664
+        648
       ],
       "coauthors": {
         "Pierson": 1,
@@ -38814,7 +38638,7 @@ const LIBRARY_DATA = {
       "fullname": "Ribeiro, P.J.C.",
       "count": 1,
       "paperIds": [
-        665
+        649
       ],
       "coauthors": {
         "Henriques": 1,
@@ -38828,7 +38652,7 @@ const LIBRARY_DATA = {
       "fullname": "Campuzano, F.J.",
       "count": 1,
       "paperIds": [
-        665
+        649
       ],
       "coauthors": {
         "Ribeiro": 1,
@@ -38842,7 +38666,7 @@ const LIBRARY_DATA = {
       "fullname": "Falcão, A.F.O.",
       "count": 1,
       "paperIds": [
-        665
+        649
       ],
       "coauthors": {
         "Ribeiro": 1,
@@ -38856,7 +38680,7 @@ const LIBRARY_DATA = {
       "fullname": "Rocha, M.V.L.",
       "count": 1,
       "paperIds": [
-        666
+        650
       ],
       "coauthors": {
         "Michallet": 1,
@@ -38868,7 +38692,7 @@ const LIBRARY_DATA = {
       "fullname": "Rueda-Bayona, Juan Gabriel",
       "count": 1,
       "paperIds": [
-        667
+        651
       ],
       "coauthors": {
         "Guzmán": 1,
@@ -38880,7 +38704,7 @@ const LIBRARY_DATA = {
       "fullname": "Guzmán, Andrés",
       "count": 1,
       "paperIds": [
-        667
+        651
       ],
       "coauthors": {
         "Rueda-Bayona": 1,
@@ -38892,7 +38716,7 @@ const LIBRARY_DATA = {
       "fullname": "Cabello Eras, Juan José",
       "count": 1,
       "paperIds": [
-        667
+        651
       ],
       "coauthors": {
         "Rueda-Bayona": 1,
@@ -38904,7 +38728,7 @@ const LIBRARY_DATA = {
       "fullname": "Rupali",
       "count": 1,
       "paperIds": [
-        668
+        652
       ],
       "coauthors": {}
     },
@@ -38913,7 +38737,7 @@ const LIBRARY_DATA = {
       "fullname": "Shtremel, Margarita",
       "count": 1,
       "paperIds": [
-        669
+        653
       ],
       "coauthors": {
         "Saprykina": 1,
@@ -38926,7 +38750,7 @@ const LIBRARY_DATA = {
       "fullname": "Volvaiker, Samiksha",
       "count": 1,
       "paperIds": [
-        669
+        653
       ],
       "coauthors": {
         "Saprykina": 1,
@@ -38939,7 +38763,7 @@ const LIBRARY_DATA = {
       "fullname": "Buldacov, Eugeny",
       "count": 1,
       "paperIds": [
-        670
+        654
       ],
       "coauthors": {
         "Stagonas": 1,
@@ -38951,7 +38775,7 @@ const LIBRARY_DATA = {
       "fullname": "Ozawa, Yusuke",
       "count": 1,
       "paperIds": [
-        673
+        657
       ],
       "coauthors": {
         "Mase": 1
@@ -38962,7 +38786,7 @@ const LIBRARY_DATA = {
       "fullname": "Fujimoto, Wataru",
       "count": 1,
       "paperIds": [
-        675
+        659
       ],
       "coauthors": {
         "Waseda": 1,
@@ -38974,7 +38798,7 @@ const LIBRARY_DATA = {
       "fullname": "Kinoshita, Takeshi",
       "count": 1,
       "paperIds": [
-        676
+        660
       ],
       "coauthors": {
         "Waseda": 1,
@@ -38986,7 +38810,7 @@ const LIBRARY_DATA = {
       "fullname": "Tamura, Hitoshi",
       "count": 1,
       "paperIds": [
-        676
+        660
       ],
       "coauthors": {
         "Waseda": 1,
@@ -38998,7 +38822,7 @@ const LIBRARY_DATA = {
       "fullname": "Residori, S.",
       "count": 1,
       "paperIds": [
-        680
+        664
       ],
       "coauthors": {
         "Onorato": 1,
@@ -39012,7 +38836,7 @@ const LIBRARY_DATA = {
       "fullname": "Bortolozzo, U.",
       "count": 1,
       "paperIds": [
-        680
+        664
       ],
       "coauthors": {
         "Onorato": 1,
@@ -39026,7 +38850,7 @@ const LIBRARY_DATA = {
       "fullname": "Montina, A.",
       "count": 1,
       "paperIds": [
-        680
+        664
       ],
       "coauthors": {
         "Onorato": 1,
@@ -39040,7 +38864,7 @@ const LIBRARY_DATA = {
       "fullname": "Arecchi, F.T.",
       "count": 1,
       "paperIds": [
-        680
+        664
       ],
       "coauthors": {
         "Onorato": 1,
@@ -39054,7 +38878,7 @@ const LIBRARY_DATA = {
       "fullname": "Draper, Scott",
       "count": 1,
       "paperIds": [
-        682
+        666
       ],
       "coauthors": {
         "Adcock": 1,
@@ -39066,7 +38890,7 @@ const LIBRARY_DATA = {
       "fullname": "Ardhuin, Fabrice",
       "count": 1,
       "paperIds": [
-        685
+        668
       ],
       "coauthors": {
         "Benetazzo": 1,
@@ -39084,7 +38908,7 @@ const LIBRARY_DATA = {
       "fullname": "Guimarães, Pedro Veras",
       "count": 1,
       "paperIds": [
-        685
+        668
       ],
       "coauthors": {
         "Benetazzo": 1,
@@ -39102,7 +38926,7 @@ const LIBRARY_DATA = {
       "fullname": "Sclavo, Mauro",
       "count": 1,
       "paperIds": [
-        685
+        668
       ],
       "coauthors": {
         "Benetazzo": 1,
@@ -39120,7 +38944,7 @@ const LIBRARY_DATA = {
       "fullname": "Torsello, Andrea",
       "count": 1,
       "paperIds": [
-        685
+        668
       ],
       "coauthors": {
         "Benetazzo": 1,
@@ -39138,7 +38962,7 @@ const LIBRARY_DATA = {
       "fullname": "Feir, J. E.",
       "count": 1,
       "paperIds": [
-        687
+        670
       ],
       "coauthors": {
         "Benjamin": 1
@@ -39149,7 +38973,7 @@ const LIBRARY_DATA = {
       "fullname": "Kibler, B.",
       "count": 1,
       "paperIds": [
-        691
+        674
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -39165,7 +38989,7 @@ const LIBRARY_DATA = {
       "fullname": "Finot, C.",
       "count": 1,
       "paperIds": [
-        691
+        674
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -39181,7 +39005,7 @@ const LIBRARY_DATA = {
       "fullname": "Millot, G.",
       "count": 1,
       "paperIds": [
-        691
+        674
       ],
       "coauthors": {
         "Chabchoub": 1,
@@ -39197,7 +39021,7 @@ const LIBRARY_DATA = {
       "fullname": "Cueto",
       "count": 1,
       "paperIds": [
-        692
+        675
       ],
       "coauthors": {}
     },
@@ -39206,7 +39030,7 @@ const LIBRARY_DATA = {
       "fullname": "Dematteis, Giovanni",
       "count": 1,
       "paperIds": [
-        693
+        676
       ],
       "coauthors": {
         "Grafke": 1,
@@ -39219,7 +39043,7 @@ const LIBRARY_DATA = {
       "fullname": "Grafke, Tobias",
       "count": 1,
       "paperIds": [
-        693
+        676
       ],
       "coauthors": {
         "Dematteis": 1,
@@ -39232,7 +39056,7 @@ const LIBRARY_DATA = {
       "fullname": "Vanden-Eijnden, Eric",
       "count": 1,
       "paperIds": [
-        693
+        676
       ],
       "coauthors": {
         "Dematteis": 1,
@@ -39245,7 +39069,7 @@ const LIBRARY_DATA = {
       "fullname": "Doeleman",
       "count": 1,
       "paperIds": [
-        695
+        678
       ],
       "coauthors": {}
     },
@@ -39254,7 +39078,7 @@ const LIBRARY_DATA = {
       "fullname": "Lemoine, A.",
       "count": 1,
       "paperIds": [
-        701
+        684
       ],
       "coauthors": {
         "Eeltink": 1,
@@ -39272,7 +39096,7 @@ const LIBRARY_DATA = {
       "fullname": "Hafner",
       "count": 1,
       "paperIds": [
-        705
+        688
       ],
       "coauthors": {}
     },
@@ -39281,7 +39105,7 @@ const LIBRARY_DATA = {
       "fullname": "Helal, M.A.",
       "count": 1,
       "paperIds": [
-        706
+        689
       ],
       "coauthors": {
         "Seadawy": 1
@@ -39292,7 +39116,7 @@ const LIBRARY_DATA = {
       "fullname": "Seadawy, A.R.",
       "count": 1,
       "paperIds": [
-        706
+        689
       ],
       "coauthors": {
         "Helal": 1
@@ -39303,7 +39127,7 @@ const LIBRARY_DATA = {
       "fullname": "Kashima, Hiroaki",
       "count": 1,
       "paperIds": [
-        708
+        691
       ],
       "coauthors": {
         "Hirayama": 1,
@@ -39315,7 +39139,7 @@ const LIBRARY_DATA = {
       "fullname": "Hirayama, Katsuya",
       "count": 1,
       "paperIds": [
-        708
+        691
       ],
       "coauthors": {
         "Kashima": 1,
@@ -39327,7 +39151,7 @@ const LIBRARY_DATA = {
       "fullname": "Kokorina, Anna",
       "count": 1,
       "paperIds": [
-        709
+        692
       ],
       "coauthors": {
         "Slunyaev": 1
@@ -39338,7 +39162,7 @@ const LIBRARY_DATA = {
       "fullname": "El Koussaifi, R.",
       "count": 1,
       "paperIds": [
-        710
+        693
       ],
       "coauthors": {
         "Tikan": 1,
@@ -39353,7 +39177,7 @@ const LIBRARY_DATA = {
       "fullname": "Tikan, A.",
       "count": 1,
       "paperIds": [
-        710
+        693
       ],
       "coauthors": {
         "El Koussaifi": 1,
@@ -39368,7 +39192,7 @@ const LIBRARY_DATA = {
       "fullname": "Randoux, S.",
       "count": 1,
       "paperIds": [
-        710
+        693
       ],
       "coauthors": {
         "El Koussaifi": 1,
@@ -39383,7 +39207,7 @@ const LIBRARY_DATA = {
       "fullname": "Suret, P.",
       "count": 1,
       "paperIds": [
-        710
+        693
       ],
       "coauthors": {
         "El Koussaifi": 1,
@@ -39398,7 +39222,7 @@ const LIBRARY_DATA = {
       "fullname": "Lu, Lin",
       "count": 1,
       "paperIds": [
-        715
+        698
       ],
       "coauthors": {
         "Zhou": 1,
@@ -39414,7 +39238,7 @@ const LIBRARY_DATA = {
       "fullname": "Lou, Xiaofan",
       "count": 1,
       "paperIds": [
-        715
+        698
       ],
       "coauthors": {
         "Lu": 1,
@@ -39430,7 +39254,7 @@ const LIBRARY_DATA = {
       "fullname": "Koh, Chan Ghee",
       "count": 1,
       "paperIds": [
-        716
+        699
       ],
       "coauthors": {
         "Luo": 1,
@@ -39444,7 +39268,7 @@ const LIBRARY_DATA = {
       "fullname": "Reeve, Dominic E.",
       "count": 1,
       "paperIds": [
-        716
+        699
       ],
       "coauthors": {
         "Luo": 1,
@@ -39458,7 +39282,7 @@ const LIBRARY_DATA = {
       "fullname": "Luxmoore, Jamie F.",
       "count": 1,
       "paperIds": [
-        717
+        700
       ],
       "coauthors": {
         "Ilic": 1,
@@ -39470,7 +39294,7 @@ const LIBRARY_DATA = {
       "fullname": "Ilic, Suzana",
       "count": 1,
       "paperIds": [
-        717
+        700
       ],
       "coauthors": {
         "Luxmoore": 1,
@@ -39478,11 +39302,24 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Michel",
+      "fullname": "Michel, Guillaume",
+      "count": 1,
+      "paperIds": [
+        708
+      ],
+      "coauthors": {
+        "Bonnefoy": 1,
+        "Ducrozet": 1,
+        "Falcon": 1
+      }
+    },
+    {
       "name": "Peng",
       "fullname": "Peng, Wei-Qi",
       "count": 1,
       "paperIds": [
-        726
+        710
       ],
       "coauthors": {
         "Tian": 1,
@@ -39495,7 +39332,7 @@ const LIBRARY_DATA = {
       "fullname": "Sehic",
       "count": 1,
       "paperIds": [
-        729
+        713
       ],
       "coauthors": {}
     },
@@ -39504,7 +39341,7 @@ const LIBRARY_DATA = {
       "fullname": "Teutsch",
       "count": 1,
       "paperIds": [
-        735
+        719
       ],
       "coauthors": {}
     },
@@ -39513,7 +39350,7 @@ const LIBRARY_DATA = {
       "fullname": "Zaman, Hasanat",
       "count": 1,
       "paperIds": [
-        737
+        721
       ],
       "coauthors": {
         "Akinturk": 1
@@ -39524,7 +39361,7 @@ const LIBRARY_DATA = {
       "fullname": "Akinturk, Ayhan",
       "count": 1,
       "paperIds": [
-        737
+        721
       ],
       "coauthors": {
         "Zaman": 1
@@ -39535,7 +39372,7 @@ const LIBRARY_DATA = {
       "fullname": "Watanabe",
       "count": 1,
       "paperIds": [
-        743
+        727
       ],
       "coauthors": {}
     },
@@ -39544,7 +39381,7 @@ const LIBRARY_DATA = {
       "fullname": "Ying, L H",
       "count": 1,
       "paperIds": [
-        746
+        730
       ],
       "coauthors": {
         "Zhuang": 1,
@@ -39557,7 +39394,7 @@ const LIBRARY_DATA = {
       "fullname": "Zhuang, Z",
       "count": 1,
       "paperIds": [
-        746
+        730
       ],
       "coauthors": {
         "Ying": 1,
@@ -39570,7 +39407,7 @@ const LIBRARY_DATA = {
       "fullname": "Kaplan, L",
       "count": 1,
       "paperIds": [
-        746
+        730
       ],
       "coauthors": {
         "Ying": 1,
@@ -39583,7 +39420,7 @@ const LIBRARY_DATA = {
       "fullname": "Tan, Ting",
       "count": 1,
       "paperIds": [
-        750
+        734
       ],
       "coauthors": {
         "Zhang": 1,
@@ -39597,7 +39434,7 @@ const LIBRARY_DATA = {
       "fullname": "Malek-Mohammadi",
       "count": 1,
       "paperIds": [
-        757
+        741
       ],
       "coauthors": {}
     },
@@ -39606,7 +39443,7 @@ const LIBRARY_DATA = {
       "fullname": "Mortimer",
       "count": 1,
       "paperIds": [
-        758
+        742
       ],
       "coauthors": {}
     },
@@ -39615,7 +39452,7 @@ const LIBRARY_DATA = {
       "fullname": "Nikseresht",
       "count": 1,
       "paperIds": [
-        759
+        743
       ],
       "coauthors": {}
     },
@@ -39624,7 +39461,7 @@ const LIBRARY_DATA = {
       "fullname": "Pakozdi, C.",
       "count": 1,
       "paperIds": [
-        760
+        744
       ],
       "coauthors": {
         "Onorato": 1,
@@ -39645,7 +39482,7 @@ const LIBRARY_DATA = {
       "fullname": "Pierella",
       "count": 1,
       "paperIds": [
-        762
+        746
       ],
       "coauthors": {}
     },
@@ -39654,7 +39491,7 @@ const LIBRARY_DATA = {
       "fullname": "Sriram, V.",
       "count": 1,
       "paperIds": [
-        766
+        749
       ],
       "coauthors": {
         "Schlurmann": 1,
@@ -39666,7 +39503,7 @@ const LIBRARY_DATA = {
       "fullname": "Schimmels, S.",
       "count": 1,
       "paperIds": [
-        766
+        749
       ],
       "coauthors": {
         "Sriram": 1,
@@ -39678,7 +39515,7 @@ const LIBRARY_DATA = {
       "fullname": "Grayson, R.",
       "count": 1,
       "paperIds": [
-        773
+        755
       ],
       "coauthors": {
         "Baldock": 1,
@@ -39691,7 +39528,7 @@ const LIBRARY_DATA = {
       "fullname": "Torr, B.",
       "count": 1,
       "paperIds": [
-        773
+        755
       ],
       "coauthors": {
         "Baldock": 1,
@@ -39704,7 +39541,7 @@ const LIBRARY_DATA = {
       "fullname": "Bosboom, J.",
       "count": 1,
       "paperIds": [
-        775
+        757
       ],
       "coauthors": {
         "Klopman": 1,
@@ -39717,7 +39554,7 @@ const LIBRARY_DATA = {
       "fullname": "Roelvink, J.A.",
       "count": 1,
       "paperIds": [
-        775
+        757
       ],
       "coauthors": {
         "Bosboom": 1,
@@ -39730,7 +39567,7 @@ const LIBRARY_DATA = {
       "fullname": "Bouscasse, Benjamin",
       "count": 1,
       "paperIds": [
-        779
+        761
       ],
       "coauthors": {
         "Choi": 1,
@@ -39745,7 +39582,7 @@ const LIBRARY_DATA = {
       "fullname": "Seng, Sopheak",
       "count": 1,
       "paperIds": [
-        779
+        761
       ],
       "coauthors": {
         "Choi": 1,
@@ -39760,7 +39597,7 @@ const LIBRARY_DATA = {
       "fullname": "Gentaz, Lionel",
       "count": 1,
       "paperIds": [
-        779
+        761
       ],
       "coauthors": {
         "Choi": 1,
@@ -39775,7 +39612,7 @@ const LIBRARY_DATA = {
       "fullname": "Dang, Bao-Loi",
       "count": 1,
       "paperIds": [
-        780
+        762
       ],
       "coauthors": {
         "Nguyen-Xuan": 1,
@@ -39787,7 +39624,7 @@ const LIBRARY_DATA = {
       "fullname": "Nguyen-Xuan, H.",
       "count": 1,
       "paperIds": [
-        780
+        762
       ],
       "coauthors": {
         "Dang": 1,
@@ -39799,7 +39636,7 @@ const LIBRARY_DATA = {
       "fullname": "Abdel Wahab, Magd",
       "count": 1,
       "paperIds": [
-        780
+        762
       ],
       "coauthors": {
         "Dang": 1,
@@ -39811,7 +39648,7 @@ const LIBRARY_DATA = {
       "fullname": "Donahue",
       "count": 1,
       "paperIds": [
-        782
+        764
       ],
       "coauthors": {}
     },
@@ -39820,7 +39657,7 @@ const LIBRARY_DATA = {
       "fullname": "Giorgi, Giuseppe",
       "count": 1,
       "paperIds": [
-        787
+        770
       ],
       "coauthors": {
         "Gomes": 1,
@@ -39835,7 +39672,7 @@ const LIBRARY_DATA = {
       "fullname": "Gomes, Rui P.F.",
       "count": 1,
       "paperIds": [
-        787
+        770
       ],
       "coauthors": {
         "Giorgi": 1,
@@ -39850,7 +39687,7 @@ const LIBRARY_DATA = {
       "fullname": "Bracco, Giovanni",
       "count": 1,
       "paperIds": [
-        787
+        770
       ],
       "coauthors": {
         "Giorgi": 1,
@@ -39865,7 +39702,7 @@ const LIBRARY_DATA = {
       "fullname": "Mattiazzo, Giuliana",
       "count": 1,
       "paperIds": [
-        787
+        770
       ],
       "coauthors": {
         "Giorgi": 1,
@@ -39880,7 +39717,7 @@ const LIBRARY_DATA = {
       "fullname": "Amrutha, M.M.",
       "count": 1,
       "paperIds": [
-        789
+        772
       ],
       "coauthors": {
         "Kumar": 1,
@@ -39894,7 +39731,7 @@ const LIBRARY_DATA = {
       "fullname": "Sandhya, K.G.",
       "count": 1,
       "paperIds": [
-        789
+        772
       ],
       "coauthors": {
         "Amrutha": 1,
@@ -39908,7 +39745,7 @@ const LIBRARY_DATA = {
       "fullname": "Nair, T.M. Balakrishnan",
       "count": 1,
       "paperIds": [
-        789
+        772
       ],
       "coauthors": {
         "Amrutha": 1,
@@ -39922,7 +39759,7 @@ const LIBRARY_DATA = {
       "fullname": "Rathod, J.L.",
       "count": 1,
       "paperIds": [
-        789
+        772
       ],
       "coauthors": {
         "Amrutha": 1,
@@ -39936,7 +39773,7 @@ const LIBRARY_DATA = {
       "fullname": "Chu, Chi-Nan",
       "count": 1,
       "paperIds": [
-        791
+        774
       ],
       "coauthors": {
         "Huang": 1,
@@ -39950,7 +39787,7 @@ const LIBRARY_DATA = {
       "fullname": "Lyu, Hongguan",
       "count": 1,
       "paperIds": [
-        791
+        774
       ],
       "coauthors": {
         "Huang": 1,
@@ -39964,7 +39801,7 @@ const LIBRARY_DATA = {
       "fullname": "Leiteritz, Raphael",
       "count": 1,
       "paperIds": [
-        792
+        775
       ],
       "coauthors": {
         "Hurler": 1,
@@ -39976,7 +39813,7 @@ const LIBRARY_DATA = {
       "fullname": "Hurler, Marcel",
       "count": 1,
       "paperIds": [
-        792
+        775
       ],
       "coauthors": {
         "Leiteritz": 1,
@@ -39988,7 +39825,7 @@ const LIBRARY_DATA = {
       "fullname": "Pfluger, Dirk",
       "count": 1,
       "paperIds": [
-        792
+        775
       ],
       "coauthors": {
         "Leiteritz": 1,
@@ -40000,7 +39837,7 @@ const LIBRARY_DATA = {
       "fullname": "Izquierdo, Urko",
       "count": 1,
       "paperIds": [
-        793
+        776
       ],
       "coauthors": {
         "Esteban": 1,
@@ -40014,7 +39851,7 @@ const LIBRARY_DATA = {
       "fullname": "Esteban, Gustavo Adolfo",
       "count": 1,
       "paperIds": [
-        793
+        776
       ],
       "coauthors": {
         "Izquierdo": 1,
@@ -40028,7 +39865,7 @@ const LIBRARY_DATA = {
       "fullname": "Blanco, Jesús María",
       "count": 1,
       "paperIds": [
-        793
+        776
       ],
       "coauthors": {
         "Izquierdo": 1,
@@ -40042,7 +39879,7 @@ const LIBRARY_DATA = {
       "fullname": "Albaina, Iñigo",
       "count": 1,
       "paperIds": [
-        793
+        776
       ],
       "coauthors": {
         "Izquierdo": 1,
@@ -40056,7 +39893,7 @@ const LIBRARY_DATA = {
       "fullname": "Peña, Alberto",
       "count": 1,
       "paperIds": [
-        793
+        776
       ],
       "coauthors": {
         "Izquierdo": 1,
@@ -40070,7 +39907,7 @@ const LIBRARY_DATA = {
       "fullname": "Khait, A.",
       "count": 1,
       "paperIds": [
-        797
+        780
       ],
       "coauthors": {
         "Shemer": 1
@@ -40081,7 +39918,7 @@ const LIBRARY_DATA = {
       "fullname": "Zieger, Stefan",
       "count": 1,
       "paperIds": [
-        801
+        785
       ],
       "coauthors": {
         "Liu": 1,
@@ -40098,7 +39935,7 @@ const LIBRARY_DATA = {
       "fullname": "Qiao, Fangli",
       "count": 1,
       "paperIds": [
-        801
+        785
       ],
       "coauthors": {
         "Liu": 1,
@@ -40115,7 +39952,7 @@ const LIBRARY_DATA = {
       "fullname": "Guan, Changlong",
       "count": 1,
       "paperIds": [
-        801
+        785
       ],
       "coauthors": {
         "Liu": 1,
@@ -40132,7 +39969,7 @@ const LIBRARY_DATA = {
       "fullname": "Marchesi, Eliseo",
       "count": 1,
       "paperIds": [
-        806
+        790
       ],
       "coauthors": {
         "Negri": 1,
@@ -40144,7 +39981,7 @@ const LIBRARY_DATA = {
       "fullname": "Negri, Marco",
       "count": 1,
       "paperIds": [
-        806
+        790
       ],
       "coauthors": {
         "Marchesi": 1,
@@ -40156,7 +39993,7 @@ const LIBRARY_DATA = {
       "fullname": "Malavasi, Stefano",
       "count": 1,
       "paperIds": [
-        806
+        790
       ],
       "coauthors": {
         "Marchesi": 1,
@@ -40168,7 +40005,7 @@ const LIBRARY_DATA = {
       "fullname": "Mean, Sovanna",
       "count": 1,
       "paperIds": [
-        807
+        791
       ],
       "coauthors": {
         "Unami": 1,
@@ -40180,7 +40017,7 @@ const LIBRARY_DATA = {
       "fullname": "Unami, Koichi",
       "count": 1,
       "paperIds": [
-        807
+        791
       ],
       "coauthors": {
         "Mean": 1,
@@ -40192,7 +40029,7 @@ const LIBRARY_DATA = {
       "fullname": "Fujihara, Masayuki",
       "count": 1,
       "paperIds": [
-        807
+        791
       ],
       "coauthors": {
         "Mean": 1,
@@ -40204,7 +40041,7 @@ const LIBRARY_DATA = {
       "fullname": "Miquel, Adria Moreno",
       "count": 1,
       "paperIds": [
-        808
+        792
       ],
       "coauthors": {
         "Kamath": 1,
@@ -40218,7 +40055,7 @@ const LIBRARY_DATA = {
       "fullname": "Kamath, Arun",
       "count": 1,
       "paperIds": [
-        808
+        792
       ],
       "coauthors": {
         "Miquel": 1,
@@ -40232,7 +40069,7 @@ const LIBRARY_DATA = {
       "fullname": "Alagan Chella, Mayilvahanan",
       "count": 1,
       "paperIds": [
-        808
+        792
       ],
       "coauthors": {
         "Miquel": 1,
@@ -40246,7 +40083,7 @@ const LIBRARY_DATA = {
       "fullname": "Archetti, Renata",
       "count": 1,
       "paperIds": [
-        808
+        792
       ],
       "coauthors": {
         "Miquel": 1,
@@ -40260,7 +40097,7 @@ const LIBRARY_DATA = {
       "fullname": "Bihs, Hans",
       "count": 1,
       "paperIds": [
-        808
+        792
       ],
       "coauthors": {
         "Miquel": 1,
@@ -40270,23 +40107,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Islam",
-      "fullname": "Islam, Hafizul",
-      "count": 1,
-      "paperIds": [
-        809
-      ],
-      "coauthors": {
-        "Mohapatra": 1,
-        "Guedes Soares": 1
-      }
-    },
-    {
       "name": "Pizzo",
       "fullname": "Pizzo, Nick",
       "count": 1,
       "paperIds": [
-        810
+        796
       ],
       "coauthors": {
         "Melville": 1,
@@ -40298,7 +40123,7 @@ const LIBRARY_DATA = {
       "fullname": "Pradlhan",
       "count": 1,
       "paperIds": [
-        812
+        798
       ],
       "coauthors": {}
     },
@@ -40307,7 +40132,7 @@ const LIBRARY_DATA = {
       "fullname": "Sedigh",
       "count": 1,
       "paperIds": [
-        813
+        799
       ],
       "coauthors": {}
     },
@@ -40316,7 +40141,7 @@ const LIBRARY_DATA = {
       "fullname": "Shrineash",
       "count": 1,
       "paperIds": [
-        814
+        800
       ],
       "coauthors": {}
     },
@@ -40325,7 +40150,7 @@ const LIBRARY_DATA = {
       "fullname": "Duong, Nga Thanh",
       "count": 1,
       "paperIds": [
-        815
+        802
       ],
       "coauthors": {
         "Tran": 2,
@@ -40338,7 +40163,7 @@ const LIBRARY_DATA = {
       "fullname": "Luu, Loc Xuan",
       "count": 1,
       "paperIds": [
-        815
+        802
       ],
       "coauthors": {
         "Tran": 2,
@@ -40351,7 +40176,7 @@ const LIBRARY_DATA = {
       "fullname": "Neelamani, S.",
       "count": 1,
       "paperIds": [
-        816
+        803
       ],
       "coauthors": {
         "Vijay": 1,
@@ -40363,7 +40188,7 @@ const LIBRARY_DATA = {
       "fullname": "de Vos, Marc",
       "count": 1,
       "paperIds": [
-        817
+        804
       ],
       "coauthors": {
         "Vichi": 1,
@@ -40375,7 +40200,7 @@ const LIBRARY_DATA = {
       "fullname": "Vichi, Marcello",
       "count": 1,
       "paperIds": [
-        817
+        804
       ],
       "coauthors": {
         "de Vos": 1,
@@ -40387,7 +40212,7 @@ const LIBRARY_DATA = {
       "fullname": "Rautenbach, Christo",
       "count": 1,
       "paperIds": [
-        817
+        804
       ],
       "coauthors": {
         "de Vos": 1,
@@ -40399,7 +40224,7 @@ const LIBRARY_DATA = {
       "fullname": "Subramanya, Ravishankar",
       "count": 1,
       "paperIds": [
-        819
+        806
       ],
       "coauthors": {
         "Wei": 1,
@@ -40412,7 +40237,7 @@ const LIBRARY_DATA = {
       "fullname": "Becker, Janet M.",
       "count": 1,
       "paperIds": [
-        821
+        808
       ],
       "coauthors": {
         "Yao": 1,
@@ -40425,7 +40250,7 @@ const LIBRARY_DATA = {
       "fullname": "Kennedy, Andrew B.",
       "count": 1,
       "paperIds": [
-        823
+        810
       ],
       "coauthors": {
         "Zhang": 1,
@@ -40440,7 +40265,7 @@ const LIBRARY_DATA = {
       "fullname": "Tomiczek, Tori",
       "count": 1,
       "paperIds": [
-        823
+        810
       ],
       "coauthors": {
         "Zhang": 1,
@@ -40455,7 +40280,7 @@ const LIBRARY_DATA = {
       "fullname": "Westerink, Joannes J.",
       "count": 1,
       "paperIds": [
-        823
+        810
       ],
       "coauthors": {
         "Zhang": 1,
@@ -40470,7 +40295,7 @@ const LIBRARY_DATA = {
       "fullname": "de Almeida, Ermano",
       "count": 1,
       "paperIds": [
-        826
+        813
       ],
       "coauthors": {
         "Hofland": 1
@@ -40481,7 +40306,7 @@ const LIBRARY_DATA = {
       "fullname": "Laucelli, Daniele B.",
       "count": 1,
       "paperIds": [
-        827
+        814
       ],
       "coauthors": {
         "Altomare": 1,
@@ -40494,7 +40319,7 @@ const LIBRARY_DATA = {
       "fullname": "Gironella, Xavi",
       "count": 1,
       "paperIds": [
-        827
+        814
       ],
       "coauthors": {
         "Altomare": 1,
@@ -40507,7 +40332,7 @@ const LIBRARY_DATA = {
       "fullname": "Al-Ani, Mustafa",
       "count": 1,
       "paperIds": [
-        829
+        816
       ],
       "coauthors": {
         "Belmont": 1,
@@ -40519,7 +40344,7 @@ const LIBRARY_DATA = {
       "fullname": "Belmont, Michael",
       "count": 1,
       "paperIds": [
-        829
+        816
       ],
       "coauthors": {
         "Al-Ani": 1,
@@ -40531,7 +40356,7 @@ const LIBRARY_DATA = {
       "fullname": "Christmas, Jacqueline",
       "count": 1,
       "paperIds": [
-        829
+        816
       ],
       "coauthors": {
         "Al-Ani": 1,
@@ -40543,7 +40368,7 @@ const LIBRARY_DATA = {
       "fullname": "de Beer, A.F.",
       "count": 1,
       "paperIds": [
-        831
+        818
       ],
       "coauthors": {
         "McCall": 1,
@@ -40557,7 +40382,7 @@ const LIBRARY_DATA = {
       "fullname": "Tissier, M.F.S.",
       "count": 1,
       "paperIds": [
-        831
+        818
       ],
       "coauthors": {
         "de Beer": 1,
@@ -40571,7 +40396,7 @@ const LIBRARY_DATA = {
       "fullname": "Bertram, D.V.",
       "count": 1,
       "paperIds": [
-        832
+        819
       ],
       "coauthors": {
         "Tarighaleslami": 1,
@@ -40585,7 +40410,7 @@ const LIBRARY_DATA = {
       "fullname": "Tarighaleslami, A.H.",
       "count": 1,
       "paperIds": [
-        832
+        819
       ],
       "coauthors": {
         "Bertram": 1,
@@ -40599,7 +40424,7 @@ const LIBRARY_DATA = {
       "fullname": "Walmsley, M.R.W.",
       "count": 1,
       "paperIds": [
-        832
+        819
       ],
       "coauthors": {
         "Bertram": 1,
@@ -40613,7 +40438,7 @@ const LIBRARY_DATA = {
       "fullname": "Atkins, M.J.",
       "count": 1,
       "paperIds": [
-        832
+        819
       ],
       "coauthors": {
         "Bertram": 1,
@@ -40627,7 +40452,7 @@ const LIBRARY_DATA = {
       "fullname": "Glasgow, G.D.E.",
       "count": 1,
       "paperIds": [
-        832
+        819
       ],
       "coauthors": {
         "Bertram": 1,
@@ -40641,7 +40466,7 @@ const LIBRARY_DATA = {
       "fullname": "Tello Ruiz, M.",
       "count": 1,
       "paperIds": [
-        836
+        823
       ],
       "coauthors": {
         "Chen": 1,
@@ -40658,7 +40483,7 @@ const LIBRARY_DATA = {
       "fullname": "Dan, Sebastian",
       "count": 1,
       "paperIds": [
-        838
+        825
       ],
       "coauthors": {
         "Altomare": 1,
@@ -40672,7 +40497,7 @@ const LIBRARY_DATA = {
       "fullname": "Spiesschaert, Tim",
       "count": 1,
       "paperIds": [
-        838
+        825
       ],
       "coauthors": {
         "Dan": 1,
@@ -40686,7 +40511,7 @@ const LIBRARY_DATA = {
       "fullname": "Uhlirova, Lenka",
       "count": 1,
       "paperIds": [
-        839
+        826
       ],
       "coauthors": {
         "Jendželovský": 1
@@ -40697,7 +40522,7 @@ const LIBRARY_DATA = {
       "fullname": "Jendželovský, Norbert",
       "count": 1,
       "paperIds": [
-        839
+        826
       ],
       "coauthors": {
         "Uhlirova": 1
@@ -40708,7 +40533,7 @@ const LIBRARY_DATA = {
       "fullname": "Xiao, Longfei",
       "count": 1,
       "paperIds": [
-        840
+        827
       ],
       "coauthors": {
         "Fang": 1,
@@ -40722,7 +40547,7 @@ const LIBRARY_DATA = {
       "fullname": "Formentin, Sara Mizar",
       "count": 1,
       "paperIds": [
-        841
+        828
       ],
       "coauthors": {
         "Zanuttigh": 1
@@ -40733,7 +40558,7 @@ const LIBRARY_DATA = {
       "fullname": "Frantzis, C.",
       "count": 1,
       "paperIds": [
-        842
+        829
       ],
       "coauthors": {
         "Grigoriadis": 1,
@@ -40745,7 +40570,7 @@ const LIBRARY_DATA = {
       "fullname": "Grigoriadis, D.G.E.",
       "count": 1,
       "paperIds": [
-        842
+        829
       ],
       "coauthors": {
         "Frantzis": 1,
@@ -40757,7 +40582,7 @@ const LIBRARY_DATA = {
       "fullname": "Dimas, A.A.",
       "count": 1,
       "paperIds": [
-        842
+        829
       ],
       "coauthors": {
         "Frantzis": 1,
@@ -40769,7 +40594,7 @@ const LIBRARY_DATA = {
       "fullname": "Hernández-Fontes, Jassiel V.",
       "count": 1,
       "paperIds": [
-        846
+        833
       ],
       "coauthors": {
         "Esperança": 1,
@@ -40783,7 +40608,7 @@ const LIBRARY_DATA = {
       "fullname": "Esperança, Paulo T.T.",
       "count": 1,
       "paperIds": [
-        846
+        833
       ],
       "coauthors": {
         "Hernández-Fontes": 1,
@@ -40797,7 +40622,7 @@ const LIBRARY_DATA = {
       "fullname": "Mendoza, Edgar",
       "count": 1,
       "paperIds": [
-        846
+        833
       ],
       "coauthors": {
         "Hernández-Fontes": 1,
@@ -40811,7 +40636,7 @@ const LIBRARY_DATA = {
       "fullname": "Sphaier, Sergio H.",
       "count": 1,
       "paperIds": [
-        846
+        833
       ],
       "coauthors": {
         "Hernández-Fontes": 1,
@@ -40825,7 +40650,7 @@ const LIBRARY_DATA = {
       "fullname": "Baniotopoulos, Charalampos",
       "count": 1,
       "paperIds": [
-        847
+        834
       ],
       "coauthors": {
         "Hu": 1,
@@ -40839,7 +40664,7 @@ const LIBRARY_DATA = {
       "fullname": "Jeong, Ho-Jin",
       "count": 1,
       "paperIds": [
-        849
+        836
       ],
       "coauthors": {
         "Koo": 1,
@@ -40851,7 +40676,7 @@ const LIBRARY_DATA = {
       "fullname": "Koo, Weoncheol",
       "count": 1,
       "paperIds": [
-        849
+        836
       ],
       "coauthors": {
         "Jeong": 1,
@@ -40863,7 +40688,7 @@ const LIBRARY_DATA = {
       "fullname": "Brosset, Laurent",
       "count": 1,
       "paperIds": [
-        850
+        837
       ],
       "coauthors": {
         "Kimmoun": 1
@@ -40874,7 +40699,7 @@ const LIBRARY_DATA = {
       "fullname": "Koley",
       "count": 1,
       "paperIds": [
-        851
+        838
       ],
       "coauthors": {}
     },
@@ -40883,7 +40708,7 @@ const LIBRARY_DATA = {
       "fullname": "Konispoliatis, Dimitrios",
       "count": 1,
       "paperIds": [
-        852
+        839
       ],
       "coauthors": {
         "Mavrakos": 1
@@ -40894,7 +40719,7 @@ const LIBRARY_DATA = {
       "fullname": "Mavrakos, Spyridon",
       "count": 1,
       "paperIds": [
-        852
+        839
       ],
       "coauthors": {
         "Konispoliatis": 1
@@ -40905,7 +40730,7 @@ const LIBRARY_DATA = {
       "fullname": "Donnelly, P.",
       "count": 1,
       "paperIds": [
-        853
+        840
       ],
       "coauthors": {
         "Boivin": 1
@@ -40916,7 +40741,7 @@ const LIBRARY_DATA = {
       "fullname": "Boivin, Richard",
       "count": 1,
       "paperIds": [
-        853
+        840
       ],
       "coauthors": {
         "Donnelly": 1
@@ -40927,7 +40752,7 @@ const LIBRARY_DATA = {
       "fullname": "Lancaster, Orrin",
       "count": 1,
       "paperIds": [
-        854
+        841
       ],
       "coauthors": {
         "Cossu": 1,
@@ -40939,7 +40764,7 @@ const LIBRARY_DATA = {
       "fullname": "Cossu, Remo",
       "count": 1,
       "paperIds": [
-        854
+        841
       ],
       "coauthors": {
         "Lancaster": 1,
@@ -40951,7 +40776,7 @@ const LIBRARY_DATA = {
       "fullname": "Lucio, D.",
       "count": 1,
       "paperIds": [
-        859
+        845
       ],
       "coauthors": {
         "Tomás": 1,
@@ -40965,7 +40790,7 @@ const LIBRARY_DATA = {
       "fullname": "Tomás, A.",
       "count": 1,
       "paperIds": [
-        859
+        845
       ],
       "coauthors": {
         "Lucio": 1,
@@ -40979,7 +40804,7 @@ const LIBRARY_DATA = {
       "fullname": "Camus, P.",
       "count": 1,
       "paperIds": [
-        859
+        845
       ],
       "coauthors": {
         "Lucio": 1,
@@ -40993,7 +40818,7 @@ const LIBRARY_DATA = {
       "fullname": "Malliouri, Dimitra I.",
       "count": 1,
       "paperIds": [
-        863
+        849
       ],
       "coauthors": {
         "Memos": 1,
@@ -41006,7 +40831,7 @@ const LIBRARY_DATA = {
       "fullname": "Soukissian, Takvor H.",
       "count": 1,
       "paperIds": [
-        863
+        849
       ],
       "coauthors": {
         "Malliouri": 1,
@@ -41019,7 +40844,7 @@ const LIBRARY_DATA = {
       "fullname": "Manam",
       "count": 1,
       "paperIds": [
-        864
+        850
       ],
       "coauthors": {}
     },
@@ -41028,7 +40853,7 @@ const LIBRARY_DATA = {
       "fullname": "Masoumi",
       "count": 1,
       "paperIds": [
-        865
+        851
       ],
       "coauthors": {}
     },
@@ -41037,7 +40862,7 @@ const LIBRARY_DATA = {
       "fullname": "Molines, Jorge",
       "count": 1,
       "paperIds": [
-        867
+        853
       ],
       "coauthors": {
         "Herrera": 1,
@@ -41050,7 +40875,7 @@ const LIBRARY_DATA = {
       "fullname": "Herrera, Maria P.",
       "count": 1,
       "paperIds": [
-        867
+        853
       ],
       "coauthors": {
         "Molines": 1,
@@ -41063,7 +40888,7 @@ const LIBRARY_DATA = {
       "fullname": "Gómez-Martín, M. Esther",
       "count": 1,
       "paperIds": [
-        867
+        853
       ],
       "coauthors": {
         "Molines": 1,
@@ -41076,7 +40901,7 @@ const LIBRARY_DATA = {
       "fullname": "Nematollahi, Mahmood",
       "count": 1,
       "paperIds": [
-        868
+        854
       ],
       "coauthors": {
         "Moghim": 1
@@ -41087,7 +40912,7 @@ const LIBRARY_DATA = {
       "fullname": "Moghim, Mohammad Navid",
       "count": 1,
       "paperIds": [
-        868
+        854
       ],
       "coauthors": {
         "Nematollahi": 1
@@ -41098,7 +40923,7 @@ const LIBRARY_DATA = {
       "fullname": "Neshat, Mehdi",
       "count": 1,
       "paperIds": [
-        869
+        855
       ],
       "coauthors": {
         "Alexander": 1,
@@ -41111,7 +40936,7 @@ const LIBRARY_DATA = {
       "fullname": "Alexander, Bradley",
       "count": 1,
       "paperIds": [
-        869
+        855
       ],
       "coauthors": {
         "Neshat": 1,
@@ -41124,7 +40949,7 @@ const LIBRARY_DATA = {
       "fullname": "Sergiienko, Nataliia Y.",
       "count": 1,
       "paperIds": [
-        869
+        855
       ],
       "coauthors": {
         "Neshat": 1,
@@ -41137,7 +40962,7 @@ const LIBRARY_DATA = {
       "fullname": "Wagner, Markus",
       "count": 1,
       "paperIds": [
-        869
+        855
       ],
       "coauthors": {
         "Neshat": 1,
@@ -41150,7 +40975,7 @@ const LIBRARY_DATA = {
       "fullname": "Nouri, Saliha",
       "count": 1,
       "paperIds": [
-        870
+        856
       ],
       "coauthors": {
         "Hafsia": 1,
@@ -41165,7 +40990,7 @@ const LIBRARY_DATA = {
       "fullname": "Hafsia, Zouhair",
       "count": 1,
       "paperIds": [
-        870
+        856
       ],
       "coauthors": {
         "Nouri": 1,
@@ -41180,7 +41005,7 @@ const LIBRARY_DATA = {
       "fullname": "Boulaaras, Salah Mahmoud",
       "count": 1,
       "paperIds": [
-        870
+        856
       ],
       "coauthors": {
         "Nouri": 1,
@@ -41195,7 +41020,7 @@ const LIBRARY_DATA = {
       "fullname": "Allahem, Ali",
       "count": 1,
       "paperIds": [
-        870
+        856
       ],
       "coauthors": {
         "Nouri": 1,
@@ -41210,7 +41035,7 @@ const LIBRARY_DATA = {
       "fullname": "Alkhalaf, Salem",
       "count": 1,
       "paperIds": [
-        870
+        856
       ],
       "coauthors": {
         "Nouri": 1,
@@ -41225,7 +41050,7 @@ const LIBRARY_DATA = {
       "fullname": "Vazquez, Aldo Munoz",
       "count": 1,
       "paperIds": [
-        870
+        856
       ],
       "coauthors": {
         "Nouri": 1,
@@ -41240,7 +41065,7 @@ const LIBRARY_DATA = {
       "fullname": "Portillo",
       "count": 1,
       "paperIds": [
-        871
+        857
       ],
       "coauthors": {}
     },
@@ -41249,7 +41074,7 @@ const LIBRARY_DATA = {
       "fullname": "Shih et al",
       "count": 1,
       "paperIds": [
-        874
+        860
       ],
       "coauthors": {}
     },
@@ -41258,7 +41083,7 @@ const LIBRARY_DATA = {
       "fullname": "Tabssum, S.",
       "count": 1,
       "paperIds": [
-        876
+        862
       ],
       "coauthors": {
         "Kaligatla": 1,
@@ -41270,7 +41095,7 @@ const LIBRARY_DATA = {
       "fullname": "Kaligatla, R. B.",
       "count": 1,
       "paperIds": [
-        876
+        862
       ],
       "coauthors": {
         "Tabssum": 1,
@@ -41282,7 +41107,7 @@ const LIBRARY_DATA = {
       "fullname": "Tseng, I-Fan",
       "count": 1,
       "paperIds": [
-        878
+        864
       ],
       "coauthors": {
         "You": 1,
@@ -41294,7 +41119,7 @@ const LIBRARY_DATA = {
       "fullname": "Tsai, Chia-Cheng",
       "count": 1,
       "paperIds": [
-        878
+        864
       ],
       "coauthors": {
         "Tseng": 1,
@@ -41306,7 +41131,7 @@ const LIBRARY_DATA = {
       "fullname": "van Bergeijk",
       "count": 1,
       "paperIds": [
-        879
+        865
       ],
       "coauthors": {}
     },
@@ -41315,7 +41140,7 @@ const LIBRARY_DATA = {
       "fullname": "van Gent, Marcel R.A.",
       "count": 1,
       "paperIds": [
-        880
+        866
       ],
       "coauthors": {}
     },
@@ -41324,7 +41149,7 @@ const LIBRARY_DATA = {
       "fullname": "Venkateswarlu, V.",
       "count": 1,
       "paperIds": [
-        882
+        868
       ],
       "coauthors": {
         "Vijay": 1,
@@ -41336,7 +41161,7 @@ const LIBRARY_DATA = {
       "fullname": "Karmakar, D.",
       "count": 1,
       "paperIds": [
-        882
+        868
       ],
       "coauthors": {
         "Vijay": 1,
@@ -41348,7 +41173,7 @@ const LIBRARY_DATA = {
       "fullname": "McDougal, W.",
       "count": 1,
       "paperIds": [
-        883
+        869
       ],
       "coauthors": {
         "Hudspeth": 1
@@ -41359,7 +41184,7 @@ const LIBRARY_DATA = {
       "fullname": "Ramirez, Jorge",
       "count": 1,
       "paperIds": [
-        884
+        870
       ],
       "coauthors": {}
     },
@@ -41368,7 +41193,7 @@ const LIBRARY_DATA = {
       "fullname": "Wuppukondur, Ananth",
       "count": 1,
       "paperIds": [
-        885
+        871
       ],
       "coauthors": {
         "Baldock": 1
@@ -41379,7 +41204,7 @@ const LIBRARY_DATA = {
       "fullname": "Abreu, Tiago",
       "count": 1,
       "paperIds": [
-        890
+        876
       ],
       "coauthors": {
         "Parreño-Mas": 1,
@@ -41391,7 +41216,7 @@ const LIBRARY_DATA = {
       "fullname": "Parreño-Mas, Benjamín",
       "count": 1,
       "paperIds": [
-        890
+        876
       ],
       "coauthors": {
         "Abreu": 1,
@@ -41403,7 +41228,7 @@ const LIBRARY_DATA = {
       "fullname": "Pinto-Faria, José",
       "count": 1,
       "paperIds": [
-        890
+        876
       ],
       "coauthors": {
         "Abreu": 1,
@@ -41415,7 +41240,7 @@ const LIBRARY_DATA = {
       "fullname": "Carandell, Matias",
       "count": 1,
       "paperIds": [
-        891
+        878
       ],
       "coauthors": {
         "Toma": 1,
@@ -41429,7 +41254,7 @@ const LIBRARY_DATA = {
       "fullname": "Toma, Daniel Mihai",
       "count": 1,
       "paperIds": [
-        891
+        878
       ],
       "coauthors": {
         "Carandell": 1,
@@ -41443,7 +41268,7 @@ const LIBRARY_DATA = {
       "fullname": "Artero, Carola",
       "count": 1,
       "paperIds": [
-        891
+        878
       ],
       "coauthors": {
         "Carandell": 1,
@@ -41457,7 +41282,7 @@ const LIBRARY_DATA = {
       "fullname": "Gasulla, Manel",
       "count": 1,
       "paperIds": [
-        891
+        878
       ],
       "coauthors": {
         "Carandell": 1,
@@ -41471,7 +41296,7 @@ const LIBRARY_DATA = {
       "fullname": "Del Rio, Joaquin",
       "count": 1,
       "paperIds": [
-        891
+        878
       ],
       "coauthors": {
         "Carandell": 1,
@@ -41485,7 +41310,7 @@ const LIBRARY_DATA = {
       "fullname": "Atkinson, Alexander L.",
       "count": 1,
       "paperIds": [
-        892
+        879
       ],
       "coauthors": {
         "Baldock": 1
@@ -41496,7 +41321,7 @@ const LIBRARY_DATA = {
       "fullname": "Holmes, P.",
       "count": 1,
       "paperIds": [
-        894
+        881
       ],
       "coauthors": {
         "Baldock": 1,
@@ -41509,7 +41334,7 @@ const LIBRARY_DATA = {
       "fullname": "Bunker, S.",
       "count": 1,
       "paperIds": [
-        894
+        881
       ],
       "coauthors": {
         "Baldock": 1,
@@ -41522,7 +41347,7 @@ const LIBRARY_DATA = {
       "fullname": "Van Weert, P.",
       "count": 1,
       "paperIds": [
-        894
+        881
       ],
       "coauthors": {
         "Baldock": 1,
@@ -41535,7 +41360,7 @@ const LIBRARY_DATA = {
       "fullname": "Bayle, Paul Maxime",
       "count": 1,
       "paperIds": [
-        896
+        883
       ],
       "coauthors": {
         "Beuzen": 1,
@@ -41549,7 +41374,7 @@ const LIBRARY_DATA = {
       "fullname": "Beuzen, Tomas",
       "count": 1,
       "paperIds": [
-        896
+        883
       ],
       "coauthors": {
         "Bayle": 1,
@@ -41563,7 +41388,7 @@ const LIBRARY_DATA = {
       "fullname": "Turner, Ian Lloyd",
       "count": 1,
       "paperIds": [
-        896
+        883
       ],
       "coauthors": {
         "Bayle": 1,
@@ -41577,7 +41402,7 @@ const LIBRARY_DATA = {
       "fullname": "van Bemmelen, C.W.T.",
       "count": 1,
       "paperIds": [
-        897
+        884
       ],
       "coauthors": {
         "de Schipper": 1,
@@ -41590,7 +41415,7 @@ const LIBRARY_DATA = {
       "fullname": "de Schipper, M.A.",
       "count": 1,
       "paperIds": [
-        897
+        884
       ],
       "coauthors": {
         "van Bemmelen": 1,
@@ -41603,7 +41428,7 @@ const LIBRARY_DATA = {
       "fullname": "Darnall, J.",
       "count": 1,
       "paperIds": [
-        897
+        884
       ],
       "coauthors": {
         "van Bemmelen": 1,
@@ -41616,7 +41441,7 @@ const LIBRARY_DATA = {
       "fullname": "Bennis",
       "count": 1,
       "paperIds": [
-        898
+        885
       ],
       "coauthors": {}
     },
@@ -41625,7 +41450,7 @@ const LIBRARY_DATA = {
       "fullname": "Birrien, Florent",
       "count": 1,
       "paperIds": [
-        899
+        886
       ],
       "coauthors": {
         "Baldock": 1
@@ -41636,7 +41461,7 @@ const LIBRARY_DATA = {
       "fullname": "Sanjana, M C",
       "count": 1,
       "paperIds": [
-        901
+        888
       ],
       "coauthors": {
         "Latha": 1,
@@ -41648,7 +41473,7 @@ const LIBRARY_DATA = {
       "fullname": "Latha, G",
       "count": 1,
       "paperIds": [
-        901
+        888
       ],
       "coauthors": {
         "Sanjana": 1,
@@ -41660,7 +41485,7 @@ const LIBRARY_DATA = {
       "fullname": "Dincy E, Z",
       "count": 1,
       "paperIds": [
-        901
+        888
       ],
       "coauthors": {
         "Sanjana": 1,
@@ -41672,7 +41497,7 @@ const LIBRARY_DATA = {
       "fullname": "Gardner",
       "count": 1,
       "paperIds": [
-        903
+        890
       ],
       "coauthors": {}
     },
@@ -41681,7 +41506,7 @@ const LIBRARY_DATA = {
       "fullname": "Hansen, J.Buhr",
       "count": 1,
       "paperIds": [
-        904
+        891
       ],
       "coauthors": {}
     },
@@ -41690,7 +41515,7 @@ const LIBRARY_DATA = {
       "fullname": "Huntley, David A.",
       "count": 1,
       "paperIds": [
-        905
+        892
       ],
       "coauthors": {
         "Simmonds": 1,
@@ -41702,7 +41527,7 @@ const LIBRARY_DATA = {
       "fullname": "Tatavarti, Rao",
       "count": 1,
       "paperIds": [
-        905
+        892
       ],
       "coauthors": {
         "Huntley": 1,
@@ -41714,7 +41539,7 @@ const LIBRARY_DATA = {
       "fullname": "Ijima, Takeshi",
       "count": 1,
       "paperIds": [
-        906
+        893
       ],
       "coauthors": {}
     },
@@ -41723,7 +41548,7 @@ const LIBRARY_DATA = {
       "fullname": "Jaramillo, Camilo",
       "count": 1,
       "paperIds": [
-        907
+        894
       ],
       "coauthors": {
         "González": 1,
@@ -41736,7 +41561,7 @@ const LIBRARY_DATA = {
       "fullname": "González, Mauricio",
       "count": 1,
       "paperIds": [
-        907
+        894
       ],
       "coauthors": {
         "Jaramillo": 1,
@@ -41749,7 +41574,7 @@ const LIBRARY_DATA = {
       "fullname": "Turki, Imen",
       "count": 1,
       "paperIds": [
-        907
+        894
       ],
       "coauthors": {
         "Jaramillo": 1,
@@ -41762,7 +41587,7 @@ const LIBRARY_DATA = {
       "fullname": "Ju, Jiannwen",
       "count": 1,
       "paperIds": [
-        908
+        895
       ],
       "coauthors": {
         "Kang": 1,
@@ -41776,7 +41601,7 @@ const LIBRARY_DATA = {
       "fullname": "Karczewska, Anna",
       "count": 1,
       "paperIds": [
-        909
+        896
       ],
       "coauthors": {
         "Rozmej": 1
@@ -41787,7 +41612,7 @@ const LIBRARY_DATA = {
       "fullname": "Rozmej, Piotr",
       "count": 1,
       "paperIds": [
-        909
+        896
       ],
       "coauthors": {
         "Karczewska": 1
@@ -41798,7 +41623,7 @@ const LIBRARY_DATA = {
       "fullname": "Kamchatnov, Anatoly",
       "count": 1,
       "paperIds": [
-        910
+        897
       ],
       "coauthors": {}
     },
@@ -41807,7 +41632,7 @@ const LIBRARY_DATA = {
       "fullname": "Lashley, Christopher H.",
       "count": 1,
       "paperIds": [
-        911
+        898
       ],
       "coauthors": {
         "Bricker": 1,
@@ -41821,7 +41646,7 @@ const LIBRARY_DATA = {
       "fullname": "Bricker, Jeremy D.",
       "count": 1,
       "paperIds": [
-        911
+        898
       ],
       "coauthors": {
         "Lashley": 1,
@@ -41835,7 +41660,7 @@ const LIBRARY_DATA = {
       "fullname": "Mandli, Kyle T.",
       "count": 1,
       "paperIds": [
-        913
+        900
       ],
       "coauthors": {
         "Li": 1
@@ -41846,7 +41671,7 @@ const LIBRARY_DATA = {
       "fullname": "Nayak, Sashikant",
       "count": 1,
       "paperIds": [
-        915
+        902
       ],
       "coauthors": {
         "Panchang": 1
@@ -41857,7 +41682,7 @@ const LIBRARY_DATA = {
       "fullname": "Quataert, Ellen",
       "count": 1,
       "paperIds": [
-        919
+        906
       ],
       "coauthors": {
         "Storlazzi": 1,
@@ -41870,7 +41695,7 @@ const LIBRARY_DATA = {
       "fullname": "Storlazzi, Curt",
       "count": 1,
       "paperIds": [
-        919
+        906
       ],
       "coauthors": {
         "Quataert": 1,
@@ -41883,7 +41708,7 @@ const LIBRARY_DATA = {
       "fullname": "Reguero",
       "count": 1,
       "paperIds": [
-        920
+        907
       ],
       "coauthors": {}
     },
@@ -41892,7 +41717,7 @@ const LIBRARY_DATA = {
       "fullname": "Shaffer",
       "count": 1,
       "paperIds": [
-        921
+        908
       ],
       "coauthors": {}
     },
@@ -41901,7 +41726,7 @@ const LIBRARY_DATA = {
       "fullname": "Toro, Eleuterio F.",
       "count": 1,
       "paperIds": [
-        922
+        909
       ],
       "coauthors": {}
     },
@@ -41910,7 +41735,7 @@ const LIBRARY_DATA = {
       "fullname": "Sreelakshmi, S.",
       "count": 1,
       "paperIds": [
-        923
+        910
       ],
       "coauthors": {
         "Bhaskaran": 1
@@ -41921,7 +41746,7 @@ const LIBRARY_DATA = {
       "fullname": "Bhaskaran, Prasad K.",
       "count": 1,
       "paperIds": [
-        923
+        910
       ],
       "coauthors": {
         "Sreelakshmi": 1
@@ -41932,7 +41757,7 @@ const LIBRARY_DATA = {
       "fullname": "Thorell",
       "count": 1,
       "paperIds": [
-        926
+        913
       ],
       "coauthors": {}
     },
@@ -41941,7 +41766,7 @@ const LIBRARY_DATA = {
       "fullname": "Plueddemann, Al",
       "count": 1,
       "paperIds": [
-        932
+        920
       ],
       "coauthors": {}
     },
@@ -41950,7 +41775,7 @@ const LIBRARY_DATA = {
       "fullname": "Barros, J.",
       "count": 1,
       "paperIds": [
-        934
+        923
       ],
       "coauthors": {
         "Diego": 1
@@ -41961,7 +41786,7 @@ const LIBRARY_DATA = {
       "fullname": "Diego, R.I.",
       "count": 1,
       "paperIds": [
-        934
+        923
       ],
       "coauthors": {
         "Barros": 1
@@ -41972,7 +41797,7 @@ const LIBRARY_DATA = {
       "fullname": "Brunton",
       "count": 1,
       "paperIds": [
-        936
+        925
       ],
       "coauthors": {}
     },
@@ -41981,7 +41806,7 @@ const LIBRARY_DATA = {
       "fullname": "Kelley, Dan",
       "count": 1,
       "paperIds": [
-        937
+        927
       ],
       "coauthors": {
         "Richards": 1
@@ -41992,7 +41817,7 @@ const LIBRARY_DATA = {
       "fullname": "Richards, Clark",
       "count": 1,
       "paperIds": [
-        937
+        927
       ],
       "coauthors": {
         "Kelley": 1
@@ -42003,7 +41828,7 @@ const LIBRARY_DATA = {
       "fullname": "Cooley",
       "count": 1,
       "paperIds": [
-        938
+        928
       ],
       "coauthors": {}
     },
@@ -42012,7 +41837,7 @@ const LIBRARY_DATA = {
       "fullname": "Efron",
       "count": 1,
       "paperIds": [
-        939
+        929
       ],
       "coauthors": {}
     },
@@ -42021,7 +41846,7 @@ const LIBRARY_DATA = {
       "fullname": "Goswami",
       "count": 1,
       "paperIds": [
-        940
+        930
       ],
       "coauthors": {}
     },
@@ -42030,7 +41855,7 @@ const LIBRARY_DATA = {
       "fullname": "Haselsteiner",
       "count": 1,
       "paperIds": [
-        942
+        932
       ],
       "coauthors": {}
     },
@@ -42039,7 +41864,7 @@ const LIBRARY_DATA = {
       "fullname": "Bender, Christopher J.",
       "count": 1,
       "paperIds": [
-        956
+        946
       ],
       "coauthors": {
         "Dean": 1
@@ -42050,7 +41875,7 @@ const LIBRARY_DATA = {
       "fullname": "Vrbancich, Julian",
       "count": 1,
       "paperIds": [
-        957
+        947
       ],
       "coauthors": {}
     },
@@ -42059,7 +41884,7 @@ const LIBRARY_DATA = {
       "fullname": "Rotta, A.",
       "count": 1,
       "paperIds": [
-        958
+        948
       ],
       "coauthors": {
         "Boccotti": 1,
@@ -42073,7 +41898,7 @@ const LIBRARY_DATA = {
       "fullname": "Desmons, Florian",
       "count": 1,
       "paperIds": [
-        959
+        949
       ],
       "coauthors": {
         "Lubin": 1
@@ -42084,7 +41909,7 @@ const LIBRARY_DATA = {
       "fullname": "Lubin, Pierre",
       "count": 1,
       "paperIds": [
-        959
+        949
       ],
       "coauthors": {
         "Desmons": 1
@@ -42095,7 +41920,7 @@ const LIBRARY_DATA = {
       "fullname": "Speer, Kevin",
       "count": 1,
       "paperIds": [
-        960
+        950
       ],
       "coauthors": {
         "Bolles": 1,
@@ -42107,7 +41932,7 @@ const LIBRARY_DATA = {
       "fullname": "Karpman, V.I.",
       "count": 1,
       "paperIds": [
-        962
+        952
       ],
       "coauthors": {}
     },
@@ -42116,7 +41941,7 @@ const LIBRARY_DATA = {
       "fullname": "Weidman, P. D.",
       "count": 1,
       "paperIds": [
-        964
+        954
       ],
       "coauthors": {
         "Cooker": 1,
@@ -42128,7 +41953,7 @@ const LIBRARY_DATA = {
       "fullname": "Bale, D. S.",
       "count": 1,
       "paperIds": [
-        964
+        954
       ],
       "coauthors": {
         "Cooker": 1,
@@ -42140,7 +41965,7 @@ const LIBRARY_DATA = {
       "fullname": "Bartlett, James C.",
       "count": 1,
       "paperIds": [
-        967
+        957
       ],
       "coauthors": {
         "Jones": 1,
@@ -42152,7 +41977,7 @@ const LIBRARY_DATA = {
       "fullname": "Gaillard, Pierre",
       "count": 1,
       "paperIds": [
-        971
+        961
       ],
       "coauthors": {
         "Gauthier": 1,
@@ -42164,7 +41989,7 @@ const LIBRARY_DATA = {
       "fullname": "Gauthier, Michel",
       "count": 1,
       "paperIds": [
-        971
+        961
       ],
       "coauthors": {
         "Gaillard": 1,
@@ -42176,7 +42001,7 @@ const LIBRARY_DATA = {
       "fullname": "Holly, Forrest",
       "count": 1,
       "paperIds": [
-        971
+        961
       ],
       "coauthors": {
         "Gaillard": 1,
@@ -42188,7 +42013,7 @@ const LIBRARY_DATA = {
       "fullname": "Gorrell, L.",
       "count": 1,
       "paperIds": [
-        974
+        964
       ],
       "coauthors": {
         "Raubenheimer": 1,
@@ -42201,7 +42026,7 @@ const LIBRARY_DATA = {
       "fullname": "Grimshaw",
       "count": 1,
       "paperIds": [
-        976
+        966
       ],
       "coauthors": {}
     },
@@ -42210,7 +42035,7 @@ const LIBRARY_DATA = {
       "fullname": "Iravani, Nikta",
       "count": 1,
       "paperIds": [
-        983
+        973
       ],
       "coauthors": {
         "Badiei": 1,
@@ -42222,7 +42047,7 @@ const LIBRARY_DATA = {
       "fullname": "Badiei, Peyman",
       "count": 1,
       "paperIds": [
-        983
+        973
       ],
       "coauthors": {
         "Iravani": 1,
@@ -42234,7 +42059,7 @@ const LIBRARY_DATA = {
       "fullname": "Kijewski",
       "count": 1,
       "paperIds": [
-        987
+        977
       ],
       "coauthors": {}
     },
@@ -42243,7 +42068,7 @@ const LIBRARY_DATA = {
       "fullname": "Kuo, C.A.",
       "count": 1,
       "paperIds": [
-        988
+        978
       ],
       "coauthors": {
         "Hwung": 1,
@@ -42255,7 +42080,7 @@ const LIBRARY_DATA = {
       "fullname": "Hwung, H.H.",
       "count": 1,
       "paperIds": [
-        988
+        978
       ],
       "coauthors": {
         "Kuo": 1,
@@ -42267,7 +42092,7 @@ const LIBRARY_DATA = {
       "fullname": "Chien, C.H.",
       "count": 1,
       "paperIds": [
-        988
+        978
       ],
       "coauthors": {
         "Kuo": 1,
@@ -42279,7 +42104,7 @@ const LIBRARY_DATA = {
       "fullname": "Pitt, Jordan P.A.",
       "count": 1,
       "paperIds": [
-        989
+        979
       ],
       "coauthors": {
         "Zoppou": 1,
@@ -42291,7 +42116,7 @@ const LIBRARY_DATA = {
       "fullname": "Zoppou, Christopher",
       "count": 1,
       "paperIds": [
-        989
+        979
       ],
       "coauthors": {
         "Pitt": 1,
@@ -42303,7 +42128,7 @@ const LIBRARY_DATA = {
       "fullname": "Roberts, Stephen G.",
       "count": 1,
       "paperIds": [
-        989
+        979
       ],
       "coauthors": {
         "Pitt": 1,
@@ -42315,7 +42140,7 @@ const LIBRARY_DATA = {
       "fullname": "Huuse, M",
       "count": 1,
       "paperIds": [
-        993
+        983
       ],
       "coauthors": {
         "Lykke-Andersen": 1,
@@ -42327,7 +42152,7 @@ const LIBRARY_DATA = {
       "fullname": "Lykke-Andersen, H",
       "count": 1,
       "paperIds": [
-        993
+        983
       ],
       "coauthors": {
         "Huuse": 1,
@@ -42339,7 +42164,7 @@ const LIBRARY_DATA = {
       "fullname": "Michelsen, O",
       "count": 1,
       "paperIds": [
-        993
+        983
       ],
       "coauthors": {
         "Huuse": 1,
@@ -42351,7 +42176,7 @@ const LIBRARY_DATA = {
       "fullname": "Mallayachari, V.",
       "count": 1,
       "paperIds": [
-        997
+        987
       ],
       "coauthors": {
         "Sundar": 1
@@ -42362,7 +42187,7 @@ const LIBRARY_DATA = {
       "fullname": "Massel",
       "count": 1,
       "paperIds": [
-        998
+        988
       ],
       "coauthors": {}
     },
@@ -42371,16 +42196,52 @@ const LIBRARY_DATA = {
       "fullname": "Naciri",
       "count": 1,
       "paperIds": [
-        1000
+        990
       ],
       "coauthors": {}
+    },
+    {
+      "name": "Nallayarasu",
+      "fullname": "Nallayarasu, S.",
+      "count": 1,
+      "paperIds": [
+        991
+      ],
+      "coauthors": {
+        "Fatt": 1,
+        "Jothi Shankar": 1
+      }
+    },
+    {
+      "name": "Fatt",
+      "fullname": "Fatt, Cheong Hin",
+      "count": 1,
+      "paperIds": [
+        991
+      ],
+      "coauthors": {
+        "Nallayarasu": 1,
+        "Jothi Shankar": 1
+      }
+    },
+    {
+      "name": "Jothi Shankar",
+      "fullname": "Jothi Shankar, N.",
+      "count": 1,
+      "paperIds": [
+        991
+      ],
+      "coauthors": {
+        "Nallayarasu": 1,
+        "Fatt": 1
+      }
     },
     {
       "name": "Chalikov",
       "fullname": "Chalikov, Dmitry",
       "count": 1,
       "paperIds": [
-        1004
+        995
       ],
       "coauthors": {}
     },
@@ -42389,7 +42250,7 @@ const LIBRARY_DATA = {
       "fullname": "Ambrosi, D.",
       "count": 1,
       "paperIds": [
-        1008
+        1002
       ],
       "coauthors": {
         "Onorato": 1,
@@ -42402,7 +42263,7 @@ const LIBRARY_DATA = {
       "fullname": "Sergeeva (Kokorina), Anna",
       "count": 1,
       "paperIds": [
-        1009
+        1003
       ],
       "coauthors": {
         "Pelinovsky": 1
@@ -42413,7 +42274,7 @@ const LIBRARY_DATA = {
       "fullname": "Prabhakar, V.",
       "count": 1,
       "paperIds": [
-        1011
+        1005
       ],
       "coauthors": {
         "Sundar": 1
@@ -42424,7 +42285,7 @@ const LIBRARY_DATA = {
       "fullname": "Spell, C.A.",
       "count": 1,
       "paperIds": [
-        1013
+        1007
       ],
       "coauthors": {
         "Zhang": 1,
@@ -42436,7 +42297,7 @@ const LIBRARY_DATA = {
       "fullname": "Weng, Wen-Kai",
       "count": 1,
       "paperIds": [
-        1020
+        1014
       ],
       "coauthors": {
         "Wang": 1,
@@ -42449,7 +42310,7 @@ const LIBRARY_DATA = {
       "fullname": "Ou, Shan-Hwei",
       "count": 1,
       "paperIds": [
-        1020
+        1014
       ],
       "coauthors": {
         "Wang": 1,
@@ -42458,36 +42319,11 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Hong",
-      "fullname": "Hong, Keyyong",
-      "count": 1,
-      "paperIds": [
-        1025
-      ],
-      "coauthors": {
-        "Zhang": 1,
-        "Yue": 1
-      }
-    },
-    {
-      "name": "Prislin",
-      "fullname": "Prislin, I",
-      "count": 1,
-      "paperIds": [
-        1027
-      ],
-      "coauthors": {
-        "Zhang": 1,
-        "Yang": 1,
-        "Wen": 1
-      }
-    },
-    {
       "name": "Abedi",
       "fullname": "Abedi",
       "count": 1,
       "paperIds": [
-        1030
+        1024
       ],
       "coauthors": {}
     },
@@ -42496,7 +42332,7 @@ const LIBRARY_DATA = {
       "fullname": "Abolghasemi",
       "count": 1,
       "paperIds": [
-        1031
+        1025
       ],
       "coauthors": {}
     },
@@ -42505,7 +42341,7 @@ const LIBRARY_DATA = {
       "fullname": "Acred",
       "count": 1,
       "paperIds": [
-        1032
+        1026
       ],
       "coauthors": {}
     },
@@ -42514,7 +42350,7 @@ const LIBRARY_DATA = {
       "fullname": "Aknin",
       "count": 1,
       "paperIds": [
-        1034
+        1028
       ],
       "coauthors": {}
     },
@@ -42523,16 +42359,7 @@ const LIBRARY_DATA = {
       "fullname": "Chauhan, V.P.S.",
       "count": 1,
       "paperIds": [
-        1036
-      ],
-      "coauthors": {}
-    },
-    {
-      "name": "Archibald",
-      "fullname": "Archibald",
-      "count": 1,
-      "paperIds": [
-        1037
+        1030
       ],
       "coauthors": {}
     },
@@ -42541,7 +42368,7 @@ const LIBRARY_DATA = {
       "fullname": "Bachant",
       "count": 1,
       "paperIds": [
-        1038
+        1031
       ],
       "coauthors": {}
     },
@@ -42550,7 +42377,7 @@ const LIBRARY_DATA = {
       "fullname": "Barba",
       "count": 1,
       "paperIds": [
-        1040
+        1033
       ],
       "coauthors": {}
     },
@@ -42559,7 +42386,7 @@ const LIBRARY_DATA = {
       "fullname": "Bentham",
       "count": 1,
       "paperIds": [
-        1041
+        1035
       ],
       "coauthors": {}
     },
@@ -42568,7 +42395,7 @@ const LIBRARY_DATA = {
       "fullname": "Black",
       "count": 1,
       "paperIds": [
-        1042
+        1036
       ],
       "coauthors": {}
     },
@@ -42577,7 +42404,7 @@ const LIBRARY_DATA = {
       "fullname": "Brownlee",
       "count": 1,
       "paperIds": [
-        1043
+        1037
       ],
       "coauthors": {}
     },
@@ -42586,7 +42413,7 @@ const LIBRARY_DATA = {
       "fullname": "Bruggemann",
       "count": 1,
       "paperIds": [
-        1044
+        1038
       ],
       "coauthors": {}
     },
@@ -42595,7 +42422,7 @@ const LIBRARY_DATA = {
       "fullname": "Bull",
       "count": 1,
       "paperIds": [
-        1045
+        1039
       ],
       "coauthors": {}
     },
@@ -42604,7 +42431,7 @@ const LIBRARY_DATA = {
       "fullname": "Chatelain",
       "count": 1,
       "paperIds": [
-        1046
+        1040
       ],
       "coauthors": {}
     },
@@ -42613,7 +42440,7 @@ const LIBRARY_DATA = {
       "fullname": "Chau",
       "count": 1,
       "paperIds": [
-        1047
+        1041
       ],
       "coauthors": {}
     },
@@ -42622,7 +42449,7 @@ const LIBRARY_DATA = {
       "fullname": "Coffey",
       "count": 1,
       "paperIds": [
-        1049
+        1043
       ],
       "coauthors": {}
     },
@@ -42631,7 +42458,7 @@ const LIBRARY_DATA = {
       "fullname": "Connick",
       "count": 1,
       "paperIds": [
-        1050
+        1044
       ],
       "coauthors": {}
     },
@@ -42640,7 +42467,7 @@ const LIBRARY_DATA = {
       "fullname": "Craske",
       "count": 1,
       "paperIds": [
-        1051
+        1045
       ],
       "coauthors": {}
     },
@@ -42649,7 +42476,7 @@ const LIBRARY_DATA = {
       "fullname": "Creech",
       "count": 1,
       "paperIds": [
-        1052
+        1046
       ],
       "coauthors": {}
     },
@@ -42658,7 +42485,7 @@ const LIBRARY_DATA = {
       "fullname": "Economidou",
       "count": 1,
       "paperIds": [
-        1054
+        1048
       ],
       "coauthors": {}
     },
@@ -42667,7 +42494,7 @@ const LIBRARY_DATA = {
       "fullname": "Ely",
       "count": 1,
       "paperIds": [
-        1055
+        1049
       ],
       "coauthors": {}
     },
@@ -42676,7 +42503,7 @@ const LIBRARY_DATA = {
       "fullname": "Ezzamel",
       "count": 1,
       "paperIds": [
-        1056
+        1050
       ],
       "coauthors": {}
     },
@@ -42685,7 +42512,7 @@ const LIBRARY_DATA = {
       "fullname": "Farrell",
       "count": 1,
       "paperIds": [
-        1057
+        1051
       ],
       "coauthors": {}
     },
@@ -42694,7 +42521,7 @@ const LIBRARY_DATA = {
       "fullname": "Fernandes",
       "count": 1,
       "paperIds": [
-        1059
+        1053
       ],
       "coauthors": {}
     },
@@ -42703,16 +42530,7 @@ const LIBRARY_DATA = {
       "fullname": "Gocmen",
       "count": 1,
       "paperIds": [
-        1061
-      ],
-      "coauthors": {}
-    },
-    {
-      "name": "Haley-J",
-      "fullname": "Haley-J",
-      "count": 1,
-      "paperIds": [
-        1066
+        1055
       ],
       "coauthors": {}
     },
@@ -42721,7 +42539,7 @@ const LIBRARY_DATA = {
       "fullname": "Haley",
       "count": 1,
       "paperIds": [
-        1067
+        1060
       ],
       "coauthors": {}
     },
@@ -42730,7 +42548,7 @@ const LIBRARY_DATA = {
       "fullname": "Inoue",
       "count": 1,
       "paperIds": [
-        1071
+        1064
       ],
       "coauthors": {}
     },
@@ -42739,7 +42557,7 @@ const LIBRARY_DATA = {
       "fullname": "James",
       "count": 1,
       "paperIds": [
-        1072
+        1065
       ],
       "coauthors": {}
     },
@@ -42748,7 +42566,7 @@ const LIBRARY_DATA = {
       "fullname": "Kasiman",
       "count": 1,
       "paperIds": [
-        1077
+        1070
       ],
       "coauthors": {}
     },
@@ -42757,7 +42575,7 @@ const LIBRARY_DATA = {
       "fullname": "Kleusberg",
       "count": 1,
       "paperIds": [
-        1081
+        1074
       ],
       "coauthors": {}
     },
@@ -42766,7 +42584,7 @@ const LIBRARY_DATA = {
       "fullname": "Koumoutsakos",
       "count": 1,
       "paperIds": [
-        1082
+        1075
       ],
       "coauthors": {}
     },
@@ -42775,7 +42593,7 @@ const LIBRARY_DATA = {
       "fullname": "Lonfils",
       "count": 1,
       "paperIds": [
-        1087
+        1080
       ],
       "coauthors": {}
     },
@@ -42784,7 +42602,7 @@ const LIBRARY_DATA = {
       "fullname": "Lynch",
       "count": 1,
       "paperIds": [
-        1088
+        1081
       ],
       "coauthors": {}
     },
@@ -42793,7 +42611,7 @@ const LIBRARY_DATA = {
       "fullname": "Makri",
       "count": 1,
       "paperIds": [
-        1089
+        1082
       ],
       "coauthors": {}
     },
@@ -42802,7 +42620,7 @@ const LIBRARY_DATA = {
       "fullname": "Marcus",
       "count": 1,
       "paperIds": [
-        1090
+        1083
       ],
       "coauthors": {}
     },
@@ -42811,7 +42629,7 @@ const LIBRARY_DATA = {
       "fullname": "Mikkelsen",
       "count": 1,
       "paperIds": [
-        1093
+        1086
       ],
       "coauthors": {}
     },
@@ -42820,7 +42638,7 @@ const LIBRARY_DATA = {
       "fullname": "Milthaler",
       "count": 1,
       "paperIds": [
-        1094
+        1087
       ],
       "coauthors": {}
     },
@@ -42829,7 +42647,7 @@ const LIBRARY_DATA = {
       "fullname": "Morgenthal",
       "count": 1,
       "paperIds": [
-        1095
+        1088
       ],
       "coauthors": {}
     },
@@ -42838,7 +42656,7 @@ const LIBRARY_DATA = {
       "fullname": "Myrtroeen",
       "count": 1,
       "paperIds": [
-        1096
+        1089
       ],
       "coauthors": {}
     },
@@ -42847,7 +42665,7 @@ const LIBRARY_DATA = {
       "fullname": "Osalusi",
       "count": 1,
       "paperIds": [
-        1097
+        1090
       ],
       "coauthors": {}
     },
@@ -42856,7 +42674,7 @@ const LIBRARY_DATA = {
       "fullname": "Pechlivanoglou",
       "count": 1,
       "paperIds": [
-        1099
+        1092
       ],
       "coauthors": {}
     },
@@ -42865,7 +42683,7 @@ const LIBRARY_DATA = {
       "fullname": "Peric",
       "count": 1,
       "paperIds": [
-        1100
+        1093
       ],
       "coauthors": {}
     },
@@ -42874,7 +42692,7 @@ const LIBRARY_DATA = {
       "fullname": "Radomski",
       "count": 1,
       "paperIds": [
-        1101
+        1094
       ],
       "coauthors": {}
     },
@@ -42883,7 +42701,7 @@ const LIBRARY_DATA = {
       "fullname": "Roos",
       "count": 1,
       "paperIds": [
-        1102
+        1095
       ],
       "coauthors": {}
     },
@@ -42892,7 +42710,7 @@ const LIBRARY_DATA = {
       "fullname": "Rossi",
       "count": 1,
       "paperIds": [
-        1103
+        1096
       ],
       "coauthors": {}
     },
@@ -42901,7 +42719,7 @@ const LIBRARY_DATA = {
       "fullname": "Rubel",
       "count": 1,
       "paperIds": [
-        1104
+        1097
       ],
       "coauthors": {}
     },
@@ -42910,7 +42728,7 @@ const LIBRARY_DATA = {
       "fullname": "Sarlak",
       "count": 1,
       "paperIds": [
-        1105
+        1098
       ],
       "coauthors": {}
     },
@@ -42919,7 +42737,7 @@ const LIBRARY_DATA = {
       "fullname": "Sheel",
       "count": 1,
       "paperIds": [
-        1106
+        1099
       ],
       "coauthors": {}
     },
@@ -42928,7 +42746,7 @@ const LIBRARY_DATA = {
       "fullname": "Shiels",
       "count": 1,
       "paperIds": [
-        1108
+        1101
       ],
       "coauthors": {}
     },
@@ -42937,7 +42755,7 @@ const LIBRARY_DATA = {
       "fullname": "Shrinivas",
       "count": 1,
       "paperIds": [
-        1109
+        1102
       ],
       "coauthors": {}
     },
@@ -42946,7 +42764,7 @@ const LIBRARY_DATA = {
       "fullname": "Sorensen",
       "count": 1,
       "paperIds": [
-        1110
+        1103
       ],
       "coauthors": {}
     },
@@ -42955,7 +42773,7 @@ const LIBRARY_DATA = {
       "fullname": "Spentza",
       "count": 1,
       "paperIds": [
-        1111
+        1104
       ],
       "coauthors": {}
     },
@@ -42964,7 +42782,7 @@ const LIBRARY_DATA = {
       "fullname": "Stock",
       "count": 1,
       "paperIds": [
-        1114
+        1107
       ],
       "coauthors": {}
     },
@@ -42973,7 +42791,7 @@ const LIBRARY_DATA = {
       "fullname": "Szopa",
       "count": 1,
       "paperIds": [
-        1115
+        1108
       ],
       "coauthors": {}
     },
@@ -42982,7 +42800,7 @@ const LIBRARY_DATA = {
       "fullname": "Tari",
       "count": 1,
       "paperIds": [
-        1116
+        1109
       ],
       "coauthors": {}
     },
@@ -42991,7 +42809,7 @@ const LIBRARY_DATA = {
       "fullname": "Tchieu",
       "count": 1,
       "paperIds": [
-        1117
+        1110
       ],
       "coauthors": {}
     },
@@ -43000,7 +42818,7 @@ const LIBRARY_DATA = {
       "fullname": "Thies",
       "count": 1,
       "paperIds": [
-        1118
+        1111
       ],
       "coauthors": {}
     },
@@ -43009,7 +42827,7 @@ const LIBRARY_DATA = {
       "fullname": "Vaidhyanathan",
       "count": 1,
       "paperIds": [
-        1119
+        1112
       ],
       "coauthors": {}
     },
@@ -43018,7 +42836,7 @@ const LIBRARY_DATA = {
       "fullname": "Walther",
       "count": 1,
       "paperIds": [
-        1120
+        1113
       ],
       "coauthors": {}
     },
@@ -43027,7 +42845,7 @@ const LIBRARY_DATA = {
       "fullname": "Winchelmans",
       "count": 1,
       "paperIds": [
-        1122
+        1115
       ],
       "coauthors": {}
     },
@@ -43036,7 +42854,7 @@ const LIBRARY_DATA = {
       "fullname": "Wist, Hanne T.",
       "count": 1,
       "paperIds": [
-        1123
+        1116
       ],
       "coauthors": {
         "Myrhaug": 1,
@@ -43048,7 +42866,7 @@ const LIBRARY_DATA = {
       "fullname": "Rue, Håvard",
       "count": 1,
       "paperIds": [
-        1123
+        1116
       ],
       "coauthors": {
         "Wist": 1,
@@ -43060,7 +42878,7 @@ const LIBRARY_DATA = {
       "fullname": "Zhi (Thesis)",
       "count": 1,
       "paperIds": [
-        1124
+        1117
       ],
       "coauthors": {}
     },
@@ -43069,16 +42887,7 @@ const LIBRARY_DATA = {
       "fullname": "Zve",
       "count": 1,
       "paperIds": [
-        1125
-      ],
-      "coauthors": {}
-    },
-    {
-      "name": "Fitoussi",
-      "fullname": "Fitoussi, F.",
-      "count": 1,
-      "paperIds": [
-        1128
+        1118
       ],
       "coauthors": {}
     },
@@ -43087,7 +42896,7 @@ const LIBRARY_DATA = {
       "fullname": "Parker, Charles Thomas",
       "count": 1,
       "paperIds": [
-        1129
+        1121
       ],
       "coauthors": {
         "Garrity": 1
@@ -43098,7 +42907,7 @@ const LIBRARY_DATA = {
       "fullname": "Garrity, George M",
       "count": 1,
       "paperIds": [
-        1129
+        1121
       ],
       "coauthors": {
         "Parker": 1
@@ -43109,7 +42918,7 @@ const LIBRARY_DATA = {
       "fullname": "Athannasoulis",
       "count": 1,
       "paperIds": [
-        1131
+        1123
       ],
       "coauthors": {}
     },
@@ -43118,7 +42927,7 @@ const LIBRARY_DATA = {
       "fullname": "Barlow",
       "count": 1,
       "paperIds": [
-        1132
+        1124
       ],
       "coauthors": {}
     },
@@ -43127,7 +42936,7 @@ const LIBRARY_DATA = {
       "fullname": "Byun",
       "count": 1,
       "paperIds": [
-        1133
+        1125
       ],
       "coauthors": {}
     },
@@ -43136,7 +42945,7 @@ const LIBRARY_DATA = {
       "fullname": "Eskey, Felixa",
       "count": 1,
       "paperIds": [
-        1134
+        1126
       ],
       "coauthors": {}
     },
@@ -43145,7 +42954,7 @@ const LIBRARY_DATA = {
       "fullname": "Coon, Ethan T.",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Moulton": 1,
@@ -43162,7 +42971,7 @@ const LIBRARY_DATA = {
       "fullname": "Moulton, J. David",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43179,7 +42988,7 @@ const LIBRARY_DATA = {
       "fullname": "Kikinzon, Evgeny",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43196,7 +43005,7 @@ const LIBRARY_DATA = {
       "fullname": "Berndt, Markus",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43213,7 +43022,7 @@ const LIBRARY_DATA = {
       "fullname": "Manzini, Gianmarco",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43230,7 +43039,7 @@ const LIBRARY_DATA = {
       "fullname": "Garimella, Rao",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43247,7 +43056,7 @@ const LIBRARY_DATA = {
       "fullname": "Lipnikov, Konstantin",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43264,7 +43073,7 @@ const LIBRARY_DATA = {
       "fullname": "Painter, Scott L.",
       "count": 1,
       "paperIds": [
-        1135
+        1127
       ],
       "coauthors": {
         "Coon": 1,
@@ -43281,7 +43090,7 @@ const LIBRARY_DATA = {
       "fullname": "de Gast, Tom",
       "count": 1,
       "paperIds": [
-        1137
+        1129
       ],
       "coauthors": {
         "Hicks": 1,
@@ -43294,7 +43103,7 @@ const LIBRARY_DATA = {
       "fullname": "Hicks, Michael A.",
       "count": 1,
       "paperIds": [
-        1137
+        1129
       ],
       "coauthors": {
         "de Gast": 1,
@@ -43307,7 +43116,7 @@ const LIBRARY_DATA = {
       "fullname": "van den Eijnden, Abraham P.",
       "count": 1,
       "paperIds": [
-        1137
+        1129
       ],
       "coauthors": {
         "de Gast": 1,
@@ -43320,7 +43129,7 @@ const LIBRARY_DATA = {
       "fullname": "Vardon, Philip J.",
       "count": 1,
       "paperIds": [
-        1137
+        1129
       ],
       "coauthors": {
         "de Gast": 1,
@@ -43333,7 +43142,7 @@ const LIBRARY_DATA = {
       "fullname": "Di Luccio, D.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Benassai": 1,
@@ -43350,7 +43159,7 @@ const LIBRARY_DATA = {
       "fullname": "Mucerino, L.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Di Luccio": 1,
@@ -43367,7 +43176,7 @@ const LIBRARY_DATA = {
       "fullname": "Montella, R.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Di Luccio": 1,
@@ -43384,7 +43193,7 @@ const LIBRARY_DATA = {
       "fullname": "Conversano, F.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Di Luccio": 1,
@@ -43401,7 +43210,7 @@ const LIBRARY_DATA = {
       "fullname": "Pugliano, G.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Di Luccio": 1,
@@ -43418,7 +43227,7 @@ const LIBRARY_DATA = {
       "fullname": "Robustelli, U.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Di Luccio": 1,
@@ -43435,7 +43244,7 @@ const LIBRARY_DATA = {
       "fullname": "Budillon, G.",
       "count": 1,
       "paperIds": [
-        1140
+        1132
       ],
       "coauthors": {
         "Di Luccio": 1,
@@ -43452,7 +43261,7 @@ const LIBRARY_DATA = {
       "fullname": "Farsani",
       "count": 1,
       "paperIds": [
-        1141
+        1133
       ],
       "coauthors": {}
     },
@@ -43461,7 +43270,7 @@ const LIBRARY_DATA = {
       "fullname": "Girard et al",
       "count": 1,
       "paperIds": [
-        1142
+        1134
       ],
       "coauthors": {}
     },
@@ -43470,7 +43279,7 @@ const LIBRARY_DATA = {
       "fullname": "Harvey",
       "count": 1,
       "paperIds": [
-        1143
+        1135
       ],
       "coauthors": {}
     },
@@ -43479,7 +43288,7 @@ const LIBRARY_DATA = {
       "fullname": "Janati",
       "count": 1,
       "paperIds": [
-        1144
+        1136
       ],
       "coauthors": {}
     },
@@ -43488,7 +43297,7 @@ const LIBRARY_DATA = {
       "fullname": "Kouskoulas, David M.",
       "count": 1,
       "paperIds": [
-        1145
+        1137
       ],
       "coauthors": {
         "Toledo": 1
@@ -43499,7 +43308,7 @@ const LIBRARY_DATA = {
       "fullname": "Toledo, Yaron",
       "count": 1,
       "paperIds": [
-        1145
+        1137
       ],
       "coauthors": {
         "Kouskoulas": 1
@@ -43510,7 +43319,7 @@ const LIBRARY_DATA = {
       "fullname": "Cao, Jinxin",
       "count": 1,
       "paperIds": [
-        1147
+        1139
       ],
       "coauthors": {
         "Liu": 1,
@@ -43523,7 +43332,7 @@ const LIBRARY_DATA = {
       "fullname": "Buarque Vieira-e-Silva, André Luiz",
       "count": 1,
       "paperIds": [
-        1150
+        1141
       ],
       "coauthors": {
         "dos Santos Brito": 1,
@@ -43536,7 +43345,7 @@ const LIBRARY_DATA = {
       "fullname": "dos Santos Brito, Caio José",
       "count": 1,
       "paperIds": [
-        1150
+        1141
       ],
       "coauthors": {
         "Buarque Vieira-e-Silva": 1,
@@ -43549,7 +43358,7 @@ const LIBRARY_DATA = {
       "fullname": "Magalhães Simões, Francisco Paulo",
       "count": 1,
       "paperIds": [
-        1150
+        1141
       ],
       "coauthors": {
         "Buarque Vieira-e-Silva": 1,
@@ -43562,7 +43371,7 @@ const LIBRARY_DATA = {
       "fullname": "Teichrieb, Veronica",
       "count": 1,
       "paperIds": [
-        1150
+        1141
       ],
       "coauthors": {
         "Buarque Vieira-e-Silva": 1,
@@ -43575,7 +43384,7 @@ const LIBRARY_DATA = {
       "fullname": "Huo, Zhibin",
       "count": 1,
       "paperIds": [
-        1151
+        1142
       ],
       "coauthors": {
         "Luo": 1,
@@ -43591,7 +43400,7 @@ const LIBRARY_DATA = {
       "fullname": "Miozzi, Massimo",
       "count": 1,
       "paperIds": [
-        1156
+        1147
       ],
       "coauthors": {
         "Romano": 1
@@ -43602,7 +43411,7 @@ const LIBRARY_DATA = {
       "fullname": "Romano, Giovanni Paolo",
       "count": 1,
       "paperIds": [
-        1156
+        1147
       ],
       "coauthors": {
         "Miozzi": 1
@@ -43613,7 +43422,7 @@ const LIBRARY_DATA = {
       "fullname": "Ohkitani, Koji",
       "count": 1,
       "paperIds": [
-        1157
+        1148
       ],
       "coauthors": {
         "Kida": 1
@@ -43624,7 +43433,7 @@ const LIBRARY_DATA = {
       "fullname": "Kida, Shigeo",
       "count": 1,
       "paperIds": [
-        1157
+        1148
       ],
       "coauthors": {
         "Ohkitani": 1
@@ -43635,7 +43444,7 @@ const LIBRARY_DATA = {
       "fullname": "Pekri, Marina",
       "count": 1,
       "paperIds": [
-        1158
+        1149
       ],
       "coauthors": {
         "Danezis": 1
@@ -43646,7 +43455,7 @@ const LIBRARY_DATA = {
       "fullname": "Danezis, Chris",
       "count": 1,
       "paperIds": [
-        1158
+        1149
       ],
       "coauthors": {
         "Pekri": 1
@@ -43657,7 +43466,7 @@ const LIBRARY_DATA = {
       "fullname": "Perrot-Minot",
       "count": 1,
       "paperIds": [
-        1159
+        1150
       ],
       "coauthors": {}
     },
@@ -43666,7 +43475,7 @@ const LIBRARY_DATA = {
       "fullname": "Sánchez-Arcilla, Agustín",
       "count": 1,
       "paperIds": [
-        1160
+        1152
       ],
       "coauthors": {}
     },
@@ -43675,7 +43484,7 @@ const LIBRARY_DATA = {
       "fullname": "Stanisic, Dunja",
       "count": 1,
       "paperIds": [
-        1162
+        1154
       ],
       "coauthors": {
         "Efthymiou": 1,
@@ -43688,7 +43497,7 @@ const LIBRARY_DATA = {
       "fullname": "Efthymiou, Mike",
       "count": 1,
       "paperIds": [
-        1162
+        1154
       ],
       "coauthors": {
         "Stanisic": 1,
@@ -43701,7 +43510,7 @@ const LIBRARY_DATA = {
       "fullname": "White, David J.",
       "count": 1,
       "paperIds": [
-        1162
+        1154
       ],
       "coauthors": {
         "Stanisic": 1,
@@ -43714,7 +43523,7 @@ const LIBRARY_DATA = {
       "fullname": "Kimiaei, Mehrdad",
       "count": 1,
       "paperIds": [
-        1162
+        1154
       ],
       "coauthors": {
         "Stanisic": 1,
@@ -43727,7 +43536,7 @@ const LIBRARY_DATA = {
       "fullname": "Adams, Jill",
       "count": 1,
       "paperIds": [
-        1163
+        1155
       ],
       "coauthors": {}
     },
@@ -43736,7 +43545,7 @@ const LIBRARY_DATA = {
       "fullname": "Sui, Titi",
       "count": 1,
       "paperIds": [
-        1166
+        1158
       ],
       "coauthors": {
         "Staunstrup": 1,
@@ -43749,7 +43558,7 @@ const LIBRARY_DATA = {
       "fullname": "Staunstrup, Leon Heine",
       "count": 1,
       "paperIds": [
-        1166
+        1158
       ],
       "coauthors": {
         "Sui": 1,
@@ -43762,7 +43571,7 @@ const LIBRARY_DATA = {
       "fullname": "Carstensen, Stefan",
       "count": 1,
       "paperIds": [
-        1166
+        1158
       ],
       "coauthors": {
         "Sui": 1,
@@ -43775,7 +43584,7 @@ const LIBRARY_DATA = {
       "fullname": "Vallejos, Pablo",
       "count": 1,
       "paperIds": [
-        1171
+        1162
       ],
       "coauthors": {
         "Johnson": 1,
@@ -43787,7 +43596,7 @@ const LIBRARY_DATA = {
       "fullname": "Johnson, Thomas",
       "count": 1,
       "paperIds": [
-        1171
+        1162
       ],
       "coauthors": {
         "Vallejos": 1,
@@ -43799,7 +43608,7 @@ const LIBRARY_DATA = {
       "fullname": "Hellsten, Torbjörn",
       "count": 1,
       "paperIds": [
-        1171
+        1162
       ],
       "coauthors": {
         "Vallejos": 1,
@@ -43811,7 +43620,7 @@ const LIBRARY_DATA = {
       "fullname": "Vasudevan",
       "count": 1,
       "paperIds": [
-        1172
+        1163
       ],
       "coauthors": {}
     },
@@ -43820,7 +43629,7 @@ const LIBRARY_DATA = {
       "fullname": "Vrdoljak, Ljerka",
       "count": 1,
       "paperIds": [
-        1173
+        1164
       ],
       "coauthors": {}
     },
@@ -43829,7 +43638,7 @@ const LIBRARY_DATA = {
       "fullname": "Yetik, Özge",
       "count": 1,
       "paperIds": [
-        1180
+        1171
       ],
       "coauthors": {
         "Mahir": 1
@@ -43840,7 +43649,7 @@ const LIBRARY_DATA = {
       "fullname": "Mahir, Necati",
       "count": 1,
       "paperIds": [
-        1180
+        1171
       ],
       "coauthors": {
         "Yetik": 1
@@ -43851,7 +43660,7 @@ const LIBRARY_DATA = {
       "fullname": "Towe, Ross",
       "count": 1,
       "paperIds": [
-        1181
+        1172
       ],
       "coauthors": {
         "Zanini": 1,
@@ -43865,7 +43674,7 @@ const LIBRARY_DATA = {
       "fullname": "Zanini, Elena",
       "count": 1,
       "paperIds": [
-        1181
+        1172
       ],
       "coauthors": {
         "Towe": 1,
@@ -43879,7 +43688,7 @@ const LIBRARY_DATA = {
       "fullname": "Karakus, Murat",
       "count": 1,
       "paperIds": [
-        1184
+        1175
       ],
       "coauthors": {
         "Zhu": 1,
@@ -43892,55 +43701,55 @@ const LIBRARY_DATA = {
   "tags": [
     {
       "name": "ocean-waves",
-      "count": 764
+      "count": 753
     },
     {
       "name": "wave-propagation",
-      "count": 376
+      "count": 379
     },
     {
       "name": "coastal",
-      "count": 273
+      "count": 271
     },
     {
       "name": "varying-depth",
-      "count": 259
+      "count": 257
     },
     {
       "name": "wave-forces",
-      "count": 239
+      "count": 240
     },
     {
       "name": "numerical",
-      "count": 207
+      "count": 206
     },
     {
       "name": "offshore",
-      "count": 201
+      "count": 203
     },
     {
       "name": "statistical",
-      "count": 182
+      "count": 174
     },
     {
       "name": "nonlinear",
-      "count": 170
+      "count": 171
     },
     {
       "name": "modelling",
-      "count": 165
-    },
-    {
-      "name": "experimental",
-      "count": 156
+      "count": 167
     },
     {
       "name": "linear",
-      "count": 152
+      "count": 154
+    },
+    {
+      "name": "experimental",
+      "count": 153
     },
     {
       "name": "wave-breaking",
-      "count": 104
+      "count": 105
     },
     {
       "name": "spectral-analysis",
@@ -43948,71 +43757,71 @@ const LIBRARY_DATA = {
     },
     {
       "name": "book-chapter",
-      "count": 93
+      "count": 96
     },
     {
       "name": "wave-interactions",
-      "count": 92
-    },
-    {
-      "name": "shallow-water",
-      "count": 88
-    },
-    {
-      "name": "wave-height-distribution",
-      "count": 86
+      "count": 94
     },
     {
       "name": "analytical",
+      "count": 87
+    },
+    {
+      "name": "shallow-water",
       "count": 83
     },
     {
-      "name": "rogue-waves",
-      "count": 81
+      "name": "extreme-events",
+      "count": 82
     },
     {
-      "name": "extreme-events",
+      "name": "rogue-waves",
       "count": 80
     },
     {
+      "name": "wave-height-distribution",
+      "count": 79
+    },
+    {
       "name": "field-data",
-      "count": 77
+      "count": 76
     },
     {
       "name": "wave-groups",
-      "count": 73
-    },
-    {
-      "name": "directional-spreading",
-      "count": 65
-    },
-    {
-      "name": "analysis",
-      "count": 65
+      "count": 71
     },
     {
       "name": "vertical-cylinder",
-      "count": 64
+      "count": 69
     },
     {
-      "name": "wave-reflection",
-      "count": 61
+      "name": "directional-spreading",
+      "count": 68
+    },
+    {
+      "name": "analysis",
+      "count": 67
     },
     {
       "name": "energy-dissipation",
-      "count": 59
+      "count": 58
     },
     {
       "name": "regular-waves",
       "count": 57
     },
     {
+      "name": "wave-reflection",
+      "count": 56
+    },
+    {
       "name": "reference",
-      "count": 50
+      "count": 51
     },
     {
       "name": "comparison",
-      "count": 47
+      "count": 46
     },
     {
       "name": "second-order",
@@ -44020,10 +43829,6 @@ const LIBRARY_DATA = {
     },
     {
       "name": "wind-waves",
-      "count": 43
-    },
-    {
-      "name": "random-waves",
       "count": 41
     },
     {
@@ -44031,20 +43836,24 @@ const LIBRARY_DATA = {
       "count": 41
     },
     {
-      "name": "crest-height",
-      "count": 39
+      "name": "random-waves",
+      "count": 40
     },
     {
       "name": "irregular-waves",
       "count": 39
     },
     {
-      "name": "intermediate-depth",
-      "count": 35
+      "name": "crest-height",
+      "count": 36
     },
     {
       "name": "wave-runup",
-      "count": 33
+      "count": 35
+    },
+    {
+      "name": "intermediate-depth",
+      "count": 34
     },
     {
       "name": "wave-current",
@@ -44055,20 +43864,20 @@ const LIBRARY_DATA = {
       "count": 32
     },
     {
-      "name": "wave-generation",
-      "count": 32
-    },
-    {
-      "name": "wave-shoaling",
-      "count": 31
-    },
-    {
       "name": "breakwater",
       "count": 31
     },
     {
+      "name": "wave-generation",
+      "count": 31
+    },
+    {
+      "name": "wave-shoaling",
+      "count": 29
+    },
+    {
       "name": "boussinesq",
-      "count": 26
+      "count": 27
     },
     {
       "name": "tsunami",
@@ -44076,7 +43885,7 @@ const LIBRARY_DATA = {
     },
     {
       "name": "surf-zone",
-      "count": 24
+      "count": 23
     },
     {
       "name": "review",
@@ -44095,10 +43904,6 @@ const LIBRARY_DATA = {
       "count": 16
     },
     {
-      "name": "probability",
-      "count": 14
-    },
-    {
       "name": "sediment-transport",
       "count": 14
     },
@@ -44111,8 +43916,12 @@ const LIBRARY_DATA = {
       "count": 12
     },
     {
-      "name": "thesis",
+      "name": "signal-processing",
       "count": 12
+    },
+    {
+      "name": "probability",
+      "count": 11
     },
     {
       "name": "reef",
@@ -44127,11 +43936,11 @@ const LIBRARY_DATA = {
       "count": 10
     },
     {
-      "name": "kdv",
-      "count": 9
+      "name": "thesis",
+      "count": 10
     },
     {
-      "name": "signal-processing",
+      "name": "kdv",
       "count": 9
     },
     {
@@ -44159,16 +43968,16 @@ const LIBRARY_DATA = {
       "count": 5
     },
     {
-      "name": "wave-setup",
-      "count": 5
-    },
-    {
       "name": "parameterization",
       "count": 5
     },
     {
-      "name": "swell",
+      "name": "wave-setup",
       "count": 4
+    },
+    {
+      "name": "swell",
+      "count": 3
     },
     {
       "name": "rayleigh-distribution",
@@ -44223,6 +44032,7 @@ const LIBRARY_DATA = {
     {
       "year": 1960,
       "Nonlinear Wave Theory": 1,
+      "Wave Propagation & Complex Bathymetry": 1,
       "Books": 1
     },
     {
@@ -44243,8 +44053,7 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1964,
-      "Wave Propagation & Complex Bathymetry": 1,
-      "Wave-Structure Interactions": 1
+      "Wave Propagation & Complex Bathymetry": 1
     },
     {
       "year": 1965,
@@ -44278,7 +44087,8 @@ const LIBRARY_DATA = {
       "year": 1972,
       "Nonlinear Wave Theory": 1,
       "Wave-Structure Interactions": 1,
-      "Signal Processing": 1
+      "Signal Processing": 1,
+      "Theses": 1
     },
     {
       "year": 1974,
@@ -44288,12 +44098,12 @@ const LIBRARY_DATA = {
     {
       "year": 1975,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Complex Bathymetry": 2,
-      "Books": 2
+      "Wave Propagation & Complex Bathymetry": 3,
+      "Books": 3
     },
     {
       "year": 1976,
-      "Wave Propagation & Complex Bathymetry": 3
+      "Wave Propagation & Complex Bathymetry": 2
     },
     {
       "year": 1977,
@@ -44304,7 +44114,7 @@ const LIBRARY_DATA = {
     {
       "year": 1978,
       "Wave Height Statistics": 1,
-      "Wave Breaking & Dissipation": 2,
+      "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Complex Bathymetry": 1,
       "Signal Processing": 1
     },
@@ -44337,8 +44147,8 @@ const LIBRARY_DATA = {
     },
     {
       "year": 1983,
-      "Wave Height Statistics": 2,
-      "Wave Propagation & Complex Bathymetry": 4,
+      "Wave Height Statistics": 1,
+      "Wave Propagation & Complex Bathymetry": 3,
       "Wave Spectra & Directionality": 1,
       "Theses": 1
     },
@@ -44378,9 +44188,9 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 2,
       "Crest Height Statistics": 1,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Complex Bathymetry": 1,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Wave Spectra & Directionality": 1,
-      "Theses": 3
+      "Theses": 2
     },
     {
       "year": 1990,
@@ -44395,7 +44205,6 @@ const LIBRARY_DATA = {
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Complex Bathymetry": 1,
       "Reflection Analysis": 1,
-      "Wave Spectra & Directionality": 1,
       "Books": 1
     },
     {
@@ -44409,7 +44218,7 @@ const LIBRARY_DATA = {
       "year": 1993,
       "Nonlinear Wave Theory": 1,
       "Wave Propagation & Complex Bathymetry": 6,
-      "Reflection Analysis": 2,
+      "Reflection Analysis": 1,
       "Signal Processing": 1,
       "Books": 3,
       "Theses": 3
@@ -44425,9 +44234,9 @@ const LIBRARY_DATA = {
       "year": 1995,
       "Wave Propagation & Complex Bathymetry": 5,
       "Reflection Analysis": 1,
-      "Books": 2,
       "Wave Spectra & Directionality": 2,
-      "Numerical Modelling": 1
+      "Numerical Modelling": 1,
+      "Books": 2
     },
     {
       "year": 1996,
@@ -44449,7 +44258,7 @@ const LIBRARY_DATA = {
     {
       "year": 1998,
       "Wave Height Statistics": 1,
-      "Wave Propagation & Complex Bathymetry": 1,
+      "Wave Spectra & Directionality": 1,
       "Shallow & Nearshore Waves": 1,
       "Books": 1,
       "Theses": 2
@@ -44459,17 +44268,17 @@ const LIBRARY_DATA = {
       "Nonlinear Wave Theory": 3,
       "Wave Breaking & Dissipation": 1,
       "Wave Propagation & Complex Bathymetry": 4,
-      "Reflection Analysis": 3,
+      "Reflection Analysis": 2,
       "Shallow & Nearshore Waves": 1,
       "Signal Processing": 1,
-      "Books": 1
+      "Books": 3
     },
     {
       "year": 2000,
-      "Wave Height Statistics": 3,
+      "Wave Height Statistics": 2,
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Complex Bathymetry": 3,
+      "Wave Propagation & Complex Bathymetry": 2,
       "Numerical Modelling": 1,
       "Books": 1,
       "Theses": 2
@@ -44478,7 +44287,7 @@ const LIBRARY_DATA = {
       "year": 2001,
       "Wave Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Complex Bathymetry": 6,
+      "Wave Propagation & Complex Bathymetry": 8,
       "Reflection Analysis": 2,
       "Signal Processing": 2,
       "Books": 3
@@ -44496,11 +44305,11 @@ const LIBRARY_DATA = {
     {
       "year": 2003,
       "Crest Height Statistics": 1,
-      "Wave Propagation & Complex Bathymetry": 4,
+      "Wave Propagation & Complex Bathymetry": 5,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Lab Generation": 1,
-      "Numerical Modelling": 2,
+      "Numerical Modelling": 3,
       "Books": 3,
       "Theses": 2
     },
@@ -44510,10 +44319,10 @@ const LIBRARY_DATA = {
       "Wave Propagation & Complex Bathymetry": 2,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 2,
-      "Numerical Modelling": 2,
+      "Numerical Modelling": 1,
       "Wave-Structure Interactions": 1,
       "Books": 3,
-      "Theses": 5
+      "Theses": 6
     },
     {
       "year": 2005,
@@ -44527,7 +44336,6 @@ const LIBRARY_DATA = {
     },
     {
       "year": 2006,
-      "Wave Height Statistics": 1,
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
       "Wave Propagation & Complex Bathymetry": 9,
@@ -44539,13 +44347,15 @@ const LIBRARY_DATA = {
     },
     {
       "year": 2007,
-      "Wave Height Statistics": 3,
+      "Wave Height Statistics": 4,
       "Crest Height Statistics": 2,
       "Wave Breaking & Dissipation": 1,
-      "Wave Propagation & Complex Bathymetry": 8,
+      "Wave Propagation & Complex Bathymetry": 6,
+      "Numerical Modelling": 1,
       "Signal Processing": 1,
       "Books": 2,
-      "Theses": 5
+      "Theses": 5,
+      "Miscellaneous": 1
     },
     {
       "year": 2008,
@@ -44553,7 +44363,7 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
       "Wave Propagation & Complex Bathymetry": 7,
-      "Reflection Analysis": 2,
+      "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Books": 4,
       "Theses": 1
@@ -44561,8 +44371,8 @@ const LIBRARY_DATA = {
     {
       "year": 2009,
       "Wave Height Statistics": 2,
-      "Nonlinear Wave Theory": 2,
-      "Wave Propagation & Complex Bathymetry": 6,
+      "Nonlinear Wave Theory": 1,
+      "Wave Propagation & Complex Bathymetry": 7,
       "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 2,
       "Lab Generation": 1,
@@ -44595,14 +44405,14 @@ const LIBRARY_DATA = {
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
       "Books": 2,
-      "Theses": 5,
+      "Theses": 4,
       "Miscellaneous": 1
     },
     {
       "year": 2012,
-      "Wave Propagation & Complex Bathymetry": 9,
-      "Nonlinear Wave Theory": 1,
+      "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 1,
+      "Wave Propagation & Complex Bathymetry": 9,
       "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 2,
       "Wave-Structure Interactions": 1,
@@ -44617,14 +44427,13 @@ const LIBRARY_DATA = {
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 2,
       "Wave Propagation & Complex Bathymetry": 8,
-      "Reflection Analysis": 1,
       "Rogue & Extreme Waves": 1,
       "Numerical Modelling": 1,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
       "Books": 2,
       "Theses": 6,
-      "Miscellaneous": 2
+      "Miscellaneous": 1
     },
     {
       "year": 2014,
@@ -44647,8 +44456,8 @@ const LIBRARY_DATA = {
       "year": 2015,
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
-      "Wave Propagation & Complex Bathymetry": 10,
-      "Rogue & Extreme Waves": 3,
+      "Wave Propagation & Complex Bathymetry": 9,
+      "Rogue & Extreme Waves": 2,
       "Lab Generation": 1,
       "Numerical Modelling": 1,
       "Shallow & Nearshore Waves": 1,
@@ -44656,18 +44465,18 @@ const LIBRARY_DATA = {
     },
     {
       "year": 2016,
-      "Wave Height Statistics": 8,
+      "Wave Height Statistics": 5,
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 2,
       "Wave Propagation & Complex Bathymetry": 6,
       "Reflection Analysis": 2,
-      "Wave Spectra & Directionality": 5,
+      "Wave Spectra & Directionality": 6,
       "Rogue & Extreme Waves": 2,
       "Numerical Modelling": 3,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
-      "Theses": 6,
+      "Theses": 5,
       "Miscellaneous": 3
     },
     {
@@ -44676,10 +44485,10 @@ const LIBRARY_DATA = {
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 6,
       "Wave Propagation & Complex Bathymetry": 16,
-      "Numerical Modelling": 5,
       "Reflection Analysis": 3,
       "Wave Spectra & Directionality": 5,
       "Rogue & Extreme Waves": 5,
+      "Numerical Modelling": 6,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
       "Signal Processing": 1,
@@ -44698,14 +44507,14 @@ const LIBRARY_DATA = {
       "Rogue & Extreme Waves": 6,
       "Numerical Modelling": 3,
       "Wave-Structure Interactions": 1,
-      "Signal Processing": 1,
+      "Signal Processing": 2,
       "Books": 1,
       "Theses": 4,
       "Miscellaneous": 1
     },
     {
       "year": 2019,
-      "Wave Height Statistics": 4,
+      "Wave Height Statistics": 3,
       "Crest Height Statistics": 2,
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 6,
@@ -44726,16 +44535,16 @@ const LIBRARY_DATA = {
       "Wave Height Statistics": 9,
       "Crest Height Statistics": 3,
       "Wave Breaking & Dissipation": 10,
-      "Wave Propagation & Complex Bathymetry": 100,
-      "Shallow & Nearshore Waves": 18,
-      "Reflection Analysis": 4,
+      "Wave Propagation & Complex Bathymetry": 99,
+      "Reflection Analysis": 3,
       "Wave Spectra & Directionality": 7,
       "Rogue & Extreme Waves": 13,
       "Lab Generation": 5,
-      "Numerical Modelling": 16,
+      "Numerical Modelling": 17,
       "Wave-Structure Interactions": 38,
+      "Shallow & Nearshore Waves": 18,
       "Signal Processing": 2,
-      "Books": 7,
+      "Books": 8,
       "Theses": 2,
       "Miscellaneous": 18
     },
@@ -44745,10 +44554,9 @@ const LIBRARY_DATA = {
       "Crest Height Statistics": 1,
       "Nonlinear Wave Theory": 1,
       "Wave Breaking & Dissipation": 4,
-      "Wave Propagation & Complex Bathymetry": 28,
+      "Wave Propagation & Complex Bathymetry": 29,
       "Reflection Analysis": 2,
       "Rogue & Extreme Waves": 13,
-      "Lab Generation": 1,
       "Numerical Modelling": 5,
       "Wave-Structure Interactions": 3,
       "Shallow & Nearshore Waves": 6,
@@ -44761,9 +44569,9 @@ const LIBRARY_DATA = {
       "Nonlinear Wave Theory": 2,
       "Wave Breaking & Dissipation": 2,
       "Wave Propagation & Complex Bathymetry": 9,
-      "Rogue & Extreme Waves": 2,
-      "Reflection Analysis": 2,
+      "Reflection Analysis": 1,
       "Wave Spectra & Directionality": 4,
+      "Rogue & Extreme Waves": 2,
       "Lab Generation": 2,
       "Signal Processing": 2,
       "Books": 3,
@@ -44789,14 +44597,13 @@ const LIBRARY_DATA = {
       "Rogue & Extreme Waves": 1,
       "Wave-Structure Interactions": 1,
       "Shallow & Nearshore Waves": 1,
-      "Signal Processing": 1,
+      "Signal Processing": 3,
       "Miscellaneous": 2
     },
     {
       "year": 2025,
       "Wave Propagation & Complex Bathymetry": 1,
-      "Shallow & Nearshore Waves": 1,
-      "Miscellaneous": 1
+      "Shallow & Nearshore Waves": 1
     },
     {
       "year": 2026,
@@ -44846,23 +44653,6 @@ const LIBRARY_DATA = {
             "title": "Extreme waves in shallow and intermediate water depths",
             "author": "Baldock et al.",
             "year": 1996,
-            "filename": "Baldock & Swan (1996)_Extreme waves in shallow and intermediate water depths.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/0378-3839(95)00040-2",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "extreme-events",
-              "intermediate-depth",
-              "shallow-water",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Baldock et al. (1996)",
-            "title": "Extreme waves in shallow and intermediate water depths",
-            "author": "Baldock et al.",
-            "year": 1996,
             "filename": "Baldock & Swan (1996)_Extreme waves in shallow and intermediate water depths_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/0378-3839(95)00040-2",
@@ -44884,40 +44674,6 @@ const LIBRARY_DATA = {
             "journal": "Coastal Engineering",
             "doi": "10.1016/s0378-3839(00)00007-7",
             "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Battjes & Groenendijk (2000)",
-            "title": "Wave height distributions on shallow foreshores_notes",
-            "author": "Battjes & Groenendijk",
-            "year": 2000,
-            "filename": "Battjes & Groenendijk (2000)_Wave height distributions on shallow foreshores_notes.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves",
-              "probability",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Battjes et al. (2000)",
-            "title": "Wave height distributions on shallow foreshores",
-            "author": "Battjes et al.",
-            "year": 2000,
-            "filename": "Battjes, Groenendijk_2000_Wave height distributions on shallow foreshores.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/s0378-3839(00)00007-7",
-            "hasAnnotation": false,
             "tags": [
               "coastal",
               "shallow-water",
@@ -45217,23 +44973,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Groenendijk and Van Gent (1998)",
-            "title": "Shallow foreshore wave height statistics; a predictive model for the probability of exceedance of wave heights",
-            "author": "Groenendijk and Van Gent",
-            "year": 1998,
-            "filename": "Groenendijk and Van Gent (1998)_Shallow foreshore wave height statistics; a predictive model for the probability of exceedance of wave heights.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "modelling",
-              "ocean-waves",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
             "name": "Hameed & Baba (1985)",
             "title": "Probability distributions of wave heights and periods in combined sea-states measured off the Spanish coast",
             "author": "Hameed & Baba",
@@ -45373,23 +45112,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Karmpadakis et al. (2022)",
-            "title": "A new wave height distribution for intermediate and shallow water depths",
-            "author": "Karmpadakis et al.",
-            "year": 2022,
-            "filename": "Karmpadakis et al. (2022)_A new wave height distribution for intermediate and shallow water depths.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "intermediate-depth",
-              "ocean-waves",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
             "name": "Karmpadakis et al. (2020)",
             "title": "Assessment of wave height distributions using an extensive field database",
             "author": "Karmpadakis et al.",
@@ -45402,46 +45124,6 @@ const LIBRARY_DATA = {
               "coastal",
               "comparison",
               "field-data",
-              "statistical",
-              "wave-height-distribution",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Karmpadakis_Swan_&_Christou_ (2019)",
-            "title": "Wave Height and Crest Height Distributions in Shallow Water-Analysis of field",
-            "author": "Karmpadakis_Swan_&_Christou_",
-            "year": 2019,
-            "filename": "Karmpadakis_Swan_&_Christou_(2019)_Wave Height and Crest Height Distributions in Shallow Water-Analysis of field.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "(2019)",
-            "title": "Karmpadakis_Swan_&_Christou_2019_Wave Height and Crest Height Distributions in Shallow Water-Analysis of field data",
-            "author": "",
-            "year": 2019,
-            "filename": "Karmpadakis_Swan_&_Christou_2019_Wave Height and Crest Height Distributions in Shallow Water-Analysis of field data.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "shallow-water",
               "statistical",
               "wave-height-distribution",
               "wave-propagation"
@@ -45555,23 +45237,6 @@ const LIBRARY_DATA = {
             "author": "Longuet‐Higgins, Michael S.",
             "year": 1980,
             "filename": "Longuet‐Higgins (1980)_On the distribution of the heights of sea waves_Some effects of nonlinearity and finite band width.pdf",
-            "journal": "Journal of Geophysical Research: Oceans",
-            "doi": "10.1029/jc085ic03p01519",
-            "hasAnnotation": false,
-            "tags": [
-              "field-data",
-              "linear",
-              "nonlinear",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Longuet‐Higgins, Michael S. (1980)",
-            "title": "On the distribution of the heights of sea waves: Some effects of nonlinearity and finite band width",
-            "author": "Longuet‐Higgins, Michael S.",
-            "year": 1980,
-            "filename": "Longuet‐Higgins (1980)_On the distribution of the heights of sea waves_Some effects of nonlinearity and finite band width_Journal of Geophysical Research  Oceans - 20 March 1980.pdf",
             "journal": "Journal of Geophysical Research: Oceans",
             "doi": "10.1029/jc085ic03p01519",
             "hasAnnotation": false,
@@ -45703,23 +45368,6 @@ const LIBRARY_DATA = {
           },
           {
             "name": "Mendez et al. (2004)",
-            "title": "Transformation model of wave height distribution on planar beaches",
-            "author": "Mendez et al.",
-            "year": 2004,
-            "filename": "Mendez et al. (2004)_Transformation model of wave height distribution on planar beaches.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "modelling",
-              "numerical",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Mendez et al. (2004)",
             "title": "Transformation model of wave height distribution on planar beaches_highlighted",
             "author": "Mendez et al.",
             "year": 2004,
@@ -45727,23 +45375,6 @@ const LIBRARY_DATA = {
             "journal": "",
             "doi": "",
             "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "modelling",
-              "numerical",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Mendez et al. (2004)",
-            "title": "Transformation model of wave height distribution on planar beaches_notes",
-            "author": "Mendez et al.",
-            "year": 2004,
-            "filename": "Mendez et al. (2004)_Transformation model of wave height distribution on planar beaches_notes.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
             "tags": [
               "coastal",
               "modelling",
@@ -45944,23 +45575,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "(2006)",
-            "title": "Tayfun & Fedele (2006) (Conference)_Wave-Height Distributions and Nonlinear Effects",
-            "author": "",
-            "year": 2006,
-            "filename": "Tayfun & Fedele (2006) (Conference)_Wave-Height Distributions and Nonlinear Effects.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "ocean-waves",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
             "name": "Tayfun (1990)",
             "title": "Distribution of Large Wave Heights",
             "author": "Tayfun",
@@ -46030,24 +45644,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Thornton & Ruza (1983)",
-            "title": "Transformation of wave height distribution",
-            "author": "Thornton & Ruza",
-            "year": 1983,
-            "filename": "Thornton & Ruza (1983)_Transformation of wave height distribution.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "numerical",
-              "statistical",
-              "surf-zone",
-              "wave-breaking",
-              "wave-height-distribution",
-              "wave-shoaling"
-            ]
-          },
-          {
             "name": "Tuan et al. (2019)",
             "title": "Distribution of wave heights on steep submerged reefs",
             "author": "Tuan et al.",
@@ -46101,40 +45697,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Wu et al (2016)",
-            "title": "On the distribution of wave height in shallow water",
-            "author": "Wu et al",
-            "year": 2016,
-            "filename": "Wu et al (2016)_On the distribution of wave height in shallow water.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "offshore",
-              "shallow-water",
-              "statistical",
-              "wave-forces",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Wu et al (2016)",
-            "title": "On the distribution of wave height in shallow water2",
-            "author": "Wu et al",
-            "year": 2016,
-            "filename": "Wu et al (2016)_On the distribution of wave height in shallow water2.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "offshore",
-              "shallow-water",
-              "statistical",
-              "wave-forces",
-              "wave-height-distribution"
-            ]
-          },
-          {
             "name": "Shahul Hameed et al. (1985)",
             "title": "Wave height distribution in shallow water",
             "author": "Shahul Hameed et al.",
@@ -46148,40 +45710,6 @@ const LIBRARY_DATA = {
               "shallow-water",
               "statistical",
               "wave-forces",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Wu et al. (2016)",
-            "title": "On the distribution of wave height in shallow water_highlighted",
-            "author": "Wu et al.",
-            "year": 2016,
-            "filename": "Wu et al. (2016)_On the distribution of wave height in shallow water_highlighted.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "ocean-waves",
-              "probability",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution"
-            ]
-          },
-          {
-            "name": "Wu et al. (2016)",
-            "title": "On the distribution of wave height in shallow water_notes",
-            "author": "Wu et al.",
-            "year": 2016,
-            "filename": "Wu et al. (2016)_On the distribution of wave height in shallow water_notes.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves",
-              "probability",
-              "shallow-water",
-              "statistical",
               "wave-height-distribution"
             ]
           }
@@ -46226,23 +45754,6 @@ const LIBRARY_DATA = {
               "linear",
               "nonlinear",
               "random-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Foristall (2000)",
-            "title": "Wave Crest distributions_Observations and Second-Order Theory",
-            "author": "Foristall",
-            "year": 2000,
-            "filename": "Foristall (2000)_Wave Crest distributions_Observations and Second-Order Theory.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "crest-height",
-              "ocean-waves",
-              "second-order",
               "statistical"
             ]
           },
@@ -46301,25 +45812,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Gibson, Swan and Tromans (2006)",
-            "title": "Fully Nonlinear Statistics of Wave Crest Elevation Calculated Using a Spectral Response Surface Method_Applications to Unidirectional Sea States",
-            "author": "Gibson, Swan and Tromans",
-            "year": 2006,
-            "filename": "Gibson, Swan and Tromans (2006)_Fully Nonlinear Statistics of Wave Crest Elevation Calculated Using a Spectral Response Surface Method_Applications to Unidirectional Sea States.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "directional-spreading",
-              "linear",
-              "nonlinear",
-              "spectral-analysis",
-              "statistical",
-              "unidirectional"
-            ]
-          },
-          {
             "name": "Greenhow, Martin (1989)",
             "title": "A probability distribution of breaking wave crest height based on a crest-acceleration threshold method",
             "author": "Greenhow, Martin",
@@ -46352,23 +45844,6 @@ const LIBRARY_DATA = {
               "nonlinear",
               "statistical",
               "wave-interactions"
-            ]
-          },
-          {
-            "name": "Karmpadakis et al. (2019)",
-            "title": "Laboratory investigation of crest height statistics in intermediate water depths",
-            "author": "Karmpadakis et al.",
-            "year": 2019,
-            "filename": "I. Karmpadakis, C. Swan and M. Christou_Laboratory Investigation of Crest Height Statistics in Intermediate Water Depths.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2019.0183",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "ocean-waves",
-              "statistical"
             ]
           },
           {
@@ -46406,20 +45881,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Karmpadakis and Swan (2020)",
-            "title": "On the Average Shape of the Largest Waves in Finite Water Depths",
-            "author": "Karmpadakis and Swan",
-            "year": 2020,
-            "filename": "Karmpadakis and Swan (2020)_On the Average Shape of the Largest Waves in Finite Water Depths.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "intermediate-depth",
-              "ocean-waves"
-            ]
-          },
-          {
             "name": "Karmpadakis et al. (2020)",
             "title": "On the Average Shape of the Largest Waves in Finite Water Depths",
             "author": "Karmpadakis et al.",
@@ -46432,57 +45893,6 @@ const LIBRARY_DATA = {
               "field-data",
               "intermediate-depth",
               "ocean-waves"
-            ]
-          },
-          {
-            "name": "Karmpadakis et al. (2019)",
-            "title": "Laboratory investigation of crest height statistics in intermediate water depth",
-            "author": "Karmpadakis et al.",
-            "year": 2019,
-            "filename": "Karmpadakis et al. (2019)_Laboratory investigation of crest height statistics in intermediate water depth.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Karmpadakis et al. (2019)",
-            "title": "Laboratory investigation of crest height statistics in intermediate water depths",
-            "author": "Karmpadakis et al.",
-            "year": 2019,
-            "filename": "Karmpadakis et al. (2019)_Laboratory investigation of crest height statistics in intermediate water depths.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Karmpadakis et al. (2019)",
-            "title": "Laboratory investigation of crest height statistics in intermediate water depths",
-            "author": "Karmpadakis et al.",
-            "year": 2019,
-            "filename": "Karmpadakis_Swan_&_Christou_(2019)_Laboratory_investigation_of_crest_height_statistics_in_intermediate_water_dept.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2019.0183",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "ocean-waves",
-              "statistical"
             ]
           },
           {
@@ -46503,23 +45913,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Karmpadakis et al. (2019)",
-            "title": "Laboratory investigation of crest height statistics in intermediate water depths",
-            "author": "Karmpadakis et al.",
-            "year": 2019,
-            "filename": "Karmpadakis_Swan_&_Christou_2019_Laboratory_investigation_of_crest_height_statistics_in_intermediate_water_depths.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2019.0183",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
             "name": "Katsardi et al. (2013)",
             "title": "An experimental study of large waves in intermediate and shallow water depths. Part I: Wave height and crest height statistics",
             "author": "Katsardi et al.",
@@ -46528,46 +45921,6 @@ const LIBRARY_DATA = {
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2012.09.007",
             "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Katsardi et al. (2013)",
-            "title": "An experimental study of large waves in intermediate and shallow water depths. Part I: Wave height and crest height statistics",
-            "author": "Katsardi et al.",
-            "year": 2013,
-            "filename": "Katsardi et al. (2013)_An experimental study of large waves in intermediate and shallow water depths. Part I_Wave height and crest height statistics_hl.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2012.09.007",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "crest-height",
-              "experimental",
-              "intermediate-depth",
-              "shallow-water",
-              "statistical",
-              "wave-height-distribution",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Katsardi et al. (2013)",
-            "title": "An experimental study of large waves in intermediate and shallow water depths. Part I: Wave height and crest height statistics",
-            "author": "Katsardi et al.",
-            "year": 2013,
-            "filename": "Katsardi, de Lutio and Swan (2013)_An experimental study of large waves in intermediate and shallow water depths. Part I_Wave height and crest height statistics.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2012.09.007",
-            "hasAnnotation": false,
             "tags": [
               "coastal",
               "crest-height",
@@ -46653,23 +46006,6 @@ const LIBRARY_DATA = {
             "author": "",
             "year": 2013,
             "filename": "Latheef & Swan 2013 Proc Roy Soc_A laboratory study of wave crest statistics and the role of directional spreading_v0.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "directional-spreading",
-              "experimental",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Latheef and Swan (2013)",
-            "title": "A laboratory study of wave crest statistics and the role of directional spreading",
-            "author": "Latheef and Swan",
-            "year": 2013,
-            "filename": "Latheef and Swan (2013)_A laboratory study of wave crest statistics and the role of directional spreading.pdf",
             "journal": "",
             "doi": "",
             "hasAnnotation": false,
@@ -46843,23 +46179,6 @@ const LIBRARY_DATA = {
             "title": "The average shape of large waves in the coastal zone",
             "author": "Whittaker et al.",
             "year": 2016,
-            "filename": "Whittaker et al. (2016)_The average shape of large waves in the coastal zone.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "crest-height",
-              "nonlinear",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Whittaker et al. (2016)",
-            "title": "The average shape of large waves in the coastal zone",
-            "author": "Whittaker et al.",
-            "year": 2016,
             "filename": "Whittaker et al. (2016)_The average shape of large waves in the coastal zone_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2016.04.009",
@@ -46870,28 +46189,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "statistical",
               "wave-propagation"
-            ]
-          },
-          {
-            "name": "Xu et al. (2021)",
-            "title": "Experimental study of wave height, crest, and trough distributions of directional irregular waves on a slope",
-            "author": "Xu et al.",
-            "year": 2021,
-            "filename": "Xu et al. (2021)_Experimental study of wave height, crest, and trough distributions of directional irregular waves on a slope.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2021.110136",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "directional-spreading",
-              "experimental",
-              "irregular-waves",
-              "offshore",
-              "regular-waves",
-              "statistical",
-              "varying-depth",
-              "wave-forces",
-              "wave-height-distribution"
             ]
           },
           {
@@ -46983,40 +46280,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Huang, Hu (2009)",
-            "title": "Weakly Nonlinear Water Waves Propagating over Uneven Bottoms",
-            "author": "Huang, Hu",
-            "year": 2009,
-            "filename": "Baldock, Swan and Taylor (1996)_A laboratory study of nonlinear surface waves on water surface on waves.pdf",
-            "journal": "Dynamics of Surface Waves in Coastal Waters",
-            "doi": "10.1007/978-3-540-88831-4_2",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "ocean-waves",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "(1996)",
-            "title": "A laboratory study of nonlinear surface waves on water",
-            "author": "",
-            "year": 1996,
-            "filename": "Baldock, Swan and Taylor (1996)_A Laboratory Study of Nonlinear Surface Waves on Water.pdf",
-            "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rsta.1996.0022",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "linear",
-              "nonlinear",
-              "numerical",
-              "ocean-waves"
-            ]
-          },
-          {
             "name": "(1996)",
             "title": "A laboratory study of nonlinear surface waves on water",
             "author": "",
@@ -47025,23 +46288,6 @@ const LIBRARY_DATA = {
             "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
             "doi": "10.1098/rsta.1996.0022",
             "hasAnnotation": true,
-            "tags": [
-              "experimental",
-              "linear",
-              "nonlinear",
-              "numerical",
-              "ocean-waves"
-            ]
-          },
-          {
-            "name": "(1996)",
-            "title": "A laboratory study of nonlinear surface waves on water",
-            "author": "",
-            "year": 1996,
-            "filename": "Baldock, Swan and Taylor (1996)_A laboratory study of nonlinear surface waves on water_original.pdf",
-            "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rsta.1996.0022",
-            "hasAnnotation": false,
             "tags": [
               "experimental",
               "linear",
@@ -47208,21 +46454,6 @@ const LIBRARY_DATA = {
             "title": "Nonlinear Interactions in Crossing Sea States",
             "author": "Brennan et al.",
             "year": 2015,
-            "filename": "Hadjigeorgiou_Unknown_Nonlinear Wave Interactions in Realistic Sea States.pdf",
-            "journal": "Volume 3: Structures, Safety and Reliability",
-            "doi": "10.1115/omae2015-41400",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "ocean-waves"
-            ]
-          },
-          {
-            "name": "Brennan et al. (2015)",
-            "title": "Nonlinear Interactions in Crossing Sea States",
-            "author": "Brennan et al.",
-            "year": 2015,
             "filename": "Hadjigeorgiou_Unknown_Nonlinear Wave Interactions in Realistic Sea States_highlighted.pdf",
             "journal": "Volume 3: Structures, Safety and Reliability",
             "doi": "10.1115/omae2015-41400",
@@ -47282,24 +46513,6 @@ const LIBRARY_DATA = {
               "random-waves",
               "second-order",
               "wave-groups"
-            ]
-          },
-          {
-            "name": "Kuznetsov et al. (2021)",
-            "title": "Nonlinear Wave Transformation in Coastal Zone: Free and Bound Waves",
-            "author": "Kuznetsov et al.",
-            "year": 2021,
-            "filename": "Kuznetsov and Saprykina (2021)_Nonlinear Wave Transformation in Coastal Zone_Free and Bound Waves.pdf",
-            "journal": "Fluids",
-            "doi": "10.3390/fluids6100347",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "linear",
-              "nonlinear",
-              "numerical",
-              "second-order",
-              "wave-shoaling"
             ]
           },
           {
@@ -47545,41 +46758,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Skjelbreia et al. (1960)",
-            "title": "FIFTH ORDER GRAVITY WAVE THEORY",
-            "author": "Skjelbreia et al.",
-            "year": 1960,
-            "filename": "Skjelbreia et al. FIFTH ORDER GRAVITY WAVE THEORY.pdf",
-            "journal": "Coastal Engineering Proceedings",
-            "doi": "10.9753/icce.v7.10",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "coastal",
-              "second-order",
-              "stokes-theory",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Spinneken and Swan (2009)",
-            "title": "Second-order wave maker theory using force-feedback control. Part I. A new theory for regular wave generation",
-            "author": "Spinneken and Swan",
-            "year": 2009,
-            "filename": "Spinneken and Swan (2009)_Second-order wave maker theory using force-feedback control. Part I. A new theory for regular wave generation.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "experimental",
-              "regular-waves",
-              "second-order",
-              "wave-forces",
-              "wave-generation"
-            ]
-          },
-          {
             "name": "Spinneken et al. (2009)",
             "title": "Second-order wave maker theory using force-feedback control. Part II: An experimental verification of regular wave generation",
             "author": "Spinneken et al.",
@@ -47636,23 +46814,6 @@ const LIBRARY_DATA = {
             "title": "The evolution of free and bound waves during dispersive focusing in a numerical and physical flume",
             "author": "Vyzikas et al.",
             "year": 2018,
-            "filename": "Vyzikas et al. (2018)_The evolution of free and bound waves during dispersive focusing in a numerical and physical flume.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "numerical",
-              "ocean-waves",
-              "second-order",
-              "wave-groups"
-            ]
-          },
-          {
-            "name": "Vyzikas et al. (2018)",
-            "title": "The evolution of free and bound waves during dispersive focusing in a numerical and physical flume",
-            "author": "Vyzikas et al.",
-            "year": 2018,
             "filename": "Vyzikas et al. (2018)_The evolution of free and bound waves during dispersive focusing in a numerical and physical flume_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2017.11.003",
@@ -47689,46 +46850,10 @@ const LIBRARY_DATA = {
             "title": "Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom",
             "author": "Zeng et al.",
             "year": 2012,
-            "filename": "Zeng & Trulsen (2012) Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom.pdf",
-            "journal": "Natural Hazards and Earth System Sciences",
-            "doi": "10.5194/nhess-12-631-2012",
-            "hasAnnotation": false,
-            "tags": [
-              "directional-spreading",
-              "linear",
-              "nonlinear",
-              "second-order",
-              "unidirectional",
-              "varying-depth"
-            ]
-          },
-          {
-            "name": "Zeng et al. (2012)",
-            "title": "Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom",
-            "author": "Zeng et al.",
-            "year": 2012,
             "filename": "Zeng, Trulsen - 2012 - Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom-annotated.pdf",
             "journal": "Natural Hazards and Earth System Sciences",
             "doi": "10.5194/nhess-12-631-2012",
             "hasAnnotation": true,
-            "tags": [
-              "directional-spreading",
-              "linear",
-              "nonlinear",
-              "second-order",
-              "unidirectional",
-              "varying-depth"
-            ]
-          },
-          {
-            "name": "Zeng et al. (2012)",
-            "title": "Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom",
-            "author": "Zeng et al.",
-            "year": 2012,
-            "filename": "Zeng, Trulsen - 2012 - Evolution of skewness and kurtosis of weakly nonlinear unidirectional waves over a sloping bottom.pdf",
-            "journal": "Natural Hazards and Earth System Sciences",
-            "doi": "10.5194/nhess-12-631-2012",
-            "hasAnnotation": false,
             "tags": [
               "directional-spreading",
               "linear",
@@ -47836,23 +46961,6 @@ const LIBRARY_DATA = {
               "energy-dissipation",
               "intermediate-depth",
               "ocean-waves",
-              "wave-breaking"
-            ]
-          },
-          {
-            "name": "Battjes & Janssen (1978)",
-            "title": "Energy loss and set-up due to breaking of random waves-annotated_notes",
-            "author": "Battjes & Janssen",
-            "year": 1978,
-            "filename": "Battjes & Janssen (1978) - Energy loss and set-up due to breaking of random waves-annotated_notes.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "energy-dissipation",
-              "ocean-waves",
-              "random-waves",
               "wave-breaking"
             ]
           },
@@ -48190,23 +47298,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Katsardi & Swan (2011)",
-            "title": "The evolution of large non-breaking waves in intermediate and shallow water",
-            "author": "Katsardi & Swan",
-            "year": 2011,
-            "filename": "Katsardi & Swan (2011)_The evolution of large non-breaking waves in intermediate and shallow water.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "energy-dissipation",
-              "intermediate-depth",
-              "ocean-waves",
-              "shallow-water",
-              "wave-breaking"
-            ]
-          },
-          {
             "name": "Kazolea et al. (2014)",
             "title": "Numerical treatment of wave breaking on unstructured finite volume approximations for extended Boussinesq-type equations",
             "author": "Kazolea et al.",
@@ -48378,23 +47469,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Power et al. (2013)",
-            "title": "Surf zone states and energy dissipation regimes—a similarity model",
-            "author": "Power et al.",
-            "year": 2013,
-            "filename": "Power et al. (2013)_Surf zone states and energy dissipation regimes—a similarity model.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "energy-dissipation",
-              "modelling",
-              "ocean-waves",
-              "surf-zone",
-              "wave-breaking"
-            ]
-          },
-          {
             "name": "Pujara et al. (2020)",
             "title": "The influence of wave acceleration and volume on the swash flow driven by breaking waves of elevation",
             "author": "Pujara et al.",
@@ -48409,23 +47483,6 @@ const LIBRARY_DATA = {
               "wave-breaking",
               "wave-kinematics",
               "wave-propagation"
-            ]
-          },
-          {
-            "name": "Pujara et al. (2020)",
-            "title": "The influence of wave acceleration and volume on the swash flow driven bybreaking waves of elevation",
-            "author": "Pujara et al.",
-            "year": 2020,
-            "filename": "Pujara et al. (2020)_The influence of wave acceleration and volume on the swash flow driven bybreaking waves of elevation.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "energy-dissipation",
-              "ocean-waves",
-              "surf-zone",
-              "wave-breaking",
-              "wave-kinematics"
             ]
           },
           {
@@ -48484,23 +47541,6 @@ const LIBRARY_DATA = {
             "title": "Predicting Breaking Wave Conditions Using Gene Expression Programming",
             "author": "Robertson et al.",
             "year": 2017,
-            "filename": "Robertson et  al. (2018)_Predicting Breaking Wave Conditions Using Gene Expression Programming.pdf",
-            "journal": "Coastal Engineering Journal",
-            "doi": "10.1142/s0578563417500176",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "energy-dissipation",
-              "ocean-waves",
-              "wave-breaking",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Robertson et al. (2017)",
-            "title": "Predicting Breaking Wave Conditions Using Gene Expression Programming",
-            "author": "Robertson et al.",
-            "year": 2017,
             "filename": "Robertson et  al. (2018)_Predicting Breaking Wave Conditions Using Gene Expression Programming_Full_View.pdf",
             "journal": "Coastal Engineering Journal",
             "doi": "10.1142/s0578563417500176",
@@ -48509,25 +47549,6 @@ const LIBRARY_DATA = {
               "coastal",
               "energy-dissipation",
               "ocean-waves",
-              "wave-breaking",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Goda, Yoshimi (2010)",
-            "title": "Reanalysis of Regular and Random Breaking Wave Statistics",
-            "author": "Goda, Yoshimi",
-            "year": 2010,
-            "filename": "s0578563410002129_Goda (2010)_REANALYSIS OF REGULAR AND RANDOM BREAKING WAVE STATISTICS∗.pdf",
-            "journal": "Coastal Engineering Journal",
-            "doi": "10.1142/s0578563410002129",
-            "hasAnnotation": false,
-            "tags": [
-              "analysis",
-              "coastal",
-              "random-waves",
-              "regular-waves",
-              "statistical",
               "wave-breaking",
               "wave-propagation"
             ]
@@ -48609,23 +47630,6 @@ const LIBRARY_DATA = {
             "filename": "Seiffert and Ducrozet (2018)_Simulation of breaking waves using the high-order spectral method with laboratory experiments_wave-breaking energy dissipation.pdf",
             "journal": "Ocean Dynamics",
             "doi": "10.1007/s10236-017-1119-3",
-            "hasAnnotation": false,
-            "tags": [
-              "energy-dissipation",
-              "experimental",
-              "numerical",
-              "spectral-analysis",
-              "wave-breaking"
-            ]
-          },
-          {
-            "name": "Seiffert et al. (2017)",
-            "title": "Simulation of breaking waves using the high-order spectral method with laboratory experiments: Wave-breaking onset",
-            "author": "Seiffert et al.",
-            "year": 2017,
-            "filename": "Seiffert et al. (2017)_Simulation of breaking waves using the high-order spectral method with laboratory experiments_Wave-breaking onset.pdf",
-            "journal": "Ocean Modelling",
-            "doi": "10.1016/j.ocemod.2017.09.006",
             "hasAnnotation": false,
             "tags": [
               "energy-dissipation",
@@ -48781,23 +47785,6 @@ const LIBRARY_DATA = {
             "title": "Parameterization of nearshore wave breaker index",
             "author": "Zhang et al.",
             "year": 2021,
-            "filename": "Zhang et al. (2021)_Parameterization of nearshore wave breaker index.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2021.103914",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "parameterization",
-              "shallow-water",
-              "wave-breaking",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Zhang et al. (2021)",
-            "title": "Parameterization of nearshore wave breaker index",
-            "author": "Zhang et al.",
-            "year": 2021,
             "filename": "Zhang et al. (2021)_Parameterization of nearshore wave breaker index_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2021.103914",
@@ -48887,42 +47874,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Itay et al. (2017)",
-            "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
-            "author": "Itay et al.",
-            "year": 2017,
-            "filename": "[15200485 - Journal of Physical Oceanography] Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves (1).pdf",
-            "journal": "Journal of Physical Oceanography",
-            "doi": "10.1175/jpo-d-16-0289.1",
-            "hasAnnotation": false,
-            "tags": [
-              "field-data",
-              "varying-depth",
-              "wave-breaking",
-              "wave-interactions",
-              "wave-propagation",
-              "wave-shoaling"
-            ]
-          },
-          {
-            "name": "Itay et al. (2017)",
-            "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
-            "author": "Itay et al.",
-            "year": 2017,
-            "filename": "[15200485 - Journal of Physical Oceanography] Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves.pdf",
-            "journal": "Journal of Physical Oceanography",
-            "doi": "10.1175/jpo-d-16-0289.1",
-            "hasAnnotation": false,
-            "tags": [
-              "field-data",
-              "varying-depth",
-              "wave-breaking",
-              "wave-interactions",
-              "wave-propagation",
-              "wave-shoaling"
-            ]
-          },
-          {
             "name": "A_New_Probabilistic_Wave_Breaking_Model_for_Domina",
             "title": "A_New_Probabilistic_Wave_Breaking_Model_for_Domina",
             "author": "",
@@ -48935,27 +47886,6 @@ const LIBRARY_DATA = {
               "modelling",
               "ocean-waves",
               "wave-breaking"
-            ]
-          },
-          {
-            "name": "(2020)",
-            "title": "Comments on \"Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone\" by Abroug et al.",
-            "author": "",
-            "year": 2020,
-            "filename": "Abroug et al. (2020)_Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone_original.pdf",
-            "journal": "",
-            "doi": "10.5194/nhess-2020-209-rc2",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "extreme-events",
-              "linear",
-              "nonlinear",
-              "shallow-water",
-              "varying-depth",
-              "wave-groups",
-              "wave-interactions",
-              "wave-propagation"
             ]
           },
           {
@@ -49444,23 +48374,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "(1983)",
-            "title": "Boccotti_1983_Some_new_results_on_statistical_properties_of_wind_waves",
-            "author": "",
-            "year": 1983,
-            "filename": "Boccotti_1983_Some_new_results_on_statistical_properties_of_wind_waves.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "statistical",
-              "varying-depth",
-              "wave-interactions",
-              "wave-propagation",
-              "wind-waves"
-            ]
-          },
-          {
             "name": "Anonymous (2026)",
             "title": "Geometric and kinematic indicators of breaking inception in surface gravity waves",
             "author": "Anonymous",
@@ -49473,26 +48386,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "review",
               "wave-breaking"
-            ]
-          },
-          {
-            "name": "Zhou et al. (2013)",
-            "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
-            "author": "Zhou et al.",
-            "year": 2013,
-            "filename": "Boo_Kim_1996_Fully_nonlinear_diffraction_due_to_a_vertical_circular_cylinder_in_a_3D_HOBEM_Numerical_wave_tank.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2013.04.019",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "numerical",
-              "offshore",
-              "varying-depth",
-              "vertical-cylinder",
-              "wave-forces",
-              "wave-propagation"
             ]
           },
           {
@@ -49670,23 +48563,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Chen et al. (2015)",
-            "title": "Wave–wave interactions on a sloping bottom",
-            "author": "Chen et al.",
-            "year": 2015,
-            "filename": "Chen & Yang (2016)_Wave–wave interactions on a sloping bottom.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2014.10.001",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "ocean-waves",
-              "varying-depth",
-              "wave-interactions",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Chen et al. (2020)",
             "title": "Study on Supporting Structure Performance of Deep Soft Soil Foundation Pit near Sea under Waves, Tides, Vibration, and Unbalanced Loads",
             "author": "Chen et al.",
@@ -49856,23 +48732,6 @@ const LIBRARY_DATA = {
               "varying-depth",
               "wave-forces",
               "wave-propagation"
-            ]
-          },
-          {
-            "name": "Cousins et al. (2016)",
-            "title": "Reduced-order precursors of rare events in unidirectional nonlinear water waves",
-            "author": "Cousins et al.",
-            "year": 2016,
-            "filename": "Cousins and Sapsis (2015)_Reduced order prediction of rare events in unidirectional nonlinear water waves.pdf",
-            "journal": "Journal of Fluid Mechanics",
-            "doi": "10.1017/jfm.2016.13",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "directional-spreading",
-              "linear",
-              "nonlinear",
-              "unidirectional"
             ]
           },
           {
@@ -50232,60 +49091,6 @@ const LIBRARY_DATA = {
             "title": "Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of Free/Bound Waves on Gentle and Steep Foreshores",
             "author": "Eldrup et al.",
             "year": 2020,
-            "filename": "Eldrup and Andersen (2020)_Numerical Study on RegularWave Shoaling_De-Shoaling and Decomposition of Free_Bound Waves on  Gentle and Steep Foreshores.pdf",
-            "journal": "Journal of Marine Science and Engineering",
-            "doi": "10.3390/jmse8050334",
-            "hasAnnotation": false,
-            "tags": [
-              "numerical",
-              "regular-waves",
-              "second-order",
-              "varying-depth",
-              "wave-propagation",
-              "wave-shoaling"
-            ]
-          },
-          {
-            "name": "Eldrup et al. (2020)",
-            "title": "Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of Free/Bound Waves on Gentle and Steep Foreshores",
-            "author": "Eldrup et al.",
-            "year": 2020,
-            "filename": "Eldrup and Lykke Andersen (2020)_Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of FreeBound Waves on Gentle and Steep Foreshores.pdf",
-            "journal": "Journal of Marine Science and Engineering",
-            "doi": "10.3390/jmse8050334",
-            "hasAnnotation": false,
-            "tags": [
-              "numerical",
-              "regular-waves",
-              "second-order",
-              "varying-depth",
-              "wave-propagation",
-              "wave-shoaling"
-            ]
-          },
-          {
-            "name": "(2020)",
-            "title": "Eldrup, Andersen_2020_Numerical study on regular wave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated",
-            "author": "",
-            "year": 2020,
-            "filename": "Eldrup, Andersen_2020_Numerical study on regular wave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "numerical",
-              "regular-waves",
-              "second-order",
-              "varying-depth",
-              "wave-propagation",
-              "wave-shoaling"
-            ]
-          },
-          {
-            "name": "Eldrup et al. (2020)",
-            "title": "Numerical Study on Regular Wave Shoaling, De-Shoaling and Decomposition of Free/Bound Waves on Gentle and Steep Foreshores",
-            "author": "Eldrup et al.",
-            "year": 2020,
             "filename": "Eldrup, Andersen_2020_Numerical study on regularwave shoaling, de-shoaling and decomposition of freebound waves on gentle and steep fore-annotated.pdf",
             "journal": "Journal of Marine Science and Engineering",
             "doi": "10.3390/jmse8050334",
@@ -50326,24 +49131,6 @@ const LIBRARY_DATA = {
               "modelling",
               "ocean-waves",
               "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Ewans, Kevin C. (1998)",
-            "title": "Observations of the Directional Spectrum of Fetch-Limited Waves",
-            "author": "Ewans, Kevin C.",
-            "year": 1998,
-            "filename": "Ewans_1998_Observations_of_the_Directional_Spectrum_of_Fetch-Limited_Waves.pdf",
-            "journal": "Journal of Physical Oceanography",
-            "doi": "10.1175/1520-0485(1998)028<0495:ootdso>2.0.co;2",
-            "hasAnnotation": false,
-            "tags": [
-              "directional-spreading",
-              "field-data",
-              "spectral-analysis",
-              "varying-depth",
-              "wave-interactions",
               "wave-propagation"
             ]
           },
@@ -50469,23 +49256,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Fenton, John D. (1999)",
-            "title": "The Cnoidal Theory Of Water Waves",
-            "author": "Fenton, John D.",
-            "year": 1999,
-            "filename": "Fenton_The Cnoidal Theory of Water Waves.pdf",
-            "journal": "Developments in Offshore Engineering",
-            "doi": "10.1016/b978-088415380-1/50021-2",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "kdv",
-              "varying-depth",
-              "wave-interactions",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "(1995)",
             "title": "Ferrant_1995_Time_domain_computation_of_nonlinear_diffraction_loads_upon_three_dimensional_floating_bodies",
             "author": "",
@@ -50515,23 +49285,6 @@ const LIBRARY_DATA = {
               "coastal",
               "numerical",
               "ocean-waves",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Skjelbreia et al. (1960)",
-            "title": "FIFTH ORDER GRAVITY WAVE THEORY",
-            "author": "Skjelbreia et al.",
-            "year": 1960,
-            "filename": "FIFTH_ORDER_GRAVITY_WAVE_THEORY.pdf",
-            "journal": "Coastal Engineering Proceedings",
-            "doi": "10.9753/icce.v7.10",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "coastal",
-              "stokes-theory",
               "varying-depth",
               "wave-propagation"
             ]
@@ -50608,39 +49361,6 @@ const LIBRARY_DATA = {
               "extreme-events",
               "numerical",
               "offshore"
-            ]
-          },
-          {
-            "name": "Forristall, George Z. (2017)",
-            "title": "Wave and Crest Height Distributions",
-            "author": "Forristall, George Z.",
-            "year": 2017,
-            "filename": "Foristall 2000_Wave_Crest_distributions.pdf",
-            "journal": "Encyclopedia of Maritime and Offshore Engineering",
-            "doi": "10.1002/9781118476406.emoe080",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "ocean-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "(2000)",
-            "title": "Foristall_2000_Wave_Crest_distributions-Observations_and_Second-Order_Theory",
-            "author": "",
-            "year": 2000,
-            "filename": "Foristall_2000_Wave_Crest_distributions-Observations_and_Second-Order_Theory.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "crest-height",
-              "second-order",
-              "statistical",
-              "varying-depth",
-              "wave-propagation"
             ]
           },
           {
@@ -50759,23 +49479,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Gibson et al. (2007)",
-            "title": "The evolution of large ocean waves: the role of local and rapid spectral changes",
-            "author": "Gibson et al.",
-            "year": 2007,
-            "filename": "Gibson_&_Swan_The_evolution_of_large_ocean_waves.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2006.1729",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "ocean-waves",
-              "spectral-analysis",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "(2016)",
             "title": "Congratulations, Liu etal",
             "author": "",
@@ -50826,26 +49529,6 @@ const LIBRARY_DATA = {
               "modelling",
               "ocean-waves",
               "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Goda, Yoshimi (2010)",
-            "title": "Reanalysis of Regular and Random Breaking Wave Statistics",
-            "author": "Goda, Yoshimi",
-            "year": 2010,
-            "filename": "Goda_2010_REANALYSIS_OF_REGULAR_AND_RANDOM_BREAKING_WAVE_STATISTICS.pdf",
-            "journal": "Coastal Engineering Journal",
-            "doi": "10.1142/s0578563410002129",
-            "hasAnnotation": false,
-            "tags": [
-              "analysis",
-              "coastal",
-              "random-waves",
-              "regular-waves",
-              "statistical",
-              "varying-depth",
-              "wave-breaking",
               "wave-propagation"
             ]
           },
@@ -51230,26 +49913,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Herbers et al. (1997)",
-            "title": "Nonlinear shoaling of directionally spread waves on a beach",
-            "author": "Herbers et al.",
-            "year": 1997,
-            "filename": "Herbers, Burton_1997_Nonlinear shoaling of directionally spread waves on a beach.pdf",
-            "journal": "Journal of Geophysical Research: Oceans",
-            "doi": "10.1029/97jc01581",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "directional-spreading",
-              "field-data",
-              "linear",
-              "nonlinear",
-              "varying-depth",
-              "wave-propagation",
-              "wave-shoaling"
-            ]
-          },
-          {
             "name": "Higuera et al. (2013)",
             "title": "Realistic wave generation and active wave absorption for Navier–Stokes models",
             "author": "Higuera et al.",
@@ -51285,23 +49948,6 @@ const LIBRARY_DATA = {
             "title": "Prediction formula for the spectral wave period T m-1,0 on mildly sloping shallow foreshores",
             "author": "Hofland et al.",
             "year": 2017,
-            "filename": "Hofland et al. (2017)_Prediction formula for the spectral wave period Tm-1_0 on mildly sloping shallow.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2017.02.005",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "shallow-water",
-              "spectral-analysis",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Hofland et al. (2017)",
-            "title": "Prediction formula for the spectral wave period T m-1,0 on mildly sloping shallow foreshores",
-            "author": "Hofland et al.",
-            "year": 2017,
             "filename": "Hofland et al. (2017)_Prediction formula for the spectral wave period Tm-1_0 on mildly sloping shallow_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2017.02.005",
@@ -51311,26 +49957,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "shallow-water",
               "spectral-analysis",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Zhou et al. (2013)",
-            "title": "Numerical investigation of wave radiation by a vertical cylinder using a fully nonlinear HOBEM",
-            "author": "Zhou et al.",
-            "year": 2013,
-            "filename": "Hong_Kim_2000_Nonlinear_Wave_Forces_on_a_Stationary_Vertical_Cylinder_by_HOBEM-NWT.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2013.04.019",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "numerical",
-              "offshore",
-              "varying-depth",
-              "vertical-cylinder",
-              "wave-forces",
               "wave-propagation"
             ]
           },
@@ -51463,23 +50089,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "varying-depth",
               "wave-propagation"
-            ]
-          },
-          {
-            "name": "Itay and Liberzon (2017)",
-            "title": "Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves",
-            "author": "Itay and Liberzon",
-            "year": 2017,
-            "filename": "Itay and Liberzon (2017)_Lagrangian Kinematic Criterion for the Breaking of Shoaling Waves.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "varying-depth",
-              "wave-breaking",
-              "wave-interactions",
-              "wave-propagation",
-              "wave-shoaling"
             ]
           },
           {
@@ -51924,23 +50533,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Kjeldsen et al. (1979)",
-            "title": "Breaking Waves in Deep Water and Resulting Wave Forces",
-            "author": "Kjeldsen et al.",
-            "year": 1979,
-            "filename": "Kjeldsen_&_Myrhaug_BREAKING_WAVES_IN_DEEP_WATER_AND_RESULTING_WAVE_FORCES.pdf",
-            "journal": "Offshore Technology Conference",
-            "doi": "10.4043/3646-ms",
-            "hasAnnotation": false,
-            "tags": [
-              "deep-water",
-              "varying-depth",
-              "wave-breaking",
-              "wave-forces",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Talipova et al. (2008)",
             "title": "Modelling of Rogue Wave Shapes in Shallow Water",
             "author": "Talipova et al.",
@@ -52053,19 +50645,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Méhauté, Bernard (1976)",
-            "title": "An Introduction to Water Waves",
-            "author": "Méhauté, Bernard",
-            "year": 1976,
-            "filename": "La Mehaute (1969)_An Introduction to Hydrodynamics and Water Waves_Volume I_Fundamentals.pdf",
-            "journal": "An Introduction to Hydrodynamics and Water Waves",
-            "doi": "10.1007/978-3-642-85567-2_15",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves"
-            ]
-          },
-          {
             "name": "Laffitte et al. (2021)",
             "title": "Water wave scattering by a sinusoidal bed in the presence of vertically sheared current",
             "author": "Laffitte et al.",
@@ -52078,24 +50657,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "offshore",
               "wave-current",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Latheef et al. (2013)",
-            "title": "A laboratory study of wave crest statistics and the role of directional spreading",
-            "author": "Latheef et al.",
-            "year": 2013,
-            "filename": "Latheef_&_Swan_A_laboratory_study_of_wave_crest_statistics_and_the_role_of_directional_spreading.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2012.0696",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "directional-spreading",
-              "experimental",
-              "statistical",
-              "varying-depth",
               "wave-propagation"
             ]
           },
@@ -52167,23 +50728,6 @@ const LIBRARY_DATA = {
               "varying-depth",
               "wave-propagation",
               "wave-runup"
-            ]
-          },
-          {
-            "name": "Le Mehaute, B. (1954)",
-            "title": "TWO-DIMENSIONAL SEICHE IN A BASIN SUBJECTED TO INCIDENT WAVES",
-            "author": "Le Mehaute, B.",
-            "year": 1954,
-            "filename": "Le Mehaute_Two dimensional Seiche in a basin subjected to incident waves.pdf",
-            "journal": "Coastal Engineering Proceedings",
-            "doi": "10.9753/icce.v5.10",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "ocean-waves",
-              "varying-depth",
-              "wave-interactions",
-              "wave-propagation"
             ]
           },
           {
@@ -52340,23 +50884,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "(2015)",
-            "title": "Lian_Haver_2015_Measured_crest_height_distribution_compared_to_second_order_distribution",
-            "author": "",
-            "year": 2015,
-            "filename": "Lian_Haver_2015_Measured_crest_height_distribution_compared_to_second_order_distribution.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "crest-height",
-              "second-order",
-              "statistical",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Lin et al. (2020)",
             "title": "Novel similarities in the free-surface profiles and velocities of solitary waves traveling over a very steep beach",
             "author": "Lin et al.",
@@ -52421,21 +50948,6 @@ const LIBRARY_DATA = {
               "field-data",
               "linear",
               "nonlinear",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Longuet-Higgins, M. S. (1975)",
-            "title": "On the joint distribution of the periods and amplitudes of sea waves",
-            "author": "Longuet-Higgins, M. S.",
-            "year": 1975,
-            "filename": "Longuet-Higgins (1975)_On the joint distribution of the periods and amplitudes of sea waves.pdf",
-            "journal": "Journal of Geophysical Research",
-            "doi": "10.1029/jc080i018p02688",
-            "hasAnnotation": false,
-            "tags": [
-              "field-data",
-              "ocean-waves",
               "statistical"
             ]
           },
@@ -52765,61 +51277,7 @@ const LIBRARY_DATA = {
             "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
             "author": "Martins et al.",
             "year": 2021,
-            "filename": "Martins et al. (2021)_Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2021.103917",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "experimental",
-              "linear",
-              "nonlinear",
-              "wave-breaking",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Martins et al. (2021)",
-            "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
-            "author": "Martins et al.",
-            "year": 2021,
             "filename": "Martins, Bonneton, Michallet - 2021 - Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping labo-annotated.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2021.103917",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "experimental",
-              "linear",
-              "nonlinear",
-              "wave-breaking",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Martins et al. (2021)",
-            "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
-            "author": "Martins et al.",
-            "year": 2021,
-            "filename": "Martins, Bonneton, Michallet_2021_Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laborato.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2021.103917",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "experimental",
-              "linear",
-              "nonlinear",
-              "wave-breaking",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Martins et al. (2021)",
-            "title": "Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach",
-            "author": "Martins et al.",
-            "year": 2021,
-            "filename": "Martins, Bonneton, Michallet_2021_Dispersive characteristics of non-linear waves propagating and breaking over a mildly sloping laboratory beach_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2021.103917",
             "hasAnnotation": true,
@@ -53374,24 +51832,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Padilla & Alsina (2017)",
-            "title": "Transfer and dissipation of energy during wave group propagation on a gentle beach slope",
-            "author": "Padilla & Alsina",
-            "year": 2017,
-            "filename": "Padilla & Alsina (2017)_Transfer and dissipation of energy during wave group propagation on a gentle beach slope.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "energy-dissipation",
-              "numerical",
-              "varying-depth",
-              "wave-groups",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Panagou et al. (2020)",
             "title": "Shallow Water Bathymetry Derived from Green Wavelength Terrestrial Laser Scanner",
             "author": "Panagou et al.",
@@ -53786,23 +52226,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Rainey, R. C. T. (2007)",
-            "title": "Weak or strong nonlinearity: the vital issue",
-            "author": "Rainey, R. C. T.",
-            "year": 2007,
-            "filename": "Rainey_2007_Weak_Or_Strong_Nonlinearity_The_Vital-issue.pdf",
-            "journal": "Journal of Engineering Mathematics",
-            "doi": "10.1007/s10665-006-9126-2",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "ocean-waves",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Rätsep et al. (2020)",
             "title": "Using Spectrograms from Underwater Total Pressure Sensors to Detect Passing Vessels in a Coastal Environment",
             "author": "Rätsep et al.",
@@ -53866,23 +52289,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Ridder et al (2023)",
-            "title": "Validation and practical application of nonlinear wave decomposition methods for irregular waves_hightlighted",
-            "author": "Ridder et al",
-            "year": 2023,
-            "filename": "Ridder et al (2023)_Validation and practical application of nonlinear wave decomposition methods for irregular waves_hightlighted.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "comparison",
-              "irregular-waves",
-              "linear",
-              "nonlinear",
-              "regular-waves"
-            ]
-          },
-          {
             "name": "de Ridder et al. (2021)",
             "title": "Efficient two-layer non-hydrostatic wave model with accurate dispersive behaviour",
             "author": "de Ridder et al.",
@@ -53913,20 +52319,6 @@ const LIBRARY_DATA = {
               "regular-waves",
               "spectral-analysis",
               "wave-groups"
-            ]
-          },
-          {
-            "name": "Rienecker & Fenton (1981)",
-            "title": "A Fourier approximation method for steady water waves_highlighted",
-            "author": "Rienecker & Fenton",
-            "year": 1981,
-            "filename": "Rienecker & Fenton (1981)_A Fourier approximation method for steady water waves_highlighted.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "ocean-waves",
-              "spectral-analysis"
             ]
           },
           {
@@ -54233,23 +52625,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Sharma et al. (1979)",
-            "title": "Second-Order Directional Seas and Associated Wave Forces",
-            "author": "Sharma et al.",
-            "year": 1979,
-            "filename": "Sharma_Dean_1981_Second-Order_Directional_Seas_and_Associated_Wave_Forces.pdf",
-            "journal": "Offshore Technology Conference",
-            "doi": "10.4043/3645-ms",
-            "hasAnnotation": false,
-            "tags": [
-              "directional-spreading",
-              "second-order",
-              "varying-depth",
-              "wave-forces",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Sheikh et al. (2003)",
             "title": "The Interaction Between Steep Waves and a Vertical, Surface-Piercing Column",
             "author": "Sheikh et al.",
@@ -54438,27 +52813,6 @@ const LIBRARY_DATA = {
             "filename": "Spinneken_&_Swan_2009_Second-order wave maker theory using force-feedback control. Part I.pdf",
             "journal": "Ocean Engineering",
             "doi": "10.1016/j.oceaneng.2009.01.019",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "experimental",
-              "offshore",
-              "regular-waves",
-              "second-order",
-              "varying-depth",
-              "wave-forces",
-              "wave-generation",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Spinneken et al. (2009)",
-            "title": "Second-order wave maker theory using force-feedback control. Part II: An experimental verification of regular wave generation",
-            "author": "Spinneken et al.",
-            "year": 2009,
-            "filename": "Spinneken_&_Swan_2009_Second-order wave maker theory using force-feedback control. Part II.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2009.01.007",
             "hasAnnotation": false,
             "tags": [
               "analytical",
@@ -54664,21 +53018,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "varying-depth",
               "wave-propagation"
-            ]
-          },
-          {
-            "name": "statistics-of-rogue-waves-in-isotropic-wave-fields",
-            "title": "statistics-of-rogue-waves-in-isotropic-wave-fields",
-            "author": "",
-            "year": 0,
-            "filename": "statistics-of-rogue-waves-in-isotropic-wave-fields.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves",
-              "rogue-waves",
-              "statistical"
             ]
           },
           {
@@ -55005,23 +53344,6 @@ const LIBRARY_DATA = {
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2020.103651",
             "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "intermediate-depth",
-              "shallow-water",
-              "statistical",
-              "wave-propagation"
-            ]
-          },
-          {
-            "name": "Tayfun et al. (2020)",
-            "title": "Distribution of sea-surface elevations in intermediate and shallow water depths",
-            "author": "Tayfun et al.",
-            "year": 2020,
-            "filename": "Tayfun, Alkhalidi_2020_Distribution of sea-surface elevations in intermediate and shallow water depths.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2020.103651",
-            "hasAnnotation": false,
             "tags": [
               "coastal",
               "intermediate-depth",
@@ -56110,40 +54432,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Zhang et al. (2023)",
-            "title": "Equilibration process of out-of-equilibrium sea-states induced by strong depth variation Evolution of coastal wave spectrum and representative parameters",
-            "author": "Zhang et al.",
-            "year": 2023,
-            "filename": "Zhang et al. (2023)_Equilibration process of out-of-equilibrium sea-states induced by strong depth variation Evolution of coastal wave spectrum and representative parameters.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "spectral-analysis",
-              "varying-depth",
-              "wave-propagation",
-              "wave-spectrum"
-            ]
-          },
-          {
-            "name": "Zhang et al. (2023)",
-            "title": "Equilibration process of out-of-equilibrium sea-states induced by strong depth variation_Evolution of coastal wave statistics",
-            "author": "Zhang et al.",
-            "year": 2023,
-            "filename": "Zhang et al. (2023)_Equilibration process of out-of-equilibrium sea-states induced by strong depth variation_Evolution of coastal wave statistics.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "ocean-waves",
-              "statistical",
-              "varying-depth",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Zhang et al. (2022)",
             "title": "Equilibration process of out-of-equilibrium sea-states induced by strong depth variation: Evolution of coastal wave spectrum and representative parameters",
             "author": "Zhang et al.",
@@ -56321,23 +54609,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Andersen and Eldrup (2021)",
-            "title": "Estimation of incident and reflected components in nonlinear regular waves",
-            "author": "Andersen and Eldrup",
-            "year": 2021,
-            "filename": "Andersen and Eldrup (2021)_Estimation of incident and reflected components in nonlinear regular waves.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "linear",
-              "nonlinear",
-              "ocean-waves",
-              "regular-waves",
-              "wave-reflection"
-            ]
-          },
-          {
             "name": "Baldock et al. (1999)",
             "title": "Separation of incident and reflected waves over sloping bathymetry",
             "author": "Baldock et al.",
@@ -56351,23 +54622,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "varying-depth",
               "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "(1999)",
-            "title": "Baldock, Simmonds_1999_Separation of incident and reflected waves over sloping bathymetry-annotated",
-            "author": "",
-            "year": 1999,
-            "filename": "Baldock, Simmonds_1999_Separation of incident and reflected waves over sloping bathymetry-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "experimental",
-              "ocean-waves",
-              "spectral-analysis",
-              "varying-depth",
               "wave-reflection"
             ]
           },
@@ -56428,25 +54682,6 @@ const LIBRARY_DATA = {
             "title": "Estimation of Incident and Reflected Wave Trains in Highly Nonlinear Two-Dimensional Irregular Waves",
             "author": "Røge Eldrup et al.",
             "year": 2019,
-            "filename": "Eldrup and Lykke Andersen (2019)_Estimation of Incident and Reflected Wave Trains in Highly Nonlinear Two-Dimensional Irregular Waves.pdf",
-            "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
-            "doi": "10.1061/(asce)ww.1943-5460.0000497",
-            "hasAnnotation": false,
-            "tags": [
-              "irregular-waves",
-              "linear",
-              "nonlinear",
-              "offshore",
-              "regular-waves",
-              "wave-forces",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Røge Eldrup et al. (2019)",
-            "title": "Estimation of Incident and Reflected Wave Trains in Highly Nonlinear Two-Dimensional Irregular Waves",
-            "author": "Røge Eldrup et al.",
-            "year": 2019,
             "filename": "Eldrup et al. (2019)_Estimation of Incident and Reflected Wave Trains in Highly Nonlinear Two-Dimensional Irregular Waves-annotated.pdf",
             "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
             "doi": "10.1061/(asce)ww.1943-5460.0000497",
@@ -56458,23 +54693,6 @@ const LIBRARY_DATA = {
               "offshore",
               "regular-waves",
               "wave-forces",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Frigaard et al. (1995)",
-            "title": "A time-domain method for separating incident and reflected irregular waves",
-            "author": "Frigaard et al.",
-            "year": 1995,
-            "filename": "Frigaard, Brorsen_1995_A time-domain method for separating incident and reflected irregular waves-annotated.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/0378-3839(94)00035-v",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "irregular-waves",
-              "regular-waves",
-              "wave-propagation",
               "wave-reflection"
             ]
           },
@@ -56541,23 +54759,6 @@ const LIBRARY_DATA = {
             "hasAnnotation": true,
             "tags": [
               "directional-spreading",
-              "experimental",
-              "ocean-waves",
-              "spectral-analysis",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "(1993)",
-            "title": "Hughes_1993_Laboratory wave reflection analysis using co-located gages-annotated",
-            "author": "",
-            "year": 1993,
-            "filename": "Hughes_1993_Laboratory wave reflection analysis using co-located gages-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "analysis",
               "experimental",
               "ocean-waves",
               "spectral-analysis",
@@ -56637,23 +54838,6 @@ const LIBRARY_DATA = {
             "title": "Decomposition of incident and reflected higher harmonic waves using four wave gauges",
             "author": "Lin et al.",
             "year": 2004,
-            "filename": "Lin & Huang (2004)_Decomposition of incident and reflected higher harmonic waves using four wave gauges-annotated.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2004.04.004",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "experimental",
-              "ocean-waves",
-              "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Lin et al. (2004)",
-            "title": "Decomposition of incident and reflected higher harmonic waves using four wave gauges",
-            "author": "Lin et al.",
-            "year": 2004,
             "filename": "Lin & Huang (2004)_Decomposition of incident and reflected higher harmonic waves using four wave gauges-annotated_highlighted.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2004.04.004",
@@ -56674,41 +54858,6 @@ const LIBRARY_DATA = {
             "filename": "Liu & Li (2016)_Resolution of Incident and Reflected Components of Nonlinear Regular Waves.pdf",
             "journal": "Coastal Engineering Journal",
             "doi": "10.1142/s0578563416500121",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "linear",
-              "nonlinear",
-              "regular-waves",
-              "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "(2013)",
-            "title": "Liu, Li_2013_Wave reflection and transmission by porous breakwaters A new analytical solution-annotated",
-            "author": "",
-            "year": 2013,
-            "filename": "Liu, Li_2013_Wave reflection and transmission by porous breakwaters A new analytical solution-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "analytical",
-              "breakwater",
-              "numerical",
-              "ocean-waves",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Lykke Andersen et al. (2021)",
-            "title": "Estimation of incident and reflected components in nonlinear regular waves over sloping foreshores",
-            "author": "Lykke Andersen et al.",
-            "year": 2021,
-            "filename": "Lykke Andersen & Eldrup (2021)_Estimation of incident and reflected components in nonlinear regular waves over sloping foreshores.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2021.103974",
             "hasAnnotation": false,
             "tags": [
               "coastal",
@@ -56741,24 +54890,6 @@ const LIBRARY_DATA = {
             "title": "Estimation of incident and reflected components in highly nonlinear regular waves",
             "author": "Lykke Andersen et al.",
             "year": 2017,
-            "filename": "Lykke Andersen, Eldrup, Frigaard - 2017 - Estimation of incident and reflected components in highly nonlinear regular waves.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2016.08.013",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "linear",
-              "nonlinear",
-              "regular-waves",
-              "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Lykke Andersen et al. (2017)",
-            "title": "Estimation of incident and reflected components in highly nonlinear regular waves",
-            "author": "Lykke Andersen et al.",
-            "year": 2017,
             "filename": "Lykke Andersen, Eldrup, Frigaard_2017_Estimation of incident and reflected components in highly nonlinear regular waves-annotated.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2016.08.013",
@@ -56769,41 +54900,6 @@ const LIBRARY_DATA = {
               "nonlinear",
               "regular-waves",
               "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Lykke Andersen et al. (2021)",
-            "title": "Estimation of incident and reflected components in nonlinear regular waves over sloping foreshores",
-            "author": "Lykke Andersen et al.",
-            "year": 2021,
-            "filename": "Lykke Andersen, Eldrup_2021_Estimation of incident and reflected components in nonlinear regular waves over sloping foreshores-annotated.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2021.103974",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "linear",
-              "nonlinear",
-              "regular-waves",
-              "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Lykke Andersen et al. (2019)",
-            "title": "Separation of Long-Crested Nonlinear Bichromatic Waves into Incident and Reflected Components",
-            "author": "Lykke Andersen et al.",
-            "year": 2019,
-            "filename": "Lykke-Andersen et al. (2019)_Separation of Long-Crested Nonlinear Bichromatic Waves into Incident and Reflected.pdf",
-            "journal": "Journal of Marine Science and Engineering",
-            "doi": "10.3390/jmse7020039",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "linear",
-              "nonlinear",
-              "ocean-waves",
               "wave-reflection"
             ]
           },
@@ -56895,23 +54991,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Nallayarasu et al. (1995)",
-            "title": "Estimation of incident and reflected waves in regular wave experiments",
-            "author": "Nallayarasu et al.",
-            "year": 1995,
-            "filename": "Nallayarasu et al. (1995)_Estimation of incident and reflected waves in regular wave experiments.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "ocean-waves",
-              "regular-waves",
-              "spectral-analysis",
-              "wave-reflection"
-            ]
-          },
-          {
             "name": "Ni et al. (2021)",
             "title": "Bragg resonant reflection of water waves by a Bragg breakwater with porous trapezoidal bars on a sloping permeable seabed",
             "author": "Ni et al.",
@@ -56950,23 +55029,6 @@ const LIBRARY_DATA = {
             "title": "A general framework for wave separation in the frequency domain",
             "author": "Padilla et al.",
             "year": 2020,
-            "filename": "Padilla & Alsina (2020)_A general framework for wave separation in the frequency domain.pdf",
-            "journal": "Coastal Engineering",
-            "doi": "10.1016/j.coastaleng.2020.103686",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "ocean-waves",
-              "spectral-analysis",
-              "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "Padilla et al. (2020)",
-            "title": "A general framework for wave separation in the frequency domain",
-            "author": "Padilla et al.",
-            "year": 2020,
             "filename": "Padilla & Alsina (2020)_A general framework for wave separation in the frequency domain_notes.pdf",
             "journal": "Coastal Engineering",
             "doi": "10.1016/j.coastaleng.2020.103686",
@@ -56976,40 +55038,6 @@ const LIBRARY_DATA = {
               "ocean-waves",
               "spectral-analysis",
               "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "(2020)",
-            "title": "Padilla, Alsina_2020_A general framework for wave separation in the frequency domain-annotated",
-            "author": "",
-            "year": 2020,
-            "filename": "Padilla, Alsina_2020_A general framework for wave separation in the frequency domain-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "experimental",
-              "ocean-waves",
-              "spectral-analysis",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "(2022)",
-            "title": "Padilla, Alsina_2022_Assessment and improvement of the wave generation accuracy using a wave separation method-annotated",
-            "author": "",
-            "year": 2022,
-            "filename": "Padilla, Alsina_2022_Assessment and improvement of the wave generation accuracy using a wave separation method-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "comparison",
-              "experimental",
-              "ocean-waves",
-              "wave-generation",
               "wave-reflection"
             ]
           },
@@ -57132,23 +55160,6 @@ const LIBRARY_DATA = {
               "experimental",
               "ocean-waves",
               "wave-propagation",
-              "wave-reflection"
-            ]
-          },
-          {
-            "name": "(2008)",
-            "title": "Zanuttigh, van der Meer_2008_Wave reflection from coastal structures in design conditions-annotated",
-            "author": "",
-            "year": 2008,
-            "filename": "Zanuttigh, van der Meer_2008_Wave reflection from coastal structures in design conditions-annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": [
-              "coastal",
-              "experimental",
-              "ocean-waves",
-              "wave-forces",
               "wave-reflection"
             ]
           },
@@ -57427,23 +55438,6 @@ const LIBRARY_DATA = {
               "spectral-analysis",
               "wave-forces",
               "wave-spectrum"
-            ]
-          },
-          {
-            "name": "Hasselmann et al. (1991)",
-            "title": "Field measurements of wave-induced pressure over wind-sea and swell",
-            "author": "Hasselmann et al.",
-            "year": 1991,
-            "filename": "Hasselmann et al. - 1973 - Measurements of Wind-Wave Growth and Swell Decay during the Joint North Sea Wave Project (JONSWAP).pdf",
-            "journal": "Journal of Fluid Mechanics",
-            "doi": "10.1017/s0022112091000848",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "field-data",
-              "swell",
-              "wave-spectrum",
-              "wind-waves"
             ]
           },
           {
@@ -57911,23 +55905,6 @@ const LIBRARY_DATA = {
             "title": "Regular, Irregular Waves and the Wave Spectrum",
             "author": "Young, Ian R.",
             "year": 2017,
-            "filename": "Young (2017)_Regular, Irregular Waves and the Wave Spectrum.pdf",
-            "journal": "Encyclopedia of Maritime and Offshore Engineering",
-            "doi": "10.1002/9781118476406.emoe078",
-            "hasAnnotation": false,
-            "tags": [
-              "irregular-waves",
-              "ocean-waves",
-              "regular-waves",
-              "spectral-analysis",
-              "wave-spectrum"
-            ]
-          },
-          {
-            "name": "Young, Ian R. (2017)",
-            "title": "Regular, Irregular Waves and the Wave Spectrum",
-            "author": "Young, Ian R.",
-            "year": 2017,
             "filename": "Young (2017)_Regular, Irregular Waves and the Wave Spectrum_v2.pdf",
             "journal": "Encyclopedia of Maritime and Offshore Engineering",
             "doi": "10.1002/9781118476406.emoe078",
@@ -58036,24 +56013,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "(2015)",
-            "title": "Adcock, Taylor, Draper_2015_Nonlinear dynamics of wave-groups in random seas Unexpected walls of water in the open ocean",
-            "author": "",
-            "year": 2015,
-            "filename": "Adcock, Taylor, Draper_2015_Nonlinear dynamics of wave-groups in random seas Unexpected walls of water in the open ocean.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "deep-water",
-              "linear",
-              "nonlinear",
-              "random-waves",
-              "rogue-waves",
-              "wave-groups"
-            ]
-          },
-          {
             "name": "Fedele et al. (2011)",
             "title": "Space-Time Extremes in Sea Storms",
             "author": "Fedele et al.",
@@ -58143,23 +56102,6 @@ const LIBRARY_DATA = {
             "author": "Cattrell et al.",
             "year": 2019,
             "filename": "Cattrell et al. (2018)_Seasonal intensification and trends of rogue wave events on the US western seaboard.pdf",
-            "journal": "Scientific Reports",
-            "doi": "10.1038/s41598-019-41099-z",
-            "hasAnnotation": false,
-            "tags": [
-              "extreme-events",
-              "nonlinear",
-              "ocean-waves",
-              "rogue-waves",
-              "statistical"
-            ]
-          },
-          {
-            "name": "Cattrell et al. (2019)",
-            "title": "Seasonal intensification and trends of rogue wave events on the US western seaboard",
-            "author": "Cattrell et al.",
-            "year": 2019,
-            "filename": "Cattrell et al. (2019)_Seasonal intensifcation and trends of rogue wave events on the US western seaboard.pdf",
             "journal": "Scientific Reports",
             "doi": "10.1038/s41598-019-41099-z",
             "hasAnnotation": false,
@@ -58635,23 +56577,6 @@ const LIBRARY_DATA = {
             "author": "Luxmoore et al.",
             "year": 2019,
             "filename": "Luxmoore et al. (2019)_On kurtosis and extreme waves in crossing directional seas_a labaratory experiment.pdf",
-            "journal": "Journal of Fluid Mechanics",
-            "doi": "10.1017/jfm.2019.575",
-            "hasAnnotation": false,
-            "tags": [
-              "analytical",
-              "directional-spreading",
-              "experimental",
-              "extreme-events",
-              "rogue-waves"
-            ]
-          },
-          {
-            "name": "Luxmoore et al. (2019)",
-            "title": "On kurtosis and extreme waves in crossing directional seas: a laboratory experiment",
-            "author": "Luxmoore et al.",
-            "year": 2019,
-            "filename": "Luxmoore et al. (2019)_On kurtosis and extreme waves in crossing directional seas_A laboratory experiment.pdf",
             "journal": "Journal of Fluid Mechanics",
             "doi": "10.1017/jfm.2019.575",
             "hasAnnotation": false,
@@ -59344,23 +57269,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Fitzgerald et al. (2014)",
-            "title": "Phase manipulation and the harmonic components of ringing forces on a surface-piercing column",
-            "author": "Fitzgerald et al.",
-            "year": 2014,
-            "filename": "Fitzgerald et al. - 2014 - Phase manipulation and the harmonic components of ringing forces on a surface-piercing column-annotated.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2013.0847",
-            "hasAnnotation": true,
-            "tags": [
-              "experimental",
-              "ocean-waves",
-              "vertical-cylinder",
-              "wave-forces",
-              "wave-generation"
-            ]
-          },
-          {
             "name": "Jang and Sung (2020)",
             "title": "New nonlinear theory for a piston-type wavemaker_The classical Boussinesq equations",
             "author": "Jang and Sung",
@@ -59480,43 +57388,6 @@ const LIBRARY_DATA = {
               "spectral-analysis",
               "wave-generation",
               "wave-spectrum"
-            ]
-          },
-          {
-            "name": "(2021)",
-            "title": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their effect on the wave spectrum",
-            "author": "",
-            "year": 2021,
-            "filename": "Pierella, Bredmose, Dixen_2021_Generation of highly nonlinear irregular waves in a wave flume experiment Spurious harmonics and their effect on the wave spectrum.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "irregular-waves",
-              "linear",
-              "nonlinear",
-              "regular-waves",
-              "spectral-analysis",
-              "wave-generation",
-              "wave-spectrum"
-            ]
-          },
-          {
-            "name": "Fitzgerald et al. (2014)",
-            "title": "Phase manipulation and the harmonic components of ringing forces on a surface-piercing column",
-            "author": "Fitzgerald et al.",
-            "year": 2014,
-            "filename": "rspa.2013.0847_Fitzerald et al. (2014)_Phase manipulation and the harmonic components of ringing forces on a surface-piercing column.pdf",
-            "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
-            "doi": "10.1098/rspa.2013.0847",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "ocean-waves",
-              "vertical-cylinder",
-              "wave-forces",
-              "wave-generation"
             ]
           },
           {
@@ -59643,23 +57514,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Baldock (2004)",
-            "title": "Dynamics of a Transient Wave Group Breaking on a Beach_v2",
-            "author": "Baldock",
-            "year": 2004,
-            "filename": "Baldock (2004)_Dynamics of a Transient Wave Group Breaking on a Beach_v2.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "numerical",
-              "ocean-waves",
-              "wave-breaking",
-              "wave-groups"
-            ]
-          },
-          {
             "name": "Baldock et al. (1994)",
             "title": "Numerical calculations of large transient water waves",
             "author": "Baldock et al.",
@@ -59702,21 +57556,6 @@ const LIBRARY_DATA = {
             "doi": "",
             "hasAnnotation": false,
             "tags": [
-              "ocean-waves"
-            ]
-          },
-          {
-            "name": "Bateman et al. (2001)",
-            "title": "On the Efficient Numerical Simulation of Directionally Spread Surface Water Waves",
-            "author": "Bateman et al.",
-            "year": 2001,
-            "filename": "Bateman, Swan and Taylor (2001)_On the Efficient Numerical Simulation of Directionally Spread Surface Water Waves.pdf",
-            "journal": "Journal of Computational Physics",
-            "doi": "10.1006/jcph.2001.6906",
-            "hasAnnotation": false,
-            "tags": [
-              "directional-spreading",
-              "numerical",
               "ocean-waves"
             ]
           },
@@ -60068,23 +57907,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Jang, T.S. (2017)",
-            "title": "A new dispersion-relation preserving method for integrating the classical Boussinesq equation",
-            "author": "Jang, T.S.",
-            "year": 2017,
-            "filename": "Jang (2017)_A new dispersion-relation preserving method for integrating the classical Boussinesq equation_2.pdf",
-            "journal": "Communications in Nonlinear Science and Numerical Simulation",
-            "doi": "10.1016/j.cnsns.2016.06.025",
-            "hasAnnotation": false,
-            "tags": [
-              "boussinesq",
-              "modelling",
-              "numerical",
-              "ocean-waves",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Jang, T.S. (2018)",
             "title": "An improvement of convergence of a dispersion-relation preserving method for the classical Boussinesq equation",
             "author": "Jang, T.S.",
@@ -60311,20 +58133,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Masterton and Swan (2008)",
-            "title": "On the accurate and efficient calibration of a 3D wave basin",
-            "author": "Masterton and Swan",
-            "year": 2008,
-            "filename": "Masterton and Swan (2008)_On the accurate and efficient calibration of a 3D wave basin.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "ocean-waves"
-            ]
-          },
-          {
             "name": "Mean et al. (2020)",
             "title": "Level-set methods applied to the kinematic wave equation governing surface water flows",
             "author": "Mean et al.",
@@ -60495,25 +58303,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Stagonas et al. (2018)",
-            "title": "Simulating Breaking Focused Waves in CFD: Methodology for Controlled Generation of First and Second Order",
-            "author": "Stagonas et al.",
-            "year": 2018,
-            "filename": "Stagonas et al. (2018)_Simulating Breaking Focused Waves in CFD_Methodology for Controlled Generation of First and Second Order.pdf",
-            "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
-            "doi": "10.1061/(asce)ww.1943-5460.0000420",
-            "hasAnnotation": false,
-            "tags": [
-              "numerical",
-              "offshore",
-              "second-order",
-              "wave-breaking",
-              "wave-forces",
-              "wave-generation",
-              "wave-groups"
-            ]
-          },
-          {
             "name": "Sheikh et al. (2003)",
             "title": "The Interaction Between Steep Waves and a Vertical, Surface-Piercing Column",
             "author": "Sheikh et al.",
@@ -60527,26 +58316,6 @@ const LIBRARY_DATA = {
               "offshore",
               "vertical-cylinder",
               "wave-forces"
-            ]
-          },
-          {
-            "name": "Tran et al. (2023)",
-            "title": "Development of novel parametric wave model for irregular wave height transformation",
-            "author": "Tran et al.",
-            "year": 2023,
-            "filename": "Tran et al. (2023)_Development of novel parametric wave model for irregular wave height transformation.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2023.114493",
-            "hasAnnotation": false,
-            "tags": [
-              "irregular-waves",
-              "modelling",
-              "numerical",
-              "offshore",
-              "regular-waves",
-              "wave-forces",
-              "wave-height-distribution",
-              "wave-shoaling"
             ]
           },
           {
@@ -60673,24 +58442,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Zhang et al. (2018)",
-            "title": "STATISTICS OF EXTREME WAVES IN COASTAL WATERS: LARGE SCALE EXPERIMENTS AND ADVANCED NUMERICAL SIMULATIONS",
-            "author": "Zhang et al.",
-            "year": 2018,
-            "filename": "Zhang (2019)_Statistics of Extreme Waves in Coastal Waters_Large Scale Experiments and Advanced Numerical_Simulations.pdf",
-            "journal": "Coastal Engineering Proceedings",
-            "doi": "10.9753/icce.v36.waves.86",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "experimental",
-              "extreme-events",
-              "numerical",
-              "statistical",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Zhang and Li (2014)",
             "title": "Design formulas of transmission coefficients for permeable breakwaters",
             "author": "Zhang and Li",
@@ -60721,24 +58472,6 @@ const LIBRARY_DATA = {
               "modelling",
               "numerical",
               "offshore"
-            ]
-          },
-          {
-            "name": "Zhang et al. (2018)",
-            "title": "STATISTICS OF EXTREME WAVES IN COASTAL WATERS: LARGE SCALE EXPERIMENTS AND ADVANCED NUMERICAL SIMULATIONS",
-            "author": "Zhang et al.",
-            "year": 2018,
-            "filename": "Zhang et al. (2019)_Statistics of Extreme Waves in Coastal Waters_Large Scale Experiments and Advanced Numerical Simulations.pdf",
-            "journal": "Coastal Engineering Proceedings",
-            "doi": "10.9753/icce.v36.waves.86",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "experimental",
-              "extreme-events",
-              "numerical",
-              "statistical",
-              "wave-propagation"
             ]
           },
           {
@@ -61316,23 +59049,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Longuet-Higgins and Stewart (1964)",
-            "title": "Radiation stresses in water waves; a physical discussion, with applications",
-            "author": "Longuet-Higgins and Stewart",
-            "year": 1964,
-            "filename": "Longuet-Higgins and Stewart (1964)_Radiation stresses in water waves; a physical discussion, with applications.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "modelling",
-              "ocean-waves",
-              "offshore",
-              "wave-forces",
-              "wave-setup"
-            ]
-          },
-          {
             "name": "Lucio et al. (2020)",
             "title": "Stochastic modeling of long-term wave climate based on weather patterns for coastal structures applications",
             "author": "Lucio et al.",
@@ -61648,23 +59364,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Topliss et al. (1993)",
-            "title": "Pressure Oscillations During Wave Impact on Vertical Walls",
-            "author": "Topliss et al.",
-            "year": 1993,
-            "filename": "Topliss et al. (1992)_(Book Chapter)_Pressure Oscillations during Wave Impact on Vertical Walls.pdf",
-            "journal": "Coastal Engineering 1992",
-            "doi": "10.1061/9780872629332.124",
-            "hasAnnotation": false,
-            "tags": [
-              "coastal",
-              "ocean-waves",
-              "offshore",
-              "wave-forces",
-              "wave-propagation"
-            ]
-          },
-          {
             "name": "Tseng et al. (2020)",
             "title": "Bragg Reflections of Oblique Water Waves by Periodic Surface-Piercing and Submerged Breakwaters",
             "author": "Tseng et al.",
@@ -61886,25 +59585,6 @@ const LIBRARY_DATA = {
               "analysis",
               "coastal",
               "ocean-waves"
-            ]
-          },
-          {
-            "name": "(2020)",
-            "title": "Comments on \"Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone\" by Abroug et al.",
-            "author": "",
-            "year": 2020,
-            "filename": "Abroug et al. (2020)_Laboratory study of non-linear wave-wave interactions of extreme focused waves in the nearshore zone.pdf",
-            "journal": "",
-            "doi": "10.5194/nhess-2020-209-rc2",
-            "hasAnnotation": false,
-            "tags": [
-              "experimental",
-              "extreme-events",
-              "linear",
-              "nonlinear",
-              "shallow-water",
-              "wave-groups",
-              "wave-interactions"
             ]
           },
           {
@@ -62886,24 +60566,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Elsayed, Mohamed A.K. (2006)",
-            "title": "Wavelet bicoherence analysis of wind–wave interaction",
-            "author": "Elsayed, Mohamed A.K.",
-            "year": 2006,
-            "filename": "Powers - 1998 - Wavelet-Based Bicoherence Analysis of Irregular Wave Data.pdf",
-            "journal": "Ocean Engineering",
-            "doi": "10.1016/j.oceaneng.2005.04.013",
-            "hasAnnotation": false,
-            "tags": [
-              "analysis",
-              "offshore",
-              "spectral-analysis",
-              "wave-forces",
-              "wave-interactions",
-              "wind-waves"
-            ]
-          },
-          {
             "name": "(2022)",
             "title": "GSP with Matlab: The GraSP Toolbox",
             "author": "",
@@ -63001,21 +60663,6 @@ const LIBRARY_DATA = {
             "name": "Textbooks",
             "children": [
               {
-                "name": "Andersen, Eldrup, Frigaard (2020)",
-                "title": "Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves",
-                "author": "Andersen, Eldrup, Frigaard",
-                "year": 2020,
-                "filename": "Andersen, Eldrup, Frigaard - 2020 - Influence of Spurious Waves on the Performance of Active Absorption Systems in Oblique Waves.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference"
-                ]
-              },
-              {
                 "name": "Athanassoulis, Belibassakis (1999)",
                 "title": "A consistent coupled-mode theory for the propagation of small-amplitude water waves over variable b",
                 "author": "Athanassoulis, Belibassakis",
@@ -63078,39 +60725,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "baldock2",
-                "title": "baldock2",
-                "author": "",
-                "year": 0,
-                "filename": "baldock2.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference"
-                ]
-              },
-              {
-                "name": "DONGEREN et al. (2005)",
-                "title": "SHOALING AND SHORELINE DISSIPATION OF SUBHARMONIC GRAVITY WAVES",
-                "author": "DONGEREN et al.",
-                "year": 2005,
-                "filename": "Battjes - 2004 - Shoaling of subharmonic gravity waves.pdf",
-                "journal": "Coastal Engineering 2004",
-                "doi": "10.1142/9789812701916_0097",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "energy-dissipation",
-                  "infragravity-waves",
-                  "wave-propagation",
-                  "wave-shoaling"
-                ]
-              },
-              {
                 "name": "belibass2",
                 "title": "belibass2",
                 "author": "",
@@ -63123,25 +60737,6 @@ const LIBRARY_DATA = {
                   "book-chapter",
                   "ocean-waves",
                   "reference"
-                ]
-              },
-              {
-                "name": "Belibassakis et al. (2019)",
-                "title": "A Nonlinear Coupled-Mode Model for Waves Propagating in Vertically Sheared Currents in Variable Bathymetry—Collinear Waves and Currents",
-                "author": "Belibassakis et al.",
-                "year": 2019,
-                "filename": "Belibassakis_&_Touboul_2019[6183].pdf",
-                "journal": "Fluids",
-                "doi": "10.3390/fluids4020061",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "linear",
-                  "modelling",
-                  "nonlinear",
-                  "varying-depth",
-                  "wave-current",
-                  "wave-propagation"
                 ]
               },
               {
@@ -63280,24 +60875,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Christou et al. (2009)",
-                "title": "The reflection of nonlinear irregular surface water waves",
-                "author": "Christou et al.",
-                "year": 2009,
-                "filename": "Christou, Hague, Swan - 2009 - The reflection of nonlinear irregular surface water waves.pdf",
-                "journal": "Engineering Analysis with Boundary Elements",
-                "doi": "10.1016/j.enganabound.2008.10.005",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "irregular-waves",
-                  "linear",
-                  "nonlinear",
-                  "regular-waves",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "COOKER et al. (1997)",
                 "title": "Reflection of a high-amplitude solitary wave \n\nat a vertical wall",
                 "author": "COOKER et al.",
@@ -63384,25 +60961,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Draycott et al. (2016)",
-                "title": "The SPAIR method: Isolating incident and reflected directional wave spectra in multidirectional wave basins",
-                "author": "Draycott et al.",
-                "year": 2016,
-                "filename": "Draycott et al._2015_The SPAIR method Isolating incident and reflected directional wave spectra in multidirection.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2016.04.012",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "directional-spreading",
-                  "experimental",
-                  "spectral-analysis",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Elgar et al. (1994)",
                 "title": "Reflection of Ocean Surface Gravity Waves from a Natural Beach",
                 "author": "Elgar et al.",
@@ -63435,42 +60993,6 @@ const LIBRARY_DATA = {
                   "nonlinear",
                   "numerical",
                   "wave-propagation"
-                ]
-              },
-              {
-                "name": "Frigaard et al. (1995)",
-                "title": "A time-domain method for separating incident and reflected irregular waves",
-                "author": "Frigaard et al.",
-                "year": 1995,
-                "filename": "Frigaard, Brorsen - 1995 - A time-domain method for separating incident and reflected irregular waves.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/0378-3839(94)00035-v",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "irregular-waves",
-                  "regular-waves",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
-                "name": "Frigaard et al. (1995)",
-                "title": "A time-domain method for separating incident and reflected irregular waves",
-                "author": "Frigaard et al.",
-                "year": 1995,
-                "filename": "Frigaard, Peter Bak, Michael - 1993 - A Time-Domain Method for Separating Incident and Reflected Irregular Waves Frigaard , Peter Bak B.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/0378-3839(94)00035-v",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "irregular-waves",
-                  "regular-waves",
-                  "wave-propagation",
-                  "wave-reflection"
                 ]
               },
               {
@@ -63632,25 +61154,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Huang et al. (2003)",
-                "title": "Experiments on the reflection coefficients of a detached breakwater in a directional wave field",
-                "author": "Huang et al.",
-                "year": 2003,
-                "filename": "Huang et al. (2003)_Experiments on the reflection coefficients of a detached breakwater in a directional wave field.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/s0378-3839(02)00129-1",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "breakwater",
-                  "coastal",
-                  "directional-spreading",
-                  "experimental",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Huang, M.-C. (2004)",
                 "title": "Wave parameters and functions in wavelet analysis",
                 "author": "Huang, M.-C.",
@@ -63685,23 +61188,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Huang et al. (2002)",
-                "title": "A Study on the Determination of the Reflection Coefficient in a Directional Wave Field",
-                "author": "Huang et al.",
-                "year": 2002,
-                "filename": "Huang, Yim, Chou - 2001 - A study on the determination of the reflection coefficient in a directional wave field.pdf",
-                "journal": "Ocean Wave Measurement and Analysis (2001)",
-                "doi": "10.1061/40604(273)41",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "directional-spreading",
-                  "ocean-waves",
-                  "reference",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Hughes, Steven A. (1993)",
                 "title": "Laboratory wave reflection analysis using co-located gages",
                 "author": "Hughes, Steven A.",
@@ -63715,23 +61201,6 @@ const LIBRARY_DATA = {
                   "book-chapter",
                   "coastal",
                   "experimental",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
-                "name": "Inch et al. (2017)",
-                "title": "Correcting wave reflection estimates in the coastal zone",
-                "author": "Inch et al.",
-                "year": 2017,
-                "filename": "Inch et al. - 2017 - Correcting wave reflection estimates in the coastal zone.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2016.09.004",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "ocean-waves",
                   "wave-propagation",
                   "wave-reflection"
                 ]
@@ -63751,24 +61220,6 @@ const LIBRARY_DATA = {
                   "ocean-waves",
                   "wave-breaking",
                   "wave-propagation"
-                ]
-              },
-              {
-                "name": "Isaacson, Michael (1991)",
-                "title": "Measurement of Regular Wave Reflection",
-                "author": "Isaacson, Michael",
-                "year": 1991,
-                "filename": "Isaacson - 1991 - Measurement of regular wave reflection.pdf",
-                "journal": "Journal of Waterway, Port, Coastal, and Ocean Engineering",
-                "doi": "10.1061/(asce)0733-950x(1991)117:6(553)",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "field-data",
-                  "offshore",
-                  "regular-waves",
-                  "wave-forces",
-                  "wave-reflection"
                 ]
               },
               {
@@ -63836,23 +61287,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Klopman et al. (1999)",
-                "title": "Random Wave Measurements in Front of Reflective Structures",
-                "author": "Klopman et al.",
-                "year": 1999,
-                "filename": "Klopman et al. - 1999 - Random Wave Measurements in Front of Reflective Structures.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "field-data",
-                  "random-waves",
-                  "wave-forces",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Kuo et al. (2009)",
                 "title": "Using time-stack overlooking images to separate incident and reflected waves in wave flume",
                 "author": "Kuo et al.",
@@ -63884,40 +61318,6 @@ const LIBRARY_DATA = {
                   "modelling",
                   "numerical",
                   "ocean-waves"
-                ]
-              },
-              {
-                "name": "Li et al. (2012)",
-                "title": "Separation of free and bound harmonics in waves",
-                "author": "Li et al.",
-                "year": 2012,
-                "filename": "Li, Ting - 2012 - Separation of free and bound harmonics in waves.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2012.04.003",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "ocean-waves",
-                  "second-order",
-                  "wave-propagation"
-                ]
-              },
-              {
-                "name": "Lin et al. (2004)",
-                "title": "Decomposition of incident and reflected higher harmonic waves using four wave gauges",
-                "author": "Lin et al.",
-                "year": 2004,
-                "filename": "Lin, Huang - 2004 - Decomposition of incident and reflected higher harmonic waves using four wave gauges.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2004.04.004",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "ocean-waves",
-                  "wave-propagation",
-                  "wave-reflection"
                 ]
               },
               {
@@ -64006,44 +61406,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Ma et al. (2010)",
-                "title": "A new method for separation of 2D incident and reflected waves by the Morlet wavelet transform",
-                "author": "Ma et al.",
-                "year": 2010,
-                "filename": "Ma et al. - 2010 - A new method for separation of 2D incident and reflected waves by the Morlet wavelet transform.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2010.01.002",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "numerical",
-                  "spectral-analysis",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
-                "name": "Ma et al. (2011)",
-                "title": "Separation of obliquely incident and reflected irregular waves by the Morlet wavelet transform",
-                "author": "Ma et al.",
-                "year": 2011,
-                "filename": "Ma, Dong, Ma - 2011 - Separation of obliquely incident and reflected irregular waves by the Morlet wavelet transform.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2011.03.014",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "irregular-waves",
-                  "numerical",
-                  "regular-waves",
-                  "spectral-analysis",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Madsen et al. (1992)",
                 "title": "A new form of the Boussinesq equations with improved linear dispersion characteristics. Part 2. A slowly-varying bathymetry",
                 "author": "Madsen et al.",
@@ -64096,42 +61458,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Mansard et al. (1980)",
-                "title": "The Measurement of Incident and Reflected Spectra Using a Least Squares Method",
-                "author": "Mansard et al.",
-                "year": 1980,
-                "filename": "Mansard, Funke - 1980 - The Measurement of Incident and Reflected Spectra Using a Least Squares Method.pdf",
-                "journal": "Coastal Engineering 1980",
-                "doi": "10.1061/9780872622647.008",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "field-data",
-                  "spectral-analysis",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
-                "name": "Martins et al. (2017)",
-                "title": "The influence of swash-based reflection on surf zone hydrodynamics: a wave-by-wave approach",
-                "author": "Martins et al.",
-                "year": 2017,
-                "filename": "Martins et al. - 2017 - The influence of swash-based reflection on surf zone hydrodynamics a wave-by-wave approach.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2017.01.006",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "surf-zone",
-                  "wave-interactions",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Massel (2001)",
                 "title": "Wavelet analysis for processing of ocean surface wave records",
                 "author": "Massel",
@@ -64146,22 +61472,6 @@ const LIBRARY_DATA = {
                   "ocean-waves",
                   "reference",
                   "spectral-analysis"
-                ]
-              },
-              {
-                "name": "Medina (2001)",
-                "title": "ESTIMATION OF INCIDENT AND REFLECTED WAVES USING SIMULATED ANNEALING",
-                "author": "Medina",
-                "year": 2001,
-                "filename": "Medina - 2001 - ESTIMATION OF INCIDENT AND REFLECTED WAVES USING SIMULATED ANNEALING.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "wave-reflection"
                 ]
               },
               {
@@ -64455,41 +61765,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Romolo et al. (2008)",
-                "title": "Mechanics of nonlinear random wave groups interacting with a vertical wall",
-                "author": "Romolo et al.",
-                "year": 2008,
-                "filename": "Romolo, Arena - 2008 - Mechanics of nonlinear random wave groups interacting with a vertical wall.pdf",
-                "journal": "Physics of Fluids",
-                "doi": "10.1063/1.2890474",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "linear",
-                  "nonlinear",
-                  "random-waves",
-                  "wave-groups"
-                ]
-              },
-              {
-                "name": "Sergeeva et al. (2011)",
-                "title": "Nonlinear random wave field in shallow water: variable Korteweg-de Vries framework",
-                "author": "Sergeeva et al.",
-                "year": 2011,
-                "filename": "Sergeeva, Pelinovsky, Talipova - 2011 - Nonlinear random wave field in shallow water Variable Korteweg-de Vries framework.pdf",
-                "journal": "Natural Hazards and Earth System Sciences",
-                "doi": "10.5194/nhess-11-323-2011",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "kdv",
-                  "linear",
-                  "nonlinear",
-                  "random-waves",
-                  "shallow-water"
-                ]
-              },
-              {
                 "name": "Spell et al. (1996)",
                 "title": "Hybrid wave model for unidirectional irregular waves—part II. Comparison with laboratory measurements",
                 "author": "Spell et al.",
@@ -64526,23 +61801,6 @@ const LIBRARY_DATA = {
                   "ocean-waves",
                   "varying-depth",
                   "wave-propagation"
-                ]
-              },
-              {
-                "name": "Suh, Park, Park (2001)",
-                "title": "Separation of incident and reflected waves in wave-current flumes",
-                "author": "Suh, Park, Park",
-                "year": 2001,
-                "filename": "Suh, Park, Park - 2001 - Separation of incident and reflected waves in wave-current flumes.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "experimental",
-                  "wave-current",
-                  "wave-interactions",
-                  "wave-reflection"
                 ]
               },
               {
@@ -64609,23 +61867,6 @@ const LIBRARY_DATA = {
                   "ocean-waves",
                   "reference",
                   "spectral-analysis"
-                ]
-              },
-              {
-                "name": "van Dongeren et al. (2007)",
-                "title": "Shoaling and shoreline dissipation of low-frequency waves",
-                "author": "van Dongeren et al.",
-                "year": 2007,
-                "filename": "van Dongeren et al. - 2007 - Shoaling and shoreline dissipation of low-frequency waves.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "energy-dissipation",
-                  "ocean-waves",
-                  "spectral-analysis",
-                  "wave-shoaling"
                 ]
               },
               {
@@ -64709,40 +61950,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Wu et al. (2016)",
-                "title": "On the distribution of wave height in shallow water",
-                "author": "Wu et al.",
-                "year": 2016,
-                "filename": "Wu_Randell_Christou_Ewans_&_Jonathan_On_the_distribution_of_wave_height_in_shallow_water.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2016.01.015",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "shallow-water",
-                  "statistical",
-                  "wave-height-distribution",
-                  "wave-propagation"
-                ]
-              },
-              {
-                "name": "(2020)",
-                "title": "Xiong et al. (2020) Variations of wave parameter statistics as influenced by water depth in",
-                "author": "",
-                "year": 2020,
-                "filename": "Xiong et al. (2020) Variations of wave parameter statistics as influenced by water depth in.pdf",
-                "journal": "",
-                "doi": "",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "ocean-waves",
-                  "reference",
-                  "statistical"
-                ]
-              },
-              {
                 "name": "Zhang et al. (1993)",
                 "title": "Effects of wavelength ratio on wave modelling",
                 "author": "Zhang et al.",
@@ -64760,23 +61967,6 @@ const LIBRARY_DATA = {
                 ]
               },
               {
-                "name": "Zanuttigh et al. (2010)",
-                "title": "Wave reflection in 3D conditions",
-                "author": "Zanuttigh et al.",
-                "year": 2010,
-                "filename": "Zanuttigh, Andersen - 2010 - Wave reflection in 3D conditions.pdf",
-                "journal": "Coastal Engineering",
-                "doi": "10.1016/j.coastaleng.2009.12.006",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "ocean-waves",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
                 "name": "Zanuttigh et al. (2008)",
                 "title": "Wave reflection from coastal structures in design conditions",
                 "author": "Zanuttigh et al.",
@@ -64791,44 +61981,6 @@ const LIBRARY_DATA = {
                   "wave-forces",
                   "wave-propagation",
                   "wave-reflection"
-                ]
-              },
-              {
-                "name": "Zelt et al. (1993)",
-                "title": "Estimating Incident and Reflected Wave Fields Using an Arbitrary Number of Wave Gauges",
-                "author": "Zelt et al.",
-                "year": 1993,
-                "filename": "Zelt, Skjelbreia - 1992 - Estimating Incident and Reflected Wave Fields Using an Arbitrary Number of Wave Gauges.pdf",
-                "journal": "Coastal Engineering 1992",
-                "doi": "10.1061/9780872629332.058",
-                "hasAnnotation": false,
-                "tags": [
-                  "book-chapter",
-                  "coastal",
-                  "ocean-waves",
-                  "wave-propagation",
-                  "wave-reflection"
-                ]
-              },
-              {
-                "name": "Zhang et al. (1996)",
-                "title": "Hybrid wave model for unidirectional irregular waves—part I. Theory and numerical scheme",
-                "author": "Zhang et al.",
-                "year": 1996,
-                "filename": "Zhang et al. - 1996 - Hybrid wave model for unidirectional irregular waves - Part I. Theory and numerical scheme.pdf",
-                "journal": "Applied Ocean Research",
-                "doi": "10.1016/0141-1187(96)00009-0",
-                "hasAnnotation": false,
-                "tags": [
-                  "analytical",
-                  "book-chapter",
-                  "directional-spreading",
-                  "irregular-waves",
-                  "modelling",
-                  "numerical",
-                  "offshore",
-                  "regular-waves",
-                  "unidirectional"
                 ]
               },
               {
@@ -64999,19 +62151,6 @@ const LIBRARY_DATA = {
             "filename": "Allgayer2007_precorrections.pdf",
             "journal": "Journal of Dairy Science",
             "doi": "10.3168/jds.s0022-0302(88)79542-9",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves"
-            ]
-          },
-          {
-            "name": "Archibald (2011)",
-            "title": "Archibald",
-            "author": "Archibald",
-            "year": 2011,
-            "filename": "Archibald2011.pdf",
-            "journal": "",
-            "doi": "",
             "hasAnnotation": false,
             "tags": [
               "ocean-waves"
@@ -65385,23 +62524,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "Groenendijk (1989)",
-            "title": "(MSc Thesis)_Shallow foreshore wave height statistics",
-            "author": "Groenendijk",
-            "year": 1989,
-            "filename": "Groenendijk (1989)_(MSc Thesis)_Shallow foreshore wave height statistics.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "book-chapter",
-              "shallow-water",
-              "statistical",
-              "thesis",
-              "wave-height-distribution"
-            ]
-          },
-          {
             "name": "Mase et al. (2004)",
             "title": "RANDOM WAVE RUNUP ON SHALLOW FORESHORE SEAWALLS",
             "author": "Mase et al.",
@@ -65429,22 +62551,6 @@ const LIBRARY_DATA = {
             "hasAnnotation": false,
             "tags": [
               "ocean-waves"
-            ]
-          },
-          {
-            "name": "Haley-J (2016)",
-            "title": "PhD-Thesis",
-            "author": "Haley-J",
-            "year": 2016,
-            "filename": "Haley-J-2016-PhD-Thesis.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "book-chapter",
-              "ocean-waves",
-              "reference",
-              "thesis"
             ]
           },
           {
@@ -65556,31 +62662,6 @@ const LIBRARY_DATA = {
             "tags": [
               "ocean-waves"
             ]
-          },
-          {
-            "name": "Karmpadakis_Thesis",
-            "title": "Karmpadakis_Thesis",
-            "author": "",
-            "year": 0,
-            "filename": "Karmpadakis_Thesis.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves",
-              "thesis"
-            ]
-          },
-          {
-            "name": "Karmpadakis_Thesis_annotated",
-            "title": "Karmpadakis_Thesis_annotated",
-            "author": "",
-            "year": 0,
-            "filename": "Karmpadakis_Thesis_annotated.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": true,
-            "tags": []
           },
           {
             "name": "Karmpadakis_Thesis_highlighted",
@@ -66325,19 +63406,6 @@ const LIBRARY_DATA = {
         "name": "Miscellaneous",
         "children": [
           {
-            "name": "Fitoussi, F. (2013)",
-            "title": "Généralités sur les traumatismes de la main de l’enfant",
-            "author": "Fitoussi, F.",
-            "year": 2013,
-            "filename": "1-s2.0-S0141118799000085-main.pdf",
-            "journal": "Chirurgie de la Main",
-            "doi": "10.1016/j.main.2013.02.017",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves"
-            ]
-          },
-          {
             "name": "Parker et al. (2012)",
             "title": "Exemplar Abstract for Roseovarius halocynthiae Kim et al. 2012, Aliiroseovarius halocynthiae (Kim et al. 2012) Park et al. 2015 emend. Hördt et al. 2020 and Pseudoroseovarius halocynthiae (Kim et al. 2012) Sun et al. 2015 emend. Hördt et al. 2020 pro synon. Aliiroseovarius halocynthiae (Kim et al. 2012) Park et al. 2015 emend. Hördt et al. 2020.",
             "author": "Parker et al.",
@@ -66606,19 +63674,6 @@ const LIBRARY_DATA = {
               "numerical",
               "ocean-waves",
               "wind-waves"
-            ]
-          },
-          {
-            "name": "(2025)",
-            "title": "Background",
-            "author": "",
-            "year": 2025,
-            "filename": "Lowish2_Background.pdf",
-            "journal": "Background",
-            "doi": "10.1136/bmjoq-2025-ihi2.background",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves"
             ]
           },
           {
@@ -66925,19 +63980,6 @@ const LIBRARY_DATA = {
             ]
           },
           {
-            "name": "UAK_paper_pre_subm_1",
-            "title": "UAK_paper_pre_subm_1",
-            "author": "",
-            "year": 0,
-            "filename": "UAK_paper_pre_subm_1.pdf",
-            "journal": "",
-            "doi": "",
-            "hasAnnotation": false,
-            "tags": [
-              "ocean-waves"
-            ]
-          },
-          {
             "name": "(2019)",
             "title": "Subm+copyr..",
             "author": "",
@@ -67169,9 +64211,9 @@ const LIBRARY_DATA = {
     ]
   },
   "stats": {
-    "totalPapers": 1185,
+    "totalPapers": 1176,
     "totalCategories": 17,
-    "totalAuthors": 1381,
+    "totalAuthors": 1374,
     "totalTags": 76,
     "yearRange": [
       1929,
