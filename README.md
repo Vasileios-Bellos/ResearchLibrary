@@ -56,6 +56,10 @@ d3.v7.min.js     D3.js v7 (included locally for offline use)
 README.md
 ```
 
+## Automation
+
+The statistics in the badges and text above are kept in sync with `data.js` via a [GitHub Action](.github/workflows/update-badges.yml) that runs automatically on every push.
+
 ## Acknowledgements
 
 Visualization patterns adapted from [D3 Observable Examples](https://observablehq.com/@d3) by [Mike Bostock](https://bost.ocks.org/mike/):
