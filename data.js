@@ -26902,6 +26902,21 @@ const LIBRARY_DATA = {
       }
     },
     {
+      "name": "Lykke Andersen",
+      "fullname": "Lykke Andersen, Thomas",
+      "count": 20,
+      "coauthors": {
+        "Nørgaard": 1,
+        "Eldrup": 11,
+        "Røge Eldrup": 2,
+        "Grønbech": 1,
+        "Jensen": 1,
+        "Clavero": 2,
+        "Frigaard": 2,
+        "Zanuttigh": 2
+      }
+    },
+    {
       "name": "Dong",
       "fullname": "Dong, Guo-hai",
       "count": 19,
@@ -27042,18 +27057,6 @@ const LIBRARY_DATA = {
         "Randell": 1,
         "Ewans": 1,
         "Jonathan": 1
-      }
-    },
-    {
-      "name": "Lykke Andersen",
-      "fullname": "Lykke Andersen, Thomas",
-      "count": 14,
-      "coauthors": {
-        "Nørgaard": 1,
-        "Eldrup": 11,
-        "Røge Eldrup": 2,
-        "Clavero": 2,
-        "Frigaard": 2
       }
     },
     {
@@ -28302,16 +28305,6 @@ const LIBRARY_DATA = {
       }
     },
     {
-      "name": "Andersen",
-      "fullname": "Andersen, Thomas Lykke",
-      "count": 6,
-      "coauthors": {
-        "Grønbech": 1,
-        "Jensen": 1,
-        "Zanuttigh": 2
-      }
-    },
-    {
       "name": "Frigaard",
       "fullname": "Frigaard, Peter",
       "count": 6,
@@ -28647,6 +28640,17 @@ const LIBRARY_DATA = {
         "Steenbergen": 1,
         "Quataert": 1,
         "Storlazzi": 1
+      }
+    },
+    {
+      "name": "Higuera",
+      "fullname": "Higuera, Pablo",
+      "count": 5,
+      "coauthors": {
+        "Lara": 2,
+        "Losada": 2,
+        "Stagonas": 3,
+        "Buldakov": 3
       }
     }
   ],
@@ -51945,7 +51949,7 @@ const LIBRARY_DATA = {
   "stats": {
     "totalPapers": 1336,
     "totalCategories": 17,
-    "totalAuthors": 1420,
+    "totalAuthors": 1419,
     "totalTags": 76,
     "yearRange": [
       1929,
